@@ -143,7 +143,7 @@ export function ExamRunner({ attemptId }: { attemptId: string }) {
   }, [state?.attempt.id, skill, audioStoreKey])
 
   useEffect(() => {
-    if (skill !== 'listening' || !state || audioComplete) return
+    if (skill !== 'listening' || !state || audioComplete || section?.status !== 'in_progress') return
     try {
       const saved = JSON.parse(localStorage.getItem(audioStoreKey) || '{}')
       if (saved.complete) return
@@ -173,7 +173,7 @@ export function ExamRunner({ attemptId }: { attemptId: string }) {
       }
     }
     attemptPlay()
-  }, [audioPart, skill, state?.attempt.id])
+  }, [audioPart, skill, state?.attempt.id, section?.status])
 
   async function handleSectionEnd(target: Skill, auto = false) {
     if (submittingRef.current) return
