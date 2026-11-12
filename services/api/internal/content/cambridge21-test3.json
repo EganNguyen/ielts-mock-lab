@@ -1,0 +1,1596 @@
+{
+  "id": "cambridge21-test3",
+  "title": "Cambridge IELTS 21 · Academic Test 3",
+  "module": "Academic",
+  "version": "cambridge21.1",
+  "listening": [
+    {
+      "id": "l1",
+      "number": 1,
+      "title": "A ferry booking to the Shetland Islands",
+      "context": "A telephone conversation about booking a ferry to the Shetland Islands.",
+      "groups": [
+        {
+          "id": "l1-g1",
+          "label": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "range": [
+            1,
+            10
+          ],
+          "layout": "notes",
+          "body": [
+            "# Ferry to Shetland Islands",
+            "• Name of ferry company: {{1}} Ferries",
+            "• Ferries depart seven times per {{2}} in summer",
+            "• Cost for four people with car: a little less than £{{3}}",
+            "• Cancellation policy: receive a {{4}} (if cancelled a month in advance)",
+            "## Advice",
+            "• Cabins: book one with a {{5}}",
+            "• luxury cabins have a TV",
+            "• Bring snacks and {{6}} for the children",
+            "• A {{7}} is required for the dog kennels",
+            "• Try to see {{8}} in the morning",
+            "• If time, visit {{9}} Castle",
+            "• The {{10}} restaurant in a nearby village is recommended"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 1",
+          "answer": "Northern",
+          "id": "l1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 2",
+          "answer": "week",
+          "id": "l1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 3",
+          "answer": "250",
+          "accepted": [
+            "two hundred and fifty"
+          ],
+          "id": "l1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 4",
+          "answer": "voucher",
+          "id": "l1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 5",
+          "answer": "window",
+          "id": "l1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 6",
+          "answer": "books",
+          "id": "l1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 7",
+          "answer": "blanket",
+          "id": "l1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 8",
+          "answer": "dolphins",
+          "id": "l1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 9",
+          "answer": "Drum",
+          "id": "l1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Ferry notes 10",
+          "answer": "Italian",
+          "id": "l1-q10"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "TAMMY",
+          "text": "You know when you went to the Shetland Islands last year, Paul? Did you go by ferry or did you fly?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "We went by ferry, Tammy. I prefer driving to flying - the journey feels like part of the holiday."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Mmm. Which ferry company did you use?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "There's only one - it's called Northern Ferries. The ferries all leave from Aberdeen."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "How frequent are they?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "The service is pretty limited - there's only one ferry leaving every evening in summer anyway, seven days a week - I'm not sure about the winter months. They may only run on four or five days then."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "OK. So it's an overnight trip. I quite like that idea. Leaving at night and waking up as you arrive on the island. Can you remember how much you paid for your tickets?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "They were really cheap and four people and a car worked out at just under £250."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Really? I was expecting it to be more like £400 during the peak season."
+        },
+        {
+          "speaker": "PAUL",
+          "text": "So was I. It's great value. It's a good idea to book in advance because I think they get booked up quite quickly - especially during the school holidays."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Yes, I suppose so. I'm just not 100% sure of our plans yet. What if I had to cancel?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "That could be a problem. I don't think it's their policy to give refunds - just a voucher - which you can use at a later date. But you have to cancel a month in advance to get that."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Right. Well we need to make up our minds quickly then."
+        },
+        {
+          "speaker": "PAUL",
+          "text": "You'd want to book a cabin too. We booked too late to get a cabin with a window. They're more expensive but much nicer than the inner cabins. You               OS don't have to book a cabin at all but I think it's worth paying for. They also have luxury cabins, which are only for two people and have a TV - but I wouldn't bother with those."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "No, I agree."
+        },
+        {
+          "speaker": "PAUL",
+          "text": "The only other thing I can think of is to make sure you bring snacks for the kids. The selection on board is quite limited and not that healthy either."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Mmm. What about wifi on board? Is that any good?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "Not really. So it's best to bring some books for them."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "OK. We may need to bring the dog if I can't get anyone to look after him."
+        },
+        {
+          "speaker": "PAUL",
+          "text": "We brought ours and it was fine. The kennels on board are OK - they're quite big - you just need to provide a blanket."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Uhuh. Sounds good."
+        },
+        {
+          "speaker": "PAUL",
+          "text": "It was all very easy really - and it was quite an adventure for the kids. They loved being on the sea at night and in the morning keeping a lookout for dolphins - we saw loads."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Oh, the kids would love that!"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "One other thing. We arrived in Aberdeen hours before the ferry was due to leave so we decided to go somewhere else rather than hang around at the port for so long."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Where did you go?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "Drum Castle."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "I've never heard of it. Is that spelt like the instrument?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "Yeah. It's really worth visiting. It's got an impressive tower and beautiful gardens and ancient woodland."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Sounds lovely. Does it have a restaurant?"
+        },
+        {
+          "speaker": "PAUL",
+          "text": "It's only got a coffee shop - no restaurant. We looked up restaurants in the area and found an Italian one in a village nearby. I can check the name of it for you if you're interested."
+        },
+        {
+          "speaker": "TAMMY",
+          "text": "Oh thanks Paul that would be ...."
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "number": 2,
+      "title": "Street food businesses",
+      "context": "A talk about setting up a street food business, including advice from established owners.",
+      "groups": [
+        {
+          "id": "l2-g1",
+          "label": "Questions 11 and 12",
+          "instructions": "Choose TWO letters, A–E. Which TWO explanations for the popularity of street food are given?",
+          "range": [
+            11,
+            12
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g2",
+          "label": "Questions 13 and 14",
+          "instructions": "Choose TWO letters, A–E. Which TWO places are recommended for new street food businesses?",
+          "range": [
+            13,
+            14
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g3",
+          "label": "Questions 15–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "range": [
+            15,
+            16
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g4",
+          "label": "Questions 17–20",
+          "instructions": "What problem did the owners of each of the following street food businesses experience? Choose FOUR answers from the box and write the correct letter, A–F, next to Questions 17–20.",
+          "range": [
+            17,
+            20
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A Some ingredients were too expensive.",
+            "B The meals took a long time to prepare.",
+            "C They had no money for marketing.",
+            "D It was difficult to get a permit to sell food.",
+            "E A competitor was selling similar food in their area.",
+            "F They worked very long hours."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 11,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "The first explanation",
+          "options": [
+            "low price",
+            "locally sourced",
+            "freshly made",
+            "convenience",
+            "unusual food"
+          ],
+          "answer": "C",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "The second explanation",
+          "options": [
+            "low price",
+            "locally sourced",
+            "freshly made",
+            "convenience",
+            "unusual food"
+          ],
+          "answer": "C",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "l2-g2",
+          "type": "mcq",
+          "prompt": "The first recommended place",
+          "options": [
+            "music festivals",
+            "food markets",
+            "weddings",
+            "parties",
+            "parks"
+          ],
+          "answer": "B",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q13"
+        },
+        {
+          "number": 14,
+          "groupId": "l2-g2",
+          "type": "mcq",
+          "prompt": "The second recommended place",
+          "options": [
+            "music festivals",
+            "food markets",
+            "weddings",
+            "parties",
+            "parks"
+          ],
+          "answer": "B",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "l2-g3",
+          "type": "mcq",
+          "prompt": "What does the speaker say about getting equipment for a street food business?",
+          "options": [
+            "High quality equipment is a good investment.",
+            "It's best to buy second-hand equipment.",
+            "Renting equipment can be cheap."
+          ],
+          "answer": "B",
+          "id": "l2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "l2-g3",
+          "type": "mcq",
+          "prompt": "What advice is given about creating a product for a street food business?",
+          "options": [
+            "Provide information about the ingredients.",
+            "It is important to have an original product.",
+            "The presentation is an important factor."
+          ],
+          "answer": "C",
+          "id": "l2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "l2-g4",
+          "type": "match",
+          "prompt": "Thai Basil",
+          "answer": "F",
+          "id": "l2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "l2-g4",
+          "type": "match",
+          "prompt": "Basque",
+          "answer": "A",
+          "id": "l2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "l2-g4",
+          "type": "match",
+          "prompt": "Lou's kitchen",
+          "answer": "B",
+          "id": "l2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "l2-g4",
+          "type": "match",
+          "prompt": "Chip Chop",
+          "answer": "D",
+          "id": "l2-q20"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "Good evening everyone. My name's Jon and I run Veg Out, a street food business selling vegan food. Since 2012 I've been travelling all around the country cooking vegan food in my converted van and selling it at all kinds of outdoor events. I'm here to give you some advice based on my experience. The good news is that there's never been a better time to start your own street food business. Street food continues to grow in popularity. I think there are a couple of reasons for this. The first is that street food is a reaction against fast food. Street food ranges from high quality burgers to vegan curries and everything in between. But while fast food is cheap and easy to find, it's not particularly good for you. It's also the same everywhere. What you get with street food on the other hand is something different. People like the idea of trying something they can't get anywhere else. They also like seeing food prepared in front of them and which hasn't come straight out of a freezer. You need to think about the best place to sell your street food. People always think music festivals are an obvious place to start but the cost of renting a space can be huge. And there's always a lot of competition. Food markets. on the other hand. are great because customers are always really interested in food and give great feedback. And if you can get a spot in your local park - fantastic. Usually very relaxed but with lots of customers passing by. Once you get established you'll start getting asked to do parties - which can be really challenging but lots of fun. Having street food at weddings has become quite fashionable too - but you need to really know what you're doing as everything needs to be perfect. Setting up a street food business costs a lot less than opening a restaurant or cafe but you'll have to buy some basic equipment. I'd try to get things like hobs and fridges second hand if you can. You can replace them with better quality stuff if your business takes off. Renting is another option but you'll end up spending more money rather than saving it. You've probably got a good idea about the food you're planning to sell. I expect you've done some research to find out if anyone else is selling a similar product. And you'll have thought about any possible allergies to nuts or eggs etc. But there's one thing people don't always think about and that's how you're going to serve it. On a plate? In a bag? Will you provide a fork? Will it all be easily recyclable or reusable? It's got to be easy to eat and look attractive or customers won't come back. Once you get started, you should be prepared for things to go wrong. Every business faces problems and here are a few examples from street food businesses that I know. My friends who run Thai Basil started by juggling their street food business with their day jobs in a restaurant. Their work-life balance was non-existent as they were working til midnight in the restaurant all week and then took their food truck to markets on their days off. The owners of Basque found it was hard to make a profit because the price of fish - essential for some of their dishes - was so high. And it was hard to charge customers a lot more for those dishes. So they had to stop focussing on fish dishes and include more vegetarian food. The owners of Lou's kitchen were making salads to order from their van and some of their dishes were quite complicated. At one of their first events they ended up with people standing in a long queue for more than 15 minutes - and many of them lost patience. So make sure whatever you offer can be served quickly and efficiently. The owners of Chip Chop had found a perfect venue near a beach where there weren't any other street food trucks. But what they hadn't realised was that they'd need a special licence - which individual businesses don't need at markets or festivals. It was a complicated process and in the end they gave up. So I hope that's given you a flavour of ...."
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "number": 3,
+      "title": "Ethical and sustainable fashion",
+      "context": "Two students discuss a project on ethical and sustainable fashion.",
+      "groups": [
+        {
+          "id": "l3-g1",
+          "label": "Questions 21 and 22",
+          "instructions": "Choose TWO letters, A–E. Which TWO points do the speakers make about the terms 'ethical' and 'sustainable' fashion?",
+          "range": [
+            21,
+            22
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g2",
+          "label": "Questions 23 and 24",
+          "instructions": "Choose TWO letters, A–E. Which TWO claims about wool production do the speakers disagree with?",
+          "range": [
+            23,
+            24
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g3",
+          "label": "Questions 25–30",
+          "instructions": "What comment do the speakers make about each of the following semi-synthetic fabrics? Choose SIX answers from the box and write the correct letter, A–H, next to Questions 25–30.",
+          "range": [
+            25,
+            30
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A The production process is fuel efficient.",
+            "B It is the least sustainable of alternative fabrics.",
+            "C Production costs are high.",
+            "D It provides additional health benefits.",
+            "E It is not durable in the long-term.",
+            "F It needs to be produced in a certain way to be sustainable.",
+            "G Chemicals required for production can be reused.",
+            "H This is from a wholly sustainable source."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "The first point",
+          "options": [
+            "Their definitions keep changing.",
+            "People think they mean the same thing.",
+            "The term 'eco-friendly' is preferable.",
+            "They are often used imprecisely.",
+            "Companies should avoid using them on clothing labels."
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "l3-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "The second point",
+          "options": [
+            "Their definitions keep changing.",
+            "People think they mean the same thing.",
+            "The term 'eco-friendly' is preferable.",
+            "They are often used imprecisely.",
+            "Companies should avoid using them on clothing labels."
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "l3-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "The first claim they disagree with",
+          "options": [
+            "Sheep are generally well-treated.",
+            "Wool is easy to recycle.",
+            "Wool is a long-lasting fabric.",
+            "Wool production involves few chemicals.",
+            "Sheep do less environmental damage than other livestock."
+          ],
+          "answer": "D",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "The second claim they disagree with",
+          "options": [
+            "Sheep are generally well-treated.",
+            "Wool is easy to recycle.",
+            "Wool is a long-lasting fabric.",
+            "Wool production involves few chemicals.",
+            "Sheep do less environmental damage than other livestock."
+          ],
+          "answer": "D",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Lyocell",
+          "answer": "G",
+          "id": "l3-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Cupro",
+          "answer": "B",
+          "id": "l3-q26"
+        },
+        {
+          "number": 27,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Bamboo",
+          "answer": "F",
+          "id": "l3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "EcoVero",
+          "answer": "A",
+          "id": "l3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Cork",
+          "answer": "H",
+          "id": "l3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Hemp",
+          "answer": "D",
+          "id": "l3-q30"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "MADDY",
+          "text": "Shall we go through our research for our sustainable fashion project?"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Good idea. I think I've done enough reading now."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Me too. I've learnt such a lot about what sustainability actually means."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Mmm, same for me with ethical fashion. I didn't really appreciate the difference between that and sustainable fashion before doing this research."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "I know - most people use these terms interchangeably - but in fact the difference is quite distinct when you think about it. Sustainable relates to the environment and ethical relates more to the way workers or animals are treated."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "I totally understand why people get confused, though. There are so many other terms used - like 'eco-friendly', which is actually quite meaningless."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "And the way companies use these terms when describing their products doesn't help. They're often deliberately vague. I think. and don't provide enough information about how their products are made."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Yes."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "It was interesting to read about the debates surrounding wool production and how ethical and sustainable that is. It's generally considered to be sustainable because it's a natural product."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "And it also lasts a long time and can be recycled. All very positive. But I wasn't convinced by the argument that wool production is sustainable because it doesn't use many chemicals - what about all the fungicides and insecticides used in sheep farming?"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Good point. And I couldn't find any evidence for the claim about sheep farming being better for the environment than cattle farming."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "No - they're both really bad. I read different reports about how unethical it is to even shear sheep. Some people say it's cruel but as long as the sheep are kept in good condition I can't see anything wrong with it."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Me neither."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Shall we talk about some of the semi-synthetic new fabrics now?"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "OK, let's do that."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Let's start with Lyocell, I've been reading about that."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Yeah, that's the one produced from the pulp of eucalyptus trees, isn't it?"
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Yes, and what happens with that is really impressive. Over 99% of dissolving agents used in the manufacturing process are used again."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Yeah. Now, there are a few semi-synthetic fabrics that I'd never heard of. Like Cupro, for example."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Made from byproducts of the cotton industry to create a kind of vegan silk. But I'm not sure how sustainable this really is as there are so many reports of pollution caused by the manufacturing process."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Mmm. It doesn't compare favourably with all the other sustainable fabrics we've looked at, no."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Bamboo is one fabric we're all familiar with. But I didn't know that it was only organic bamboo that's truly sustainable."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Me neither. Apparently. the manufacturing process for a significant proportion of bamboo is chemically quite intensive - which obviously can be quite damaging."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "EcoVero is an example of a semi-synthetic fabric which is becoming really popular."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Probably because manufacturing causes 50 percent fewer emissions and takes up half as much energy as conventional fabrics. That saves production costs as well as being better for the environment."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "That's true. I think demand for cork will continue to grow. It works really well in vegan shoes and bags."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Mmm and it's the only fabric that's fundamentally sustainable - the cork trees it comes from are renewable and the product itself is both recyclable and biodegradable - which is unique."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "And the harvesting process is actually good for the trees. There are no downsides to using this source at all."
+        },
+        {
+          "speaker": "MADDY",
+          "text": "Hemp is another really good sustainable fabric from a natural source."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "Yes. Did you know that clothes made from hemp protect the wearer from the sun and it's also antibacterial?"
+        },
+        {
+          "speaker": "MADDY",
+          "text": "No. I didn't. But I did read that it's quite hard to grow, so perhaps that\"s why it's not as common as you'd think."
+        },
+        {
+          "speaker": "RYAN",
+          "text": "I'm sure that'll change."
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "number": 4,
+      "title": "Invasive species",
+      "context": "A lecture about invasive species, how they spread and how they can be controlled.",
+      "groups": [
+        {
+          "id": "l4-g1",
+          "label": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "range": [
+            31,
+            40
+          ],
+          "layout": "notes",
+          "body": [
+            "# Invasive species",
+            "Definition: an animal or plant that causes harm to an environment after being introduced by humans",
+            "## An invasive species can be a problem when it:",
+            "• eats native species.",
+            "• introduces a new {{31}}",
+            "• takes food from native species.",
+            "• threatens an entire {{32}}",
+            "## How invasive species spread",
+            "• accidentally e.g. via people returning from their {{33}} or on cargo ships",
+            "• intentionally e.g. for pest control, or as {{34}}",
+            "## Examples of invasive species",
+            "• Rhinella marina (toads)",
+            "  – were introduced to Australia from Hawaii in 1935 to eat a type of insect that was damaging the {{35}} plantations.",
+            "  – failed to solve the problem and became widespread in the north of Australia.",
+            "  – are poisonous for any species that eats them and reduce the food available for native frogs.",
+            "• Japanese knotweed plants were popular among 19th-century gardeners in the UK.",
+            "• Rhododendron plants prevent {{36}} from reaching native plants.",
+            "• Grey squirrels from N. America reduce sources of food for the UK's native red squirrels and spread a {{37}} that kills red squirrels.",
+            "## Tackling invasive species",
+            "• Monitoring helps us to understand the {{38}} of invasive species and the impact they have.",
+            "• Setting up a national {{39}} makes it easier to track them.",
+            "• Asking the public to {{40}} and report them helps with monitoring."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 31,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 31",
+          "answer": "disease",
+          "id": "l4-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 32",
+          "answer": "ecosystem",
+          "id": "l4-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 33",
+          "answer": "holiday(s)",
+          "accepted": [
+            "holidays",
+            "holiday"
+          ],
+          "id": "l4-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 34",
+          "answer": "pets",
+          "id": "l4-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 35",
+          "answer": "sugar",
+          "id": "l4-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 36",
+          "answer": "light",
+          "id": "l4-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 37",
+          "answer": "virus",
+          "id": "l4-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 38",
+          "answer": "behaviour",
+          "accepted": [
+            "behavior"
+          ],
+          "id": "l4-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 39",
+          "answer": "database",
+          "id": "l4-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Invasive species notes 40",
+          "answer": "photograph",
+          "id": "l4-q40"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "Today I'm going to talk about invasive species. Let me start by saying what an invasive species is and what it's not. Invasive species are any animal or plant that is introduced into an environment by humans, and which is then harmful to that environment. It's important to be clear that not all introduced species are invasive. Many introduced - or non-native - species thrive in new areas without posing any threat. In some cases, invasive species have changed the natural world beyond recognition, so let's look at the different ways they can be problematic. First of all, invasive species may eat native species, or sometimes they may bring a disease with them, which native species have never faced before and therefore have no defences against. Often the invasive species breed very quickly - which further adds to the problem of native species losing their sources of food. Species invasions are one of the biggest causes of damage in an ecosystem, actually putting its survival at risk. So, how do invasive species spread? Without a doubt, the biggest cause is human activity. This could be intentional, or it could be accidental, such as when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes. Plants and animals, especially insects, arrive in or on the cargo of ships, and then escape into their new 'home'. But sometimes humans deliberately move animals and plants around the world, for example to use them to control pests on farms, or to be pets. This can go very wrong if those animals and plants move into wild settings and start breeding or begin growing in ways that weren't predicted. Let's now look at an example of an invasive species here in Australia: Rhinella marina is a species of toad that was deliberately introduced from Hawaii in 1935 as a form of biological control. It was hoped that the toads would eat the grey-backed beetles responsible for destroying crops of sugar on many of the plantations. At first, just a handful of toads were released by scientists into Queensland, but this number soon grew as other states followed suit. Within two years, 62,000 young toads had been released into the wild. The toads did nothing to protect the plantations, but they did reproduce rapidly and could soon be found all over the northern half of the country. The toads are poisonous at every stage of their life cycle, and anything that eats them will die. My second example regarding invasive species is the United Kingdom. Actually, there are more than three-thousand invasive species there, including some that are extremely common. Some invasive plants, such as Japanese knotweed, have had a devastating impact on parts of the UK. Gardeners in the nineteenth century considered it a beautiful ornamental plant - which it is, when it's kept under control - but it soon spread into the countryside and remains a problem even to this day as it's so hard to eradicate. Another invasive plant is rhododendrons, which can be found in UK parks and woodlands. Their introduction dates back to 1763, but they're now seen as harmful because they block out so much light that native wild flowers can't grow beneath them. And then there are grey squirrels, which are one invasive species almost everyone in the UK will have come across. They were brought to the UK from North America and introduced to private estates around the 1870s but are now found everywhere, from forests to city squares. Grey squirrels have outcompeted the smaller, native red squirrels. They both eat the same food, and the grey squirrels carry a type of virus that is deadly to the red squirrels. Red squirrel populations have collapsed, and there are only a handful of sites left in the UK where they're found. An important question for ecologists worldwide is, what can we do to tackle the problem of invasive species? The first step in controlling invasive species is learning about the behaviour of new species coming into the country. Monitoring is an important part of this, so that we can know if the new species begins to have a negative impact in its new environment. One effective way to keep track of invasive species is to create a database for the whole country. That way, all relevant authorities and agencies can share important information and take whatever action's needed. But the public also have a vital role to play in this process. They should be encouraged to photograph harmful species - because this helps with identification - and then to report when and where these were observed. But it's important to tell people not to destroy or even touch what they've found. Now, I'm going to move on to ..."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "number": 1,
+      "title": "Saving the saiga",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "The saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest."
+        },
+        {
+          "label": "",
+          "text": "The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up."
+        },
+        {
+          "label": "",
+          "text": "Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal."
+        },
+        {
+          "label": "",
+          "text": "The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were aimost wiped out, leading to a population crash from which the species has been struggling to recover ever since."
+        },
+        {
+          "label": "",
+          "text": "Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped."
+        },
+        {
+          "label": "",
+          "text": "Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteure//a multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species."
+        },
+        {
+          "label": "",
+          "text": "Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished."
+        },
+        {
+          "label": "",
+          "text": "Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe."
+        },
+        {
+          "label": "",
+          "text": "So, how many saiga are there now? By 2000, the global saiga population had hit an all- time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r1-g1",
+          "label": "Questions 1–7",
+          "instructions": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            1,
+            7
+          ],
+          "layout": "notes",
+          "body": [
+            "# The saiga",
+            "## Adaptations",
+            "• has a large bulbous nose with swollen nostrils that:",
+            "  – keep {{1}} out",
+            "  – lower the temperature of its {{2}} in summer",
+            "  – warm the air entering its lungs in winter",
+            "• grows a thick {{3}} in winter, which it loses in spring",
+            "## Reasons for population decline",
+            "• poaching, especially for the {{4}} of male saiga",
+            "• expansion of farms and settlements, causing:",
+            "  – reduction in the size of the saiga's {{5}}",
+            "  – loss of access to the {{6}} which they use for migration",
+            "• various forms of disease, leading to mass mortality events",
+            "• climate change, causing the disappearance of {{7}} which the saiga relied on"
+          ]
+        },
+        {
+          "id": "r1-g2",
+          "label": "Questions 8–13",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "range": [
+            8,
+            13
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Saiga notes 1",
+          "answer": "dust",
+          "id": "r1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Saiga notes 2",
+          "answer": "blood",
+          "id": "r1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Saiga notes 3",
+          "answer": "coat",
+          "id": "r1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Saiga notes 4",
+          "answer": "horns",
+          "id": "r1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Saiga notes 5",
+          "answer": "habitat",
+          "id": "r1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Saiga notes 6",
+          "answer": "routes",
+          "id": "r1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Saiga notes 7",
+          "answer": "streams",
+          "id": "r1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.",
+          "answer": "FALSE",
+          "id": "r1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "For most of the 20th century, the population of saiga were falling.",
+          "answer": "FALSE",
+          "id": "r1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Efforts to protect rhinos in Africa had a significant effect on saiga populations.",
+          "answer": "TRUE",
+          "id": "r1-q10"
+        },
+        {
+          "number": 11,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.",
+          "answer": "TRUE",
+          "id": "r1-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q13"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "number": 2,
+      "title": "The problems of getting around the city of Dar es Salaam",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Dar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100."
+        },
+        {
+          "label": "",
+          "text": "Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud."
+        },
+        {
+          "label": "",
+          "text": "Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous."
+        },
+        {
+          "label": "",
+          "text": "Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy."
+        },
+        {
+          "label": "",
+          "text": "But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus."
+        },
+        {
+          "label": "",
+          "text": "The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies."
+        },
+        {
+          "label": "",
+          "text": "'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel."
+        },
+        {
+          "label": "",
+          "text": "That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times."
+        },
+        {
+          "label": "",
+          "text": "Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and Ill will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network."
+        },
+        {
+          "label": "",
+          "text": "The ITDP regrets Africa's obsession with metros. 'With a metro, an international firm will often just parachute in its own system,' says Kost. 'Bus rapid transit allows existing stakeholders to get involved. That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies will be built in the city and local operators will look after tickets, fare collection and IT ... Bus rapid transit has been transformational for Dar es Salaam. For millions of people in African cities, this is their best hope of ever being connected.'"
+        }
+      ],
+      "groups": [
+        {
+          "id": "r2-g1",
+          "label": "Questions 14–18",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 2? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "range": [
+            14,
+            18
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r2-g2",
+          "label": "Questions 19–26",
+          "instructions": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            19,
+            26
+          ],
+          "layout": "notes",
+          "body": [
+            "# Dar es Salaam's DART Bus Rapid Transit system",
+            "## Features",
+            "• the buses use designated {{19}} to cut down on delays",
+            "• passengers pay fares before {{20}}",
+            "• passengers in {{21}} can use every part of the system",
+            "## Problems",
+            "• the temperature control is sometimes not activated in order to reduce {{22}} use",
+            "• insufficient number of vehicles are available due to the effects of a severe {{23}}",
+            "• passengers are unable to use {{24}} because some equipment is out of action",
+            "• tickets have to be checked manually at station {{25}}",
+            "• {{26}} frequently build up during rush hours"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "groupId": "r2-g1",
+          "type": "tfng",
+          "prompt": "The population of Dar es Salaam is rising more rapidly than was previously predicted.",
+          "answer": "NOT GIVEN",
+          "id": "r2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "r2-g1",
+          "type": "tfng",
+          "prompt": "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.",
+          "answer": "FALSE",
+          "id": "r2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "r2-g1",
+          "type": "tfng",
+          "prompt": "Residents have been consulted about their views on the suburban rail line in Dar es Salaam.",
+          "answer": "NOT GIVEN",
+          "id": "r2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "r2-g1",
+          "type": "tfng",
+          "prompt": "The majority of the present residential development in Dar es Salaam is unplanned.",
+          "answer": "TRUE",
+          "id": "r2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "r2-g1",
+          "type": "tfng",
+          "prompt": "Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.",
+          "answer": "FALSE",
+          "id": "r2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 19",
+          "answer": "lanes",
+          "id": "r2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 20",
+          "answer": "boarding",
+          "id": "r2-q20"
+        },
+        {
+          "number": 21,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 21",
+          "answer": "wheelchairs",
+          "id": "r2-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 22",
+          "answer": "fuel",
+          "id": "r2-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 23",
+          "answer": "flood",
+          "id": "r2-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 24",
+          "answer": "smartcards",
+          "id": "r2-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 25",
+          "answer": "gates",
+          "id": "r2-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "DART notes 26",
+          "answer": "queues",
+          "id": "r2-q26"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "number": 3,
+      "title": "Rethinking the Past",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "It is by now a truism that the story of human evolution is being rethought. Discoveries have come thick and fast over the last decade or so, and these have forced us to rethink many crucial points, such as how old our species is - about 300,000 years old as opposed to 200,000 - and what extinct hominins, such as our cousins the Neanderthals, were really like. But because there are so many species and eras involved, it's hard to discern the common threads linking them."
+        },
+        {
+          "label": "",
+          "text": "However, I do think it's possible to draw out some overall messages from the blizzard of archaeological finds in recent years. Two things stand out to me. One is the growing evidence that many supposedly 'advanced' behaviours, such as architecture and art, can be traced much further back in time than we thought, often to hominin species that existed before modern humans. And the other is that we have badly misunderstood gender roles in prehistoric societies, imposing patriarchal values onto cultures that had very different ideas about how women should behave."
+        },
+        {
+          "label": "",
+          "text": "Let's start with architecture. At Kalambo Falls in Zambia, researchers found buried logs that had been shaped with stone tools so that they interlocked. They seem to have once been part of a larger structure, perhaps a building. This would be unsurprising if they weren't 476,000 years old. That's almost 200,000 years before our species, Homo sapiens, evolved. Extinct hominins also managed to settle in extreme places. For instance, we now know that extinct hominins such as the Denisovans lived on the frozen heights of high-altitude regions 200,000 years ago - upending the old notion that such environments were only settled by modern humans around 3,600 years ago."
+        },
+        {
+          "label": "",
+          "text": "Art also seems to have been invented by older hominins. We have had evidence for a long time now that Neanderthals painted on cave walls. Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells. By far the most contentious claim in this area is that Homo naledi made art. H. naledi lived around 250,000 years ago, making it a contemporary of our species. However, it had quite a small brain, typical of older hominins - and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours. Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings - resembling rudimentary artwork- on the cave walls, though these have yet to be firmly dated."
+        },
+        {
+          "label": "",
+          "text": "To say these claims about H. naledi are controversial is to understate the situation. Many experts say the evidence presented so far is completely inadequate to support them. The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper. My views on the H. naledi controversy are complicated. I do think more evidence is needed: in particular with regard to the dating of the etchings. At the same time, I think the species' small brains are a distraction. Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes. But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains."
+        },
+        {
+          "label": "",
+          "text": "In a sense, we shouldn't be surprised that so many of these behaviours had their origins in older, extinct hominins. Evolution usually works by incremental steps and so does technology. The first birds weren't great at flying, and the first mobile phones weren't great at, well, anything really. The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change. But there was never that much evidence that human evolution worked this way. Instead, it seems the Neanderthals and many others all walked so we could run."
+        },
+        {
+          "label": "",
+          "text": "One way or another, the H. naledi story is going to be an example of letting our preconceptions get in the way of the evidence. The same is true for our ideas about gender in prehistory. Archaeology was invented by individuals with now unfashionably patriarchal views about gender, and those notions fed into their research. Today's researchers are trying to unpick this stuff, and there have been some significant steps in recent years."
+        },
+        {
+          "label": "",
+          "text": "Perhaps the most dramatic was the demolition of 'Man the Hunter'. This was the idea, promoted for decades, that in most prehistoric societies the men went out to hunt and the women looked after the home. However, a meta-analysis published in June 2023 compiled data on several dozen foraging societies and found women hunted in 80 per cent of them. In line with this, it emerged that an ancient spear-throwing tool called an atlatl enables women to launch projectiles at the same speed as men. We have also seen growing evidence of women occupying positions of authority in ancient societies. The Viking queen Thyra may have helped unify Denmark in the 900s. Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed."
+        },
+        {
+          "label": "",
+          "text": "It seems that the more we find out about past societies, the more our preconceptions about the ways society 'has to be' turn out to be wrong. Inequality, authoritarianism and patriarchy aren't inevitable. They're choices, and prehistory shows us that we can choose differently."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r3-g1",
+          "label": "Questions 27–30",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            27,
+            30
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r3-g2",
+          "label": "Questions 31–34",
+          "instructions": "Complete each sentence with the correct ending, A–F, below.",
+          "range": [
+            31,
+            34
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A Homo sapiens emerged at an earlier point in time than experts previously believed.",
+            "B previous assumptions about who had power in the prehistoric world were inaccurate.",
+            "C gender roles in extinct hominin species were different from those in Homo sapiens societies.",
+            "D experts may have been mistaken about who looked for food in early human communities.",
+            "E Homo sapiens was probably not the only species capable of sophisticated workmanship.",
+            "F other species managed to survive in harsh environments before the arrival of Homo sapiens."
+          ]
+        },
+        {
+          "id": "r3-g3",
+          "label": "Questions 35–40",
+          "instructions": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "range": [
+            35,
+            40
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What is the writer doing in the second paragraph?",
+          "options": [
+            "pinpointing some key changes in our understanding of prehistory",
+            "outlining some aspects of prehistory which are still poorly understood",
+            "summarising some attitudes towards recent archaeological revelations",
+            "giving an overview of some current disagreements among archaeologists"
+          ],
+          "answer": "A",
+          "id": "r3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "In the sixth paragraph, the writer mentions mobile phones to make the point that",
+          "options": [
+            "most developments happen in a gradual way.",
+            "innovation can come from a variety of sources.",
+            "not all technological advancements are positive.",
+            "the path of evolution can often be unpredictable."
+          ],
+          "answer": "A",
+          "id": "r3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "In the seventh paragraph, the phrase 'unpick this stuff' refers to the task of",
+          "options": [
+            "assessing the impact of certain recent research findings.",
+            "questioning the authenticity of evidence used in earlier research.",
+            "conducting research into how prehistoric societies were organised.",
+            "reevaluating research influenced by outdated beliefs about society."
+          ],
+          "answer": "D",
+          "id": "r3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What does the writer suggest in the final paragraph?",
+          "options": [
+            "Studying past societies could help us create a fairer society today.",
+            "We should not judge past societies by the standards of modern society.",
+            "We still have much to learn about how societies have evolved over history.",
+            "There is more than one way to interpret evidence about societies in prehistoric times."
+          ],
+          "answer": "A",
+          "id": "r3-q30"
+        },
+        {
+          "number": 31,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "The findings at Kalambo Falls revealed that",
+          "answer": "E",
+          "id": "r3-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "Evidence from high-altitude regions suggests that",
+          "answer": "F",
+          "id": "r3-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "An academic publication from June 2023 shows that",
+          "answer": "D",
+          "id": "r3-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "Analysis of a 4000-year-old Iberian leader indicates that",
+          "answer": "B",
+          "id": "r3-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "It seems likely that the Neanderthals' cave paintings were the first examples of artwork ever created.",
+          "answer": "NO",
+          "id": "r3-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "It is very rare to find prehistoric artwork carved onto shells.",
+          "answer": "NOT GIVEN",
+          "id": "r3-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "The methods which the researchers used to examine the Rising Star cave system were rather unconventional.",
+          "answer": "NOT GIVEN",
+          "id": "r3-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "It is unclear how old the etchings in the Rising Star cave system are.",
+          "answer": "YES",
+          "id": "r3-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "The means used to publicise the findings from the Rising Star cave system added to the controversy that surrounds them.",
+          "answer": "YES",
+          "id": "r3-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "The size of H. naledi brains is a key factor in the question of whether these hominins were able to produce art.",
+          "answer": "NO",
+          "id": "r3-q40"
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "writing-task-1",
+      "number": 1,
+      "title": "Writing Task 1",
+      "prompt": "The diagram below shows how one type of desert, known as a rain-shadow desert, is formed.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "instructions": [
+        "Write at least 150 words.",
+        "You should spend about 20 minutes on this task."
+      ],
+      "minimumWords": 150,
+      "suggestedMinutes": 20,
+      "figure": "/media/figures/cambridge21/test3-writing-task1.jpg",
+      "figureAlt": "Diagram showing seven numbered stages in the formation of a rain-shadow desert, from winds approaching the coast to dry winds reaching inland areas."
+    },
+    {
+      "id": "writing-task-2",
+      "number": 2,
+      "title": "Writing Task 2",
+      "prompt": "All university undergraduate courses should include a period of time spent studying abroad or doing a work placement.\n\nDo you think the advantages of this would outweigh the disadvantages?",
+      "instructions": [
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words.",
+        "You should spend about 40 minutes on this task."
+      ],
+      "minimumWords": 250,
+      "suggestedMinutes": 40
+    }
+  ],
+  "speaking": [
+    {
+      "id": "speaking-1",
+      "number": 1,
+      "title": "Part 1 · Interview",
+      "description": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+      "questions": [
+        {
+          "id": "s1",
+          "text": "When you go shopping, do you usually pay for things by cash or by card?"
+        },
+        {
+          "id": "s2",
+          "text": "Are you generally careful about how much money you spend?"
+        },
+        {
+          "id": "s3",
+          "text": "Have you ever spent money on something you didn't need?"
+        },
+        {
+          "id": "s4",
+          "text": "How important is it to you to save money for the future?"
+        }
+      ]
+    },
+    {
+      "id": "speaking-2",
+      "number": 2,
+      "title": "Part 2 · Cue card",
+      "description": "Describe an interesting garden or park you have seen.",
+      "questions": [],
+      "cueCard": {
+        "topic": "Describe an interesting garden or park you have seen.",
+        "bullets": [
+          "where this garden or park is",
+          "how big it is",
+          "what you saw in this garden/park"
+        ],
+        "rounding": "and explain why you think this garden/park is interesting.",
+        "preparationSeconds": 60,
+        "speakingSeconds": 120
+      }
+    },
+    {
+      "id": "speaking-3",
+      "number": 3,
+      "title": "Part 3 · Discussion",
+      "description": "Discussion topics: homes and gardens; gardening as a hobby.",
+      "questions": [
+        {
+          "id": "s5",
+          "text": "Homes and gardens. What are the advantages of having a home with a garden?"
+        },
+        {
+          "id": "s6",
+          "text": "How could people living in apartment blocks grow plants and vegetables?"
+        },
+        {
+          "id": "s7",
+          "text": "How interested are people in your country in TV shows and magazines about gardens?"
+        },
+        {
+          "id": "s8",
+          "text": "Gardening as a hobby. Do you think that gardening is a hobby mainly for older people?"
+        },
+        {
+          "id": "s9",
+          "text": "What are the benefits for people of gardening as a hobby?"
+        },
+        {
+          "id": "s10",
+          "text": "Will gardening be a more popular hobby in the future?"
+        }
+      ]
+    }
+  ],
+  "publishedAt": "2026-11-12T00:00:00Z",
+  "scoring": {
+    "listeningVersion": "ielts-academic-2026",
+    "readingVersion": "ielts-academic-2026",
+    "rubricVersion": "apex-local-rubric-v1"
+  },
+  "audioUrl": "/media/listening/cambridge21-test3"
+}

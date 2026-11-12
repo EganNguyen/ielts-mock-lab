@@ -1,0 +1,1653 @@
+{
+  "id": "ielts20-test1",
+  "title": "IELTS 20 · Academic Test 1",
+  "module": "Academic",
+  "version": "ielts20.1",
+  "listening": [
+    {
+      "id": "l1",
+      "number": 1,
+      "title": "Choosing a restaurant",
+      "context": "A woman asks a friend for advice about restaurants for a family celebration.",
+      "groups": [
+        {
+          "id": "l1-g1",
+          "label": "Questions 1–10",
+          "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "range": [
+            1,
+            10
+          ],
+          "layout": "form",
+          "body": [
+            "# Restaurant recommendations",
+            "• The Junction — Greyson Street, near the station — especially good for people who are keen on {{1}} — quite expensive — the {{2}} is a good place for a drink",
+            "• Paloma — in Bow Street, next to the cinema — {{3}} food, good for sharing — staff very friendly — £50 deposit — a limited selection of {{4}} food on the menu",
+            "• The {{5}} — at the top of a {{6}} — a famous chef — all the {{7}} are very good — only uses {{8}} ingredients — set lunch costs £{{9}} per person — portions of {{10}} size"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What The Junction is especially good for",
+          "answer": "fish",
+          "id": "l1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Good place for a drink at The Junction",
+          "answer": "roof",
+          "id": "l1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Type of food at Paloma",
+          "answer": "Spanish",
+          "id": "l1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Limited selection on Paloma's menu",
+          "answer": "vegetarians",
+          "id": "l1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Name of the third restaurant",
+          "answer": "Audley",
+          "id": "l1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Building the third restaurant is at the top of",
+          "answer": "hotel",
+          "id": "l1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What is very good at the third restaurant",
+          "answer": "reviews",
+          "id": "l1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Type of ingredients the third restaurant uses",
+          "answer": "local",
+          "id": "l1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Cost of the set lunch per person",
+          "answer": "30",
+          "accepted": [
+            "thirty"
+          ],
+          "id": "l1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Size of the portions",
+          "answer": "average",
+          "id": "l1-q10"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "I've been meaning to ask you for some advice about restaurants. I need to book somewhere to celebrate my sister's 30th birthday. And I liked the sound of that place you went to for your mom's 50th."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "The Junction. Yeah, I definitely recommend that for a special occasion. We had a great time there. Everyone really enjoyed it."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Where is it again? I can't remember."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "It's on Grayson Street, only about a 2-minute walk from the station."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Oh, that's good. I'd prefer not to have to drive anywhere, but I don't want to have to walk too far either."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Yes, the location's perfect, but that's not necessarily why I'd recommend it. The food's amazing. If you like fish, it's probably the best restaurant in town for that. It's always really fresh, and there are lots of interesting dishes to choose from, but all the food is good there."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Is it really expensive?"
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "It's certainly not cheap, but for a special occasion, I think it's fine. It's got a great atmosphere, and before dinner, you can go up on the roof and have a drink. It's really nice up there, but you need to book. It's very popular as the views are spectacular."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Sounds good. So, that's definitely possibility. Then is there anywhere else you can think of?"
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Um, if you want somewhere a bit less formal, then you could try Paloma."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Where's that? I haven't heard of it."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "No, it's quite new. It's only been open a few months, but it's got a great reputation already. It's in a really beautiful old building on Bow Street."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Oh, I think I know where you mean. Right beside the cinema."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Yes, that's it. I've only been there a couple of times, but I was really impressed. The chef used to work at Don Filipes, apparently. I was really sorry when that closed down."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "So, is all the food they serve Spanish, then?"
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Yeah, you can get lots of small dishes to share, which always works really well if you're in a group."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Worth thinking about."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Yeah, there's a lively atmosphere and the waiters are really friendly. The only thing is that you need to pay a £50 deposit to book a table."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "A lot of restaurants are doing that these days. I should have a look at the menu to check there's a good choice of vegetarian dishes. A couple of my friends have stopped eating meat."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Not sure. I'd say the selection of those would be quite limited. I've just thought of another idea. Have you been to the Audley?"
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "No, don't think I've heard of it. How's it spelled?"
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "A U D L E Y. You must have heard of it. There's been a lot about it in the press."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "I don't tend to pay much attention to that kind of thing. So, where is it? Exactly."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "It's in that hotel near Baxter Bridge on the top floor."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Oh, the views would be incredible from up there."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Yeah, I'd love to go. I can't think of the chef's name, but she was a judge on that TV cookery show recently, and she's written a couple of cookery books."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Oh, Angela Fra."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "That's the one. Anyway, it's had excellent reviews from all the newspapers."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "that would be a memorable place for a celebration."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Definitely. Obviously, it's worth going there just for the view, but the food is supposed to be really special."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "She only likes cooking with local products, doesn't she?"
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Yes. Everything at the restaurant has to be sourced within a short distance and absolutely nothing flown in from abroad."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "I imagine it's really expensive, though."
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "Well, you could go for the set lunch. That's quite reasonable for a top class restaurant. £30 a head. In the evening, I think it would be more like £50."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "At least that, I should think. But I'm sure everyone would enjoy it. It's not the kind of place you leave feeling hungry, though, is it? With tiny portions?"
+        },
+        {
+          "speaker": "Speaker 2 (Friend)",
+          "text": "No, the reviews I've read didn't mention that. I imagine they'd be average."
+        },
+        {
+          "speaker": "Speaker 1 (Woman)",
+          "text": "Well, that's all great. Thank you."
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "number": 2,
+      "title": "A visit to a pottery",
+      "context": "A potter talks to a group of visitors about her craft and the equipment she uses.",
+      "groups": [
+        {
+          "id": "l2-g1",
+          "label": "Questions 11–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "range": [
+            11,
+            16
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g2",
+          "label": "Questions 17 and 18",
+          "instructions": "Choose TWO letters, A–E. Which TWO things does Heather explain about kilns?",
+          "range": [
+            17,
+            18
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g3",
+          "label": "Questions 19 and 20",
+          "instructions": "Choose TWO letters, A–E. Which TWO points does Heather make about a potter's tools?",
+          "range": [
+            19,
+            20
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 11,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "Heather says pottery differs from other art forms because",
+          "options": [
+            "it lasts longer in the ground.",
+            "it is practised by more people.",
+            "it can be repaired more easily."
+          ],
+          "answer": "A",
+          "id": "l2-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "Archaeologists sometimes identify the use of ancient pottery from",
+          "options": [
+            "the clay it was made with.",
+            "the marks that are on it.",
+            "the basic shape of it."
+          ],
+          "answer": "B",
+          "id": "l2-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "Some people join Heather's pottery class because they want to",
+          "options": [
+            "create an item that looks very old.",
+            "find something that they are good at.",
+            "make something that will outlive them."
+          ],
+          "answer": "C",
+          "id": "l2-q13"
+        },
+        {
+          "number": 14,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "What does Heather value most about being a potter?",
+          "options": [
+            "its calming effect",
+            "its messy nature",
+            "its physical benefits"
+          ],
+          "answer": "A",
+          "id": "l2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "Most of the visitors to Edelman Pottery",
+          "options": [
+            "bring friends to join courses.",
+            "have never made a pot before.",
+            "try to learn techniques too quickly."
+          ],
+          "answer": "B",
+          "id": "l2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "Heather reminds her visitors that they should",
+          "options": [
+            "put on their aprons.",
+            "change their clothes.",
+            "take off their jewellery."
+          ],
+          "answer": "C",
+          "id": "l2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "l2-g2",
+          "type": "mcq",
+          "prompt": "First thing Heather explains about kilns",
+          "options": [
+            "what their function is",
+            "when they were invented",
+            "ways of keeping them safe",
+            "where to put one in your home",
+            "what some people use instead of one"
+          ],
+          "answer": "A",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "l2-g2",
+          "type": "mcq",
+          "prompt": "Second thing Heather explains about kilns",
+          "options": [
+            "what their function is",
+            "when they were invented",
+            "ways of keeping them safe",
+            "where to put one in your home",
+            "what some people use instead of one"
+          ],
+          "answer": "E",
+          "accepted": [
+            "A"
+          ],
+          "id": "l2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "l2-g3",
+          "type": "mcq",
+          "prompt": "First point about a potter's tools",
+          "options": [
+            "Some are hard to hold.",
+            "Some are worth buying.",
+            "Some are essential items.",
+            "Some have memorable names.",
+            "Some are available for use by participants."
+          ],
+          "answer": "C",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "l2-g3",
+          "type": "mcq",
+          "prompt": "Second point about a potter's tools",
+          "options": [
+            "Some are hard to hold.",
+            "Some are worth buying.",
+            "Some are essential items.",
+            "Some have memorable names.",
+            "Some are available for use by participants."
+          ],
+          "answer": "E",
+          "accepted": [
+            "C"
+          ],
+          "id": "l2-q20"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Narrator",
+          "text": "Part two, you will hear a potter, Heather McCallum, speaking to a group of people who are visiting a pottery, a place where people make pots and other objects from clay. First, you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16."
+        },
+        {
+          "speaker": "Heather McCallum",
+          "text": "Hello and welcome. My name's Heather McCallum and I'm one of the potters who work here at Edelman Pottery. Before we go into the workshop, I just want to say a bit about the craft of pottery. Then we'll have a look at the equipment and you can try making a pot of your own. Like many people, I'm sure you know that pottery as an art form is tens of thousands of years old. And we know this because it stands the test of time. Things like baskets and pictures don't survive in the earth in the same way that pots do. And even if ancient pots are found in small pieces. They still provide a lot of information about the past. There's no doubt that pottery has given archaeologists a fascinating insight into how ancient humans lived. The shape of an artifact may have been lost. But archaeologists can tell whether the pots were for, say, storage or cooking by examining the impressions on the clay. The scratches from tools and the clay itself can reveal where the pots came from. When I ask people why they want to take a pottery class with me, they sometimes talk about these things. Like our ancestors, they hope that something they create will also last longer than they do. That their work, whether it is good or not, might say something about humanity many years after their death. Of course, you will all have your own reasons for coming here. As far as I'm concerned, what I love most is the concentration you need to make a good pot. That focus takes you away from the stresses of everyday life. If you're elderly, it's also good exercise for hands and wrists and helps with arthritis. And of course, it's a fun activity for children because it's so messy. Here at Edelman Pottery, we show you some of the basic pottery techniques so that you can use these to create whatever you wish. A gift for a friend perhaps. Like nearly everyone who comes here, I'm sure this is the first time you will have tried the art. So, we'll keep things simple today. Now, before we move on. Can I just say a word about what you're wearing? As we said in our email, please remove any watches, necklaces, etc., and put them somewhere safe. If you have long hair, do tie it back now. We'll provide aprons later, but I trust your clothes are old, but comfortable, not your favorite t-shirt or jeans. So, now we're in the workshop. Have a look around. There's a lot going on. To make pottery that will last, you need a potter's wheel, a kiln, which is basically a very hot oven where you fire the pottery, and some tools. So, first the kiln. If you look over in the far corner, You'll see one of ours. Since their invention, kilns have changed very little. Though in the past 20 years, a lot of progress has been made in temperature control. Basically, a kiln removes the water from clay at temperatures of around 1,000° C. This allows anything you've made to set permanently in shape. It's a pretty ugly, heavy object that's hard to keep in a house or flat, so most people don't have one. You may think, \"Can't I use my oven?\" Well, that's possible, but domestic ovens don't really get hot enough, and eventually the clay will crack and fall apart. Some people fire pottery in a fire pit outside, but bear in mind that can be dangerous. You also need to know about safety procedures for kilns as they release toxic compounds into the air. Every potter needs a potter's wheel. This machine is used to shape the clay into an object with circular walls or sides such as a bowl. Its invention revolutionized the pottery industry, allowing multiple items to be produced in a day. Lastly, there are a number of different tools that potters use depending on what they want to make. When you start, your hands can make all kinds of shapes and curves without relying on a sculpting tool. However, there are some basic tools that you will need to handle the clay on the wheel. Some look very strange and have even odd names that you may find hard to remember. Rather than go through them all now, I'll just name a few tools as we go along. We can provide these, and I wouldn't recommend spending money on them yet. So, let's try making a pot of your own."
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "number": 3,
+      "title": "A presentation on loneliness",
+      "context": "Two students discuss their presentation on loneliness and mental health.",
+      "groups": [
+        {
+          "id": "l3-g1",
+          "label": "Questions 21 and 22",
+          "instructions": "Choose TWO letters, A–E. Which TWO things do the students both believe are responsible for the increase in loneliness?",
+          "range": [
+            21,
+            22
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g2",
+          "label": "Questions 23 and 24",
+          "instructions": "Choose TWO letters, A–E. Which TWO health risks associated with loneliness do the students agree are based on solid evidence?",
+          "range": [
+            23,
+            24
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g3",
+          "label": "Questions 25 and 26",
+          "instructions": "Choose TWO letters, A–E. Which TWO opinions do both the students express about the evolutionary theory of loneliness?",
+          "range": [
+            25,
+            26
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g4",
+          "label": "Questions 27–30",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "range": [
+            27,
+            30
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "First cause of the increase in loneliness",
+          "options": [
+            "social media",
+            "smaller nuclear families",
+            "urban design",
+            "longer lifespans",
+            "a mobile workforce"
+          ],
+          "answer": "C",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "Second cause of the increase in loneliness",
+          "options": [
+            "social media",
+            "smaller nuclear families",
+            "urban design",
+            "longer lifespans",
+            "a mobile workforce"
+          ],
+          "answer": "E",
+          "accepted": [
+            "C"
+          ],
+          "id": "l3-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "First health risk based on solid evidence",
+          "options": [
+            "a weakened immune system",
+            "dementia",
+            "cancer",
+            "obesity",
+            "cardiovascular disease"
+          ],
+          "answer": "A",
+          "accepted": [
+            "C"
+          ],
+          "id": "l3-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "Second health risk based on solid evidence",
+          "options": [
+            "a weakened immune system",
+            "dementia",
+            "cancer",
+            "obesity",
+            "cardiovascular disease"
+          ],
+          "answer": "C",
+          "accepted": [
+            "A"
+          ],
+          "id": "l3-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "l3-g3",
+          "type": "mcq",
+          "prompt": "First opinion about the evolutionary theory",
+          "options": [
+            "It has little practical relevance.",
+            "It needs further investigation.",
+            "It is misleading.",
+            "It should be more widely accepted.",
+            "It is difficult to understand."
+          ],
+          "answer": "A",
+          "accepted": [
+            "B"
+          ],
+          "id": "l3-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "l3-g3",
+          "type": "mcq",
+          "prompt": "Second opinion about the evolutionary theory",
+          "options": [
+            "It has little practical relevance.",
+            "It needs further investigation.",
+            "It is misleading.",
+            "It should be more widely accepted.",
+            "It is difficult to understand."
+          ],
+          "answer": "B",
+          "accepted": [
+            "A"
+          ],
+          "id": "l3-q26"
+        },
+        {
+          "number": 27,
+          "groupId": "l3-g4",
+          "type": "mcq",
+          "prompt": "When comparing loneliness to depression, the students",
+          "options": [
+            "doubt that there will ever be a medical cure for loneliness.",
+            "claim that the link between loneliness and mental health is overstated.",
+            "express frustration that loneliness is not taken more seriously."
+          ],
+          "answer": "A",
+          "id": "l3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "l3-g4",
+          "type": "mcq",
+          "prompt": "Why do the students decide to start their presentation with an example from their own experience?",
+          "options": [
+            "to explain how difficult loneliness can be",
+            "to highlight a situation that most students will recognise",
+            "to emphasise that feeling lonely is more common for men than women"
+          ],
+          "answer": "B",
+          "id": "l3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "l3-g4",
+          "type": "mcq",
+          "prompt": "The students agree that talking to strangers is a good strategy for dealing with loneliness because",
+          "options": [
+            "it creates a sense of belonging.",
+            "it builds self-confidence.",
+            "it makes people feel more positive."
+          ],
+          "answer": "A",
+          "id": "l3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "l3-g4",
+          "type": "mcq",
+          "prompt": "The students find it difficult to understand why solitude is considered to be",
+          "options": [
+            "similar to loneliness.",
+            "necessary for mental health.",
+            "an enjoyable experience."
+          ],
+          "answer": "C",
+          "id": "l3-q30"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "So, to return to our research into loneliness. Now, Dev,"
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "okay, Tamara, it's been a real eye opener. I had no idea that loneliness has been increasing steadily for the last 20 years."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "I know. And it's the same all over the world. The downside of a modern lifestyle, I guess."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Did you come to any conclusions about what the reasons for the increase are?"
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Well, I'd assumed it was mainly an issue for the elderly. But in fact, it's something which affects young people just as much."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "So nothing really to do with longer lifespans. Um, what about social media? In my case, far from making me feel isolated, it actually does the opposite."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "It definitely does more good than harm. I'd say loneliness has a lot to do with the way cities are designed. People living in high-rise flats with not much opportunity to speak to their neighbor."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "I think you're right."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Another possible reason is that people are having fewer children and don't live in large extended family groups."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "But in this country anyway, that all changed decades ago. And yet loneliness is a more recent problem."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "I suppose so. A more plausible explanation is that people are having to move around for work and often end up living miles away from their family and friends."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Yeah, it's true. Looking at the studies on health risks and loneliness, there are claims that loneliness has as much impact as smoking 15 cigarettes a day, or similar to the risks caused by obesity. But I'm not sure there's enough evidence for some of these claims."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Well, what about that one in Finland which showed that loneliness increased the risk of cancer by about 10%. And those findings have been supported by other studies, too."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "You're right about that one. I was actually thinking of the studies on dementia. Some found no association between loneliness and dementia and others found the opposite."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Not exactly reliable. Then there's been a lot of research on cardiovascular disease and whether loneliness contributes to that."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Yes, I read that it was hard to reach a judgment. as the definition of loneliness varied quite a lot and the responses from participants were too subjective. but there's no doubt that loneliness contributes to a weakened immune system."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "unquestionably the data on that is sound."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "what did you think about the evolutionary theory of loneliness?"
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "well I thought the idea that loneliness evolved because it motivated people to be with other people quite convincing. Survival often depended on group cooperation. But I don't think there's enough evidence to claim that there must be a group of neurons in our brains which influence social behavior by making us feel bad when we're alone."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "There are a few studies which support theory, but not conclusively enough. More evidence is needed."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "And anyway, this theory is not really useful when it comes to solving the problem of loneliness today. Hey,"
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "true."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Should we look at the relationship between loneliness and mental health now?"
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Okay. So loneliness and depression are clearly related. and that's been recognized by various governments around the world. But unlike depression, loneliness has no recognized clinical form."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "There's no available diagnosis or effective treatments, and that's not likely to change. I don't think so either. I was thinking we should start our presentation with an example from our own experience. I'd like to talk about how lonely I was when I started university. being away from home for the first time and all that."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Good idea. Everyone will be able to relate to that. Although a lot of students were probably too embarrassed to admit to it."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Yeah, we could discuss ways of dealing with loneliness as well, like just talking to strangers."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Loads of studies have shown that interactions with shop assistants and bar staff make people feel more optimistic and rel Next."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "I don't know about that, but it must make people feel more connected with their community."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "True. Although, you need to be a certain kind of person to be able to just strike up a conversation."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Good point. We should say something about solitude and how being alone and being lonely aren't the same thing. It's strange the way some people can't stand being by themselves while others love it."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Yeah. Yeah, the research shows a certain amount of solitude is beneficial for well-being, which I appreciate, but being alone isn't something I actually like. I'd never choose to go on holiday alone, for example."
+        },
+        {
+          "speaker": "Speaker 1 (Tamara)",
+          "text": "Me neither."
+        },
+        {
+          "speaker": "Speaker 2 (Dev)",
+          "text": "Well, let's not."
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "number": 4,
+      "title": "Reclaiming urban rivers",
+      "context": "A lecture about how cities are bringing their rivers back into public use.",
+      "groups": [
+        {
+          "id": "l4-g1",
+          "label": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "range": [
+            31,
+            40
+          ],
+          "layout": "notes",
+          "body": [
+            "# Reclaiming urban rivers",
+            "## Historical background",
+            "• Nearly all major cities were built on a river.",
+            "• Rivers were used for transport, fishing and recreation.",
+            "• Industrial development and rising populations led to more sewage and pollution from {{31}} on the river bank.",
+            "• In 1957, the River Thames was declared biologically {{32}}.",
+            "## Recent improvements",
+            "• Seals and even a {{33}} have been seen in the River Thames.",
+            "• Riverside warehouses are converted into restaurants and {{34}}.",
+            "• In Los Angeles, plans include a riverside {{35}} and displays of {{36}} projects.",
+            "• In Paris, {{37}} are created on the sides of the river every summer.",
+            "## Transport possibilities",
+            "• Over 2 billion passengers already travel by {{38}} in cities around the world.",
+            "• Goods could travel by freight barges and electric {{39}}, or in future by {{40}}."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 31,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Source of pollution on the river bank",
+          "answer": "factories",
+          "id": "l4-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "What the River Thames was declared biologically in 1957",
+          "answer": "dead",
+          "id": "l4-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Large sea animal seen in the River Thames",
+          "answer": "whale",
+          "id": "l4-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Buildings riverside warehouses are converted into, besides restaurants",
+          "answer": "apartments",
+          "id": "l4-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Riverside facility planned in Los Angeles",
+          "answer": "park",
+          "id": "l4-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Type of projects to be displayed in Los Angeles",
+          "answer": "art",
+          "id": "l4-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "What is created on the sides of the river in Paris every summer",
+          "answer": "beaches",
+          "id": "l4-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Form of transport already used by over 2 billion passengers",
+          "answer": "ferry",
+          "id": "l4-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Electric vehicles that could transport goods",
+          "answer": "bikes",
+          "id": "l4-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Future method of transporting goods",
+          "answer": "drone",
+          "id": "l4-q40"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "It's quite hard to think of a city that doesn't have a big river running through it. If you think about the major cities in the world, Shanghai, New York, Mumbai, London, they're nearly all built on rivers. When these cities were established hundreds or even thousands of years ago. The rivers were a big part of people's lives. In 16th century London, the quickest way to get from one part of the city to another was by river. But people also used the river for fishing, as the water then was relatively clean, and they would also go on boat trips up and down the river just for pleasure, as a relaxing escape from the noise and bustle of the city streets. But as industries developed and populations increased, city rivers suffered. The rising number of people meant there was a huge increase in the amount of sewage discharged into the rivers. Rivers had always been used for this purpose, but when the number of inhabitants was so small, that wasn't such a problem. However, as cities grew to over a million inhabitants, the impact on the rivers became more serious. In addition, other types of pollution increased as factories were built beside the river. and discharge their waste materials into the water. This got worse over time. As recently as 1957, scientists at London's Natural History Museum declared that the river Thames was dead in biological terms, as the water was too filthy to support any kind of life. But in recent years, as rivers lost their industrial function, cities have begun to recognize their true value and to take steps to clean them up. For example, the river Thames is now cleaner than it's been for 150 years. These days, you can see seals swimming in the water. And recently, people had to try to rescue a whale which had got lost and swam up the river from the sea by mistake. Unfortunately, they didn't succeed, but the problem was disorientation rather than the quality of the water. Then, all around the world, riverside areas are now seen as prime sites. for development. Warehouses that were once used for storing goods are now being converted into expensive restaurants and also into apartments with river views which are in great demand sell for astronomical prices. In Los Angeles on the west coast of the USA, an architect has plans to revitalize the banks of the river and to make a park there which can provide facilities for sports as well as a natural environment for relaxing in. It's also hoped that the riverside can be used for other purposes. It's been proposed that facilities could be provided for displaying projects related to various kinds of art that have been produced by local people. For example, in the city of Paris during the summer months of July and August, all the traffic is banned from the roads by the sides of the river and the banks are transformed into beaches where people can relax in deck chairs under potted palm. trees, sunbathe, or buy a drink or a snack while enjoying the view. But to make the most of our rivers in our increasingly crowded cities, we need to allow them to regain their original purpose and be used as a means of transport, reclaiming our streets from cars and lorries. To do this, we'll have to shift more traffic back to the river, but this time cleanly and silently making the most of modern technology. Already more than 2 billion passengers use the ferry to travel in cities around the world like Istanbul, San Francisco, and New York. And these numbers are set to rise further. Admittedly, it's not a fast way of traveling, but neither is a car when it's stuck in traffic. Of course, passenger traffic on roads might decrease as more people start working from home, but another Recent development. The huge rise in online shopping has meant that another form of urban traffic just keeps on growing and that's deliveries. Trucks and vans in the city pollute and double park while dropping off parcels. Imagine using the immense capacity of shipping to take these trucks off the road. One freight barge can replace 44 large trucks, uses far less energy, and causes less pollution. When the barge docks at the riverside. The parcels could be taken the last few kilometers to their final destination on cargo bikes, electric ones. Of course, this is already happening in the Dutch city of Amsterdam. And in future, the final stage could even be carried out by drone, although at present this isn't allowed. Wouldn't it be great to unblock our city centers in this way?"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "number": 1,
+      "title": "The kākāpō",
+      "subtitle": "The kākāpō is a nocturnal, flightless parrot that is critically endangered and one of New Zealand's unique treasures",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "The kākāpō, also known as the owl parrot, is a large, forest-dwelling bird, with a pale owl-like face. Up to 64 cm in length, it has predominantly yellow-green feathers, forward-facing eyes, a large grey beak, large blue feet, and relatively short wings and tail. It is the world's only flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years. Kākāpō are solitary birds and tend to occupy the same home range for many years. They forage on the ground and climb high into trees. They often leap from trees and flap their wings, but at best manage a controlled descent to the ground. They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds."
+        },
+        {
+          "label": "",
+          "text": "Kākāpō breed in summer and autumn, but only in years when food is plentiful. Males play no part incubation or chick-rearing - females alone incubate eggs and feed the chicks. The 1-4 eggs are laid in soil, which is repeatedly turned over before and during incubation. The female kākāpō has to spend long periods away from the nest searching for food, which leaves the unattended eggs and chicks particularly vulnerable to predators."
+        },
+        {
+          "label": "",
+          "text": "Before humans arrived, kākāpō were common throughout New Zealand's forests. However, this all changed with the arrival of the first Polynesian settlers about 700 years ago. For the early settlers, the flightless kākāpō was easy prey. They ate its meat and used its feathers to make soft cloaks. With them came the Polynesian dog and rat, which also preyed on kākāpō. By the time European colonisers arrived in the early 1800s, kākāpō had become confined to the central North Island and forested parts of the South Island. The fall in kākāpō numbers was accelerated by European colonisation. A great deal of habitat was lost through forest clearance, and introduced species such as deer depleted the remaining forests of food. Other predators such as cats, stoats and two more species of rat were also introduced. The kākāpō were in serious trouble."
+        },
+        {
+          "label": "",
+          "text": "In 1894, the New Zealand government launched its first attempt to save the kākāpō. Conservationist Richard Henry led an effort to relocate several hundred of the birds to predator-free Resolution Island in Fiordland. Unfortunately, the island didn't remain predator free - stoats arrived within six years, eventually destroying the kākāpō population. By the mid-1900s, the kākāpō was practically a lost species. Only a few clung to life in the most isolated parts of New Zealand."
+        },
+        {
+          "label": "",
+          "text": "From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find kākāpō, focusing mainly on Fiordland. Six were caught, but there were no females amongst them and all but one died within a few months of captivity. In 1974, a new initiative was launched, and by 1977, 18 more kākāpō were found in Fiordland. However, there were still no females. In 1977, a large population of males was spotted in Rakiura - a large island free from stoats, ferrets and weasels. There were about 200 individuals, and in 1980 it was confirmed females were also present. These birds have been the foundation of all subsequent work in managing the species."
+        },
+        {
+          "label": "",
+          "text": "Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers. As a result, during 1980-97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island. However, breeding success was hard to achieve. Rats were found to be a major predator of kākāpō chicks and an insufficient number of chicks survived to offset adult mortality. By 1995, although at least 12 chicks had been produced on the islands, only three had survived. The kākāpō population had dropped to 51 birds. The critical situation prompted an urgent review of kākāpō management in New Zealand."
+        },
+        {
+          "label": "",
+          "text": "In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kākāpō Scientific and Technical Advisory Committee and a higher amount of funding. Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks. After the first five years of the Recovery Plan, the population was on target. By 2000, five new females had been produced, and the total population had grown to 62 birds. For the first time, there was cautious optimism for the future of kākāpō and by June 2020, a total of 210 birds was recorded."
+        },
+        {
+          "label": "",
+          "text": "Today, kākāpō management continues to be guided by the kākāpō Recovery Plan. Its key goals are: minimise the loss of genetic diversity in the kākāpō population, restore or maintain sufficient habitat to accommodate the expected increase in the kākāpō population, and ensure stakeholders continue to be fully engaged in the preservation of the species."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r1-g1",
+          "label": "Questions 1–6",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "range": [
+            1,
+            6
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r1-g2",
+          "label": "Questions 7–13",
+          "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+          "range": [
+            7,
+            13
+          ],
+          "layout": "notes",
+          "body": [
+            "# New Zealand's kākāpō",
+            "## A type of parrot",
+            "• diet consists of fern fronds, various parts of a tree and {{7}}",
+            "• nests are created in {{8}}, where eggs are laid",
+            "## Arrival of Polynesian settlers",
+            "• the {{9}} of the kākāpō were used to make clothes",
+            "## Arrival of European colonisers",
+            "• {{10}} were an animal they introduced that ate the kākāpō's food sources",
+            "## Protecting kākāpō",
+            "• Richard Henry, a conservationist, tried to protect the kākāpō",
+            "• a definite sighting of female kākāpō on Rakiura Island was reported in the year {{11}}",
+            "• the Recovery Plan included an increase in {{12}}",
+            "• a current goal of the Recovery Plan is to maintain the involvement of {{13}} in kākāpō protection"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "There are other parrots that share the kākāpō's inability to fly.",
+          "answer": "FALSE",
+          "id": "r1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "Adult kākāpō produce chicks every year.",
+          "answer": "FALSE",
+          "id": "r1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "Adult male kākāpō bring food back to nesting females.",
+          "answer": "FALSE",
+          "id": "r1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "The Polynesian rat was a greater threat to the kākāpō than Polynesian settlers.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "Kākāpō were transferred from Rakiura Island to other locations because they were at risk from feral cats.",
+          "answer": "TRUE",
+          "id": "r1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "One Recovery Plan initiative that helped increase the kākāpō population size was caring for struggling young birds.",
+          "answer": "TRUE",
+          "id": "r1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Kākāpō notes 7",
+          "answer": "Bulbs",
+          "id": "r1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Kākāpō notes 8",
+          "answer": "Soil",
+          "id": "r1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Kākāpō notes 9",
+          "answer": "feathers",
+          "id": "r1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Kākāpō notes 10",
+          "answer": "Deer",
+          "id": "r1-q10"
+        },
+        {
+          "number": 11,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Kākāpō notes 11",
+          "answer": "1980",
+          "id": "r1-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Kākāpō notes 12",
+          "answer": "Funding",
+          "id": "r1-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Kākāpō notes 13",
+          "answer": "stakeholders",
+          "id": "r1-q13"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "number": 2,
+      "title": "The return of the elm to Britain",
+      "subtitle": "Mark Rowe investigates attempts to reintroduce elms to Britain",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Around 25 million elms, accounting for 90% of all elm trees in the UK, died during the 1960s and '70s of Dutch elm disease. In the aftermath, the elm, once so dominant in the British landscape, was largely forgotten. However, there's now hope the elm may be reintroduced to the countryside of central and southern England. Any reintroduction will start from a very low base. 'The impact of the disease is difficult to picture if you hadn't seen what was there before,' says Matt Elliot of the Woodland Trust. 'You look at old photographs from the 1960s and it's only then that you realise the impact [elms had]... They were significant, large trees... then they were gone.'"
+        },
+        {
+          "label": "B",
+          "text": "The disease is caused by a fungus that blocks the elms' vascular (water, nutrient and food transport) system, causing branches to wilt and die. A first epidemic, which occurred in the 1920s, gradually died down, but in the '70s a second epidemic was triggered by shipments of elm from Canada. The wood came in the form of logs destined for boat building and its intact bark was perfect for the elm bark beetles that spread the deadly fungus. This time, the beetles carried a much more virulent strain that destroyed the vast majority of British elms."
+        },
+        {
+          "label": "C",
+          "text": "Today, elms still exist in the southern English countryside but mostly only in low hedgerows between fields. 'We have millions of small elms in hedgerows but they get targeted by the beetle as soon as they reach a certain size,' says Karen Russell, co-author of the report 'Where we are with elm'. Once the trunk of the elm reaches 10-15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold. Yet mature specimens have been identified, in counties such as Cambridgeshire, that are hundreds of years old, and have mysteriously escaped the epidemic. The key, Russell says, is to identify and study those trees that have survived and work out why they stood tall when millions of others succumbed. Nevertheless, opportunities are limited as the number of these mature survivors is relatively small. 'What are the reasons for their survival?' asks Russell. 'Avoidance, tolerance, resistance? We don't know where the balance lies between the three. I don't see how it can be entirely down to luck.'"
+        },
+        {
+          "label": "D",
+          "text": "For centuries, elm ran a close second to oak as the hardwood tree of choice in Britain and was in many instances the most prominent tree in the landscape. Not only was elm common in European forests, it became a key component of birch, ash and hazel woodlands. The use of elm is thought to go back to the Bronze Age, when it was widely used for tools. Elm was also the preferred material for shields and early swords. In the 18th century, it was planted more widely and its wood was used for items such as storage crates and flooring. It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment."
+        },
+        {
+          "label": "E",
+          "text": "Given how ingrained elm is in British culture, it's unsurprising the tree has many advocates. Amongst them is Peter Bourne of the National Elm Collection in Brighton. 'I saw Dutch elm disease unfold as a small boy,' he says. 'The elm seemed to be part of rural England, but I remember watching trees just lose their leaves and that really stayed with me.' Today, the city of Brighton's elms total about 17,000. Local factors appear to have contributed to their survival. Strong winds from the sea make it difficult for the determined elm bark beetle to attack this coastal city's elm population. However, the situation is precarious. 'The beetles can just march in if we're not careful, as the threat is right on our doorstep,' says Bourne."
+        },
+        {
+          "label": "F",
+          "text": "Any prospect of the elm returning relies heavily on trees being either resistant to, or tolerant of, the disease. This means a widespread reintroduction would involve existing or new hybrid strains derived from resistant, generally non- native elm species. A new generation of seedlings have been bred and tested to see if they can withstand the fungus by cutting a small slit on the bark and injecting a tiny amount of the pathogen. 'The effects are very quick,' says Russell. 'You return in four to six weeks and trees that are resistant show no symptoms, whereas those that are susceptible show leaf loss and may even have died completely.'"
+        },
+        {
+          "label": "G",
+          "text": "All of this raises questions of social acceptance, acknowledges Russell. 'If we're putting elm back into the landscape, a small element of it is not native - are we bothered about that?' For her, the environmental case for reintroducing elm is strong. 'They will host wildlife, which is a good thing.' Others are more wary. 'On the face of it, it seems like a good idea,' says Elliot. The problem, he suggests, is that, 'You're replacing a native species with a horticultural analogue*. You're effectively cloning.' There's also the risk of introducing new diseases. Rather than plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently. 'Sometimes the best thing you can do is just give nature time to recover... over time, you might get resistance,' says Elliot."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r2-g1",
+          "label": "Questions 14–18",
+          "instructions": "Reading Passage 2 has seven sections, A–G. Which section contains the following information? Write the correct letter, A–G. NB You may use any letter more than once.",
+          "range": [
+            14,
+            18
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ]
+        },
+        {
+          "id": "r2-g2",
+          "label": "Questions 19–23",
+          "instructions": "Look at the following statements and the list of people below. Match each statement with the correct person, A, B or C. NB You may use any letter more than once.",
+          "range": [
+            19,
+            23
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A Matt Elliot",
+            "B Karen Russell",
+            "C Peter Bourne"
+          ]
+        },
+        {
+          "id": "r2-g3",
+          "label": "Questions 24–26",
+          "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            24,
+            26
+          ],
+          "layout": "summary",
+          "body": [
+            "# Uses of a popular tree",
+            "For hundreds of years, the only tree that was more popular in Britain than elm was {{24}}. Starting in the Bronze Age, many tools were made from elm and people also used it to make weapons. In the 18th century, it was grown to provide wood for boxes and {{25}}. Due to its strength, elm was often used for mining equipment and the Cutty Sark's {{26}} was also constructed from elm."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "reference to the research problems that arise from there being only a few surviving large elms",
+          "answer": "C",
+          "id": "r2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "details of a difference of opinion about the value of reintroducing elms to Britain",
+          "answer": "G",
+          "id": "r2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "reference to how Dutch elm disease was brought into Britain",
+          "answer": "B",
+          "id": "r2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a description of the conditions that have enabled a location in Britain to escape Dutch elm disease",
+          "answer": "E",
+          "id": "r2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "reference to the stage at which young elms become vulnerable to Dutch elm disease",
+          "answer": "C",
+          "id": "r2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "r2-g2",
+          "type": "match",
+          "prompt": "If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible.",
+          "answer": "B",
+          "id": "r2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "r2-g2",
+          "type": "match",
+          "prompt": "It may be better to wait and see if the mature elms that have survived continue to flourish.",
+          "answer": "A",
+          "id": "r2-q20"
+        },
+        {
+          "number": 21,
+          "groupId": "r2-g2",
+          "type": "match",
+          "prompt": "There must be an explanation for the survival of some mature elms.",
+          "answer": "B",
+          "id": "r2-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "r2-g2",
+          "type": "match",
+          "prompt": "We need to be aware that insects carrying Dutch elm disease are not very far away.",
+          "answer": "C",
+          "id": "r2-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "r2-g2",
+          "type": "match",
+          "prompt": "You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was.",
+          "answer": "A",
+          "id": "r2-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Uses of elm 24",
+          "answer": "oak",
+          "id": "r2-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Uses of elm 25",
+          "answer": "flooring",
+          "id": "r2-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Uses of elm 26",
+          "answer": "keel",
+          "id": "r2-q26"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "number": 3,
+      "title": "How stress affects our judgement",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Some of the most important decisions of our lives occur while we're feeling stressed and anxious. From medical decisions to financial and professional ones, we are all sometimes required to weigh up information under stressful conditions. But do we become better or worse at processing and using information under such circumstances?"
+        },
+        {
+          "label": "",
+          "text": "My colleague and I, both neuroscientists, wanted to investigate how the mind operates under stress, so we visited some local fire stations. Firefighters' workdays vary quite a bit. Some are pretty relaxed; they'll spend their time washing the truck, cleaning equipment, cooking meals and reading. Other days can be hectic, with numerous life-threatening incidents to attend to; they'll enter burning homes to rescue trapped residents, and assist with medical emergencies. These ups and downs presented the perfect setting for an experiment on how people's ability to use information changes when they feel under pressure."
+        },
+        {
+          "label": "",
+          "text": "We found that perceived threat acted as a trigger for a stress reaction that made the task of processing information easier for the firefighters - but only as long as it conveyed bad news. This is how we arrived at these results. We asked the firefighters to estimate their likelihood of experiencing 40 different adverse events in their life, such as being involved in an accident or becoming a victim of card fraud. We then gave them either good news (that their likelihood of experiencing these events was lower than they'd thought) or bad news (that it was higher) and asked them to provide new estimates. People are normally quite optimistic - they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; but when they were under stress, a different pattern emerged. Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response. In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought)."
+        },
+        {
+          "label": "",
+          "text": "Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online. Sure enough, their cortisol levels spiked, their heart rates went up and they suddenly became better at processing unrelated, yet alarming, information about rates of disease and violence."
+        },
+        {
+          "label": "",
+          "text": "When we experience stressful events, a physiological change is triggered that causes us to take in warnings and focus on what might go wrong. Brain imaging reveals that this 'switch' is related to a sudden boost in a neural signal important for learning, specifically in response to unexpected warning signs, such as faces expressing fear."
+        },
+        {
+          "label": "",
+          "text": "Such neural engineering could have helped prehistoric humans to survive. When our ancestors found themselves surrounded by hungry animals, they would have benefited from an increased ability to learn about hazards. In a safe environment, however, it would have been wasteful to be on high alert constantly. So, a neural switch that automatically increases or decreases our ability to process warnings in response to changes in our environment could have been useful. In fact, people with clinical depression and anxiety seem unable to switch away from a state in which they absorb all the negative messages around them."
+        },
+        {
+          "label": "",
+          "text": "It is also important to realise that stress travels rapidly from one person to the next. If a co-worker is stressed, we are more likely to tense up and feel stressed ourselves. We don't even need to be in the same room with someone for their emotions to influence our behaviour. Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting messages ourselves. If we observe negative posts, such as complaints about a long queue at the coffee shop, we will in turn create more negative posts."
+        },
+        {
+          "label": "",
+          "text": "In some ways, many of us now live as if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media. Repeatedly checking your phone, according to a survey conducted by the American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, which evolution has equipped us with to help us avoid famished predators, is now being triggered by an online post. Social media posting, according to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities."
+        },
+        {
+          "label": "",
+          "text": "The fact that stress increases the likelihood that we will focus more on alarming messages, together with the fact that it spreads extremely rapidly, can create collective fear that is not always justified. After a stressful public event, such as a natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media, which individuals become very aware of. But that has the effect of exaggerating existing danger. And so, a reliable pattern emerges - stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do."
+        },
+        {
+          "label": "",
+          "text": "The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful inducing people to act to find solutions. Being aware of the close relationship between people's emotional state and how they process information can help us frame our messages more effectively and become conscientious agents of change."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r3-g1",
+          "label": "Questions 27–30",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            27,
+            30
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r3-g2",
+          "label": "Questions 31–35",
+          "instructions": "Complete each sentence with the correct ending, A–G, below.",
+          "range": [
+            31,
+            35
+          ],
+          "layout": "select",
+          "sharedOptions": [
+            "A made them feel optimistic.",
+            "B took relatively little notice of bad news.",
+            "C responded to negative and positive information in the same way.",
+            "D were feeling under stress.",
+            "E put them in a stressful situation.",
+            "F behaved in a similar manner, regardless of the circumstances.",
+            "G thought it more likely that they would experience something bad."
+          ]
+        },
+        {
+          "id": "r3-g3",
+          "label": "Questions 36–40",
+          "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "range": [
+            36,
+            40
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "In the first paragraph, the writer introduces the topic of the text by",
+          "options": [
+            "defining some commonly used terms.",
+            "questioning a widely held assumption.",
+            "mentioning a challenge faced by everyone.",
+            "specifying a situation which makes us most anxious."
+          ],
+          "answer": "C",
+          "id": "r3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What point does the writer make about firefighters in the second paragraph?",
+          "options": [
+            "The regular changes of stress levels in their working lives make them ideal study subjects.",
+            "The strategies they use to handle stress are of particular interest to researchers.",
+            "The stressful nature of their job is typical of many public service professions.",
+            "Their personalities make them especially well-suited to working under stress."
+          ],
+          "answer": "A",
+          "id": "r3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What is the writer doing in the fourth paragraph?",
+          "options": [
+            "explaining their findings",
+            "justifying their approach",
+            "setting out their objectives",
+            "describing their methodology"
+          ],
+          "answer": "D",
+          "id": "r3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "In the seventh paragraph, the writer describes a mechanism in the brain which",
+          "options": [
+            "enables people to respond more quickly to stressful situations.",
+            "results in increased ability to control our levels of anxiety.",
+            "produces heightened sensitivity to indications of external threats.",
+            "is activated when there is a need to communicate a sense of danger."
+          ],
+          "answer": "C",
+          "id": "r3-q30"
+        },
+        {
+          "number": 31,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "At times when they were relaxed, the firefighters usually",
+          "answer": "B",
+          "id": "r3-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "The researchers noted that when the firefighters were stressed, they",
+          "answer": "G",
+          "id": "r3-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "When the firefighters were told good news, they always",
+          "answer": "F",
+          "id": "r3-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "The students' cortisol levels and heart rates were affected when the researchers",
+          "answer": "E",
+          "id": "r3-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "In both experiments, negative information was processed better when the subjects",
+          "answer": "D",
+          "id": "r3-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "The tone of the content we post on social media tends to reflect the nature of the posts in our feeds.",
+          "answer": "YES",
+          "id": "r3-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Phones have a greater impact on our stress levels than other electronic media devices.",
+          "answer": "NOT GIVEN",
+          "id": "r3-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "The more we read about a stressful public event on social media, the less able we are to take the information in.",
+          "answer": "NO",
+          "id": "r3-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Stress created by social media posts can lead us to take unnecessary precautions.",
+          "answer": "YES",
+          "id": "r3-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Our tendency to be affected by other people's moods can be used in a positive way.",
+          "answer": "YES",
+          "id": "r3-q40"
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "writing-task-1",
+      "number": 1,
+      "title": "Writing Task 1",
+      "prompt": "The first table below shows changes in the total population of New York City from 1800 to 2000. The second and third tables show changes in the population of the five districts of the city (Manhattan, Brooklyn, Bronx, Queens, Staten Island) over the same period.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "instructions": [
+        "Write at least 150 words.",
+        "You should spend about 20 minutes on this task."
+      ],
+      "minimumWords": 150,
+      "suggestedMinutes": 20,
+      "figure": "/media/figures/ielts20/test1-writing-task1.jpg",
+      "figureAlt": "Three tables showing the population of New York City and the share living in Manhattan and the other four districts in 1800, 1900 and 2000."
+    },
+    {
+      "id": "writing-task-2",
+      "number": 2,
+      "title": "Writing Task 2",
+      "prompt": "Access to clean water is a basic human right. Therefore, every home should have a water supply that is provided free of charge.\n\nDo you agree or disagree?",
+      "instructions": [
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words.",
+        "You should spend about 40 minutes on this task."
+      ],
+      "minimumWords": 250,
+      "suggestedMinutes": 40
+    }
+  ],
+  "speaking": [
+    {
+      "id": "speaking-1",
+      "number": 1,
+      "title": "Part 1 · Interview",
+      "description": "The examiner asks you about walking and walking holidays.",
+      "questions": [
+        {
+          "id": "s1",
+          "text": "How much walking do you do in your daily life?"
+        },
+        {
+          "id": "s2",
+          "text": "Did you walk more when you were at school than now?"
+        },
+        {
+          "id": "s3",
+          "text": "What places are there to go for a walk near where you live?"
+        },
+        {
+          "id": "s4",
+          "text": "Would you ever like to go on a walking holiday?"
+        }
+      ]
+    },
+    {
+      "id": "speaking-2",
+      "number": 2,
+      "title": "Part 2 · Cue card",
+      "description": "Describe a play or a film you have seen that you would like to see again with friends.",
+      "questions": [],
+      "cueCard": {
+        "topic": "Describe a play or a film you have seen that you would like to see again with friends.",
+        "bullets": [
+          "what play or film you'd like to go to see again",
+          "who you would go with",
+          "what other people have said about this play or film"
+        ],
+        "rounding": "and explain why you would like to see this play or film again with friends.",
+        "preparationSeconds": 60,
+        "speakingSeconds": 120
+      }
+    },
+    {
+      "id": "speaking-3",
+      "number": 3,
+      "title": "Part 3 · Discussion",
+      "description": "Discussion topics: theatre audiences and working as an actor.",
+      "questions": [
+        {
+          "id": "s5",
+          "text": "What are the most popular kinds of plays or shows at theatres in your country?"
+        },
+        {
+          "id": "s6",
+          "text": "How easy is it to get tickets to the theatre?"
+        },
+        {
+          "id": "s7",
+          "text": "Do you think theatres need to do more to attract younger audiences?"
+        },
+        {
+          "id": "s8",
+          "text": "What do you think attracts people to working as an actor?"
+        },
+        {
+          "id": "s9",
+          "text": "What are some of the qualities that a person needs to have if they want to become an actor?"
+        },
+        {
+          "id": "s10",
+          "text": "Can you think of any disadvantages of working as an actor?"
+        }
+      ]
+    }
+  ],
+  "publishedAt": "2026-11-12T00:00:00Z",
+  "scoring": {
+    "listeningVersion": "ielts-academic-2026",
+    "readingVersion": "ielts-academic-2026",
+    "rubricVersion": "apex-local-rubric-v1"
+  },
+  "audioUrl": "/media/listening/ielts20-test1"
+}

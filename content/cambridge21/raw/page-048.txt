@@ -1,0 +1,47 @@
+                                                                                     Reading
+
+
+hypothetical takeover by super-intelligent      The medical profession has also recognised
+robots. Similarly, Rodney Brooks, professor     the drawbacks to AI. The IBM Watson for
+of robotics at Massachusetts Institute          Oncology programme was a piece of AI that
+of Technology, writes that 'almost all          was meant to help doctors treat cancer. Even
+innovations in robotics and AI take far, far,   though it was developed to deliver the best
+longer to be really widely deployed than        recommendations, human experts found
+people in the field and outside the field       it hard to trust the machine. As a result,
+imagine'.                                       the AI programme was abandoned in most
+                                                hospitals where it was trialled.
+One of the many difficulties in deploying
+machine learning systems is that AI is          Similar difficulties arose in the legal domain
+extremely susceptible to adversarial attacks.   when algorithms were used in courts in the
+This means that a malicious AI can target       US to sentence criminals. An algorithm
+another AI to make it behave in a certain       calculated risk assessment scores and
+way, such as forcing it to make wrong           advised judges on the sentencing. The system
+predictions. Many researchers have warned       was found to amplify structural racial
+against the rolling out of AI without           discrimination and was later abandoned.
+appropriate security standards and defence
+mechanisms. Still, AI security remains          There are some crucial lessons here for
+an often overlooked topic when machine          everyone aiming to boost investments in
+learning systems are installed.                 national AI programmes. These examples
+                                                demonstrate that there is no AI solution
+If we are to reap the benefits and minimise     for everything. Using AI simply for the
+the potential harms of AI, we must start        sake of AI may not always be productive or
+thinking about how machine learning can         useful, and not every issue is best addressed
+be meaningfully applied to specific areas       by applying machine intelligence to it.
+of government, business and society. This       All solutions come with a cost and not
+means we need to have a discussion about AI     everything that can be automated should be.
+ethics and the distrust that many people have
+towards machine learning.
+
+Most importantly, we need to be aware of
+the limitations of AI and where people still
+need to take the lead. Instead of painting an
+unrealistic picture of the power of AI, it is
+important to take a step back and separate
+the actual technological capabilities of AI
+from fantasy.
+
+
+
+
+                                                                                           47
+

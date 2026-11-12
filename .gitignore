@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.venv-kokoro/
+models/kokoro/
+scripts/kokoro-tmp/
+scripts/audio-tmp/
+services/api/media/speaking/*
+!services/api/media/speaking/.gitkeep
+*.log
+.DS_Store
+test-results/
+playwright-report/

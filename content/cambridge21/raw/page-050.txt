@@ -1,0 +1,41 @@
+                                                                                            Reading
+
+
+Questions 30-35
+
+Complete the summary using the list of words, A-I, below.
+
+Write the correct letter, A-I, in boxes 30-35 on your answer sheet.
+
+                 Al in government, medicine and the law
+Neural networks are a promising area of Al technology for governments. However,
+many politicians overestimate their capabilities, believing that the mere addition of a
+neural network will produce solutions and promote 30 .....................................
+                                                                               .
+
+Most public sector organisations have not set up the necessary 31 ....................................
+to manage the huge amount of data required to enable Al to function. Complex
+bureaucracy is another issue, as each person involved needs 32 .....................................
+                                                                                          to
+access the relevant data, which is often spread across different departments. But the
+main problem is that few public sector employees have the 33 .....................................
+                                                                                        to take
+full advantage of machine intelligence.
+
+The medical profession experimented with an Al programme, but their experts had
+little faith in its 34 .....................................
+                                                  , and the programme was abandoned. US courts also
+abandoned the use of algorithms when it was found that these reflected and magnified
+the existing 35 .....................................
+                                             within the legal profession.
+
+
+                  A reliability           B funding                  C skills
+                  D prejudices            E computers                F   equality
+                  G framework             H confidentiality              approval
+
+
+
+
+                                                                                                   49
+

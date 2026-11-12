@@ -1,0 +1,1651 @@
+{
+  "id": "cambridge21-test2",
+  "title": "Cambridge IELTS 21 · Academic Test 2",
+  "module": "Academic",
+  "version": "cambridge21.1",
+  "listening": [
+    {
+      "id": "l1",
+      "number": 1,
+      "title": "One-day classes at Steynford College",
+      "context": "A telephone conversation about booking one-day classes at a college.",
+      "groups": [
+        {
+          "id": "l1-g1",
+          "label": "Questions 1–10",
+          "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "range": [
+            1,
+            10
+          ],
+          "layout": "form",
+          "body": [
+            "# One-day classes at Steynford College",
+            "• Vietnamese food — date: {{1}} — £59 — information on the use of herbs — no places at present",
+            "• Bread making — 20 March — cost: £{{2}} — extra charge for ingredients — participants make white bread, sourdough and {{3}}",
+            "• Face massage — 23 February — £35 — teacher trained in {{4}} — bring a {{5}}",
+            "• Candle making — date: {{6}} — £52 — only {{7}} ingredients are used — candles can be used as presents",
+            "• Silk painting — 18 May — cost: £{{8}} — bring an apron or old {{9}}",
+            "• DIY for beginners — 24 February — £125 — learn how to use a drill, saw and {{10}}; put up a shelf"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 1",
+          "answer": "(the) 13(th) (of) January",
+          "accepted": [
+            "13 January",
+            "the 13th of January",
+            "13.01",
+            "13.1"
+          ],
+          "id": "l1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 2",
+          "answer": "48",
+          "accepted": [
+            "forty-eight"
+          ],
+          "id": "l1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 3",
+          "answer": "pizza",
+          "id": "l1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 4",
+          "answer": "India",
+          "id": "l1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 5",
+          "answer": "mirror",
+          "id": "l1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 6",
+          "answer": "(the) 6(th) (of) April",
+          "accepted": [
+            "6 April",
+            "the 6th of April",
+            "06.04",
+            "6.4"
+          ],
+          "id": "l1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 7",
+          "answer": "natural",
+          "id": "l1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 8",
+          "answer": "67.50",
+          "id": "l1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 9",
+          "answer": "shirt",
+          "id": "l1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "One-day classes table: item 10",
+          "answer": "hammer",
+          "id": "l1-q10"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "MAN",
+          "text": "Hello, Steynford College external course registration, can I help you?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yeah, I'm ringing to find out about one-day classes next year. I got a leaflet about them in the post but I lost it, and I understand some of the classes are filling up fast, so I might need to book quite soon if I want to go ahead."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Sure. Can you remember which one you were considering?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "There were a few actually. I remember there was one on how to make Vietnamese food that sounded good. I think that was on the 13th of January. It cost about 60 pounds."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yes, you're right about the date, but it's 59 pounds actually. It's a very popular class, and among other things the teacher explains how Vietnamese food includes lots of different herbs. I'm afraid that all the places are taken at present, but I can put you on the waiting list if you want?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "No, that's OK. I'm quite interested in the bread making class. That's in March sometime, isn't it?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yeah, the 20th of March. Would you like to register for that?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "I'm not sure. How much is it?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "The actual cost is £48 but then there's an extra charge as well as that for the ingredients - I'm not sure how much that is, no more than twenty pounds I think."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "So what sorts of things do they make in the class?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Oh, various types of bread; I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Well I'd definitely be interested in that, but there were also a few other classes that sounded interesting. I think there was one on face massage? I'd love to learn how to do that."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yeah, that's on the 23rd of February and it costs just £35 for the day. The teacher's great, the type of massage done is a traditional technique used in India and she actually did her training there. The massage is meant to relax you and get rid of lines and wrinkles. You practise it on yourself so you have to take a mirror to the class, so you can see what you're doing."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "OK."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "And I think there was a class in candle making?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yes that's sometime in April, I think. Let me check ... yes, it's on the 6th. It was on the 23rd of January but they had to change the date. It's just £52. That's a popular course too. I think one reason why people like it is because the candles are all made out of natural products. It's filling up fast but there's still a few places left."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yes one of my friends did that class. She said the candles make really good presents. In fact she gave me one."
+        },
+        {
+          "speaker": "MAN",
+          "text": "By the way, have you heard about the class on silk painting? That's being held on the 18th of May. You learn how to create designs on silk fabric and colour them using special dyes. Apparently people can produce beautiful artworks that way, either to put on the wall as a picture or to use for something like a scarf. It's £67 .50, which is really good value I think - there's a similar class I've seen that was £110."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "That sounds interesting. Would I need to bring the silk?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "No, the only thing is everyone has to bring something to protect their clothing, like an apron if you've got one, or a shirt that you don't use any more, because the dye can really stain your clothes."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Right. Then the last class I was considering was a bit different, that was on DIY for beginners. I'd like to learn how to do household repairs. Are there any places left on that?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "That's on the 24th of February - yes, there are a few places. It's a bit more expensive - it's £125 - but it's a very popular class. You learn how to use an electric drill and a saw."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yeah, that would be really useful, and I even need to learn how to use a hammer because I always end up hitting my fingers."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yes, you'll do that too. And when you've learned how to use the basic tools, you do a practical job which is fixing a shelf to a wall."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Great. Just what I need to know. Right, well I'd like to enrol for that and also for"
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "number": 2,
+      "title": "Walks and Melby Coal Mine",
+      "context": "A guide describes two coastal walks and the facilities at a former coal mine.",
+      "groups": [
+        {
+          "id": "l2-g1",
+          "label": "Questions 11 and 12",
+          "instructions": "Choose TWO letters, A–E. Which TWO pieces of advice are given about the Marsden Coastal Walk?",
+          "range": [
+            11,
+            12
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g2",
+          "label": "Questions 13 and 14",
+          "instructions": "Choose TWO letters, A–E. Which TWO things are said about the Melby Heritage Walk?",
+          "range": [
+            13,
+            14
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g3",
+          "label": "Questions 15–20",
+          "instructions": "Label the map below. Write the correct letter, A–I, next to Questions 15–20.",
+          "range": [
+            15,
+            20
+          ],
+          "layout": "map",
+          "figure": "/media/figures/cambridge21/test2-listening-map.jpg",
+          "figureAlt": "Map of Melby Coal Mine showing the main visitor centre, car park, engine house and locations labelled A to I."
+        }
+      ],
+      "questions": [
+        {
+          "number": 11,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "The first piece of advice",
+          "options": [
+            "Stop for lunch in an ancient town.",
+            "Don't miss the ruins of a certain building.",
+            "Catch a boat to the start of this walk.",
+            "Be careful of the steep and rocky paths.",
+            "Don't worry about getting lost."
+          ],
+          "answer": "B",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "The second piece of advice",
+          "options": [
+            "Stop for lunch in an ancient town.",
+            "Don't miss the ruins of a certain building.",
+            "Catch a boat to the start of this walk.",
+            "Be careful of the steep and rocky paths.",
+            "Don't worry about getting lost."
+          ],
+          "answer": "B",
+          "accepted": [
+            "E"
+          ],
+          "id": "l2-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "l2-g2",
+          "type": "mcq",
+          "prompt": "The first thing said about the Melby Heritage Walk",
+          "options": [
+            "This walk is mostly downhill.",
+            "The paths can get busy during the day.",
+            "This is a circular walk.",
+            "A tower stands on the site of an older structure.",
+            "There are far-reaching views the whole way."
+          ],
+          "answer": "C",
+          "accepted": [
+            "D"
+          ],
+          "id": "l2-q13"
+        },
+        {
+          "number": 14,
+          "groupId": "l2-g2",
+          "type": "mcq",
+          "prompt": "The second thing said about the Melby Heritage Walk",
+          "options": [
+            "This walk is mostly downhill.",
+            "The paths can get busy during the day.",
+            "This is a circular walk.",
+            "A tower stands on the site of an older structure.",
+            "There are far-reaching views the whole way."
+          ],
+          "answer": "C",
+          "accepted": [
+            "D"
+          ],
+          "id": "l2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "l2-g3",
+          "type": "map",
+          "prompt": "Exhibition",
+          "answer": "F",
+          "id": "l2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "l2-g3",
+          "type": "map",
+          "prompt": "Baths",
+          "answer": "B",
+          "id": "l2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "l2-g3",
+          "type": "map",
+          "prompt": "Tools",
+          "answer": "D",
+          "id": "l2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "l2-g3",
+          "type": "map",
+          "prompt": "Vehicles",
+          "answer": "A",
+          "id": "l2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "l2-g3",
+          "type": "map",
+          "prompt": "Ponies",
+          "answer": "H",
+          "id": "l2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "l2-g3",
+          "type": "map",
+          "prompt": "Education centre",
+          "answer": "E",
+          "id": "l2-q20"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "Here is some information about history and nature walks in the region. They can be completed in less than a day and also be combined with a visit to Melby, a former coal mine now open to the public. The Marsden Coastal Walk is suitable for all the family as there are no strenuous climbs. The route begins at Marsden harbour, where there are hourly ferries to and from the beautiful Hooker Island, a great place for fishing. The walk covers part of the coastal path trail. As there are clear signposts all along the way, you don't even need to take a map with YQJJ•At one point, the route goes inland slightly and passes a castle built in the 1400s near to a now-vanished market town. The castle's now just a pile of stones but it's a great place to take photos, and fascinating information boards show what it once looked like. If you set off early, you can be back in time for midday. The Melby Heritage Walk is a great place to take photos, especially of the night sky. At certain times of the year, people come here from far and wide. They climb to the top of the valley and take pictures of the stars. In the daytime, it's completely different. As you hike through the dense woods in the valley bottom, the only things you'll hear are the sound of your own footsteps. At the highest point, you can stop to take in the views, and those with lots of energy can climb the tower that's situated where there was once a seventeenth century hunting lodge. The route continues along the tops of the hills and brings you back down to the starting point - the car park at Melby Coal Mine. Melby Coal Mine has been open to the public for twenty years and has won awards for its visitor experience. Many of the buildings around the mine are still standing and have been converted into display areas. Firstly, there's an exhibition showing the history of the mine, with many original black and white photos. To see that, you go from the car park, via a covered walkway to the Main Visitor Centre. Go through the ticket office to an area where there are lockers to leave heavy bags in. and where you can borrow raincoats. Beyond that room is the exhibition. There's a small bathhouse where miners used to wash after their shift underground. You can see that in the building directly to the north of the engine house. The boiler has gone from there now, but there are lines of tin baths on the stone floor. There's a display of early mining tools from the days before mechanisation. You can find that in a small L-shaped building in the middle of the northern boundary of the site. It's incredible to think how miners were able to use hand implements to cut through rock. The vehicle shed, where you can find wagons of different sizes, along with some of the hi-tech cutting machines that were in use until the mine closed, is in the southwest corner of the site. and can be accessed via a covered walkway. There is a field with ponies. which are always popular with children. on the north-eastern boundary of the site, not approached via a covered walkway. The other building to mention is the education centre. This is where school groups go when they visit the mine, but it's also accessible to the public as it contains a library and small gift shop. The centre is connected to the ticket office via a short section of covered walkway."
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "number": 3,
+      "title": "Food safety and a student project",
+      "context": "Two students, Nadia and Fergus, discuss sessions on food safety and a project developing a new food product.",
+      "groups": [
+        {
+          "id": "l3-g1",
+          "label": "Questions 21 and 22",
+          "instructions": "Choose TWO letters, A–E. Which TWO facts in the sessions on food safety were new information for Nadia and Fergus?",
+          "range": [
+            21,
+            22
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g2",
+          "label": "Questions 23 and 24",
+          "instructions": "Choose TWO letters, A–E. Which TWO features of a project aiming to prevent food fraud impressed Fergus?",
+          "range": [
+            23,
+            24
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g3",
+          "label": "Questions 25 and 26",
+          "instructions": "Choose TWO letters, A–E. Which TWO topics do both students recommend should be included in the course?",
+          "range": [
+            25,
+            26
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g4",
+          "label": "Questions 27–30",
+          "instructions": "Complete the flow-chart below. Choose FOUR answers from the box and write the correct letter, A–F, next to Questions 27–30.",
+          "range": [
+            27,
+            30
+          ],
+          "layout": "flow",
+          "sharedOptions": [
+            "A This was challenging but enjoyable.",
+            "B This led to some disagreement.",
+            "C This was easy to decide on.",
+            "D This was helped by the guidelines provided.",
+            "E This seemed like an unnecessary stage.",
+            "F This involved selecting a new ingredient."
+          ],
+          "body": [
+            "# Student project: developing a new food product",
+            "## Initial aim",
+            "{{27}}",
+            "## Literature review",
+            "{{28}}",
+            "## Product development",
+            "{{29}}",
+            "## Product production",
+            "{{30}}"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "The first new fact",
+          "options": [
+            "the amount of plastic in the ocean",
+            "the number of diseases caused by contaminated food",
+            "the amount of food that is wasted",
+            "the number of people who are obese",
+            "the result of treating animals with antibiotics"
+          ],
+          "answer": "B",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "The second new fact",
+          "options": [
+            "the amount of plastic in the ocean",
+            "the number of diseases caused by contaminated food",
+            "the amount of food that is wasted",
+            "the number of people who are obese",
+            "the result of treating animals with antibiotics"
+          ],
+          "answer": "B",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "The first impressive feature",
+          "options": [
+            "the new technology it used",
+            "the publicity it received",
+            "the use of multiple tests on food items",
+            "the variety of dietary requirements included",
+            "the way information was made widely accessible"
+          ],
+          "answer": "C",
+          "accepted": [
+            "D"
+          ],
+          "id": "l3-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "The second impressive feature",
+          "options": [
+            "the new technology it used",
+            "the publicity it received",
+            "the use of multiple tests on food items",
+            "the variety of dietary requirements included",
+            "the way information was made widely accessible"
+          ],
+          "answer": "C",
+          "accepted": [
+            "D"
+          ],
+          "id": "l3-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "l3-g3",
+          "type": "mcq",
+          "prompt": "The first recommended topic",
+          "options": [
+            "sustainable fishing",
+            "targeted nutrition",
+            "global differences in consumption",
+            "sustainable agriculture",
+            "digital technology and food"
+          ],
+          "answer": "A",
+          "accepted": [
+            "C"
+          ],
+          "id": "l3-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "l3-g3",
+          "type": "mcq",
+          "prompt": "The second recommended topic",
+          "options": [
+            "sustainable fishing",
+            "targeted nutrition",
+            "global differences in consumption",
+            "sustainable agriculture",
+            "digital technology and food"
+          ],
+          "answer": "A",
+          "accepted": [
+            "C"
+          ],
+          "id": "l3-q26"
+        },
+        {
+          "number": 27,
+          "groupId": "l3-g4",
+          "type": "select",
+          "prompt": "Flow-chart stage 27",
+          "answer": "C",
+          "id": "l3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "l3-g4",
+          "type": "select",
+          "prompt": "Flow-chart stage 28",
+          "answer": "D",
+          "id": "l3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "l3-g4",
+          "type": "select",
+          "prompt": "Flow-chart stage 29",
+          "answer": "F",
+          "id": "l3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "l3-g4",
+          "type": "select",
+          "prompt": "Flow-chart stage 30",
+          "answer": "A",
+          "id": "l3-q30"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "TUTOR",
+          "text": "Thanks for coming along, Nadia and Fergus. So this is a chance for you to give us some feedback about different aspects of your course. What would you like to begin with?"
+        },
+        {
+          "speaker": "NADIA",
+          "text": "I've enjoyed the sessions on food safety. There was some information there that I found really surprising, although some was stuff I knew already, like the rise in rates of obesity."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Yeah, that's been in the news a lot. But I hadn't realised that unsafe food causes more than 200 different diseases."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "No. I'd no idea it was that many. And speaking of diseases, I knew resistance to antibiotics is on the increase, but I didn't know why ..."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": ".. .that it's partly because when animals are treated with antibiotics then consumed by humans. the antibiotics get into the food chain. I had no idea about that either."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "Then the sessions provided a lot of information about plastic pollution from food packaging in the ocean, but I think that most of us were already aware of that."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Yeah. But I thought we could have done more on how much food is thrown away unnecessarily through fear of it being out of date, that was only mentioned in passing."
+        },
+        {
+          "speaker": "TUTOR",
+          "text": "OK, I'll bear that in mind. What did you think about the sessions from visiting lecturers, Fergus?"
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "For me the most interesting one was about that project to prevent companies giving incorrect information to consumers about food."
+        },
+        {
+          "speaker": "TUTOR",
+          "text": "Ah, food fraud, yes."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "I thought it was really good to address a problem that's faced by so many different groups - people with special religious rules. as well as vegetarians and vegans."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "And those with allergies."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Yeah. And another thing, we've had effective ways of analysing DNA for some time now and these can easily be applied to analysing food. But what the researchers succeeded in doing was to ensure that these tests were carried out at different stages in the food's journey from the producer to the consumer."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "So they knew that the food actually came from the place it was supposed to, and had the ingredients it was meant to."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Exactly. So customers can be confident about what they buy."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "And the researchers had a good system for publicising their findings too."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Well, I thought there were some problems with that, actually."
+        },
+        {
+          "speaker": "TUTOR",
+          "text": "OK. And do you have any recommendations for new topics that we could include in the course?"
+        },
+        {
+          "speaker": "NADIA",
+          "text": "Well, I'm interested in how crop yields can be increased without damaging the environment."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "But we've already done quite a bit on that - but not so much on the seafood industry. where stocks are in danger of being overexploited as a food source unless we can find ways of keeping stocks up."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "Yes. that'd be a good topic. And I'm interested in the idea of a personalised approach to diet, now we have the technology to analyse exactly what individuals need."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "That sounds more like a medical topic than food science."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "OK. What about sessions on the variety of food and eating habits around the world? That's very relevant nowadays."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Yes. I think the whole class would be interested in that."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "Then there's technological stuff. things like 3D printing of food and smart packaging."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Mmm - maybe too specialist."
+        },
+        {
+          "speaker": "TUTOR",
+          "text": "Now, I'm particularly interested in your project - the one where you developed a new food product. So talk me through the stages ... first you had to decide on your initial aim."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "We decided we wanted to create something people could eat on the go rather than in a restaurant."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "Yeah so we chose falafel, which was originally a Middle Eastern snack."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "We made up our minds about that pretty quickly. I know some students found it a lot harder to choose, and wasted a lot of time."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "Then we had to do the literature review. We hadn't done one of these before so. the handout with advice for the project was very useful here."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Yes. especially the advice on how to present the information. Then product development, actually deciding what we'd use to make the falafel, and for me the interesting thing about that was that we wanted it to be something a bit different from an ordinary falafel."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "We really made the right choice when we finally decided to use jackfruit, even though it wasn't something that either of us had ever tasted before."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "Yeah, like the name tells you, it's a fruit but actually it's really good in savoury dishes. The product production, working out how to make the falafel, was harder than I expected because I'd never made them before."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "It was mostly trial and error. We started off with the basic recipe and then experimented and when it went wrong ..."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": ".. .which it did a lot of the time ..."
+        },
+        {
+          "speaker": "NADIA",
+          "text": "... we just moved on and kept adapting it and in the end it turned out fine and we had a lot of fun."
+        },
+        {
+          "speaker": "FERGUS",
+          "text": "We did!"
+        },
+        {
+          "speaker": "TUTOR",
+          "text": "Thank you. Well, your project was a very good ...."
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "number": 4,
+      "title": "Challenges facing the cruise ship industry",
+      "context": "A lecture about the challenges facing the cruise ship industry.",
+      "groups": [
+        {
+          "id": "l4-g1",
+          "label": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "range": [
+            31,
+            40
+          ],
+          "layout": "notes",
+          "body": [
+            "# Challenges facing the cruise ship industry",
+            "## Problems with overtourism",
+            "• {{31}} is one of the worst problems.",
+            "• A tourist {{32}} is being introduced in some cities to reduce numbers, e.g. Barcelona.",
+            "• Bruges: action was taken to limit day trips from the nearby port because the city was becoming a 'theme park' (e.g. many shops were only stocking {{33}} and souvenirs).",
+            "• Dubrovnik: limits the number of tourists by managing the {{34}} of cruise ship arrivals.",
+            "## Problems of perception",
+            "• Cruises are generally associated with the elderly.",
+            "• There is an assumption about the {{35}} of cruises.",
+            "• People think there may be too many {{36}}.",
+            "## Solutions",
+            "Cruise lines are attracting younger customers by:",
+            "• becoming more sustainable e.g. using hybrid engines.",
+            "• having a wide range of activities e.g. boxing, {{37}} and well-being programmes.",
+            "• offering a diverse selection of food including {{38}} options.",
+            "• providing reliable {{39}}.",
+            "• improving marketing on social media with high quality {{40}}."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 31,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 31",
+          "answer": "Pollution",
+          "id": "l4-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 32",
+          "answer": "tax",
+          "id": "l4-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 33",
+          "answer": "chocolate",
+          "id": "l4-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 34",
+          "answer": "timing",
+          "id": "l4-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 35",
+          "answer": "cost",
+          "id": "l4-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 36",
+          "answer": "rules",
+          "id": "l4-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 37",
+          "answer": "diving",
+          "id": "l4-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 38",
+          "answer": "vegan",
+          "id": "l4-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 39",
+          "answer": "wifi",
+          "id": "l4-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cruise industry notes 40",
+          "answer": "videos",
+          "id": "l4-q40"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "For my presentation today I'm going to talk about some of the issues facing the cruise ship industry and then some ways these can be addressed. The cruise ship industry has partly been responsible for the effects of overtourism in recent decades. Overtourism occurs in places where excessive numbers of tourists cause significant problems. Pollution, for example, is among the greatest threats to many popular tourist destinations. Of course, for many places it's a difficult balance to achieve. They want to promote their city or island as a desirable tourist destination, but at the same time, are unable to cope with thousands of cruise ship passengers on a daily basis. The trouble is, excessive tourism is destroying the beauty spots and places of interest that people come to visit. Several cities, such as Barcelona, have responded by imposing a tax which all visitors to the city from cruise ships have to pay. But as it's only a couple of euros, many green campaigners think it won't deter enough people to make any difference. Bruges is another city which became impossible to navigate at times because of the huge numbers of cruise passengers arriving on day trips from the port of Zeebrugge. The city was becoming like a 'theme park', with shops only catering for tourists, selling chocolate, which Belgium is famous for, and other souvenirs. The local council took action to limit cruise passengers to a more manageable level. Dubrovnik had to limit the numbers of cruise ships after it became extremely popular as a cruise ship destination when it featured in a hugely successful TV series. What it does now is control the timing of all cruise ship entries to the city's port. However, many people feel this measure does not go far enough. Cruise ships may be unpopular in some of their destinations but they also have an image problem. They've always been perceived as a safe holiday for the elderly, with not much on offer for families or young couples. A recent survey showed that cost is also a major factor in putting younger groups off going on a cruise. But what they don't realise is that compared to other types of package holidays, cruises can actually be good value, as all activities and drinks are often included. And another perception is that cruises have lots of rules about what to wear and how to behave. But these days, most cruises are no longer very formal and behind the times. So what solutions are there for cruise lines to overcome some of these problems? How can they appeal to younger customers? Well one selling point is that cruise ships are becoming more sustainable. New ships are built with hybrid engines with large batteries which means ships do not have to keep their engines running while docked. Cruise lines are also designing ships specially for those in the age range of 21 to 45. The decor in these feels contemporary and there are a range of activities on board that you wouldn't find on a more traditional cruise. There's even a boxing ring on one ship, and most offer diving expeditions. But there's also a huge focus on well-being with a variety of sessions of different kinds. Food is always a very important part of any cruise and cruise ships have had to radically update their menus to suit the tastes of their younger customers. Vegan dishes are standard, for example. The restaurants on board have also gone paperless with menus available on screen. Unlike older generations who went on cruises largely to get away from everything, younger people expect to be able to keep in touch with friends and family. Many people going on longer cruises also spend time working, so companies have to guarantee wifi that can be relied upon at all times. My grandparents used to love looking through cruise brochures, even when they weren't planning on going on a cruise. Until very recently TV ads for cruises always felt dated and aimed at retirees. Cruise lines have been slow to adopt the power of social media but that's all changing. Leading cruise lines now employ top agencies to produce first rate videos for social media channels. It will be interesting to see whether ..."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "number": 1,
+      "title": "Do animals dream?",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Studies using electrodes attached to the heads of sleepers have shown that when we sleep, we do so in two ways that alternate throughout the night. The first is rapid eye movement (REM) or active sleep. During this stage our eyes move, even though our eyelids are closed. Our muscles also twitch slightly, though they are largely paralysed so we don't hurt ourselves. In contrast, we also engage in non-REM sleep, during which we barely move at all. Most dream states, and certainly those with the most vivid dreams, happen during REM sleep."
+        },
+        {
+          "label": "",
+          "text": "There's some evidence that other mammals may also dream. For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep. They found the patterns were very similar and concluded that the sleeping rats were dreaming about going through the maze."
+        },
+        {
+          "label": "",
+          "text": "But finding evidence of dreaming in non-mammals has proved more difficult. Their brains are very different from those of humans, and it can often be difficult to record their activity while they are sleeping. Recently, however, researchers succeeded in recording brain activity in sleeping pigeons. As in mammals, the recordings revealed both REM and non-REM sleep. Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about."
+        },
+        {
+          "label": "",
+          "text": "That said, dreaming and REM sleep are unlikely to be universal in the animal kingdom. For example, sponges don't have brains, so they lack the machinery for dreaming. There are also some animals with unusual sleep patterns. These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake. They also show no sign of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid. This is surprising because we tend to think of whales and dolphins as having complex inner lives. It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature."
+        },
+        {
+          "label": "",
+          "text": "Nevertheless, in many cases REM sleep does seem to have benefits. Growing evidence from birds and mammals suggests that REM sleep and dreaming are important for forming memories and learning. It is believed that when events are replayed in dreams, this helps to integrate memories into longer-term storage. As soon as animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles."
+        },
+        {
+          "label": "",
+          "text": "However, we still don't understand how this outward behaviour relates to internal experience. It seems impossible to know what it is like to be a rat or a pigeon, let alone imagine their dreamscapes. We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, but the truth is that we don't know if there is an internal experience of chasing rabbits that comes along with that."
+        },
+        {
+          "label": "",
+          "text": "Another non-human dreamer offers insight here. In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room. At one point, in the middle of the night, Heidi seemed to dream: her limbs and head moved, and her skin rapidly changed colour, as though she was pursuing a crab."
+        },
+        {
+          "label": "",
+          "text": "Similarly, a report recently emerged of a sleeping octopus apparently having a nightmare. Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he were being attacked by a predator. The nightmare study is intriguing, says Scheel, but is only based on one animal. He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams."
+        },
+        {
+          "label": "",
+          "text": "The trouble is that we will never be able to experience any animal's dreams. That goes for other humans' dreams too. But we can try to imagine what these dreamscapes are like by meeting animals on their own terms. For example, vision is the dominant sense for many humans, and so our dreams are heavily visual too. Dogs primarily navigate the world using smell while spiders rely much more on vibrations."
+        },
+        {
+          "label": "",
+          "text": "It is likely that dreaming has served multiple purposes since the first complex animals evolved. And if this is the case, it is possible that better understanding of these purposes might shed light on the true purpose of our own dreams."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r1-g1",
+          "label": "Questions 1–5",
+          "instructions": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            1,
+            5
+          ],
+          "layout": "form",
+          "body": [
+            "# Research into sleep and dreaming",
+            "• Humans — experience REM sleep and non-REM sleep; in REM sleep, the eyes and muscles move",
+            "• {{1}} — similar brain patterns were observed when active and sleeping — indicative of dreaming",
+            "• Pigeons — when sleeping, pigeons displayed activity in parts of the brain that deal with {{2}} input — may have been dreaming of flying",
+            "• Whales and dolphins — still have {{3}} their brain awake when they sleep — their dreams are probably not very {{5}}",
+            "• Whales and dolphins — don't experience REM sleep, as this could affect their sensitivity to {{4}}"
+          ]
+        },
+        {
+          "id": "r1-g2",
+          "label": "Questions 6–13",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "range": [
+            6,
+            13
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Sleep research table 1",
+          "answer": "rats",
+          "id": "r1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Sleep research table 2",
+          "answer": "visual",
+          "id": "r1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Sleep research table 3",
+          "answer": "half",
+          "id": "r1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Sleep research table 4",
+          "answer": "temperature",
+          "id": "r1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Sleep research table 5",
+          "answer": "vivid",
+          "id": "r1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Dreaming about past experiences helps us to create lasting memories of them.",
+          "answer": "TRUE",
+          "id": "r1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "It is now possible to tell what type of dream a dog is having.",
+          "answer": "FALSE",
+          "id": "r1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "David Scheel's documentary was influential on other research into the sleeping patterns of octopuses.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "While it was asleep, the octopus called Costello reacted as if it was hunting.",
+          "answer": "FALSE",
+          "id": "r1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Scheel believes more research into octopuses' dreams should be carried out.",
+          "answer": "TRUE",
+          "id": "r1-q10"
+        },
+        {
+          "number": 11,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "We may soon be able to share the dreams of other human beings.",
+          "answer": "FALSE",
+          "id": "r1-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Hearing may be an important part of the dreams of some animals.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Interest in the reasons why humans dream has increased greatly in recent times.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q13"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "number": 2,
+      "title": "Mapungubwe",
+      "subtitle": "Located in southern Africa just below the Limpopo River, the kingdom of Mapungubwe flourished between the 11th and 13th century CE",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Mapungubwe, which was one of the first states in southern Africa, was formed by Bantu-speaking peoples who were farmers. The area controlled by the rulers of Mapungubwe had at its heart a large sandstone plateau, which was easily defended due to its inaccessibility. As with other kingdoms in the region of southern Africa, cattle herding and other types of farming brought plenty of food and a surplus that could be traded for needed goods. Archaeology has revealed extensive layers of bones and manure, which indicate that from the 9th century CE there were large cattle herds, the traditional source of political power in southern African communities. The archaeological record for the 10th century shows a marked increase in the number of domesticated cattle in the area as well as cotton cultivation and weaving, as indicated by abundant finds of spindle whorls."
+        },
+        {
+          "label": "B",
+          "text": "The total population of Mapungubwe at its peak in the mid-13th century was around 5,000 people. The chief or king of Mapungubwe was likely the wealthiest individual in the society, and would have owned more cattle and precious materials than anyone else. The king and his advisers dwelt in a stone enclosure composed of stone walls and housing built on the highest level of the community's territory, a natural sandstone hill which is some 30 metres high and 100 metres in length. Occupation on the hill dates from the 11th century and the entire complex was surrounded by a wooden palisade*, as indicated by postholes made in the rock. The rest of the community lived in mud and thatch housing spread out below the hill, although there is one stone structure here. This settlement, known as Babandyanalo, covers around 5 hectares (12.3 acres) and predates the hilltop structures."
+        },
+        {
+          "label": "C",
+          "text": "The kings of Mapungubwe were buried at the top of the hill site in a demarcated area away from the dwellings, while other members of the community were buried at the surrounding valley level. A wooden staircase connected the two levels, the sockets for the steps being clearly visible in the sandstone cliff face. There were some grander residences dotted around the outskirts of Babandyanalo, and these probably belonged to male relatives of the king. There are many other smaller but still impressive sites across the Mapungubwe plateau, which are located anywhere from 15 to 100 kilometres from the major hill site. Containing stone residences and walls, they likely belonged to local chiefs who acted as servants to the king."
+        },
+        {
+          "label": "D",
+          "text": "The Mapungubwe plateau has a very high number of carnivore animal remains and ivory splinters, suggesting that the skins of these large animals and ivory elephant tusks were accumulated, probably for trade with coastal areas reached by the Limpopo River. The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea. Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala. It is likely that trade links led to a strengthening of political authority in order to control and even monopolise these lucrative interregional connections."
+        },
+        {
+          "label": "E",
+          "text": "Archaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society. Archaeological finds include spherical vessels with short necks, beakers, and bowls, many of which have decorative stamps. There are also ceramic discs, and whistles. In addition, cattle, sheep, and goat figurines, and small figures of highly stylised humans with elongated bodies and short limbs have been found. The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known. Other discoveries include small jewellery items made from locally sourced copper."
+        },
+        {
+          "label": "F",
+          "text": "Beautifully decorated artefacts made of gold have also been found at Mapungubwe. A type of decoration, found nowhere else except Great Zimbabwe, involved the crafting of gold into small rectangular sheets and carving geometrical patterns into it. These sheets were then used to cover wooden objects (which have not survived) using small tacks, also made of gold. One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads. These objects were all found at the royal burial site and date to c. 1150. They are the first known indicators that gold had an intrinsic value of its own (as opposed to that of a currency) in southern Africa."
+        },
+        {
+          "label": "G",
+          "text": "The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts. Trade routes may also have shifted northwards. Certainly, the areas that now prospered were to the north, such as Great Zimbabwe."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r2-g1",
+          "label": "Questions 14–19",
+          "instructions": "Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G, in boxes 14–19 on your answer sheet.",
+          "range": [
+            14,
+            19
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ]
+        },
+        {
+          "id": "r2-g2",
+          "label": "Questions 20 and 21",
+          "instructions": "Choose TWO letters, A–E. The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?",
+          "range": [
+            20,
+            21
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r2-g3",
+          "label": "Questions 22–26",
+          "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            22,
+            26
+          ],
+          "layout": "summary",
+          "body": [
+            "# Archaeological discoveries",
+            "The Mapungubwe community's {{22}} is indicated by the amount of professionally made pottery discovered at the site. Many of these objects, such as beakers and bowls, are highly decorated and have been marked with stamps. Other finds include round ceramic objects, {{23}} and figures of various animals, as well as models of people with stretched {{24}}. It is possible that these had a role in ceremonies to honour {{25}}. In addition, pieces of {{26}} made from a local metal have been found at the site."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a mention of the uncertainty regarding the purpose of certain objects",
+          "answer": "E",
+          "id": "r2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "the likelihood that a climatic factor increased the problems Mapungubwe faced",
+          "answer": "G",
+          "id": "r2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a mention of the location where members of the king's family are thought to have lived",
+          "answer": "C",
+          "id": "r2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a reference to people who brought goods by ship",
+          "answer": "D",
+          "id": "r2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "an estimate of the size to which the Mapungubwe community grew",
+          "answer": "B",
+          "id": "r2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a mention of agricultural produce being exchanged for other items",
+          "answer": "A",
+          "id": "r2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "The first piece of information mentioned",
+          "options": [
+            "Not everyone in Mapungubwe used gold as a form of payment.",
+            "Items of gold were placed close to where Mapungubwe kings were buried.",
+            "The most valuable item discovered in Mapungubwe was a sceptre made of gold.",
+            "The way gold was decorated in Mapungubwe was also practised in another kingdom.",
+            "Working with gold was a respected occupation in the Mapungubwe community."
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "r2-q20"
+        },
+        {
+          "number": 21,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "The second piece of information mentioned",
+          "options": [
+            "Not everyone in Mapungubwe used gold as a form of payment.",
+            "Items of gold were placed close to where Mapungubwe kings were buried.",
+            "The most valuable item discovered in Mapungubwe was a sceptre made of gold.",
+            "The way gold was decorated in Mapungubwe was also practised in another kingdom.",
+            "Working with gold was a respected occupation in the Mapungubwe community."
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "r2-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Archaeological discoveries summary 22",
+          "answer": "prosperity",
+          "id": "r2-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Archaeological discoveries summary 23",
+          "answer": "whistles",
+          "id": "r2-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Archaeological discoveries summary 24",
+          "answer": "bodies",
+          "id": "r2-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Archaeological discoveries summary 25",
+          "answer": "ancestors",
+          "id": "r2-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Archaeological discoveries summary 26",
+          "answer": "jewellery",
+          "accepted": [
+            "jewelry"
+          ],
+          "id": "r2-q26"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "number": 3,
+      "title": "Artificial Intelligence",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "In many countries in the West, hysteria about the future of artificial intelligence (AI) is everywhere. There seems to be no shortage of sensationalist news about how AI could cure diseases, accelerate human innovation and improve human creativity. Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society."
+        },
+        {
+          "label": "",
+          "text": "While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'. This is the philosophy that, given enough data, machine learning algorithms can solve all of humanity's problems. But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity."
+        },
+        {
+          "label": "",
+          "text": "In only a few years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world. The pendulum has swung from the dystopian notion that AI will destroy humanity to the utopian belief that our algorithmic saviour is here. Weare now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector. While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world."
+        },
+        {
+          "label": "",
+          "text": "One of the most promising varieties of AI technologies are neural networks. This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a much smaller scale. But what many politicians do not understand is that simply adding a neural network to a problem will not automatically mean that you'll find a solution. Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair."
+        },
+        {
+          "label": "",
+          "text": "AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence."
+        },
+        {
+          "label": "",
+          "text": "For these reasons, the sensationalism over AI has attracted many critics. Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots. Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'."
+        },
+        {
+          "label": "",
+          "text": "One of the many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks. This means that a malicious AI can target another AI to make it behave in a certain way,such as forcing it to make wrong predictions. Many researchers havewarned against the rolling out of AI without appropriate security standards and defence mechanisms. Still, AI security remains an often overlooked topic when machine learning systems are installed."
+        },
+        {
+          "label": "",
+          "text": "If we are to reap the benefits and minimise the potential harms of AI, wemust start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning. Most importantly, we need to be aware of the limitations of AI and where people still need to take the lead. Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and separate the actual technological capabilities of AI from fantasy."
+        },
+        {
+          "label": "",
+          "text": "The medical profession has also recognised the drawbacks to AI. The IBM Watson for Oncology programme was a piece of AI that was meant to help doctors treat cancer. Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine. As a result, the AI programme was abandoned in most hospitals where it was trialled."
+        },
+        {
+          "label": "",
+          "text": "Similar difficulties arose in the legal domain when algorithms were used in courts in the US to sentence criminals. An algorithm calculated risk assessment scores and advised judges on the sentencing. The system was found to amplify structural racial discrimination and was later abandoned."
+        },
+        {
+          "label": "",
+          "text": "There are some crucial lessons here for everyone aiming to boost investments in national AI programmes. These examples demonstrate that there is no AI solution for everything. Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it. All solutions come with a cost and not everything that can be automated should be."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r3-g1",
+          "label": "Questions 27–29",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            27,
+            29
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r3-g2",
+          "label": "Questions 30–35",
+          "instructions": "Complete the summary using the list of words, A–I, below.",
+          "range": [
+            30,
+            35
+          ],
+          "layout": "summary",
+          "sharedOptions": [
+            "A reliability",
+            "B funding",
+            "C skills",
+            "D prejudices",
+            "E computers",
+            "F equality",
+            "G framework",
+            "H confidentiality",
+            "I approval"
+          ],
+          "body": [
+            "# AI in government, medicine and the law",
+            "Neural networks are a promising area of AI technology for governments. However, many politicians overestimate their capabilities, believing that the mere addition of a neural network will produce solutions and promote {{30}}.",
+            "Most public sector organisations have not set up the necessary {{31}} to manage the huge amount of data required to enable AI to function. Complex bureaucracy is another issue, as each person involved needs {{32}} to access the relevant data, which is often spread across different departments. But the main problem is that few public sector employees have the {{33}} to take full advantage of machine intelligence.",
+            "The medical profession experimented with an AI programme, but their experts had little faith in its {{34}}, and the programme was abandoned. US courts also abandoned the use of algorithms when it was found that these reflected and magnified the existing {{35}} within the legal profession."
+          ]
+        },
+        {
+          "id": "r3-g3",
+          "label": "Questions 36–39",
+          "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "range": [
+            36,
+            39
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r3-g4",
+          "label": "Question 40",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            40,
+            40
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What is the writer doing in the first paragraph?",
+          "options": [
+            "predicting the future impact of AI",
+            "describing a public perception of AI",
+            "outlining some possible benefits of AI",
+            "highlighting the breadth of the influence of AI"
+          ],
+          "answer": "B",
+          "id": "r3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "When discussing AI solutionism in the second paragraph, the writer",
+          "options": [
+            "points out a risk involved.",
+            "specifies its probable origins.",
+            "mentions its chief supporters.",
+            "weighs up some pros and cons."
+          ],
+          "answer": "A",
+          "id": "r3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "In the fourth paragraph, the writer suggests that many politicians may",
+          "options": [
+            "have failed to appreciate the true potential of AI initiatives.",
+            "have misunderstood the function of the machine-learning sector.",
+            "be unaware of the challenges of implementing national AI initiatives.",
+            "be too keen to enter the race to dominate the machine-learning sector."
+          ],
+          "answer": "C",
+          "id": "r3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "AI summary 30",
+          "answer": "F",
+          "id": "r3-q30"
+        },
+        {
+          "number": 31,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "AI summary 31",
+          "answer": "G",
+          "id": "r3-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "AI summary 32",
+          "answer": "I",
+          "id": "r3-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "AI summary 33",
+          "answer": "C",
+          "id": "r3-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "AI summary 34",
+          "answer": "A",
+          "id": "r3-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "AI summary 35",
+          "answer": "D",
+          "id": "r3-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Stuart Russell's proposals regarding the use of AI are impractical.",
+          "answer": "NO",
+          "id": "r3-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Rodney Brooks' view has attracted unfair criticism from supporters of AI.",
+          "answer": "NOT GIVEN",
+          "id": "r3-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Nowadays, the need to protect AI systems is always taken into account when they are set up.",
+          "answer": "NO",
+          "id": "r3-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "In order to benefit from AI and minimise the harms, we have to explore people's concerns about its use.",
+          "answer": "YES",
+          "id": "r3-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "r3-g4",
+          "type": "mcq",
+          "prompt": "What would be a suitable subtitle for Reading Passage 3?",
+          "options": [
+            "How to make the most of what AI has to offer",
+            "Why AI may not be the answer to our problems",
+            "Why governments should not invest in AI systems",
+            "How AI could improve the efficiency of the public sector"
+          ],
+          "answer": "B",
+          "id": "r3-q40"
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "writing-task-1",
+      "number": 1,
+      "title": "Writing Task 1",
+      "prompt": "The plans below show a college café before it was redesigned and how it looks now.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "instructions": [
+        "Write at least 150 words.",
+        "You should spend about 20 minutes on this task."
+      ],
+      "minimumWords": 150,
+      "suggestedMinutes": 20,
+      "figure": "/media/figures/cambridge21/test2-writing-task1.jpg",
+      "figureAlt": "Two floor plans of a college cafe, labelled 'Cafe before redesign' and 'Cafe today', showing the kitchen, serving area, staff dining rooms, tables and chairs, toilets and outdoor seating."
+    },
+    {
+      "id": "writing-task-2",
+      "number": 2,
+      "title": "Writing Task 2",
+      "prompt": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.\n\nDiscuss both these views and give your own opinion.",
+      "instructions": [
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words.",
+        "You should spend about 40 minutes on this task."
+      ],
+      "minimumWords": 250,
+      "suggestedMinutes": 40
+    }
+  ],
+  "speaking": [
+    {
+      "id": "speaking-1",
+      "number": 1,
+      "title": "Part 1 · Interview",
+      "description": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+      "questions": [
+        {
+          "id": "s1",
+          "text": "How well do you know the capital city of your country?"
+        },
+        {
+          "id": "s2",
+          "text": "Do you think cities are exciting places to live?"
+        },
+        {
+          "id": "s3",
+          "text": "Why do some people dislike living in a city?"
+        },
+        {
+          "id": "s4",
+          "text": "If you could visit any city in the world, where would you go?"
+        }
+      ]
+    },
+    {
+      "id": "speaking-2",
+      "number": 2,
+      "title": "Part 2 · Cue card",
+      "description": "Describe a time when you read or heard something that you thought was not true.",
+      "questions": [],
+      "cueCard": {
+        "topic": "Describe a time when you read or heard something that you thought was not true.",
+        "bullets": [
+          "where you read/heard this",
+          "what you read/heard",
+          "why you thought it was not true"
+        ],
+        "rounding": "and explain how you felt about reading/hearing this thing that you thought was not true.",
+        "preparationSeconds": 60,
+        "speakingSeconds": 120
+      }
+    },
+    {
+      "id": "speaking-3",
+      "number": 3,
+      "title": "Part 3 · Discussion",
+      "description": "Discussion topics: honesty and children; honesty and advertising.",
+      "questions": [
+        {
+          "id": "s5",
+          "text": "Honesty and children. Do you think children are more honest than adults?"
+        },
+        {
+          "id": "s6",
+          "text": "Why do adults tell children it's important to be honest?"
+        },
+        {
+          "id": "s7",
+          "text": "Do you think there are sometimes good reasons for adults not to tell children the truth?"
+        },
+        {
+          "id": "s8",
+          "text": "Honesty and advertising. Are there any claims in advertisements that are sometimes not true?"
+        },
+        {
+          "id": "s9",
+          "text": "Why do people still buy things even when they know advertisements aren't completely accurate?"
+        },
+        {
+          "id": "s10",
+          "text": "Do you think advertisements that are dishonest should be banned?"
+        }
+      ]
+    }
+  ],
+  "publishedAt": "2026-11-12T00:00:00Z",
+  "scoring": {
+    "listeningVersion": "ielts-academic-2026",
+    "readingVersion": "ielts-academic-2026",
+    "rubricVersion": "apex-local-rubric-v1"
+  },
+  "audioUrl": "/media/listening/cambridge21-test2"
+}

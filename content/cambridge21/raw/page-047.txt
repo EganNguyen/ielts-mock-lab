@@ -1,0 +1,50 @@
+Test 2
+
+
+READING          PASSAGE 3
+
+You should spend about 20 minutes on Questions 27-40, which are based on Reading
+Passage 3 below.
+
+                             Artificial Intelligence
+In many countries in the West, hysteria            the transformative effects of the coming
+about the future of artificial intelligence (AI)   'AI revolution', they fail to realise the
+is everywhere. There seems to be no shortage       complexity around deploying advanced
+of sensationalist news about how AI could          machine learning systems in the real world.
+cure diseases, accelerate human innovation
+and improve human creativity. Just looking         One of the most promising varieties of AI
+at the media headlines, you might think that       technologies are neural networks. This form
+we are already living in a future where AI         of machine learning is loosely modelled on
+has infiltrated every aspect of society.           the neuronal structure of the human brain,
+                                                   but on a much smaller scale. But what many
+While it is undeniable that AI has opened up       politicians do not understand is that simply
+a wealth of promising opportunities, it has        adding a neural network to a problem will
+also led to the emergence of a mindset that        not automatically mean that you'll find a
+can be best described as 'AI solutionism'.         solution. Similarly, adding a neural network
+This is the philosophy that, given enough          to a system of government does not mean it
+data, machine learning algorithms can              will be instantaneously more inclusive or fair.
+solve all of humanity's problems. But, in
+fact, instead of supporting AI progress,           AI systems need a lot of data to function,
+this mindset actually jeopardises the value        but the public sector typically does not
+of machine intelligence by disregarding            have the appropriate data infrastructure to
+important AI safety principles and setting         support advanced machine learning. Most
+unrealistic expectations about what AI can         of the data remains stored in offline archives.
+really do for humanity.                            The few digitised sources of data that exist
+                                                   tend to be buried in bureaucracy. More often
+In only a few years, AI solutionism has made       than not, data is spread across different
+its way from the technology evangelists'           government departments that each require
+mouths in Silicon Valley in California to          special permissions to be accessed. Above
+the minds of government officials and              all, the public sector typically lacks the
+policymakers around the world. The                 human talent with the right technological
+pendulum has swung from the dystopian              capabilities to fully reap the benefits of
+notion that AI will destroy humanity to the        machine intelligence.
+utopian belief that our algorithmic saviour
+is here.                                           For these reasons, the sensationalism
+                                                   over AI has attracted many critics. Stuart
+We are now seeing governments pledge               Russell, a professor of computer science
+support to national AI initiatives and             at the University of California, Berkeley,
+compete in a technological race to                 has long advocated a more sensible and
+dominate the burgeoning machine-learning           realistic approach that focuses on simple
+sector. While many politicians proclaim            everyday applications of AI instead of the
+46
+

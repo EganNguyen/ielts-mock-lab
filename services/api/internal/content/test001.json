@@ -1,0 +1,1723 @@
+{
+  "id": "apex-academic-01",
+  "title": "Academic Mock Test 01",
+  "module": "Academic",
+  "version": "2026.1",
+  "listening": [
+    {
+      "id": "listening-1",
+      "number": 1,
+      "title": "A new membership",
+      "context": "A telephone conversation about joining a sports centre",
+      "groups": [
+        {
+          "id": "l1-g1",
+          "label": "Questions 1–10",
+          "instructions": "Complete the membership form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "range": [
+            1,
+            10
+          ],
+          "layout": "form"
+        }
+      ],
+      "questions": [
+        {
+          "id": "l1",
+          "number": 1,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Surname: [[blank]]",
+          "answer": "Marsh",
+          "explanation": "The caller spells her surname: M-A-R-S-H."
+        },
+        {
+          "id": "l2",
+          "number": 2,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Street: 42 [[blank]] Road",
+          "answer": "Ellison",
+          "accepted": [
+            "ellison road"
+          ],
+          "explanation": "She gives her address as 42 Ellison Road and spells Ellison."
+        },
+        {
+          "id": "l3",
+          "number": 3,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Postcode: [[blank]]",
+          "answer": "BR8 4QT",
+          "accepted": [
+            "br84qt",
+            "br8 4qt"
+          ],
+          "explanation": "The postcode is dictated as B-R-8, 4-Q-T."
+        },
+        {
+          "id": "l4",
+          "number": 4,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Date of birth: [[blank]]",
+          "answer": "17 March 1991",
+          "accepted": [
+            "17th march 1991",
+            "march 17 1991",
+            "17/03/1991"
+          ],
+          "explanation": "Elena says the seventeenth of March, nineteen ninety-one."
+        },
+        {
+          "id": "l5",
+          "number": 5,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Membership type: [[blank]]",
+          "answer": "Premium",
+          "accepted": [
+            "premium membership"
+          ],
+          "explanation": "She chooses the premium membership so she can use the climbing wall."
+        },
+        {
+          "id": "l6",
+          "number": 6,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Main interest: [[blank]]",
+          "answer": "climbing",
+          "accepted": [
+            "the climbing wall",
+            "climbing wall"
+          ],
+          "explanation": "Mia records climbing as her main interest."
+        },
+        {
+          "id": "l7",
+          "number": 7,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Preferred start date: [[blank]]",
+          "answer": "1 July",
+          "accepted": [
+            "july 1",
+            "1st july",
+            "first of july",
+            "01/07"
+          ],
+          "explanation": "She asks to start on the first of July because she is away in June."
+        },
+        {
+          "id": "l8",
+          "number": 8,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Monthly fee: £[[blank]]",
+          "answer": "38",
+          "accepted": [
+            "38 pounds",
+            "£38"
+          ],
+          "explanation": "Premium membership costs thirty-eight pounds a month."
+        },
+        {
+          "id": "l9",
+          "number": 9,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Payment method: [[blank]]",
+          "answer": "direct debit",
+          "accepted": [
+            "directdebit"
+          ],
+          "explanation": "She chooses to pay by direct debit."
+        },
+        {
+          "id": "l10",
+          "number": 10,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Email: [[blank]]",
+          "answer": "elena.marsh@brightmail.com",
+          "accepted": [
+            "elenamarsh@brightmail.com"
+          ],
+          "explanation": "The email address is confirmed as elena.marsh@brightmail.com."
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Narrator",
+          "text": "Section 1. You will hear a telephone conversation between a woman and a receptionist at a sports centre. First, you have some time to look at questions 1 to 10. Now listen carefully."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Good morning, Riverside Sports Centre. Mia speaking. How can I help?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "Oh, hello. I’m calling about joining the centre. I had a look at your website last night."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Wonderful. I can take your details now if you’d like. Are you interested in a particular membership?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "I’m not sure yet. Could you tell me a little about the options?"
+        },
+        {
+          "speaker": "Mia",
+          "text": "Of course. We have three main types. Standard membership is twenty-four pounds a month and gives you access to the gym and the swimming pool. Student membership is nineteen pounds, but you need a valid student card. Then there’s premium membership at thirty-eight pounds. That includes the gym, the pool, all the fitness classes, and the climbing wall."
+        },
+        {
+          "speaker": "Elena",
+          "text": "The climbing wall sounds interesting. I’ve wanted to try that for ages."
+        },
+        {
+          "speaker": "Mia",
+          "text": "It’s very popular. We run beginner sessions on Tuesday evenings."
+        },
+        {
+          "speaker": "Elena",
+          "text": "Good to know. Let’s go with premium, then."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Lovely. Let me take some details. What’s your full name?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "Elena Marsh. That’s M-A-R-S-H."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Marsh. And your address?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "Forty-two Ellison Road. Ellison is spelled E-L-L-I-S-O-N."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Forty-two Ellison Road. And the postcode?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "B-R-8, 4-Q-T."
+        },
+        {
+          "speaker": "Mia",
+          "text": "B-R-8 4-Q-T. Is that Brighton?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "That’s right."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Date of birth?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "The seventeenth of March, nineteen ninety-one."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Thank you. And is there a particular activity you’re most interested in? It helps us arrange your induction."
+        },
+        {
+          "speaker": "Elena",
+          "text": "Definitely the climbing wall. I’ve done a bit of indoor climbing before, but I’d like to improve."
+        },
+        {
+          "speaker": "Mia",
+          "text": "I’ll put climbing down as your main interest. When would you like your membership to start?"
+        },
+        {
+          "speaker": "Elena",
+          "text": "The first of July, if that’s possible. I’m away for most of June."
+        },
+        {
+          "speaker": "Mia",
+          "text": "That’s fine. Just so you know, if you start before the thirtieth of June there’s no joining fee, but from July the joining fee is twenty pounds."
+        },
+        {
+          "speaker": "Elena",
+          "text": "Ah. Could I pay the joining fee now and still start in July?"
+        },
+        {
+          "speaker": "Mia",
+          "text": "Actually, yes — that’s a good idea. If you pay the joining fee today, we can hold the July rate. The monthly fee will be thirty-eight pounds."
+        },
+        {
+          "speaker": "Elena",
+          "text": "Great. How do I pay?"
+        },
+        {
+          "speaker": "Mia",
+          "text": "Most people set up a direct debit. You can also pay by card each month, but there’s a small administration charge for that. Annual payment is possible too."
+        },
+        {
+          "speaker": "Elena",
+          "text": "Direct debit is easiest."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Perfect. I’ll need an email address for the confirmation."
+        },
+        {
+          "speaker": "Elena",
+          "text": "It’s elena dot marsh at brightmail dot com."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Let me check that: E-L-E-N-A dot M-A-R-S-H at B-R-I-G-H-T-M-A-I-L dot com."
+        },
+        {
+          "speaker": "Elena",
+          "text": "Yes, that’s right."
+        },
+        {
+          "speaker": "Mia",
+          "text": "Great. I’ll send everything over this afternoon. Your induction will be on the second of July at ten in the morning. Just bring some photo identification and a bank card for the direct debit."
+        },
+        {
+          "speaker": "Elena",
+          "text": "Lovely. Thanks very much for your help."
+        },
+        {
+          "speaker": "Mia",
+          "text": "You’re welcome. See you in July."
+        },
+        {
+          "speaker": "Narrator",
+          "text": "That is the end of Part 1. You now have some time to check your answers."
+        }
+      ]
+    },
+    {
+      "id": "listening-2",
+      "number": 2,
+      "title": "Harbour Museum summer programme",
+      "context": "A museum guide introduces the summer events and the building layout",
+      "groups": [
+        {
+          "id": "l2-g1",
+          "label": "Questions 11–15",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "range": [
+            11,
+            15
+          ]
+        },
+        {
+          "id": "l2-g2",
+          "label": "Questions 16–20",
+          "instructions": "Where does each event take place? Choose the correct letter, A–H, from the map.",
+          "range": [
+            16,
+            20
+          ],
+          "sharedOptions": [
+            "A  Main entrance",
+            "B  Gallery One",
+            "C  Gallery Two",
+            "D  Garden courtyard",
+            "E  Café",
+            "F  Lecture theatre",
+            "G  Workshop studio",
+            "H  Museum shop"
+          ],
+          "note": "The map is shown below. You may use any letter more than once."
+        }
+      ],
+      "questions": [
+        {
+          "id": "l11",
+          "number": 11,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "What is the main new feature of this year’s summer programme?",
+          "options": [
+            "late opening on Thursdays",
+            "free entry to special exhibitions",
+            "a series of outdoor workshops"
+          ],
+          "answer": "C",
+          "explanation": "The guide says the outdoor programme is “the real headline” and the main change this year."
+        },
+        {
+          "id": "l12",
+          "number": 12,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "The family history workshops are designed for",
+          "options": [
+            "children under 10.",
+            "young people aged 13 to 17.",
+            "adults with young families."
+          ],
+          "answer": "B",
+          "explanation": "The sessions are for young people aged thirteen to seventeen."
+        },
+        {
+          "id": "l13",
+          "number": 13,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "Visitors on the night tour should bring",
+          "options": [
+            "comfortable shoes.",
+            "a torch.",
+            "a camera."
+          ],
+          "answer": "A",
+          "explanation": "The route covers uneven floors, so comfortable shoes are advised. Torches are provided and photography is not permitted."
+        },
+        {
+          "id": "l14",
+          "number": 14,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "The café will be closed on",
+          "options": [
+            "Mondays.",
+            "the first week of August.",
+            "weekday evenings."
+          ],
+          "answer": "A",
+          "explanation": "The café closes on Mondays for staff training."
+        },
+        {
+          "id": "l15",
+          "number": 15,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "What is the best way to book an event?",
+          "options": [
+            "by telephone",
+            "on the museum website",
+            "at the reception desk"
+          ],
+          "answer": "B",
+          "explanation": "The website is the quickest and most reliable way to book."
+        },
+        {
+          "id": "l16",
+          "number": 16,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "local history talk",
+          "answer": "F",
+          "explanation": "The talk takes place in the Lecture Theatre."
+        },
+        {
+          "id": "l17",
+          "number": 17,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "children’s craft sessions",
+          "answer": "G",
+          "explanation": "The craft sessions are held in the Workshop Studio."
+        },
+        {
+          "id": "l18",
+          "number": 18,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "refreshments",
+          "answer": "D",
+          "explanation": "Refreshments are served in the Garden courtyard."
+        },
+        {
+          "id": "l19",
+          "number": 19,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "new photography exhibition",
+          "answer": "C",
+          "explanation": "The photography exhibition opens in Gallery Two."
+        },
+        {
+          "id": "l20",
+          "number": 20,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "evening music performance",
+          "answer": "B",
+          "explanation": "The evening performance is in Gallery One."
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Narrator",
+          "text": "Section 2. You will hear a guide talking to a group of visitors at the Harbour Museum. First, you have some time to look at questions 11 to 20. Now listen carefully."
+        },
+        {
+          "speaker": "Guide",
+          "text": "Good afternoon, everyone, and welcome to the Harbour Museum. My name is Louise, and I’m the events coordinator here. I’d like to tell you about our Summer Discover programme before you explore the galleries."
+        },
+        {
+          "speaker": "Guide",
+          "text": "This is the fifth year of the programme, and it has grown considerably. We’ve extended our opening hours on Thursdays, and entry to the permanent collection is now free. Special exhibitions still require a ticket. But the real headline this year is a series of outdoor workshops in the museum garden. We’ll be running them every Saturday throughout July and August."
+        },
+        {
+          "speaker": "Guide",
+          "text": "For anyone interested in family history, we have two workshops each month. These sessions are designed for young people aged thirteen to seventeen, although parents are welcome to come along. They introduce the archives and show participants how to trace a family tree using local records."
+        },
+        {
+          "speaker": "Guide",
+          "text": "One event I’d particularly recommend is the night tour. It begins at eight o’clock and lasts about ninety minutes. The route covers some uneven floors and a narrow staircase, so please wear comfortable shoes. We provide torches, and photography isn’t permitted because the light damages some of the objects."
+        },
+        {
+          "speaker": "Guide",
+          "text": "The café is open every day except Monday, when it closes for staff training. During August it will stay open until eight in the evening, so you can have dinner after a late visit."
+        },
+        {
+          "speaker": "Guide",
+          "text": "Now, how do you book? The quickest way is through our website. The phone line is often very busy in the summer, and while you can book at reception, we only hold a limited number of places there. So I’d strongly suggest booking online before you come."
+        },
+        {
+          "speaker": "Guide",
+          "text": "Before you explore, let me explain where everything is. You’re standing in the main entrance, marked A on your map. Directly ahead is the ticketing desk. To your left is Gallery One, which houses our maritime collection, and beyond it Gallery Two, where the new photography exhibition opens next week. If you go through Gallery Two you’ll reach the Garden courtyard. The café is opposite the courtyard, close to the main entrance. The Lecture Theatre is at the far end of the building, past Gallery One. The Workshop Studio is beside the Lecture Theatre, with its own door onto the garden. The museum shop is by the entrance, on your right."
+        },
+        {
+          "speaker": "Guide",
+          "text": "Now, for today’s events. At eleven o’clock, Dr Alan Pierce will give a talk on the history of the harbour. That will be in the Lecture Theatre. It’s free, but you need to collect a ticket from the desk."
+        },
+        {
+          "speaker": "Guide",
+          "text": "The children’s craft sessions run all afternoon. They take place in the Workshop Studio, where there are large tables and plenty of materials. Parents need to stay with their children."
+        },
+        {
+          "speaker": "Guide",
+          "text": "If you’re feeling hungry, refreshments are being served in the Garden courtyard. There’s a small stall selling cakes and sandwiches, and the café is also open as usual."
+        },
+        {
+          "speaker": "Guide",
+          "text": "The new photography exhibition, “Harbour Light”, is in Gallery Two. It features work by local photographers and runs until the end of September."
+        },
+        {
+          "speaker": "Guide",
+          "text": "Finally, this evening’s music performance will be in Gallery One at seven o’clock. The gallery will close to other visitors at half past six so the musicians can set up. I hope you enjoy your visit."
+        },
+        {
+          "speaker": "Narrator",
+          "text": "That is the end of Part 2. You now have some time to check your answers."
+        }
+      ]
+    },
+    {
+      "id": "listening-3",
+      "number": 3,
+      "title": "A campus food waste project",
+      "context": "Two students discuss their research project and divide the work",
+      "groups": [
+        {
+          "id": "l3-g1",
+          "label": "Questions 21–25",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "range": [
+            21,
+            25
+          ]
+        },
+        {
+          "id": "l3-g2",
+          "label": "Questions 26–30",
+          "instructions": "Who will be responsible for each task? Choose A, B or C.",
+          "range": [
+            26,
+            30
+          ],
+          "sharedOptions": [
+            "A  Priya",
+            "B  Tom",
+            "C  Both students"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "l21",
+          "number": 21,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "Why did the students choose their research topic?",
+          "options": [
+            "Their tutor recommended it.",
+            "They had noticed a problem themselves.",
+            "There was little local research on it."
+          ],
+          "answer": "C",
+          "explanation": "Priya found studies of household and restaurant waste, but almost nothing about university cafés."
+        },
+        {
+          "id": "l22",
+          "number": 22,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "What was the main problem when collecting the cafés’ data?",
+          "options": [
+            "The cafés refused to share it.",
+            "The records were kept inconsistently.",
+            "The students did not have enough time."
+          ],
+          "answer": "B",
+          "explanation": "Some cafés record meals sold and others only income, so the data is inconsistent."
+        },
+        {
+          "id": "l23",
+          "number": 23,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "What does Priya suggest about the student survey?",
+          "options": [
+            "It should be kept short.",
+            "It should offer a small reward.",
+            "It should only be online."
+          ],
+          "answer": "A",
+          "explanation": "Priya says people will not finish a survey that takes more than five minutes, so it should be short."
+        },
+        {
+          "id": "l24",
+          "number": 24,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "What is Tom worried about?",
+          "options": [
+            "The sample may be too small.",
+            "The respondents may not be representative.",
+            "The analysis will be too complicated."
+          ],
+          "answer": "B",
+          "explanation": "He says that standing outside one café at lunchtime would mostly reach regular customers, not the whole campus."
+        },
+        {
+          "id": "l25",
+          "number": 25,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "What will the students do next?",
+          "options": [
+            "consult their supervisor",
+            "test the questionnaire",
+            "review more literature"
+          ],
+          "answer": "B",
+          "explanation": "They agree to test the questionnaire on about fifteen people before sending it out."
+        },
+        {
+          "id": "l26",
+          "number": 26,
+          "groupId": "l3-g2",
+          "type": "match",
+          "prompt": "contact the café managers",
+          "answer": "B",
+          "explanation": "Tom offers to email the café managers to ask for access."
+        },
+        {
+          "id": "l27",
+          "number": 27,
+          "groupId": "l3-g2",
+          "type": "match",
+          "prompt": "write the literature review",
+          "answer": "A",
+          "explanation": "Priya says she will draft the literature review that week."
+        },
+        {
+          "id": "l28",
+          "number": 28,
+          "groupId": "l3-g2",
+          "type": "match",
+          "prompt": "conduct the interviews",
+          "answer": "C",
+          "explanation": "They agree to carry out the interviews together."
+        },
+        {
+          "id": "l29",
+          "number": 29,
+          "groupId": "l3-g2",
+          "type": "match",
+          "prompt": "analyse the sales and waste figures",
+          "answer": "B",
+          "explanation": "Tom takes responsibility for analysing the figures."
+        },
+        {
+          "id": "l30",
+          "number": 30,
+          "groupId": "l3-g2",
+          "type": "match",
+          "prompt": "prepare the final presentation",
+          "answer": "C",
+          "explanation": "They decide to prepare the presentation together."
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Narrator",
+          "text": "Section 3. You will hear two students, Priya and Tom, discussing a research project. First, you have some time to look at questions 21 to 30. Now listen carefully."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Hi, Tom. Did you manage to look at the reading list for the food waste project?"
+        },
+        {
+          "speaker": "Tom",
+          "text": "I did. There’s quite a lot on household waste and restaurant waste, but I couldn’t find anything about university cafés."
+        },
+        {
+          "speaker": "Priya",
+          "text": "That’s exactly what I noticed. When I looked at the campus sustainability report, there was almost nothing about café waste. I thought that was strange, because thousands of meals are sold on campus every day."
+        },
+        {
+          "speaker": "Tom",
+          "text": "So that’s our justification for the topic — a gap in local research. Our tutor will like that."
+        },
+        {
+          "speaker": "Priya",
+          "text": "I hope so. The problem is going to be getting the data. I spoke to the manager of the main café yesterday. They don’t weigh what they throw away. Some cafés record the number of meals sold, others only their income, and one just counts the number of customers."
+        },
+        {
+          "speaker": "Tom",
+          "text": "So the records are inconsistent. That makes comparison difficult."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Very. We’ll probably need to do our own survey as well."
+        },
+        {
+          "speaker": "Tom",
+          "text": "What kind of survey?"
+        },
+        {
+          "speaker": "Priya",
+          "text": "A short questionnaire for students — what they buy, how often they leave food, and why. If it takes more than five minutes, people won’t finish it. Let’s keep it to eight or nine questions."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Agreed. But where do we find people? If we only stand outside the main café at lunchtime, we’ll mostly get students who eat there every day. That won’t represent the whole campus."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Good point. We could use the online student portal as well, and maybe ask at the library."
+        },
+        {
+          "speaker": "Tom",
+          "text": "That should help. So what’s next? Should we talk to our supervisor?"
+        },
+        {
+          "speaker": "Priya",
+          "text": "She’s away until Thursday. I think we should test the questionnaire first — give it to about fifteen people and see whether the questions make sense."
+        },
+        {
+          "speaker": "Tom",
+          "text": "A pilot. Good idea. Then we can revise it before we send it out properly."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Exactly. Now, how shall we divide the work? I’m happy to draft the literature review this week. I’ve already made notes on most of the articles."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Great. I’ll email the café managers and ask for access. I can also start analysing the sales and waste figures once they send them."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Perfect. What about the interviews? We said we’d speak to the café staff as well."
+        },
+        {
+          "speaker": "Tom",
+          "text": "We could do those together. It’ll be easier to take notes if there are two of us."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Yes, let’s do that. And the final presentation — shall we prepare it together as well?"
+        },
+        {
+          "speaker": "Tom",
+          "text": "Definitely. I don’t want to present on my own."
+        },
+        {
+          "speaker": "Priya",
+          "text": "Nor do I. OK, I’ll send you the draft literature review by Friday."
+        },
+        {
+          "speaker": "Narrator",
+          "text": "That is the end of Part 3. You now have some time to check your answers."
+        }
+      ]
+    },
+    {
+      "id": "listening-4",
+      "number": 4,
+      "title": "City bees",
+      "context": "A lecture about bees living in urban environments",
+      "groups": [
+        {
+          "id": "l4-g1",
+          "label": "Questions 31–40",
+          "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+          "range": [
+            31,
+            40
+          ],
+          "layout": "notes"
+        }
+      ],
+      "questions": [
+        {
+          "id": "l31",
+          "number": 31,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Cities may offer greater [[blank]] than farmland",
+          "answer": "plant diversity",
+          "accepted": [
+            "plantdiversity",
+            "diversity of plants"
+          ],
+          "explanation": "The lecturer says cities can offer greater plant diversity than surrounding farmland."
+        },
+        {
+          "id": "l32",
+          "number": 32,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Bees need food, shelter and [[blank]]",
+          "answer": "water",
+          "explanation": "All bees need food, shelter and water."
+        },
+        {
+          "id": "l33",
+          "number": 33,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Warmer cities can cause queens to emerge [[blank]]",
+          "answer": "earlier",
+          "explanation": "Warmer temperatures cause queen bees to emerge earlier in the year."
+        },
+        {
+          "id": "l34",
+          "number": 34,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Researchers use tiny [[blank]] inside hives to record sound",
+          "answer": "microphones",
+          "explanation": "Tiny microphones are placed inside hives to record the sound of the colony."
+        },
+        {
+          "id": "l35",
+          "number": 35,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Study in [[blank]] found more species in gardens than parks",
+          "answer": "Melbourne",
+          "explanation": "The study comparing gardens and parks took place in Melbourne."
+        },
+        {
+          "id": "l36",
+          "number": 36,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Roof gardens can act as [[blank]] between green spaces",
+          "answer": "stepping stones",
+          "accepted": [
+            "steppingstones"
+          ],
+          "explanation": "Roof gardens can act as stepping stones between larger green spaces."
+        },
+        {
+          "id": "l37",
+          "number": 37,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Pesticide traces have been found in [[blank]]",
+          "answer": "pollen",
+          "explanation": "Traces of pesticides were found in samples of pollen."
+        },
+        {
+          "id": "l38",
+          "number": 38,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Citizen science project: [[blank]]",
+          "answer": "BeeWatch",
+          "accepted": [
+            "bee watch"
+          ],
+          "explanation": "The project is called BeeWatch."
+        },
+        {
+          "id": "l39",
+          "number": 39,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Best time to record sightings: [[blank]]",
+          "answer": "early morning",
+          "accepted": [
+            "earlymorning",
+            "the early morning"
+          ],
+          "explanation": "The lecturer recommends early morning, when bees are still warming up."
+        },
+        {
+          "id": "l40",
+          "number": 40,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Gardeners should leave a pile of [[blank]]",
+          "answer": "dead wood",
+          "accepted": [
+            "deadwood"
+          ],
+          "explanation": "A pile of dead wood provides nesting places for solitary bees."
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Narrator",
+          "text": "Section 4. You will hear a lecture about bees in cities. First, you have some time to look at questions 31 to 40. Now listen carefully."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Good morning. Today I want to talk about an animal that many people are surprised to find in cities: the bee. When we think of bees, we usually imagine wildflower meadows or orchards in the countryside. But over the past twenty years, researchers have discovered that towns and cities can be surprisingly good places for many bee species."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "One reason is that cities can actually offer greater plant diversity than the farmland around them. Gardens, parks, balconies and roadside verges contain an enormous variety of flowers, often planted by people. A single city garden may contain more species than a large field of a single crop. For bees that feed on many different plants, this variety is valuable."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "But flowers are only one requirement. Like all insects, bees need food, shelter and water. Water is often overlooked. Ponds, birdbaths and even shallow puddles provide the moisture that bees need, especially in hot weather."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "The urban climate also affects bee behaviour. Cities are warmer than the surrounding countryside because of all the concrete and asphalt, which absorb heat. This can cause queen bees to emerge earlier in the year. In some years, queens may appear several weeks before their rural relatives. That can be an advantage if flowers are also available early, but it creates a risk if a cold spell follows."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "To study these changes, scientists need to monitor colonies closely. One technique is to place tiny microphones inside hives. The microphones record the sound of the colony, and researchers can detect changes in the bees’ buzzing that may indicate stress, disease or the loss of a queen. It’s a remarkable example of how technology can help us understand insects without opening the hive."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Now, not all urban habitats are equally good. A study in Melbourne, Australia, compared the bee communities in private gardens with those in public parks. The gardens supported a greater number of species. The researchers suggested that this was because gardens contained more varieties of flowers and more sheltered corners. Parks were often mown too frequently and had fewer flowering plants."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "However, small gardens on their own may not be enough to sustain a population. Connectivity matters. Roof gardens and green roofs can act as stepping stones between larger green spaces, allowing bees to move across the city. Even a small balcony can play a part if it is planted with the right flowers."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "There are risks, too. One study collected pollen from urban hives and found traces of pesticides in the samples. The levels were usually low, but the finding shows that cities are not free from agricultural chemicals. Gardeners can help by avoiding pesticides and choosing native plants."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Finally, I want to mention a citizen science project called BeeWatch. Volunteers record sightings of bees in their local area using a mobile app. The project has produced thousands of records and helped researchers identify where particular species are thriving. If you’d like to take part, the best time to record sightings is early morning, when bees are still warming up and are easier to photograph. And if you have a garden, one of the simplest things you can do is leave a pile of dead wood in a corner. Many solitary bees nest in dead wood, and it costs nothing."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "So, cities are not simply a poor substitute for the countryside. With thoughtful planting and a little tolerance for untidiness, they can become valuable habitats for a wide range of bees."
+        },
+        {
+          "speaker": "Narrator",
+          "text": "That is the end of Part 4. You now have some time to check your answers. This is the end of the listening test."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "reading-1",
+      "number": 1,
+      "title": "The Return of the Bison",
+      "subtitle": "How a species brought back from the edge is reshaping the grasslands — and the argument about how to protect it",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "At the beginning of the nineteenth century, an estimated thirty to sixty million bison roamed the grasslands of North America. They moved in herds so large that a single herd could take days to pass. By 1884, fewer than 350 wild bison survived. Hunters, railways and government policies had turned abundance into near-extinction in less than a century. For the Plains peoples who depended on the animal for food, shelter and ceremony, the loss was cultural as well as ecological. The bison had been the centre of a way of life, and its disappearance was a deliberate part of the campaign to dismantle that life."
+        },
+        {
+          "label": "B",
+          "text": "Bison are often described as ecosystem engineers, and the phrase is more than a compliment. Their grazing removes the tall grasses that would otherwise dominate a meadow, allowing shorter plants and wildflowers to receive light. Their wallows — shallow depressions made by rolling in the dust — collect rainwater and become temporary pools used by insects, birds and amphibians. Their hooves break up compacted soil, and their dung returns nutrients and disperses seeds. A long-term study in Kansas found that plots grazed by bison contained a greater variety of plant species than plots left ungrazed. The animals do not simply live in a landscape; they help to make it."
+        },
+        {
+          "label": "C",
+          "text": "Conservation began when the situation looked hopeless. In 1905, the American Bison Society was founded, with the aim of establishing captive herds and protected ranges. The Bronx Zoo bred animals, and in 1907 a small group was transported to the Wichita Mountains reserve in Oklahoma. These early reserves were created by government agencies and private conservation organisations, not by the tribal nations whose relationship with the bison had been broken. The programme worked, at least in the narrow sense that the species survived. By the 1930s there were several thousand bison, and the panic of extinction had given way to a new idea: that a wild animal could be managed, fenced and brought back."
+        },
+        {
+          "label": "D",
+          "text": "Survival, however, came at a genetic cost. The modern plains bison population is descended from a remarkably small number of animals. Yellowstone’s herd, often treated as the most genetically wild, grew from roughly two dozen individuals. Early ranchers also crossed bison with cattle in an attempt to produce a hardier domestic animal. Genetic testing has since found cattle DNA in many commercial herds, although not in the Yellowstone population. Low genetic diversity leaves bison more vulnerable to disease and environmental change. Conservationists now argue about whether herds should be mixed to restore variation, or kept separate to preserve whatever distinctiveness remains."
+        },
+        {
+          "label": "E",
+          "text": "In recent decades, the initiative has shifted. More than twenty tribal nations have signed the Buffalo Treaty, an agreement that treats the animal as a relative as well as a resource. For its signatories, restoration is not only a matter of biodiversity but of food sovereignty, education and cultural continuity. Tribal herds are also changing the scientific picture. Because they are managed by communities that rely on them, they are often monitored more closely than herds on remote public land. The treaty has helped to reconnect fragmented habitats and to place Indigenous knowledge at the centre of a conservation story from which it had been excluded."
+        },
+        {
+          "label": "F",
+          "text": "The return of the bison has also revived an older conflict. Ranchers in the Yellowstone region worry that bison, which can carry brucellosis, may transmit the disease to cattle; the evidence for transmission in the wild is contested, but the economic consequences for a rancher would be severe. Others point to the damage bison can do to fences and crops when they leave protected areas. There is disagreement, too, about what a restored herd should be. Some argue that bison should be treated as wildlife, free to move across the landscape. Others regard them as livestock, to be owned, vaccinated and controlled. The animal has survived; the argument about its future has only become more complicated."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r1-g1",
+          "label": "Questions 1–6",
+          "instructions": "Reading Passage 1 has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–viii.",
+          "range": [
+            1,
+            6
+          ],
+          "sharedOptions": [
+            "i   A cultural and ecological partnership",
+            "ii   The mechanics of a changing landscape",
+            "iii   From near-extinction to a new idea",
+            "iv   A genetic legacy with consequences",
+            "v   The economic case for ranching",
+            "vi   Conflict over land and disease",
+            "vii   A species in steep decline",
+            "viii   How tourism saved a small town"
+          ],
+          "note": "There are more headings than paragraphs, so you will not use all of them."
+        },
+        {
+          "id": "r1-g2",
+          "label": "Questions 7–13",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "range": [
+            7,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "r1",
+          "number": 1,
+          "groupId": "r1-g1",
+          "type": "heading",
+          "prompt": "Paragraph A",
+          "answer": "vii",
+          "explanation": "Paragraph A describes the collapse of bison numbers from tens of millions to a few hundred."
+        },
+        {
+          "id": "r2",
+          "number": 2,
+          "groupId": "r1-g1",
+          "type": "heading",
+          "prompt": "Paragraph B",
+          "answer": "ii",
+          "explanation": "Paragraph B explains how grazing, wallowing and trampling change the grassland."
+        },
+        {
+          "id": "r3",
+          "number": 3,
+          "groupId": "r1-g1",
+          "type": "heading",
+          "prompt": "Paragraph C",
+          "answer": "iii",
+          "explanation": "Paragraph C describes the first conservation efforts after near-extinction."
+        },
+        {
+          "id": "r4",
+          "number": 4,
+          "groupId": "r1-g1",
+          "type": "heading",
+          "prompt": "Paragraph D",
+          "answer": "iv",
+          "explanation": "Paragraph D focuses on the genetic bottleneck and cattle ancestry."
+        },
+        {
+          "id": "r5",
+          "number": 5,
+          "groupId": "r1-g1",
+          "type": "heading",
+          "prompt": "Paragraph E",
+          "answer": "i",
+          "explanation": "Paragraph E describes tribal restoration and the Buffalo Treaty, linking culture and ecology."
+        },
+        {
+          "id": "r6",
+          "number": 6,
+          "groupId": "r1-g1",
+          "type": "heading",
+          "prompt": "Paragraph F",
+          "answer": "vi",
+          "explanation": "Paragraph F discusses disputes over brucellosis, land and how bison should be treated."
+        },
+        {
+          "id": "r7",
+          "number": 7,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "By the late nineteenth century, only a few hundred wild bison remained.",
+          "answer": "TRUE",
+          "explanation": "The passage says that by 1884 fewer than 350 wild bison survived."
+        },
+        {
+          "id": "r8",
+          "number": 8,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Bison grazing can increase the variety of plant life in a grassland.",
+          "answer": "TRUE",
+          "explanation": "Grazing removes dominant tall grasses and allows shorter plants to flourish, raising plant diversity."
+        },
+        {
+          "id": "r9",
+          "number": 9,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The first bison reserves in the United States were created by Native American tribes.",
+          "answer": "FALSE",
+          "explanation": "The first reserves were established by government agencies and private conservation groups; tribal-led restoration came much later."
+        },
+        {
+          "id": "r10",
+          "number": 10,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Every modern bison herd contains some cattle DNA.",
+          "answer": "FALSE",
+          "explanation": "Many commercial herds show cattle ancestry, but the Yellowstone herd does not."
+        },
+        {
+          "id": "r11",
+          "number": 11,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Yellowstone’s bison are descended from a very small number of animals.",
+          "answer": "TRUE",
+          "explanation": "The Yellowstone herd grew from roughly two dozen animals."
+        },
+        {
+          "id": "r12",
+          "number": 12,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The Buffalo Treaty has been signed by every tribal nation in North America.",
+          "answer": "NOT GIVEN",
+          "explanation": "The passage says more than twenty nations signed it, but does not say that every tribal nation did."
+        },
+        {
+          "id": "r13",
+          "number": 13,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Ranchers and conservationists agree on how bison should be managed.",
+          "answer": "FALSE",
+          "explanation": "The final paragraph describes continuing disagreement over disease risk, land and whether bison are wildlife or livestock."
+        }
+      ]
+    },
+    {
+      "id": "reading-2",
+      "number": 2,
+      "title": "Listening to the Ocean",
+      "subtitle": "Marine scientists are learning to read the soundscape of the sea — and discovering that noise is a form of pollution",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "For most of human history, the sea was imagined as a place of silence. Sailors spoke of a “silent world”, and early naturalists assumed that sound could not travel far through water. That assumption was wrong. Water carries sound about four and a half times faster than air, and low-frequency sound can travel for hundreds of kilometres. The ocean is, in fact, an extraordinarily noisy place. Rain, waves, earthquakes and the clicks and calls of marine animals combine into a complex soundscape. A hydrophone lowered into the water does not record emptiness; it records a dense and constantly changing acoustic environment."
+        },
+        {
+          "label": "B",
+          "text": "The most famous example is the song of the humpback whale. Male humpbacks produce long, structured sequences of moans, cries and clicks that can last for twenty minutes and carry across an entire ocean basin. The songs are not fixed. They change gradually over months and years, and new versions spread from one population to another. Researchers have used these changes to trace migration routes and social connections. The song is also a reminder that the sea is full of information: an animal can announce its presence, attract a mate or warn a rival without ever seeing the other individual."
+        },
+        {
+          "label": "C",
+          "text": "Sound is not only communication; it is also a map. Many coral larvae are tiny, weak swimmers, yet they must find a suitable place to settle after drifting in the plankton. Experiments have shown that they are more likely to settle on surfaces near the sound of a healthy reef — the crackle of snapping shrimp, the grunts of fish — than near the relative quiet of a degraded one. The soundscape acts as a cue, allowing a larva to distinguish a living community from a dead one. Similar cues are used by some fish and crabs when choosing a habitat."
+        },
+        {
+          "label": "D",
+          "text": "Human activity has added a new and dominant layer to this environment. Commercial shipping has increased enormously since the mid-twentieth century, and the low-frequency rumble of engines and propellers travels far through the water. In some busy shipping lanes, background noise has risen by several dozen decibels over the past seventy years. For animals that rely on low-frequency calls, the effect is like trying to hold a conversation beside a motorway. Whales may raise the volume of their calls, but this costs energy and can still fail to overcome the noise. Chronic noise has been linked to stress and to changes in feeding and migration behaviour."
+        },
+        {
+          "label": "E",
+          "text": "If sound can damage a habitat, it can also help to repair one. In a series of experiments, researchers placed underwater speakers around patches of degraded reef and played recordings made at healthy sites. Fish arrived in greater numbers, and the patches began to accumulate the kinds of organisms that support a reef community. The technique, sometimes called acoustic enrichment, is not a substitute for reducing pollution or protecting fish stocks. But it shows that the soundscape is not merely a symptom of reef health; it can be a tool for restoring it."
+        },
+        {
+          "label": "F",
+          "text": "The difficulty is turning all this listening into reliable knowledge. A single hydrophone can produce months of recordings, and the amount of acoustic data now being collected is far beyond what researchers can examine by hand. Machine learning can identify particular calls and patterns, but the models need carefully labelled examples and may fail when conditions change. Sound also tells us what is present, not why it matters. A recording can reveal that a species has returned to an area, but not whether the population is healthy. The next task for marine acoustics is therefore as much political as technical: to persuade shipping companies and governments that quieter ships and protected quiet areas are part of conservation, not an optional extra."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r2-g1",
+          "label": "Questions 14–19",
+          "instructions": "Reading Passage 2 has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–vii.",
+          "range": [
+            14,
+            19
+          ],
+          "sharedOptions": [
+            "i   The problem of noise pollution",
+            "ii   A tool for restoring damaged areas",
+            "iii   An environment full of information",
+            "iv   The difficulty of interpreting recordings",
+            "v   How marine animals find their way by sound",
+            "vi   Evidence from a single species",
+            "vii   The economic value of fishing"
+          ],
+          "note": "There are more headings than paragraphs, so you will not use all of them."
+        },
+        {
+          "id": "r2-g2",
+          "label": "Questions 20–23",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            20,
+            23
+          ]
+        },
+        {
+          "id": "r2-g3",
+          "label": "Questions 24–26",
+          "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "range": [
+            24,
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "r14",
+          "number": 14,
+          "groupId": "r2-g1",
+          "type": "heading",
+          "prompt": "Paragraph A",
+          "answer": "iii",
+          "explanation": "Paragraph A explains that the sea is filled with biological and physical sound."
+        },
+        {
+          "id": "r15",
+          "number": 15,
+          "groupId": "r2-g1",
+          "type": "heading",
+          "prompt": "Paragraph B",
+          "answer": "vi",
+          "explanation": "Paragraph B focuses on research into humpback whale song."
+        },
+        {
+          "id": "r16",
+          "number": 16,
+          "groupId": "r2-g1",
+          "type": "heading",
+          "prompt": "Paragraph C",
+          "answer": "v",
+          "explanation": "Paragraph C shows how coral larvae use sound to choose where to settle."
+        },
+        {
+          "id": "r17",
+          "number": 17,
+          "groupId": "r2-g1",
+          "type": "heading",
+          "prompt": "Paragraph D",
+          "answer": "i",
+          "explanation": "Paragraph D describes the rise in shipping noise and its effects."
+        },
+        {
+          "id": "r18",
+          "number": 18,
+          "groupId": "r2-g1",
+          "type": "heading",
+          "prompt": "Paragraph E",
+          "answer": "ii",
+          "explanation": "Paragraph E describes acoustic enrichment projects that help restore reefs."
+        },
+        {
+          "id": "r19",
+          "number": 19,
+          "groupId": "r2-g1",
+          "type": "heading",
+          "prompt": "Paragraph F",
+          "answer": "iv",
+          "explanation": "Paragraph F discusses the challenges of analysing recordings and the limits of the evidence."
+        },
+        {
+          "id": "r20",
+          "number": 20,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "Why did early researchers describe the ocean as silent?",
+          "options": [
+            "Their equipment could not detect low-frequency sound.",
+            "They did not spend long enough at sea.",
+            "They believed marine animals were unable to hear.",
+            "They only studied shallow water."
+          ],
+          "answer": "A",
+          "explanation": "Early hydrophones were designed around human hearing and missed the low frequencies used by many marine animals."
+        },
+        {
+          "id": "r21",
+          "number": 21,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "What is notable about humpback whale songs?",
+          "options": [
+            "They are identical in every ocean.",
+            "They change over time and spread between populations.",
+            "They are sung only during the night.",
+            "They are too quiet for humans to hear."
+          ],
+          "answer": "B",
+          "explanation": "The songs gradually change and new versions spread across ocean basins."
+        },
+        {
+          "id": "r22",
+          "number": 22,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "Coral larvae use underwater sound mainly to",
+          "options": [
+            "avoid predators.",
+            "choose a suitable place to settle.",
+            "locate food.",
+            "communicate with adult corals."
+          ],
+          "answer": "B",
+          "explanation": "Larvae are more likely to settle on surfaces near the sound of a healthy reef community."
+        },
+        {
+          "id": "r23",
+          "number": 23,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "Shipping noise is a particular concern because it",
+          "options": [
+            "masks sounds that animals depend on.",
+            "raises the temperature of the water.",
+            "attracts large predators to ports.",
+            "prevents larvae from feeding."
+          ],
+          "answer": "A",
+          "explanation": "Low-frequency ship noise can drown out the calls and environmental cues that animals use."
+        },
+        {
+          "id": "r24",
+          "number": 24,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "Modern surveys produce huge quantities of [[blank]], which machine learning can help analyse.",
+          "answer": "acoustic data",
+          "accepted": [
+            "acousticdata",
+            "underwater recordings",
+            "recordings"
+          ],
+          "explanation": "The passage refers to the enormous amount of acoustic data collected by modern surveys."
+        },
+        {
+          "id": "r25",
+          "number": 25,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "In one experiment, recordings of healthy reefs attracted more [[blank]] to damaged areas.",
+          "answer": "fish",
+          "accepted": [
+            "young fish"
+          ],
+          "explanation": "Playing healthy reef soundscapes attracted fish to degraded reef patches."
+        },
+        {
+          "id": "r26",
+          "number": 26,
+          "groupId": "r2-g3",
+          "type": "short",
+          "prompt": "The writer argues that reducing [[blank]] should form part of ocean conservation.",
+          "answer": "shipping noise",
+          "accepted": [
+            "shippingnoise",
+            "ship noise",
+            "noise from ships"
+          ],
+          "explanation": "The final paragraph calls for quieter ships and lower shipping noise."
+        }
+      ]
+    },
+    {
+      "id": "reading-3",
+      "number": 3,
+      "title": "The Prediction Paradox",
+      "subtitle": "Why experts are often poor forecasters, and what the best of them do differently",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "In 1984, the psychologist Philip Tetlock began an experiment that would make him unpopular in certain circles. He recruited 284 experts in politics, economics and international affairs and asked them to make thousands of predictions about future events. Over the next twenty years, he collected more than 82,000 forecasts and compared them with what actually happened. The result was humbling. The experts were barely more accurate than chance, and in some cases they performed worse than a simple rule that extrapolated recent trends. The people who appeared most often on television were not the best forecasters; they were often the worst."
+        },
+        {
+          "label": "B",
+          "text": "Tetlock borrowed a distinction from the philosopher Isaiah Berlin. Hedgehogs know one big thing: they organise the world around a single theory and interpret new events as confirmation of it. Foxes know many little things: they draw on different ideas, tolerate contradiction and are willing to revise their views. Foxes, Tetlock found, were significantly better at forecasting. The reason is not that they are more intelligent, but that they are less attached to a single story. A hedgehog who predicts that an economy will collapse may keep predicting collapse because the theory demands it; a fox notices the evidence that does not fit and adjusts."
+        },
+        {
+          "label": "C",
+          "text": "The research programme eventually became a tournament. In 2011, the Good Judgment Project invited thousands of volunteers to forecast political and economic events, with their accuracy scored against real outcomes. A small group stood out. These “superforecasters” were not necessarily experts in the regions they were predicting. What distinguished them was a set of habits. They thought in probabilities rather than certainties, broke questions into smaller parts, updated their estimates frequently and in small increments, and actively looked for evidence that might prove them wrong. They also avoided hindsight bias: after an event, they reviewed their earlier reasoning instead of simply congratulating themselves on being right."
+        },
+        {
+          "label": "D",
+          "text": "One of the most reliable findings in the field is that crowds can beat individuals. When forecasts from many independent people are averaged, the result is usually more accurate than the typical individual forecast, and sometimes better than the best one. The effect is strengthened when forecasters are asked to explain their reasoning and when their scores are visible to others. Aggregation works because individual errors are partly random: one person overestimates a risk, another underestimates it, and the average lands closer to the truth. The lesson is not that expertise is worthless, but that no single perspective should be trusted completely."
+        },
+        {
+          "label": "E",
+          "text": "Artificial intelligence has added a new dimension. Large language models can absorb enormous quantities of news and data and produce forecasts at a speed no human team could match. In some domains, they perform surprisingly well. Yet the evidence so far suggests that the best results come from hybrid arrangements, in which a model generates a range of possibilities and human analysts judge which are plausible, ask what the model has missed and adjust for context. The machine is good at processing; the human is good at knowing which questions matter. Neither is sufficient alone."
+        },
+        {
+          "label": "F",
+          "text": "Forecasting also has limits that no method can remove. The most consequential events are often rare, and rare events provide little feedback from which to learn. A forecaster may be right for the wrong reasons or wrong for the right ones. When a prediction fails, it is tempting to explain the failure away; when it succeeds, it is tempting to claim credit. The result is that many people improve their confidence without improving their accuracy. Tetlock calls this “belief system defence”. The best forecasters are those who resist it, who treat their own conclusions as provisional and who keep score honestly."
+        },
+        {
+          "label": "G",
+          "text": "The practical implication is encouraging. If good forecasting were a mysterious talent, most organisations could do little to improve. But the evidence suggests that it is a discipline: a set of habits that can be taught, practised and measured. Asking better questions, assigning probabilities, seeking disconfirming evidence and reviewing outcomes are not glamorous activities. They do not produce the confident headlines that audiences reward. They do, however, produce better decisions. In a world that increasingly demands certainty, the most valuable skill may be the willingness to remain uncertain for longer."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r3-g1",
+          "label": "Questions 27–32",
+          "instructions": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "range": [
+            27,
+            32
+          ]
+        },
+        {
+          "id": "r3-g2",
+          "label": "Questions 33–36",
+          "instructions": "Reading Passage 3 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G.",
+          "range": [
+            33,
+            36
+          ],
+          "note": "You may use any letter more than once."
+        },
+        {
+          "id": "r3-g3",
+          "label": "Questions 37–40",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            37,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "r27",
+          "number": 27,
+          "groupId": "r3-g1",
+          "type": "ynng",
+          "prompt": "Tetlock’s experts performed worse than a simple statistical rule.",
+          "answer": "YES",
+          "explanation": "The passage says their forecasts were sometimes less accurate than simple extrapolation."
+        },
+        {
+          "id": "r28",
+          "number": 28,
+          "groupId": "r3-g1",
+          "type": "ynng",
+          "prompt": "Hedgehogs make more accurate forecasters than foxes.",
+          "answer": "NO",
+          "explanation": "The passage says the opposite: foxes tend to forecast more accurately."
+        },
+        {
+          "id": "r29",
+          "number": 29,
+          "groupId": "r3-g1",
+          "type": "ynng",
+          "prompt": "Most superforecasters were employed by universities.",
+          "answer": "NOT GIVEN",
+          "explanation": "The passage describes their thinking habits but not their employers."
+        },
+        {
+          "id": "r30",
+          "number": 30,
+          "groupId": "r3-g1",
+          "type": "ynng",
+          "prompt": "Combining several forecasts tends to improve accuracy.",
+          "answer": "YES",
+          "explanation": "Averaging independent forecasts reduced error and improved accuracy."
+        },
+        {
+          "id": "r31",
+          "number": 31,
+          "groupId": "r3-g1",
+          "type": "ynng",
+          "prompt": "Artificial intelligence has replaced human forecasters in government.",
+          "answer": "NO",
+          "explanation": "The passage says AI is used alongside people, not instead of them."
+        },
+        {
+          "id": "r32",
+          "number": 32,
+          "groupId": "r3-g1",
+          "type": "ynng",
+          "prompt": "Superforecasters revise their beliefs when new evidence appears.",
+          "answer": "YES",
+          "explanation": "Frequent, small updates in response to new information are one of their defining habits."
+        },
+        {
+          "id": "r33",
+          "number": 33,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "a comparison between two styles of thinking",
+          "answer": "B",
+          "explanation": "Paragraph B contrasts hedgehogs, who rely on one big idea, with foxes, who draw on many."
+        },
+        {
+          "id": "r34",
+          "number": 34,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "a reference to the difficulty of predicting rare events",
+          "answer": "F",
+          "explanation": "Paragraph F discusses rare “black swan” events and the lack of feedback."
+        },
+        {
+          "id": "r35",
+          "number": 35,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "an example of people and machines working together",
+          "answer": "E",
+          "explanation": "Paragraph E describes hybrid teams in which human judgement refines machine output."
+        },
+        {
+          "id": "r36",
+          "number": 36,
+          "groupId": "r3-g2",
+          "type": "match",
+          "prompt": "a description of a large forecasting tournament",
+          "answer": "C",
+          "explanation": "Paragraph C describes the Good Judgment Project and its thousands of participants."
+        },
+        {
+          "id": "r37",
+          "number": 37,
+          "groupId": "r3-g3",
+          "type": "mcq",
+          "prompt": "Tetlock’s early findings were surprising because the experts",
+          "options": [
+            "were less accurate than simple rules.",
+            "refused to make numerical predictions.",
+            "were too confident to take part.",
+            "had all been chosen by governments."
+          ],
+          "answer": "A",
+          "explanation": "The experts’ record was no better, and sometimes worse, than simple extrapolation from past data."
+        },
+        {
+          "id": "r38",
+          "number": 38,
+          "groupId": "r3-g3",
+          "type": "mcq",
+          "prompt": "What is typical of superforecasters?",
+          "options": [
+            "They avoid making numerical estimates.",
+            "They revise probabilities as events unfold.",
+            "They prefer to work without other people.",
+            "They rely on a single guiding theory."
+          ],
+          "answer": "B",
+          "explanation": "They assign probabilities and update them frequently in small increments."
+        },
+        {
+          "id": "r39",
+          "number": 39,
+          "groupId": "r3-g3",
+          "type": "mcq",
+          "prompt": "According to the passage, AI forecasting models",
+          "options": [
+            "have made human judgement unnecessary.",
+            "are most useful when combined with human judgement.",
+            "are too expensive for most organisations.",
+            "perform best on rare events."
+          ],
+          "answer": "B",
+          "explanation": "The passage says hybrid human–machine teams outperform either alone."
+        },
+        {
+          "id": "r40",
+          "number": 40,
+          "groupId": "r3-g3",
+          "type": "mcq",
+          "prompt": "What is the main point of the passage?",
+          "options": [
+            "Prediction is fundamentally impossible.",
+            "Good forecasting is a learnable discipline rather than a mysterious talent.",
+            "Governments should stop using experts.",
+            "Algorithms will soon replace all human forecasters."
+          ],
+          "answer": "B",
+          "explanation": "The passage argues that forecasting improves with deliberate practice, feedback and humility."
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "writing-1",
+      "number": 1,
+      "title": "Task 1 — Report",
+      "prompt": "The bar chart below shows the percentage of adults in one country who used the internet in 2010 and 2022, by age group. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "instructions": [
+        "Write at least 150 words.",
+        "You should spend about 20 minutes on this task.",
+        "Write a report for a university lecturer. Do not give your opinion."
+      ],
+      "minimumWords": 150,
+      "suggestedMinutes": 20,
+      "chart": "internet",
+      "modelAnswer": "The bar chart compares internet use among five age groups in a single country in 2010 and 2022. Overall, the proportion of adults using the internet rose in every age group over the twelve-year period, and the gap between younger and older users narrowed substantially.\n\nIn 2010, internet use was highest among 18–29-year-olds, at 76%, followed by the 30–44 group at 68%. Usage fell steadily with age: 45% of those aged 45–59 were online, compared with only 23% of 60–74-year-olds and just 8% of people aged 75 and over.\n\nBy 2022, the pattern had changed dramatically. Almost all 18–29-year-olds (98%) and 95% of 30–44-year-olds used the internet. The most striking increase occurred among older adults. The figure for the 45–59 group climbed to 87%, while usage among 60–74-year-olds more than tripled to 70%. Even in the oldest group, the proportion rose from 8% to 38%, although this remained well below the national average.\n\nIn short, the data show both a general expansion of internet access and a significant reduction in the age gap. Nevertheless, a clear generational difference persisted in 2022, with older adults still considerably less likely to be online than younger people.",
+      "modelHighlights": [
+        "A clear overview in the introduction: overall rise plus narrowing gap.",
+        "Data is grouped logically, with 2010 and 2022 compared rather than listed mechanically.",
+        "Precise figures are used selectively, and the most striking change (older adults) is highlighted.",
+        "No opinion or speculation is included.",
+        "Vocabulary of change and comparison is varied: “climbed”, “more than tripled”, “narrowed”, “well below”."
+      ]
+    },
+    {
+      "id": "writing-2",
+      "number": 2,
+      "title": "Task 2 — Essay",
+      "prompt": "Some people believe that universities should only offer courses that lead to well-paid jobs. Others think that universities should teach subjects that benefit society, even if graduates earn less.\n\nDiscuss both views and give your own opinion.",
+      "instructions": [
+        "Write at least 250 words.",
+        "You should spend about 40 minutes on this task.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "minimumWords": 250,
+      "suggestedMinutes": 40,
+      "modelAnswer": "Debate about the purpose of higher education often sets economic value against social value. Some argue that universities should concentrate on courses that lead directly to well-paid employment, while others believe that subjects of wider social importance deserve support even when their graduates earn less. In my view, a healthy university system needs both, but public funding should not be determined by salary outcomes alone.\n\nThose who favour employment-focused courses make a reasonable case. Students typically invest several years and a considerable sum in their degrees, and they are entitled to expect that their qualification will improve their job prospects. Courses in engineering, medicine, computer science and finance provide obvious routes into secure careers, and economies need these graduates. If universities expanded only in fields with little labour-market demand, they might produce disillusioned graduates with large debts and limited options. From this perspective, a degree is partly a private investment, and its economic return matters.\n\nOn the other hand, a university is not merely a training provider. Subjects such as history, philosophy, social work and the arts help societies understand themselves, preserve culture and address problems that markets do not price. A social worker or a teacher may earn less than a software engineer, but their contribution to public life is substantial. Moreover, the benefits of research in the humanities are often indirect and long-term: they shape public debate, inform policy and enrich civic life. If funding were tied only to graduate salaries, these fields would shrink, and the loss would be felt across society rather than in any single balance sheet.\n\nIn my opinion, the two aims are not as opposed as they appear. Universities should ensure that every course develops transferable skills — communication, analysis, collaboration — that graduates can use in a range of careers. At the same time, governments should support subjects of social value through grants, scholarships and public-sector pathways rather than expecting students alone to bear the risk. A law graduate may work in a commercial firm; a philosophy graduate may become a teacher, a civil servant or a technology ethicist. The value of a degree cannot be reduced to a starting salary.\n\nIn conclusion, employment outcomes are a legitimate concern, but they should not be the sole measure of a university's worth. A balanced system would prepare students for work while protecting the subjects that sustain a thoughtful and functioning society.",
+      "modelHighlights": [
+        "Both views are developed fully before the writer’s own position is advanced.",
+        "The position is clear and consistent: economic and social value are both necessary, but funding should not be salary-driven.",
+        "Each paragraph has a controlling idea, explanation and example.",
+        "Cohesion is natural: “from this perspective”, “on the other hand”, “moreover”, “in conclusion”.",
+        "Precise vocabulary: “labour-market demand”, “indirect and long-term”, “transferable skills”, “public-sector pathways”."
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "id": "speaking-1",
+      "number": 1,
+      "title": "Part 1 — Introduction and interview",
+      "description": "The examiner will ask you about familiar topics. Answer naturally and develop each answer with a reason or example. This part lasts 4–5 minutes.",
+      "questions": [
+        {
+          "id": "s1",
+          "text": "Let’s talk about where you live. Do you live in a house or an apartment?"
+        },
+        {
+          "id": "s2",
+          "text": "What do you like most about your neighbourhood?"
+        },
+        {
+          "id": "s3",
+          "text": "Is there anything you would change about where you live?"
+        },
+        {
+          "id": "s4",
+          "text": "Do you plan to stay in that area for a long time?"
+        },
+        {
+          "id": "s5",
+          "text": "Now let’s move on to reading. Do you enjoy reading?"
+        },
+        {
+          "id": "s6",
+          "text": "What kinds of books or articles did you read as a child?"
+        },
+        {
+          "id": "s7",
+          "text": "Do you prefer paper books or digital books? Why?"
+        },
+        {
+          "id": "s8",
+          "text": "When do you usually find time to read?"
+        },
+        {
+          "id": "s9",
+          "text": "Let’s talk about your daily routine. Are you a morning person or an evening person?"
+        },
+        {
+          "id": "s10",
+          "text": "What is the first thing you usually do after you wake up?"
+        },
+        {
+          "id": "s11",
+          "text": "Has your daily routine changed in recent years?"
+        },
+        {
+          "id": "s12",
+          "text": "Is there anything you would like to change about your routine?"
+        }
+      ]
+    },
+    {
+      "id": "speaking-2",
+      "number": 2,
+      "title": "Part 2 — Individual long turn",
+      "description": "You have one minute to prepare. You may make notes. Then speak for one to two minutes. The examiner will tell you when to begin and stop.",
+      "questions": [],
+      "cueCard": {
+        "topic": "Describe a place you like to go to relax.",
+        "bullets": [
+          "where this place is",
+          "how often you go there",
+          "what you usually do there",
+          "and explain why this place helps you relax."
+        ],
+        "rounding": "Is this a place you would recommend to other people?",
+        "preparationSeconds": 60,
+        "speakingSeconds": 120
+      }
+    },
+    {
+      "id": "speaking-3",
+      "number": 3,
+      "title": "Part 3 — Two-way discussion",
+      "description": "The examiner will ask more abstract questions connected to the topic in Part 2. Give extended answers and support your ideas with examples.",
+      "questions": [
+        {
+          "id": "s13",
+          "text": "Why do some people find it difficult to relax in modern cities?"
+        },
+        {
+          "id": "s14",
+          "text": "What kinds of public spaces should cities provide so that people can relax?"
+        },
+        {
+          "id": "s15",
+          "text": "Do you think people spend less time relaxing today than in the past?"
+        },
+        {
+          "id": "s16",
+          "text": "How has technology changed the way people relax?"
+        },
+        {
+          "id": "s17",
+          "text": "Should employers be responsible for helping workers manage stress?"
+        },
+        {
+          "id": "s18",
+          "text": "Do older and younger people relax in different ways?"
+        }
+      ]
+    }
+  ],
+  "publishedAt": "2026-11-12T06:55:32.959Z",
+  "scoring": {
+    "listeningVersion": "ielts-academic-public-2024",
+    "readingVersion": "ielts-academic-public-2024",
+    "rubricVersion": "apex-local-rubric-v1"
+  }
+}

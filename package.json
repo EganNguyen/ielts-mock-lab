@@ -1,0 +1,13 @@
+{
+  "name": "apex-ielts",
+  "private": true,
+  "scripts": {
+    "dev": "bash scripts/dev.sh",
+    "dev:web": "pnpm --dir apps/web dev",
+    "dev:api": "cd services/api && LOCAL_DEMO_MODE=true DATABASE_URL='postgres://apex:apex@127.0.0.1:5433/apex?sslmode=disable' go run ./cmd/api",
+    "build": "pnpm --dir apps/web build",
+    "test": "cd services/api && go test ./... && pnpm --dir apps/web test:e2e",
+    "db:up": "docker compose up -d postgres",
+    "db:down": "docker compose down"
+  }
+}

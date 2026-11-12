@@ -1,0 +1,54 @@
+Audioscripts
+                                     I
+
+                                         TEST 1
+
+
+PART 1
+WOMAN:    Hello, Oyster Bay Sailing Club. How can I help you?
+MAN:     Oh hi. I'd like to find out about sailing courses for beginners.
+WOMAN:    No problem. Is it for yourself?
+MAN:     Yes. I had a look online but I'm not sure which course would be best.
+WOMAN:   OK. Well you might be interested in our Taster Days?
+MAN:      Possibly.
+WOMAN:   So these are for people who've never sailed before - it's basically an
+         introduction to sailing to find out whether you enjoy it and want to carry on
+         with it.
+MAN:     And how much is that?
+WOMAN:    It's £120 for the day - but it's reduced to £110 each if there are two of you.
+MAN:      No, it would just be me.
+WOMAN:   Oh that's fine. You'd be in a small group, usually about eight people but no
+         more than ten - and everyone's always very friendly.                                  01
+MAN:     Uh huh. And are there any other suitable courses?
+WOMAN:   The other option is the Level 1 course. These are two-day weekend courses and
+         we run those all year round.
+MAN:     OK. And what do you learn on that course?
+WOMAN:   This is a mix of theory and practical skills. So you learn about things like the
+         weather, which is obviously really important and also the tides, as well as           02
+         learning basic sailing skills. You go out into the harbour in special training
+         dinghies for beginners, two people in each dinghy and an instructor. He or she
+         will make sure you understand everything you need to know about safety.               03
+MAN:     It sounds like hard work!
+WOMAN:   Yes, but you'll have a lot of fun too.
+MAN:     And the cost of that one is... ?
+WOMAN:   £200. But it's a bit cheaper if you decide to join the club. There's a discount for   04
+         members.
+MAN:     Well, I'm not sure about that yet.
+WOMAN:   You've got plenty of time to decide.
+MAN:     And does the cost include everything?
+WOMAN:   Yes, everything's included and you also get a really good dictionary explaining       05
+         all the sailing terminology. A lot of people struggle with this at first. It's got
+         lots of pictures, so I'm sure you'd find it really helpful. And on completion of
+         the course you get a certificate. Then you're ready to move on to the Level 2         06
+         course.
+MAN:     Sounds good.
+
+
+WOMAN:   I think that's all the info you need for now. Just a couple of general things.
+         For example, it's really important that you know how to swim.
+MAN:     Yes, I'm pretty confident in the water.
+
+
+
+                                                                                                    97
+

@@ -1,0 +1,1605 @@
+{
+  "id": "cambridge21-test1",
+  "title": "Cambridge IELTS 21 · Academic Test 1",
+  "module": "Academic",
+  "version": "cambridge21.1",
+  "listening": [
+    {
+      "id": "l1",
+      "number": 1,
+      "title": "A sailing course enquiry",
+      "context": "A telephone conversation between a man and a woman about sailing courses at Oyster Bay Sailing Club.",
+      "groups": [
+        {
+          "id": "l1-g1",
+          "label": "Questions 1–6",
+          "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "range": [
+            1,
+            6
+          ],
+          "layout": "form",
+          "body": [
+            "# Oyster Bay Sailing Club Courses",
+            "• Taster day — introduction to sailing — £120 if booking one place — small groups (max {{1}} people)",
+            "• Level 1 — basic theory, e.g. understanding the {{2}} and tides",
+            "• Level 1 — basic sailing skills, including {{3}}",
+            "• Level 1 — £200 — a {{4}} is available for club members",
+            "• Level 1 — all inclusive, plus a useful {{5}}",
+            "• Level 1 — a {{6}} at the end of the course for all participants"
+          ]
+        },
+        {
+          "id": "l1-g2",
+          "label": "Questions 7–10",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "range": [
+            7,
+            10
+          ],
+          "layout": "notes",
+          "body": [
+            "# General information",
+            "• Participants must be able to swim.",
+            "• Bring suitable clothing, a {{7}} and toiletries (e.g. shampoo).",
+            "• There is a {{8}} at the club.",
+            "• Online training {{9}} are recommended.",
+            "• {{10}} are available for course participants."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Maximum number of people in a Taster day group",
+          "answer": "10",
+          "accepted": [
+            "ten"
+          ],
+          "id": "l1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What Level 1 theory helps you understand, with tides",
+          "answer": "weather",
+          "id": "l1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Basic sailing skills, including …",
+          "answer": "safety",
+          "id": "l1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What is available for club members on Level 1",
+          "answer": "discount",
+          "id": "l1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Useful item included in the Level 1 cost",
+          "answer": "dictionary",
+          "id": "l1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What participants receive at the end of Level 1",
+          "answer": "certificate",
+          "id": "l1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "l1-g2",
+          "type": "short",
+          "prompt": "Item to bring with toiletries",
+          "answer": "towel",
+          "id": "l1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "l1-g2",
+          "type": "short",
+          "prompt": "Facility at the club",
+          "answer": "cafe",
+          "id": "l1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "l1-g2",
+          "type": "short",
+          "prompt": "Recommended online training material",
+          "answer": "videos",
+          "id": "l1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "l1-g2",
+          "type": "short",
+          "prompt": "What is available for course participants",
+          "answer": "Lockers",
+          "id": "l1-q10"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "WOMAN",
+          "text": "Hello, Oyster Bay Sailing Club. How can I help you?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Oh hi. I'd like to find out about sailing courses for beginners."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "No problem. Is it for yourself?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yes. I had a look online but I'm not sure which course would be best."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "OK. Well you might be interested in our Taster Days?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Possibly."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "So these are for people who've never sailed before - it's basically an introduction to sailing to find out whether you enjoy it and want to carry on with it."
+        },
+        {
+          "speaker": "MAN",
+          "text": "And how much is that?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "It's £120 for the day - but it's reduced to £110 each if there are two of you."
+        },
+        {
+          "speaker": "MAN",
+          "text": "No, it would just be me."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Oh that's fine. You'd be in a small group, usually about eight people but no more than ten - and everyone's always very friendly."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Uh huh. And are there any other suitable courses?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "The other option is the Level 1 course. These are two-day weekend courses and we run those all year round."
+        },
+        {
+          "speaker": "MAN",
+          "text": "OK. And what do you learn on that course?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "This is a mix of theory and practical skills. So you learn about things like the weather, which is obviously really important and also the tides, as well as learning basic sailing skills. You go out into the harbour in special training dinghies for beginners, two people in each dinghy and an instructor. He or she will make sure you understand everything you need to know about safety."
+        },
+        {
+          "speaker": "MAN",
+          "text": "It sounds like hard work!"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yes, but you'll have a lot of fun too."
+        },
+        {
+          "speaker": "MAN",
+          "text": "And the cost of that one is... ?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "£200. But it's a bit cheaper if you decide to join the club. There's a discount for members."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Well, I'm not sure about that yet."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "You've got plenty of time to decide."
+        },
+        {
+          "speaker": "MAN",
+          "text": "And does the cost include everything?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yes, everything's included and you also get a really good dictionary explaining all the sailing terminology. A lot of people struggle with this at first. It's got lots of pictures, so I'm sure you'd find it really helpful. And on completion of the course you get a certificate. Then you're ready to move on to the Level 2 course."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Sounds good."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "I think that's all the info you need for now. Just a couple of general things. For example, it's really important that you know how to swim."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Yes, I'm pretty confident in the water."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Great. The other thing I should tell you is that we provide wetsuits and life jackets but you need to bring swimming trunks and some old trainers."
+        },
+        {
+          "speaker": "MAN",
+          "text": "And a towel?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yes definitely. And you might want to bring your own toiletries, things like shampoo."
+        },
+        {
+          "speaker": "MAN",
+          "text": "OK. What about food and drink? Do I need to bring that or is there a cafe at the club?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yes, you can get sandwiches, cakes and snacks there. The food's pretty reasonable."
+        },
+        {
+          "speaker": "MAN",
+          "text": "OK good. Well I think I'm interested in the Level 1 course. But I know absolutely nothing about sailing so is there anything I can do to prepare myself a bit?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "I recommend you watch some videos we use for training. They're available on line. I can send you the link. They'll give you an idea of what to expect."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Perfect, thanks. That would be very helpful. Oh and just one other thing - I'll be cycling to the club and will need somewhere to put valuables. I'm just wondering if there are lockers for people to use?"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yes, there are plenty in the changing rooms."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Great. OK well could you book me onto ..."
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "number": 2,
+      "title": "Working as a makeup trainee",
+      "context": "A podcast interview with a makeup artist about how to become a makeup trainee in the film industry.",
+      "groups": [
+        {
+          "id": "l2-g1",
+          "label": "Questions 11–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "range": [
+            11,
+            16
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g2",
+          "label": "Questions 17–20",
+          "instructions": "What ability is required for each of the following duties? Write the correct letter, A, B or C, next to Questions 17–20.",
+          "range": [
+            17,
+            20
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A being well-organised",
+            "B being flexible",
+            "C working quickly"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 11,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "What should trainees always expect to get when working on low budget short films?",
+          "options": [
+            "travel expenses",
+            "a minimum wage",
+            "meals"
+          ],
+          "answer": "A",
+          "id": "l2-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "According to the speaker, on big budget films trainees may get experience of",
+          "options": [
+            "makeup for special effects.",
+            "working with different ethnicities.",
+            "creating a variety of hair styles."
+          ],
+          "answer": "B",
+          "id": "l2-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "The speaker says a problem for makeup artists is",
+          "options": [
+            "dealing with difficult directors.",
+            "being shouted at by their supervisor.",
+            "waiting around for hours doing nothing."
+          ],
+          "answer": "A",
+          "id": "l2-q13"
+        },
+        {
+          "number": 14,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "How did the speaker feel when she met famous actors for the first time?",
+          "options": [
+            "very shy",
+            "very proud",
+            "very disappointed"
+          ],
+          "answer": "A",
+          "id": "l2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "What advice does the speaker give about makeup kits?",
+          "options": [
+            "Always carry a basic kit with you.",
+            "Only buy the best products for a makeup kit.",
+            "Ask other makeup artists to check your kit."
+          ],
+          "answer": "A",
+          "id": "l2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "What advice does the speaker give about creating a portfolio?",
+          "options": [
+            "Keep print and digital photos.",
+            "Only include a small selection of photos.",
+            "Get permission to use photos."
+          ],
+          "answer": "C",
+          "id": "l2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "Prepping an actor",
+          "answer": "C",
+          "id": "l2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "Continuity",
+          "answer": "A",
+          "id": "l2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "General",
+          "answer": "B",
+          "id": "l2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "l2-g2",
+          "type": "match",
+          "prompt": "Applying makeup",
+          "answer": "C",
+          "id": "l2-q20"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "MAN",
+          "text": "Hello and welcome to the film making podcast. In this week's episode, Claire Lemarre talks to us about how to become a makeup artist. Claire's been working as a makeup artist in the film industry for over 20 years and has lots of useful advice about how to get started."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Thanks Ian. Well, before you can become a makeup artist on films you have to spend about 2 years working as a makeup trainee. A good place to get your first job would be on a low budget short film. Of course, this means that you'll be working for free. But it's often worth it for the experience. Make sure your transport costs are covered - and remember, there's very unlikely to be any catering provided, so bring plenty of food. If you're lucky, you might start out on a big budget film where you'll get the most useful experience. On productions like this, makeup and hair styling are separate departments - so you won't need to bring your curling tongs! But you're likely to get the opportunity to work with a range of age groups, as well as different ethnicities. Doing makeup for special effects is highly specialised, so don't expect to be offered any practical experience in that. One problem with working in the makeup department is that it's a high-pressure environment. There are very few times when you'll be bored or have nothing to do. It can be stressful but you'll see that the top makeup artists are very professional - even when they're having to work with directors who are impatient. or unhappy with the makeup artist's work. Follow your supervisor's lead and try to remain calm at all times. I've worked with many very famous actors over the years. At first. I found it overwhelming and could hardly speak. I was so in awe. That's preferable, by the way, to becoming too excited and asking for selfies. Now meeting the talent is just a normal part of the job and to be honest most actors don't look that special without all the makeup! Every makeup trainee will need a makeup kit. which they'll be expected to have with them at all times. Just the essentials will do for the kinds of tasks you'll be given - it won't be anything complicated. It's worth looking at what the other makeup artists have in their kits - but whatever you do, don't borrow anything without asking first. It's very important to build your portfolio. You should take photos of all the work you do and ideally show the different stages of makeup application if you can. But remember you'll need to get approval from the makeup designer in charge of the department. As you'll be sending your portfolio digitally, you won't need to get photos printed."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "So what does a makeup trainee actually do? You need to think about whether you're the right kind of person to do the job and whether you'd enjoy it. So, to give you some idea, here are some of the things you might be required to do. You may be asked to help prep an actor ready for makeup. Some actors will arrive having already cleansed and moisturized their skin. But sometimes you'll need to step in and get this done without wasting any time, otherwise the makeup artist will get behind schedule. Trainees play a useful role in continuity. It will be your responsibility to take photos, log them digitally and print out a hard copy to put in each actor's file. This information needs to be kept in good order as a reshoot can mean replicating makeup months later. General duties mean doing anything from getting the teas and coffees to putting on a wash. Having a positive attitude and being willing to do whatever is asked of you will help you get your next film job. You won't be asked to apply makeup to any of the principal cast, only the extras. If there are dozens of extras involved you'll need to keep up a swift pace and not spend too long on each person. It takes quite a lot of confidence to be able to do this well. OK now about terms and conditions ...."
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "number": 3,
+      "title": "A lecture on ocean biodiversity",
+      "context": "Two students, Phil and Lucy, discuss a lecture they attended and a list of resources for a seminar.",
+      "groups": [
+        {
+          "id": "l3-g1",
+          "label": "Questions 21 and 22",
+          "instructions": "Choose TWO letters, A–E. Which TWO features of the lecture on ocean biodiversity had the greatest impact on the students?",
+          "range": [
+            21,
+            22
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g2",
+          "label": "Questions 23 and 24",
+          "instructions": "Choose TWO letters, A–E. Which TWO details about the research project particularly impressed the students?",
+          "range": [
+            23,
+            24
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g3",
+          "label": "Questions 25–30",
+          "instructions": "What is the students' opinion of each of the following resources related to ocean biodiversity? Choose SIX answers from the box and write the correct letter, A–H, next to Questions 25–30.",
+          "range": [
+            25,
+            30
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A This is aimed at a very specialist audience.",
+            "B This is now rather outdated.",
+            "C This was an effective description of a new danger.",
+            "D This suggests possible ways to improve the situation.",
+            "E This does not give a balanced account.",
+            "F This is too predictable to be useful.",
+            "G This gives insufficient evidence for its claims.",
+            "H This gives a clear explanation of the problems."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "The first feature that made the greatest impact",
+          "options": [
+            "the references to local problems",
+            "the broad focus of the examples",
+            "the practical suggestions for solutions",
+            "the type of issues discussed",
+            "the implications for government policy"
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "l3-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "The second feature that made the greatest impact",
+          "options": [
+            "the references to local problems",
+            "the broad focus of the examples",
+            "the practical suggestions for solutions",
+            "the type of issues discussed",
+            "the implications for government policy"
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "l3-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "The first detail that particularly impressed them",
+          "options": [
+            "the team's previous successes",
+            "its wide geographical scale",
+            "the use of new technology",
+            "the extensive statistical evidence",
+            "the large range of specialists involved"
+          ],
+          "answer": "C",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "The second detail that particularly impressed them",
+          "options": [
+            "the team's previous successes",
+            "its wide geographical scale",
+            "the use of new technology",
+            "the extensive statistical evidence",
+            "the large range of specialists involved"
+          ],
+          "answer": "C",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Article on invasive lionfish",
+          "answer": "G",
+          "id": "l3-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Documentary on microplastics",
+          "answer": "B",
+          "id": "l3-q26"
+        },
+        {
+          "number": 27,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Podcast on ocean pollution",
+          "answer": "F",
+          "id": "l3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Book on coastal ecosystems",
+          "answer": "H",
+          "id": "l3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Article on metal toxicity",
+          "answer": "A",
+          "id": "l3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Podcast on floating marine cities",
+          "answer": "E",
+          "id": "l3-q30"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "PHIL",
+          "text": "That lecture from the visiting speaker yesterday was good, wasn't it?"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Yeah. I learned a lot from her about ocean biodiversity. I've already done some reading on it, and I did an assignment on some of the problems associated with it last year, but I especially liked the way her lecture focused on more long-term issues."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yes, things that aren't currently receiving widespread attention but are likely to be important in the future. That impressed me too. It wasn't exactly a feel-good conclusion because it's hard to see any real solution for a lot of the problems."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "No, though she did point to where policy changes could be made to protect our marine and coastal environments."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Mm. But that's just at a national level. The examples she gave were at a more global level, and they really made it clear to me just how wide-ranging the threats to ocean biodiversity are."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Yes, me too."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "The research project she described was impressive, wasn't it? I'd have thought it was quite unusual to have so many experts working together."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Yeah. and from such different backgrounds. Must have been a really exciting team to work with. I'd heard of a couple of them before - they were involved in research way back in 2009 warning about the dangers of ocean pollution."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "But now people are much more aware of that, aren't they?"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "I suppose so."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Another thing about the research is that the team members came from all round the world. Though I suppose that's not unusual nowadays, now everyone can work remotely."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Right. I liked the way she didn't bombard us with figures - I mean, they were available, but she focused more on the general points they indicated."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Mm. And the description of improvements in systems used for tracking marine animals and things like robots were really interesting."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Yes. and her description of how robotics can be used to investigate threats to biodiversity."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Absolutely."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "While you're here, can we talk about the list of resources we have to evaluate for the seminar tomorrow. I've had a look at them all, but it's been a bit of a rush."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Yeah. What did you think of that article on invasive lionfish? The one claiming they were expanding their habitat throughout the Mediterranean Sea."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Well, the writer went on about how dangerous they were in environmental terms, which is probably true, but he didn't really provide much information to explain why."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "I know what you mean."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I watched the documentary on microplastics, at least I started to, but then I found it was made ten years ago so I gave up."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "I watched to the end but you're right, it was showing its age. People had hardly heard of microplastics then, whereas now everyone knows about them and how dangerous they are."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yeah. Did you listen to the podcast on ocean pollution?"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "Mm. I didn't get anything out of it though. Most of it was stating the obvious."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yes, it mentioned pesticides and plastic and things, and it clearly made the point that they were a bad thing, but everybody knows that anyway. Did you read that book on coastal ecosystems?"
+        },
+        {
+          "speaker": "LUCY",
+          "text": "The one by John Harper? Yes, I found it hard going at first, it went into a lot of detail about things like the effects of offshore windfarms and fish farms, but actually I ended up with a much better understanding of the issues."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yes, I agree and I thought it was a well-written summary of those. And the diagrams helped a lot too."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "The article on metal toxicity was way above my head. I didn't know anything about how metals from industrial emissions react in the ocean ... and I still don't understand it."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "I gave up reading after the first chapter - I just couldn't follow it."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "That podcast on floating marine cities was interesting, though it presented a rather one-sided picture, I thought."
+        },
+        {
+          "speaker": "PHIL",
+          "text": "Yes, it focused on how this would benefit people and ignored the effects on the environment."
+        },
+        {
+          "speaker": "LUCY",
+          "text": "But anyway, shall we ..."
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "number": 4,
+      "title": "Sources of rubber",
+      "context": "A lecture about natural and synthetic rubber and a possible alternative source.",
+      "groups": [
+        {
+          "id": "l4-g1",
+          "label": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "range": [
+            31,
+            40
+          ],
+          "layout": "notes",
+          "body": [
+            "# Sources of rubber",
+            "Three resources which are essential for industrial civilisation",
+            "• {{31}}",
+            "• fossil fuels",
+            "• rubber",
+            "## Natural rubber",
+            "This mainly comes from the Para rubber tree, now cultivated in South-East Asia.",
+            "The supply is limited because",
+            "• the growth of the tree is {{32}}",
+            "• production cannot easily be adjusted because of increasing or decreasing {{33}}",
+            "• the tree only grows near the {{34}}",
+            "• extracting the latex (rubber) is labour-intensive",
+            "• it is very difficult to {{35}} rubber after production.",
+            "New threats include",
+            "• lack of genetic diversity, leading to danger of disease caused by a {{36}}",
+            "• a shift to the cultivation of palm oil",
+            "• extreme {{37}} events.",
+            "## Synthetic rubber",
+            "• may be used for engine parts and cooking utensils",
+            "• is less {{38}} than natural rubber",
+            "• is unsuitable for many purposes e.g. the tyres of aircraft.",
+            "## An alternative source of natural rubber",
+            "• A wild flower (a type of dandelion) has rubber in its {{39}}",
+            "• It can be grown in many locations and does not require good {{40}}"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 31,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 31",
+          "answer": "metal(s)",
+          "accepted": [
+            "metals",
+            "metal"
+          ],
+          "id": "l4-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 32",
+          "answer": "slow",
+          "id": "l4-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 33",
+          "answer": "demand",
+          "id": "l4-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 34",
+          "answer": "equator",
+          "id": "l4-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 35",
+          "answer": "recycle",
+          "id": "l4-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 36",
+          "answer": "fungus",
+          "id": "l4-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 37",
+          "answer": "weather",
+          "id": "l4-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 38",
+          "answer": "strong",
+          "id": "l4-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 39",
+          "answer": "roots",
+          "id": "l4-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Note completion 40",
+          "answer": "soil",
+          "id": "l4-q40"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "Much of the world now lives in an industrial civilisation. But this has only become possible because we have the necessary natural resources. There are three types of natural resource without which industry could not exist. One of these is metal - without that we'd have no machines and no transportation. Another is fossil fuels, which we need to power those machines. But there's a third resource that's essential to connect the different parts of a machine together with belts and pipes and shock absorbers, and that is rubber. It's now used in over 40,000 products, from waterproof footwear to surgical gloves. At present, we have two types of rubber in common use. One is natural rubber, which nearly all comes from the Para rubber tree. This was originally native to Brazil, but is now cultivated on plantations in South-East Asia. Recently, however, concern's been growing that supplies may soon be insufficient for the world's needs. So what exactly is limiting the supply of natural rubber? Well, for one thing, rubber trees don't just spring up overnight. It can take eight to ten years for a tree to start producing rubber, so cultivating them's a slow process. And this leads to another problem. With most crops, farmers don't have to think very far ahead, so they can easily change what crop they produce, or how much of a crop they produce, if they find the demand for that crop is rising or falling. But if you have to plant eight or ten years ahead, that's much harder. And also the rubber tree's very choosy about where it grows. It needs the right temperature, the right amount of rainfall, and the right altitude - not too high and not too low. The result is that it can't be grown in the northern or southern parts of the globe, only around the equator. Another problem is that the rubber is basically extracted in the same way as it's been done for hundreds of years, and that's by hand, by making small cuts in the trunk of the tree, and putting a little cup there to catch the latex, as the rubber is called. It's very labour-intensive. And it's not just the initial production that's limiting supplies. With other resources such as water and glass, when we've finished using them we can recycle them, but although this is also possible with rubber, it's very difficult, so that also reduces the amount we have available. And in the last few years, there have been new threats to the supply of natural rubber. One problem is linked to the fact that nearly all the rubber trees in South-East Asia are descended from just a small number of seeds brought from Brazil in the nineteenth century. This means that there's very little genetic diversity among the trees, which in turn makes them very vulnerable to disease. The most dangerous threat is a fungus, which destroyed large numbers of rubber trees in Brazil, and which could cause devastation to plantations worldwide. Another problem is that farmers in South-East Asia are increasingly turning to the cultivation of palm oil, which is easier and more profitable for them. And finally, in recent years South-East Asia, like other parts of the world, has been repeatedly hit by extreme types of weather, and this looks likely to continue in the future. However, as well as using natural rubber, it's also possible to make rubber synthetically. This works very well for some purposes, for example, making engine parts, or silicone pots and pans used for cooking. But compared with natural rubber, it's not anything like as strong, and this means it can't replace natural rubber in other products. For example, while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing. So for some time, scientists have been looking for alternative sources of natural rubber. One that's been known about for some time seems initially to be a rather unlikely source. It's a wild plant with yellow flowers that we normally regard as a weed when we see it in our gardens. But when it's pulled up and its roots cut open, they're found to contain rubber. Now, compared to the rubber tree, dandelions produce relatively small amounts of rubber, but unlike rubber trees, they're very adaptable. They'll grow in all sorts of places, and they don't need rich soil. So at present there are several projects underway investigating the possibility of using dandelions as a source of rubber. Another possibility is a desert shrub grown in Mexico and Texas ..."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "number": 1,
+      "title": "The Davies Sisters",
+      "subtitle": "Between 1908 and 1924, Gwendoline and Margaret Davies amassed one of the largest collections of late-nineteenth and early-twentieth-century French paintings in Britain",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes."
+        },
+        {
+          "label": "",
+          "text": "While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there."
+        },
+        {
+          "label": "",
+          "text": "The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process."
+        },
+        {
+          "label": "",
+          "text": "The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean- Baptiste-Camille Corot."
+        },
+        {
+          "label": "",
+          "text": "However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne."
+        },
+        {
+          "label": "",
+          "text": "The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917."
+        },
+        {
+          "label": "",
+          "text": "It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain."
+        },
+        {
+          "label": "",
+          "text": "Commentators have often described the sisters as unlikely pioneer collectors. Much is made of their isolation in rural Wales and the fact that they didn't make friends with artists or gallery owners. Yet they didn't feel obliged to follow fashionable tastes and were free to pursue their own preferences. Although they relied on a trusted circle of advisers, they made frequent trips to London and Paris, and also regularly had paintings sent to their home for consideration."
+        },
+        {
+          "label": "",
+          "text": "By the early 1920s, Gwendoline felt increasingly uncomfortable buying art works when faced with the poverty and social upheaval created by the First World War. Her philanthropic pursuits then became focused almost exclusively on social causes and the development of the sisters' home at Gregynog Hall into a conference center and venue for the Gregynog Festival of Music and Poetry. Gwendoline made her final art purchase in March 1926. Margaret also stopped collecting around this time, but started again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists."
+        },
+        {
+          "label": "",
+          "text": "The sisters collected French Impressionist paintings at a time when such art was routinely ignored by individuals and institutions alike. The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to the National Museum Wales, contains major examples of work by leading French Impressionists. In collecting paintings that they loved, the sisters created a lasting and meaningful cultural legacy for the people of Wales and beyond."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r1-g1",
+          "label": "Questions 1–7",
+          "instructions": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            1,
+            7
+          ],
+          "layout": "notes",
+          "body": [
+            "# Gwendoline and Margaret Davies",
+            "## Family and early life",
+            "• their grandfather's wealth came from {{1}} and transportation businesses",
+            "• their upbringing gave them a sense of social responsibility",
+            "• their {{2}} was designed to give them an interest in activities such as collecting art",
+            "• their governess took them on trips to art galleries",
+            "• they took lengthy {{3}} about the things they saw in art galleries",
+            "## The sisters as art collectors",
+            "• their {{4}} showed they liked Old Master paintings, but they were expensive to buy",
+            "• their early purchases were safe, popular paintings",
+            "• the first Impressionist paintings they bought showed places in {{5}}",
+            "## Impact of First World War",
+            "• they helped bring artists from Belgium to Wales",
+            "• they worked in a {{6}} for soldiers in France",
+            "## Opinions about the sisters as art collectors",
+            "• were not considered typical collectors – they lived in isolation in the countryside and did not have any {{7}} who were artists"
+          ]
+        },
+        {
+          "id": "r1-g2",
+          "label": "Questions 8–13",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "range": [
+            8,
+            13
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Notes completion 1",
+          "answer": "mining",
+          "id": "r1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Notes completion 2",
+          "answer": "education",
+          "id": "r1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Notes completion 3",
+          "answer": "notes",
+          "id": "r1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Notes completion 4",
+          "answer": "journals",
+          "id": "r1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Notes completion 5",
+          "answer": "Venice",
+          "id": "r1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Notes completion 6",
+          "answer": "canteen",
+          "id": "r1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "r1-g1",
+          "type": "short",
+          "prompt": "Notes completion 7",
+          "answer": "friends",
+          "id": "r1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The Davies sisters' childhood influenced the way they decided to use their wealth.",
+          "answer": "TRUE",
+          "id": "r1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The Jean-Baptiste-Camille Corot paintings in the Davies sisters' collection were purchased from a gallery in France.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.",
+          "answer": "FALSE",
+          "id": "r1-q10"
+        },
+        {
+          "number": 11,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The exhibition of Cezanne paintings at the Bath gallery was very popular with the public.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The impact of the First World War encouraged Gwendoline to reconsider her interest in collecting art.",
+          "answer": "TRUE",
+          "id": "r1-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "r1-g2",
+          "type": "tfng",
+          "prompt": "The Davies sisters bought French Impressionist art during a period when very few people were doing so.",
+          "answer": "TRUE",
+          "id": "r1-q13"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "number": 2,
+      "title": "Why we need silence",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Humans are finely attuned to noise, and for good reason. From an evolutionary perspective, sounds give us vital information, helping us navigate the world and avoid danger. To help ensure loud or unexpected noises get the attention they deserve, our internal chemistry alters in response to them. Our blood pressure goes up, muscles tense and glands release hormones that prepare us for fight or flight. In the short term, this is a good thing. When we are exposed to too much noise over the long term, however, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease."
+        },
+        {
+          "label": "B",
+          "text": "The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise."
+        },
+        {
+          "label": "C",
+          "text": "The good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'"
+        },
+        {
+          "label": "D",
+          "text": "Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'"
+        },
+        {
+          "label": "E",
+          "text": "To further explore flotation tanks as a therapeutic tool, Feinstein and his colleagues recruited 50 people with a variety of conditions related to stress and had them answer a questionnaire prior to and following a flotation session. Participants reported decreases in muscle tension, pain and symptoms of their conditions after a single, I-hour float, alongside an increase in feelings of relaxation and overall wellbeing. Less is known about what effects sensory deprivation can have on the brain. To investigate, Feinstein's team had 48 people participate in either three 90-minute float sessions or three 90-minute periods of relaxing on a chair which reclined. Participants had their brains scanned using functional magnetic resonance imaging at the beginning and end of the trial. Float sessions uniquely decreased activity in the default mode network (DMN), a collection of brain regions commonly linked with depression. Feinstein says it is an exciting finding, because flotation tanks seem to offer a way of 'resetting' our nervous system to prevent it from getting out of balance."
+        },
+        {
+          "label": "F",
+          "text": "Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.' Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'"
+        },
+        {
+          "label": "G",
+          "text": "Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'"
+        }
+      ],
+      "groups": [
+        {
+          "id": "r2-g1",
+          "label": "Questions 14–17",
+          "instructions": "Reading Passage 2 has seven sections, A–G. Which section contains the following information? Write the correct letter, A–G, in boxes 14–17 on your answer sheet.",
+          "range": [
+            14,
+            17
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ]
+        },
+        {
+          "id": "r2-g2",
+          "label": "Questions 18–21",
+          "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            18,
+            21
+          ],
+          "layout": "summary",
+          "body": [
+            "# Flotation Tanks",
+            "According to Justin Feinstein, flotation tanks allow people to concentrate on their own {{18}}, which helps them relax and enables them to meditate.",
+            "Feinstein and his colleagues conducted an experiment in which 50 people, who were all suffering from stress and related issues, were given a {{19}} to complete before and after using a flotation tank. Participants reported a reduction in their symptoms after an hour in the tank, together with signs of relaxation and improved general {{20}}.",
+            "In another experiment, the researchers had 48 people spend periods of 90 minutes either lying back in a chair or floating in a tank. Brain scans then revealed that those people who had been in a tank had decreased activity in parts of the brain associated with {{21}}."
+          ]
+        },
+        {
+          "id": "r2-g3",
+          "label": "Questions 22–26",
+          "instructions": "Look at the following statements and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+          "range": [
+            22,
+            26
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A Nick Antonio",
+            "B Justin Feinstein",
+            "C Tai Dotan Ben-Soussan",
+            "D Eric Pfeifer"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "examples of strategies to decrease the noise that the public are exposed to",
+          "answer": "C",
+          "id": "r2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "data indicating the extent of the problem of excessive noise",
+          "answer": "B",
+          "id": "r2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a description of physiological changes in our bodies when we hear sudden noises",
+          "answer": "A",
+          "id": "r2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "evidence that a relatively quiet environment can be more beneficial than a totally silent one",
+          "answer": "G",
+          "id": "r2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "Summary completion 18",
+          "answer": "breath",
+          "id": "r2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "Summary completion 19",
+          "answer": "questionnaire",
+          "id": "r2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "Summary completion 20",
+          "answer": "wellbeing",
+          "id": "r2-q20"
+        },
+        {
+          "number": 21,
+          "groupId": "r2-g2",
+          "type": "short",
+          "prompt": "Summary completion 21",
+          "answer": "depression",
+          "id": "r2-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "r2-g3",
+          "type": "match",
+          "prompt": "It is unpleasant and upsetting for people to be placed in a silent environment against their will.",
+          "answer": "C",
+          "id": "r2-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "r2-g3",
+          "type": "match",
+          "prompt": "The trend towards creating quieter urban locations is likely to increase in the coming years.",
+          "answer": "A",
+          "id": "r2-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "r2-g3",
+          "type": "match",
+          "prompt": "When our body's senses are completely deprived of input, our minds compensate for this by creating the illusion of images and sounds.",
+          "answer": "B",
+          "id": "r2-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "r2-g3",
+          "type": "match",
+          "prompt": "Even a short amount of silent time can have a positive impact.",
+          "answer": "D",
+          "id": "r2-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "r2-g3",
+          "type": "match",
+          "prompt": "External and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events.",
+          "answer": "C",
+          "id": "r2-q26"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "number": 3,
+      "title": "Book review: The World of Sugar by Ulbe Bosma",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "",
+          "text": "Ulbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar- growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar."
+        },
+        {
+          "label": "",
+          "text": "Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry."
+        },
+        {
+          "label": "",
+          "text": "The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers."
+        },
+        {
+          "label": "",
+          "text": "The World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America."
+        },
+        {
+          "label": "",
+          "text": "This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control."
+        },
+        {
+          "label": "",
+          "text": "But sugar production was never just a matter of agriculture. It also involved the extraction, close to the place of harvest, of sucrose from the sugar plant, a process which required machinery powered by humans, animals, wind or steam. Further processes involved boiling (from the 19th century, this often involved vacuum systems) and the separation of sugar from other materials in a process known as refinement. From very early on, sugar production was an energy-intensive industrial process, mostly taking place in the countryside and in refineries in centres of consumption, both small and large. The growth of the industry entailed a very rapid diffusion of ideas and techniques from one country to another. Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, as well as steam-powered sugar factories. Particular varieties of cane sugar and beet sugar spread very rapidly across the world, in accordance with local needs and demands."
+        },
+        {
+          "label": "",
+          "text": "Where once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and much more have turned gleaming white sugar into a ubiquitous chemical. Over the same time, there has been a massive increase in consumption. Once regarded as a luxury, sugar came to be promoted as a valuable source of energy. But as the consumption of sugar has increased, so has the harm it does, whether to people's teeth or weight. In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, some countries have been forced to tax sugar in order to bring that about. The sugar industry has a history of attacking its critics and, when it comes to obesity, of trying to blame fats, and lack of exercise and self-control. And the recent past has seen worrying new developments in mass sweetening. High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar but is far cheaper to produce. It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity."
+        },
+        {
+          "label": "",
+          "text": "This is a wonderfully rich book, a model of global history, the history of production and the history of capitalism. Bosma avoids outbursts of emotion, celebratory or critical, even if they might have made his analysis of the multiple tragedies involving sugar all the more powerful. He shows that we could always have done without sugar and that today we have many alternative sources of sweetness. Yet many of the poorest people in the world still depend on it to make a living."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r3-g1",
+          "label": "Questions 27–30",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            27,
+            30
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r3-g2",
+          "label": "Questions 31–36",
+          "instructions": "Complete the summary using the list of words, A–I, below.",
+          "range": [
+            31,
+            36
+          ],
+          "layout": "summary",
+          "sharedOptions": [
+            "A national governments",
+            "B agricultural developments",
+            "C less wealthy nations",
+            "D untrained workers",
+            "E small-scale cultivation",
+            "F outdated methods",
+            "G financial controls",
+            "H migrant workers",
+            "I powerful individuals and businesses"
+          ],
+          "body": [
+            "# Sugar cultivation and production",
+            "The book The World of Sugar points out the similarities in the way that sugar was cultivated around the world. In the big industries in both Germany and the US, sugar farming depended on {{31}}. However, in other parts of the world such as South Asia and Latin America, {{32}} continued.",
+            "Sugar production has also involved {{33}} who were eager to protect their markets. In countries such as Cuba the sugar industry therefore had a major influence on {{34}}.",
+            "To support the interests of sugar producers, {{35}} were established. As a result of this, {{36}} were penalised."
+          ]
+        },
+        {
+          "id": "r3-g3",
+          "label": "Questions 37–40",
+          "instructions": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "range": [
+            37,
+            40
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?",
+          "options": [
+            "Sugar has played a major role in international relations.",
+            "Beet sugar has been made more internationally competitive.",
+            "Cane sugar is thought to be of superior quality to beet sugar.",
+            "New locations for cultivating sugar have increased production."
+          ],
+          "answer": "B",
+          "id": "r3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses",
+          "options": [
+            "how the sources used changed over time.",
+            "how developments in agriculture affected trade.",
+            "the increased demand for sugar over the years.",
+            "the growing support for ethical methods of cultivation."
+          ],
+          "answer": "A",
+          "id": "r3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What is the reviewer doing in the third paragraph?",
+          "options": [
+            "describing an efficient approach to sugar cultivation",
+            "explaining why the use of sugar plantations declined",
+            "addressing a misconception about the growing of sugar cane",
+            "evaluating different approaches to the cultivation of sugar cane"
+          ],
+          "answer": "C",
+          "id": "r3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "In the final paragraph, what does the reviewer suggest is the overall message of Bosma's book?",
+          "options": [
+            "Sugar is a harmful and unnecessary product.",
+            "Economic pressure is needed to control sugar production.",
+            "Conditions for workers in sugar production should be improved.",
+            "Intensive marketing of sugar has had disastrous consequences."
+          ],
+          "answer": "A",
+          "id": "r3-q30"
+        },
+        {
+          "number": 31,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "Summary completion 31",
+          "answer": "H",
+          "id": "r3-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "Summary completion 32",
+          "answer": "E",
+          "id": "r3-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "Summary completion 33",
+          "answer": "I",
+          "id": "r3-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "Summary completion 34",
+          "answer": "A",
+          "id": "r3-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "Summary completion 35",
+          "answer": "G",
+          "id": "r3-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "Summary completion 36",
+          "answer": "C",
+          "id": "r3-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Sugar has now become available in large quantities due to a range of agricultural developments.",
+          "answer": "YES",
+          "id": "r3-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Advertisers initially marketed sugar as a luxury product.",
+          "answer": "NOT GIVEN",
+          "id": "r3-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "The invention of high-fructose corn syrup was a positive development.",
+          "answer": "NO",
+          "id": "r3-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "High-fructose corn syrup is an ingredient in many processed foods.",
+          "answer": "YES",
+          "id": "r3-q40"
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "writing-task-1",
+      "number": 1,
+      "title": "Writing Task 1",
+      "prompt": "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "instructions": [
+        "Write at least 150 words.",
+        "You should spend about 20 minutes on this task."
+      ],
+      "minimumWords": 150,
+      "suggestedMinutes": 20,
+      "figure": "/media/figures/cambridge21/test1-writing-task1.jpg",
+      "figureAlt": "Line graph showing the number of jobs in manufacturing, retail, agriculture and healthcare in the US from 1960 to 2020."
+    },
+    {
+      "id": "writing-task-2",
+      "number": 2,
+      "title": "Writing Task 2",
+      "prompt": "The best way to provide enough homes in large cities is to build tall apartment blocks.\n\nTo what extent do you agree or disagree with this statement?",
+      "instructions": [
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words.",
+        "You should spend about 40 minutes on this task."
+      ],
+      "minimumWords": 250,
+      "suggestedMinutes": 40
+    }
+  ],
+  "speaking": [
+    {
+      "id": "speaking-1",
+      "number": 1,
+      "title": "Part 1 · Interview",
+      "description": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+      "questions": [
+        {
+          "id": "s1",
+          "text": "Where do you go to get a haircut?"
+        },
+        {
+          "id": "s2",
+          "text": "Have you changed your hairstyle recently?"
+        },
+        {
+          "id": "s3",
+          "text": "Would you ever change the colour of your hair?"
+        },
+        {
+          "id": "s4",
+          "text": "Do you enjoy going to the hairdresser or barber?"
+        }
+      ]
+    },
+    {
+      "id": "speaking-2",
+      "number": 2,
+      "title": "Part 2 · Cue card",
+      "description": "Describe a time when you used information for tourists, for example from a guidebook or online.",
+      "questions": [],
+      "cueCard": {
+        "topic": "Describe a time when you used information for tourists, for example from a guidebook or online.",
+        "bullets": [
+          "where you got this information",
+          "what place this information was about",
+          "what information you got"
+        ],
+        "rounding": "and explain whether this information was very helpful for you.",
+        "preparationSeconds": 60,
+        "speakingSeconds": 120
+      }
+    },
+    {
+      "id": "speaking-3",
+      "number": 3,
+      "title": "Part 3 · Discussion",
+      "description": "Discussion topics: different types of holidays and tourist attractions.",
+      "questions": [
+        {
+          "id": "s5",
+          "text": "Different types of holidays. What are the most popular kinds of holidays for people from your country to go on?"
+        },
+        {
+          "id": "s6",
+          "text": "Do you think most people prefer to have a holiday abroad rather than in their own country?"
+        },
+        {
+          "id": "s7",
+          "text": "Why do some people want to do absolutely nothing when they go away on holiday?"
+        },
+        {
+          "id": "s8",
+          "text": "Tourist attractions. What are the kinds of tourist attraction that visitors to your country like to see?"
+        },
+        {
+          "id": "s9",
+          "text": "Do you think tourist attractions such as museums should be free for local people to visit?"
+        },
+        {
+          "id": "s10",
+          "text": "What can make a tourist attraction disappointing for visitors?"
+        }
+      ]
+    }
+  ],
+  "publishedAt": "2026-11-12T00:00:00Z",
+  "scoring": {
+    "listeningVersion": "ielts-academic-2026",
+    "readingVersion": "ielts-academic-2026",
+    "rubricVersion": "apex-local-rubric-v1"
+  },
+  "audioUrl": "/media/listening/cambridge21-test1"
+}
