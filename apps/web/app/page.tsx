@@ -7,6 +7,20 @@ import { api, type ExamSummary, type Skill, type User } from '@/lib/api'
 import { Button, Logo, SkillGlyph } from '@/components/ui'
 import { ShareControl } from '@/components/ShareLink'
 
+function examYear(item: ExamSummary) {
+  const match = item.title.match(/(?:Cambridge\s+)?IELTS\s+(\d{2})/) ?? item.id.match(/(?:cambridge|ielts)(\d{2})/)
+  return match ? Number(match[1]) : 0
+}
+
+function examNumber(item: ExamSummary) {
+  const match = item.title.match(/Test\s+(\d+)/)
+  return match ? Number(match[1]) : 0
+}
+
+function bookLabel(book: string) {
+  return book.replace(/^Cambridge\s+/, '')
+}
+
 const skills: Array<{ key: Skill; name: string; duration: string; count: string; blurb: string; content: string }> = [
   { key: 'listening', name: 'Listening', duration: '30 min', count: '40 questions', blurb: 'Four recordings, played once only.', content: '4 parts · form, map, matching and multiple-choice questions' },
   { key: 'reading', name: 'Reading', duration: '60 min', count: '40 questions', blurb: 'Three academic passages side by side with the questions.', content: '3 passages · headings, TRUE/FALSE/NOT GIVEN, matching, completion' },
@@ -27,7 +41,7 @@ export default function Dashboard() {
   useEffect(() => {
     Promise.allSettled([api.exams(), api.history(), api.me(), api.activeAttempt()])
       .then(([e, h, m, a]) => {
-        if (e.status === 'fulfilled') setExams([...e.value.exams].sort((a, b) => a.id.localeCompare(b.id)))
+        if (e.status === 'fulfilled') setExams([...e.value.exams].sort((a, b) => examYear(b) - examYear(a) || examNumber(a) - examNumber(b)))
         else setError(e.reason instanceof Error ? e.reason.message : 'The exam service is unavailable')
         if (h.status === 'fulfilled') setHistory(h.value.attempts)
         if (m.status === 'fulfilled') setMe(m.value.user)
@@ -121,7 +135,7 @@ export default function Dashboard() {
                     className={`test-chip ${exam?.id === item.id ? 'test-chip--active' : ''}`}
                     onClick={() => setSelectedId(item.id)}
                   >
-                    <span>{book ? `${book.startsWith('Cambridge') ? 'C21' : book} · ${test}` : test}</span>
+                    <span>{book ? `${bookLabel(book)} · ${test}` : test}</span>
                     <small>{item.listeningQuestions} L · {item.readingQuestions} R</small>
                   </button>
                 )

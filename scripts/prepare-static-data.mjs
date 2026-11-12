@@ -36,6 +36,9 @@ for (const pack of packs) {
   }
 }
 
-summaries.sort((a, b) => a.id.localeCompare(b.id))
+summaries.sort((a, b) => {
+  const year = (item) => Number(item.title.match(/IELTS\s+(\d+)/)?.[1] ?? 0)
+  return year(b) - year(a) || a.id.localeCompare(b.id)
+})
 await writeFile(join(target, 'index.json'), JSON.stringify({ exams: summaries }, null, 2) + '\n')
 console.log(`prepared ${summaries.length} static exams in ${target}`)
