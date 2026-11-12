@@ -153,3 +153,113 @@ cd apps/web && pnpm exec playwright test --trace=off
 objective skills in all four tests. `audit_fidelity.py` compares authored stems, options,
 passages and prompts with the raw pages; residual findings are generic paraphrased
 completion prompts, not content differences.
+
+
+---
+
+# Addendum — Reading vocabulary pack
+
+A 360-word study set was derived from the 24 Reading passages in both packs.
+
+- Source passages: `content/ielts20/meta/passages.json` and `content/cambridge21/meta/passages.json`.
+- Output: `content/vocabulary/` (JSON, CSV, XLSX, Anki CSV) and `apps/web/src/vocabulary.json`.
+- Web page: `/vocabulary/` — search, filters, flashcards and browser-local learned state.
+- Coverage: 15 words per passage, no duplicates; 215 C1, 143 B2, 1 C2, 1 B1.
+- Definitions were written for the sense used in each passage; example sentences are verbatim
+  apart from repaired OCR artefacts.
+
+Validation: `python3 content/vocabulary/tools/verify_vocabulary.py` checks the 360/24 counts,
+15 words per passage, source metadata, that each example contains its headword, and that every
+entry has a definition, level, IPA and part of speech.
+
+Copyright remains unchanged: the passages and example sentences are included for private local
+study only and must not be redistributed.
+
+---
+
+# Addendum — IELTS 19 Academic (static-only third pack)
+
+## Source inspected
+
+- File: `/Users/tim2k/Downloads/IELTS 19 Academic.pdf`
+- PDF: 139 pages, A4, encrypted (printing allowed, copying disabled), 24 MB.
+- Book: IELTS 19 Academic, Cambridge University Press & Assessment, 2024.
+- Pack folder: `content/ielts19/`; exam IDs `ielts19-test1` … `ielts19-test4`.
+- Integration: **static export only**. The pack is not copied into
+  `services/api/internal/content/` and is not seeded into PostgreSQL.
+
+## Extraction method
+
+The PDF is a scan. Only the front matter and a handful of pages have a text layer, so
+`pdftotext` could not be used for the tests. The pipeline was:
+
+1. Render all 139 pages at 200 dpi with `pdftoppm`.
+2. OCR each page with Tesseract 5: `--psm 6` for keys/scripts, `--psm 3` for
+   passages and column-aware reading.
+3. Cross-check key pages and figure crops against the page images; Apple Vision OCR
+   was used as a second opinion where Tesseract missed digits.
+4. Transcribe the eight answer-key pages (`121–128`) directly from the images because
+   both OCR engines dropped some two-column key values.
+
+## What was extracted
+
+| Asset | Location | Count |
+|---|---|---|
+| Page text (partial text layer) | `content/ielts19/raw/page-*.txt` | 139 pages |
+| Page images (200 dpi JPEG) | `content/ielts19/pages/` | 139 pages |
+| OCR text | `content/ielts19/ocr-tess/`, `ocr-tess3/` | 139 pages each |
+| Structured exam JSON | `content/academic/ielts19-test1..4.json` | 4 tests |
+| Task 1 figures + listening map | `content/ielts19/figures/` and `apps/web/public/media/figures/ielts19/` | 5 crops |
+| Listening audio (Kokoro) | `apps/web/public/media/listening/<exam-id>/part1-4.mp3` | 16 parts |
+| Examiner audio (Kokoro) | `apps/web/public/media/speaking/examiner/<exam-id>/` | 52 clips |
+| Metadata | `content/ielts19/meta/` | transcripts, keys, passages |
+
+Per test: 40 Listening, 40 Reading, 2 Writing tasks, 3 Speaking parts.
+Total: 320 objective questions.
+
+## Page map
+
+| | Listening | Reading | Writing | Speaking |
+|---|---|---|---|---|
+| Test 1 | 10–15 | 16–30 | 31–32 | 33 |
+| Test 2 | 34–40 | 41–54 | 53–54 | 55 |
+| Test 3 | 56–62 | 63–77 | 76–77 | 78 |
+| Test 4 | 79–84 | 85–98 | 97–98 | 99 |
+| Audio scripts | 100–120 | | | |
+| Answer keys | 121–128 | | | |
+
+The printed contents page is out by one from Test 2 onward; the map above uses actual
+PDF pages.
+
+## Verification
+
+```bash
+python3 content/ielts19/tools/build_content.py
+python3 content/ielts19/tools/verify_static.py
+python3 content/ielts19/tools/audit_fidelity.py
+bash scripts/export-static.sh
+```
+
+- `build_content.py`: 4/4 tests, 40 + 40 questions, all completion blanks matched.
+- `verify_static.py`: keys, transcripts, 16 listening MP3s, examiner clips and figures.
+- `audit_fidelity.py`: 5 findings, all generic paraphrased completion prompts; no
+  mismatched options, statements, writing prompts or passage paragraphs.
+- Browser full-flow test against the static export: all four tests scored **80/80** and
+  reached the results page with no console/page errors once audio was present.
+
+## OCR and layout repairs
+
+- Removed Telegram watermarks, running heads, page numbers and question-margin markers
+  (`Q1`, `Ql`, `Qg`) from scripts.
+- Normalised OCR speaker labels (`coLemMAN`, `coteman`, `cHaRLoTTE`) and assigned
+  monologue speakers (David, Liz, Lecturer, Student).
+- Repaired joined words (`thenit'son`, `fellonthe`) and a few OCR punctuation artefacts.
+- Cropped and visually checked all five figures, including the full Test 1 listening map
+  and both Porth Harbour plans.
+- Flattened multi-column tables into labelled rows while preserving all wording and keys.
+
+## Residual limitations
+
+- OCR is not perfect; a few proper nouns or punctuation marks may differ from print.
+- Generated listening parts run roughly 4–5 minutes each, shorter than a real IELTS test.
+- Static mode has no server-side persistence; attempts live in the browser only.

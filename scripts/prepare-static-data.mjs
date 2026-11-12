@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url'
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const source = join(root, 'content', 'academic')
 const target = join(root, 'apps', 'web', 'public', 'data', 'exams')
-const packs = ['cambridge21', 'ielts20']
+const packs = ['cambridge21', 'ielts20', 'ielts19']
 const summaries = []
 
 await mkdir(target, { recursive: true })

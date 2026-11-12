@@ -126,3 +126,53 @@ Audit date: 2026-11-12. Scope: the four seeded IELTS 20 Academic tests.
 - Tables are rendered as labelled bullet rows rather than multi-column tables.
 - Minor OCR spellings may remain in long passages; proper nouns were spot-checked.
 - Sample answers, answer sheets and front matter are extracted but not wired into the app.
+
+---
+
+# Addendum — IELTS 19 Academic static pack
+
+Audit date: 2026-11-12. Scope: the four IELTS 19 Academic tests added to the static build.
+
+## Coverage
+
+| Item | Result |
+|---|---|
+| Tests extracted | 4 / 4 |
+| Listening parts / questions | 16 / 16 · 160 / 160 |
+| Reading passages / questions | 12 / 12 · 160 / 160 |
+| Writing tasks / Speaking parts | 8 / 8 · 12 / 12 |
+| Answer keys | 320 / 320, transcribed from pages 121–128 |
+| Listening transcripts | 16 / 16 |
+| Figures | 4 Writing Task 1 figures + Test 1 listening map |
+| Listening audio | 16 parts, Kokoro generated |
+| Examiner audio | 52 clips, 13 per test |
+
+## Checks
+
+- `content/ielts19/tools/build_content.py` validates 4 Listening parts, 3 passages,
+  2 Writing tasks, 3 Speaking parts, 40 + 40 questions and every `{{n}}` blank.
+- `content/ielts19/tools/audit_fidelity.py` compares prompts, options, passage paragraphs,
+  writing prompts and speaking questions with the OCR pages. Result: **5 findings**, all
+  generic paraphrased completion prompts (“Second fact about anxiety”, “Group B's sugar
+  is contained in”, “Weighing chamber prevents”, “James”, “Leo”); no substantive mismatch.
+- Static browser test: all four exams scored **80/80** Listening + Reading and rendered
+  the results page.
+- Figures were inspected at full size after cropping; the Test 1 map, Porth Harbour plans,
+  ethanol diagram and dance charts are complete.
+
+## OCR and layout repairs
+
+- The book is a scan; tests were OCR'd at 200 dpi with Tesseract 5 (`--psm 6` for
+  keys/scripts, `--psm 3` for passages) and checked against page images.
+- Both OCR engines missed digits in the two-column answer keys; the 320 keys were
+  transcribed directly from the images and checked against numbering.
+- Removed watermarks, running heads, page numbers and margin markers from transcripts.
+- Normalised speaker-label OCR variants and repaired joined words.
+- Flattened multi-column tables into labelled bullet rows; preserved all wording and keys.
+
+## Residual limitations
+
+- Minor OCR spellings may remain in long passages; source page images are retained.
+- Generated listening parts run 4–5 minutes each, as printed in the book.
+- Sample Writing answers and answer sheets are not wired into the app.
+- This pack is static-only; the server/API still seeds eight tests.

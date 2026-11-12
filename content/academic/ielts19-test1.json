@@ -1,0 +1,1588 @@
+{
+  "id": "ielts19-test1",
+  "title": "IELTS 19 · Academic Test 1",
+  "module": "Academic",
+  "version": "ielts19.1",
+  "listening": [
+    {
+      "id": "l1",
+      "number": 1,
+      "title": "Hinchingbrooke Country Park",
+      "context": "A teaching assistant telephones a country park to arrange a school visit.",
+      "groups": [
+        {
+          "id": "l1-g1",
+          "label": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "range": [
+            1,
+            10
+          ],
+          "layout": "notes",
+          "body": [
+            "# Hinchingbrooke Country Park",
+            "## The park",
+            "• Area: {{1}} hectares",
+            "• Habitats: wetland, grassland and woodland",
+            "• Wetland: lakes, ponds and a {{2}}",
+            "• Wildlife includes birds, insects and animals",
+            "## Subjects studied in educational visits include",
+            "• Science: Children look at {{3}} about plants, etc.",
+            "• Geography: includes learning to use a {{4}} and compass",
+            "• History: changes in land use",
+            "• Leisure and tourism: mostly concentrates on the park's {{5}}",
+            "• Music: Children make {{6}} with natural materials, and experiment with rhythm and speed.",
+            "## Benefits of outdoor educational visits",
+            "• They give children a feeling of {{7}} that they may not have elsewhere.",
+            "• Children learn new {{8}} and gain self-confidence.",
+            "## Practical issues",
+            "• Cost per child: £{{9}}",
+            "• Adults, such as {{10}}, free"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Size of the park in hectares",
+          "answer": "69",
+          "accepted": [
+            "sixty-nine"
+          ],
+          "id": "l1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Wetland feature besides lakes and ponds",
+          "answer": "stream",
+          "id": "l1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What children look at in Science",
+          "answer": "data",
+          "id": "l1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What Geography teaches children to use, besides a compass",
+          "answer": "map",
+          "id": "l1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What Leisure and tourism concentrates on",
+          "answer": "visitors",
+          "id": "l1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What children make with natural materials in Music",
+          "answer": "sounds",
+          "id": "l1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Feeling outdoor visits give children",
+          "answer": "freedom",
+          "id": "l1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "What children learn and gain self-confidence from",
+          "answer": "skills",
+          "id": "l1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Cost per child",
+          "answer": "4.95",
+          "id": "l1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "l1-g1",
+          "type": "short",
+          "prompt": "Adults such as these are free",
+          "answer": "leaders",
+          "id": "l1-q10"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "SALLY",
+          "text": "Good morning. Hinchingbrooke Country Park, Sally speaking. I'm one of the rangers."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Oh hello. My name's John Chapman, and I'm a teaching assistant at a local primary school. I've been asked to arrange a visit to the park for two of our classes."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "OK. What would you like to know?"
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Well, I'm new to this area, so perhaps you could tell me something about the park first, please."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Of course. Altogether the park covers 170 acres, that's 69 hectares. There are three main types of habitat: wetland, grassland and woodland. The woods are well established and varied, with an oak plantation, and other areas of mixed species."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Right."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "The wetland is quite varied, too. The original farmland was dug up around 40 years ago to extract gravel. Once this work was completed, the gravel pits filled with water, forming the two large lakes. There are also several smaller ones, ponds and a stream that flows through the park."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "OK, so I suppose with these different habitats there's quite a variety of wildlife."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "There certainly is - a lot of different species of birds and insects, and also animals like deer and rabbits."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "And I understand you organise educational visits for school parties."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "That's right. We can organise a wide range of activities and adapt them to suit all ages."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Can you give me some examples of the activities?"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Well, one focus is on science, where we help children to discover and study plants, trees and insects. They also collect and analyse data about the things they see."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Uhuh."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Another focus is on geography. The park is a great environment to learn and practise reading a map and using a compass to navigate around the park."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Do you do anything connected with history?"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Yes, we do. For instance, the children can explore how the use of the land has changed over time. Then there's leisure and tourism."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "That focuses on your visitors, I would imagine."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Yes, mostly. The children find out about them, their requirements, the problems they may cause and how we manage these. And another subject we cover is music: here the children experiment with natural materials to create sounds and explore rhythm and tempo."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "That must be fun!"
+        },
+        {
+          "speaker": "SALLY",
+          "text": "Most children really enjoy it."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "And of course, all the activities are educational, too. Learning outside the classroom encourages children to be creative, and to explore and discover for themselves."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "I would imagine they get a sense of freedom that might not be a normal part of their lives."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "That's right. And very often the children discover that they can do things they didn't know they could do, and they develop new skills. This gives them greater self-confidence."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "It sounds great. So, what about the practical side of it? How much does it cost for a full-day visit? We would expect to bring between 30 and 40 children."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "If there are over 30, it costs £4.95 for each child who attends on the day. We invoice you afterwards, so you don't pay for children who can't come because of sickness, for example. There's no charge for leaders and other adults - as many as you want to bring."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "That sounds very fair. Well, thanks for all the information. I'll need to discuss it with my colleagues, and I hope to get back to you soon to make a booking."
+        },
+        {
+          "speaker": "SALLY",
+          "text": "We'll look forward to hearing from you. Goodbye."
+        },
+        {
+          "speaker": "JOHN",
+          "text": "Goodbye, and thank you."
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "number": 2,
+      "title": "Stanthorpe Twinning Association",
+      "context": "A talk about a town-twinning association and an upcoming visit from France.",
+      "groups": [
+        {
+          "id": "l2-g1",
+          "label": "Questions 11–15",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "range": [
+            11,
+            15
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l2-g2",
+          "label": "Questions 16–20",
+          "instructions": "Label the map below. Write the correct letter, A–H, next to Questions 16–20.",
+          "range": [
+            16,
+            20
+          ],
+          "layout": "map",
+          "figure": "/media/figures/ielts19/test1-listening-map.jpg",
+          "figureAlt": "A map of Farley House and its grounds, with locations labelled A to H."
+        }
+      ],
+      "questions": [
+        {
+          "number": 11,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "During the visit to Malatte, in France, members especially enjoyed",
+          "options": [
+            "going to a theme park.",
+            "experiencing a river trip.",
+            "visiting a cheese factory."
+          ],
+          "answer": "B",
+          "id": "l2-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "What will happen in Stanthorpe to mark the 25th anniversary of the Twinning Association?",
+          "options": [
+            "A tree will be planted.",
+            "A garden seat will be bought.",
+            "A footbridge will be built."
+          ],
+          "answer": "A",
+          "id": "l2-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "Which event raised most funds this year?",
+          "options": [
+            "the film show",
+            "the pancake evening",
+            "the cookery demonstration"
+          ],
+          "answer": "B",
+          "id": "l2-q13"
+        },
+        {
+          "number": 14,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "For the first evening with the French visitors, host families are advised to",
+          "options": [
+            "take them for a walk round the town.",
+            "go to a local restaurant.",
+            "have a meal at home."
+          ],
+          "answer": "C",
+          "id": "l2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "l2-g1",
+          "type": "mcq",
+          "prompt": "On Saturday evening there will be the chance to",
+          "options": [
+            "listen to a concert.",
+            "watch a match.",
+            "take part in a competition."
+          ],
+          "answer": "A",
+          "id": "l2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "l2-g2",
+          "type": "map",
+          "prompt": "Farm shop",
+          "answer": "G",
+          "id": "l2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "l2-g2",
+          "type": "map",
+          "prompt": "Disabled entry",
+          "answer": "C",
+          "id": "l2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "l2-g2",
+          "type": "map",
+          "prompt": "Adventure playground",
+          "answer": "B",
+          "id": "l2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "l2-g2",
+          "type": "map",
+          "prompt": "Kitchen gardens",
+          "answer": "D",
+          "id": "l2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "l2-g2",
+          "type": "map",
+          "prompt": "The Temple of the Four Winds",
+          "answer": "A",
+          "id": "l2-q20"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "SPEAKER",
+          "text": "It's great to see so many members of the Twinning Association here tonight. Since the twinning link between our two towns, Stanthorpe here in England and Malatte in France, was established, the relationship between the towns has gone from strength to strength. Last month, 25 members of the association from Stanthorpe spent a weekend in Malatte. Our hosts had arranged a great programme. We learned how cheese is produced in the region and had the chance to taste the products. The theme park trip had to be cancelled, but we all had a great time on the final boat trip down the river - that was the real highlight. This is a special year for the Association because it's 25 years since we were founded. In Malatte, they're planning to mark this by building a footbridge in the municipal park. We've been discussing what to do here and we've decided to plant a poplar tree in the museum gardens. We considered buying a garden seat to put there, but the authorities weren't happy with that idea. In terms of fundraising to support our activities, we've done very well. Our pancake evening was well attended and made record profits. And everyone enjoyed the demonstration of French cookery, which was nearly as successful. Numbers for our film show were limited because of the venue so we're looking for somewhere bigger next year. We're looking forward to welcoming our French visitors here next week, and I know that many of you here will be hosting individuals or families. The coach from France will arrive at 5 pm on Friday. Don't try to do too much that first evening as they'll be tired, so have dinner in the house or garden rather than eating out. The weather looks as if it'll be OK so you might like to plan a barbecue. Then the next morning's market day in town, and that's always a good place to stroll round. On Saturday evening, we'll all meet up at the football club, where once again we'll have Toby Sharp and his band performing English and Scottish country songs. Toby will already be well known to many of you as last year he organised our special quiz night and presented the prizes. Now on Sunday, we'll be taking our visitors to Farley House. You may not all be familiar with it, so here's a map to help you. You can see the car park at the bottom of the map. There's an excellent farm shop in the grounds where our visitors can buy local produce - it's in the old stables, which is the first building you come to. They're built round a courtyard, and the shop's in the far corner on the left. There's also a small café on the right as you go in. I know that one or two of our visitors may not be all that mobile. The main entrance to the house has a lot of steps so you might want to use the disabled entry. This is on the far side of the house from the car park. Children will probably be most interested in the adventure playground. That's at the northern end of the larger lake, in a bend on the path that leads to the lake. There's lots for children to do there. There are a number of lovely gardens near the house. The kitchen gardens are rectangular and surrounded by a wall. They're to the north-east of the house, quite near the smaller lake. They're still in use and have a great collection of fruit and vegetables. The Temple of the Four Winds is a bit more of a walk - but it's worth it. Take the path from the car park and go past the western sides of the stables and the house. Then when the path forks, take the right-hand path. Go up there with the woods on your left and the temple is right at the end. There are great views over the whole area. OK, so that's..."
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "number": 3,
+      "title": "Food projects and trends",
+      "context": "Two students discuss a bread reuse project and predictions about food trends.",
+      "groups": [
+        {
+          "id": "l3-g1",
+          "label": "Questions 21 and 22",
+          "instructions": "Choose TWO letters, A–E. Which TWO things did Colin find most satisfying about his bread reuse project?",
+          "range": [
+            21,
+            22
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g2",
+          "label": "Questions 23 and 24",
+          "instructions": "Choose TWO letters, A–E. Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future?",
+          "range": [
+            23,
+            24
+          ],
+          "layout": ""
+        },
+        {
+          "id": "l3-g3",
+          "label": "Questions 25–30",
+          "instructions": "What is the students' opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A–H, next to Questions 25–30.",
+          "range": [
+            25,
+            30
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A This is only relevant to young people.",
+            "B This may have disappointing results.",
+            "C This already seems to be widespread.",
+            "D Retailers should do more to encourage this.",
+            "E More financial support is needed for this.",
+            "F Most people know little about this.",
+            "G There should be stricter regulations about this.",
+            "H This could be dangerous."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "First satisfying thing about the bread reuse project",
+          "options": [
+            "receiving support from local restaurants",
+            "finding a good way to prevent waste",
+            "overcoming problems in a basic process",
+            "experimenting with designs and colours",
+            "learning how to apply 3-D printing"
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "l3-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "l3-g1",
+          "type": "mcq",
+          "prompt": "Second satisfying thing about the bread reuse project",
+          "options": [
+            "receiving support from local restaurants",
+            "finding a good way to prevent waste",
+            "overcoming problems in a basic process",
+            "experimenting with designs and colours",
+            "learning how to apply 3-D printing"
+          ],
+          "answer": "D",
+          "accepted": [
+            "B"
+          ],
+          "id": "l3-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "First future development of touch-sensitive food labels",
+          "options": [
+            "for use on medical products",
+            "to show that food is no longer fit to eat",
+            "for use with drinks as well as foods",
+            "to provide applications for blind people",
+            "to indicate the weight of certain foods"
+          ],
+          "answer": "A",
+          "accepted": [
+            "E"
+          ],
+          "id": "l3-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "l3-g2",
+          "type": "mcq",
+          "prompt": "Second future development of touch-sensitive food labels",
+          "options": [
+            "for use on medical products",
+            "to show that food is no longer fit to eat",
+            "for use with drinks as well as foods",
+            "to provide applications for blind people",
+            "to indicate the weight of certain foods"
+          ],
+          "answer": "E",
+          "accepted": [
+            "A"
+          ],
+          "id": "l3-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Use of local products",
+          "answer": "D",
+          "id": "l3-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Reduction in unnecessary packaging",
+          "answer": "G",
+          "id": "l3-q26"
+        },
+        {
+          "number": 27,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Gluten-free and lactose-free food",
+          "answer": "C",
+          "id": "l3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Use of branded products related to celebrity chefs",
+          "answer": "B",
+          "id": "l3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Development of 'ghost kitchens' for takeaway food",
+          "answer": "F",
+          "id": "l3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "l3-g3",
+          "type": "match",
+          "prompt": "Use of mushrooms for common health concerns",
+          "answer": "H",
+          "id": "l3-q30"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "COLIN",
+          "text": "I haven't seen you for a bit, Marie."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No. I've been busy with my project."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "You're making a vegan alternative to eggs, aren't you? Something that doesn't use animal products?"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Yes. I'm using chickpeas. I had two main aims when I first started looking for an alternative to eggs, but actually I've found chickpeas have got more advantages."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Right."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "But how about your project on reusing waste food - you were looking at bread, weren't you?"
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Yes. It's been hard work, but I've enjoyed it. The basic process was quite straightforward - breaking the stale bread down to a paste then reforming it."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "But you were using 3-D printing, weren't you, to make the paste into biscuits?"
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Yeah, I'd used that before, but in this project, I had time to play around with /22 different patterns for the biscuits and finding how I could add fruit and vegetables to make them a more appetising colour, and I was really pleased with what I managed to produce."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "t_ must've been a great feeling to make something appetising out of bits of old /22 bread that would've been thrown away otherwise."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "It.was. And I'm hoping that some of the restaurants in town will be interested in the biscuits. I'm going to send them some samples."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "I came across something on the internet yesterday that might interest you. It was a company that's developed touch-sensitive sensors for food labels."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Mmm?"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "It's a special sort of label on the food package. When the label's smooth, the food is fresh and then when you can feel bumps on the label, that means the food's gone bad. It started off as a project to help visually impaired people know whether food was fit to eat or not."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Interesting. So just solid food?"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "No, things like milk and juice as well. But actually, I thought it might be really good 23/24 for drug storage in hospitals and pharmacies."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Right. And coming back to food, maybe it'd be possible to use it for other things besides freshness. Like how many kilograms a joint of meat is, for example. /24"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Yes, there's all sorts of possibilities."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "I was reading an article about food trends predicting how eating habits might change in the next few years."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Oh - things like more focus on local products? That seems so obvious, but the shops are still full of imported foods."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Yes, they need to be more proactive to address that."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "And somehow motivate consumers to change, yes."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "One thing everyone's aware of is the need for a reduction in unnecessary packaging - but just about everything you buy in supermarkets is still covered in plastic. The government needs to do something about it."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Absolutely. It's got to change."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Do you think there'll be more interest in gluten- and lactose-free food?"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "For people with allergies or food intolerances? I don't know. Lots of people I know have been buying that type of food for years now."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Yes, even if they haven't been diagnosed with an allergy."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "That's right. One thing I've noticed is the number of branded products related to celebrity chefs - people watch them cooking on TV and then buy things like spice mixes or frozen foods with the chef's name on... I bought something like that once, but I won't again."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Yeah - I bought a ready-made spice mix for chicken which was supposed to be used by a chef I'd seen on television, and it didn't actually taste of anything."
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Mm. Did the article mention 'ghost kitchens' used to produce takeaway food?"
+        },
+        {
+          "speaker": "COLIN",
+          "text": "No. What are they?"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Well, they might have the name of a restaurant, but actually they're a cooking facility just for delivery meals - the public don't ever go there. But people aren't aware of that - it's all kept very quiet."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "So people don't realise the food's not actually from the restaurant?"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Right."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Did you know more and more people are using all sorts of different mushrooms now, to treat different health concerns? Things like heart problems?"
+        },
+        {
+          "speaker": "MARIE",
+          "text": "Hmm. They might be taking a big risk there."
+        },
+        {
+          "speaker": "COLIN",
+          "text": "Yes, it's hard to know which varieties are safe to eat. Anyway maybe now..."
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "number": 4,
+      "title": "Céide Fields",
+      "context": "A lecture about the discovery and investigation of the Céide Fields.",
+      "groups": [
+        {
+          "id": "l4-g1",
+          "label": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "range": [
+            31,
+            40
+          ],
+          "layout": "notes",
+          "body": [
+            "# Céide Fields",
+            "• an important Neolithic archaeological site in the northwest of Ireland",
+            "## Discovery",
+            "• In the 1930s, a local teacher realised that stones beneath the bog surface were once {{31}}.",
+            "• His {{32}} became an archaeologist and undertook an investigation of the site.",
+            "  – a traditional method used by local people to dig for {{33}} was used to identify where stones were located.",
+            "  – carbon dating later proved the site was Neolithic.",
+            "• Items are well preserved in the bog because of a lack of {{34}}.",
+            "## Neolithic farmers",
+            "• Houses were {{35}} in shape and had a hole in the roof.",
+            "• Neolithic innovations include:",
+            "  – cooking indoors",
+            "  – pots used for storage and to make {{36}}",
+            "• Each field at Céide was large enough to support a big {{37}}.",
+            "• The fields were probably used to restrict the grazing of animals – no evidence of structures to house them during {{38}}.",
+            "## Reasons for the decline in farming",
+            "• A decline in {{39}} quality",
+            "• An increase in {{40}}"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 31,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "What the stones beneath the bog were once used for",
+          "answer": "walls",
+          "id": "l4-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Relative of the local teacher who became an archaeologist",
+          "answer": "son",
+          "id": "l4-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "What the traditional digging method was used to find",
+          "answer": "fuel",
+          "id": "l4-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "What the bog lacked, preserving the items",
+          "answer": "oxygen",
+          "id": "l4-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Shape of the Neolithic houses",
+          "answer": "rectangular",
+          "id": "l4-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "What pots were used to make besides storing food",
+          "answer": "lamps",
+          "id": "l4-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Size of the family each field could support",
+          "answer": "family",
+          "id": "l4-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Season when animals had no structures for shelter",
+          "answer": "winter",
+          "id": "l4-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "Type of quality that declined",
+          "answer": "soil",
+          "id": "l4-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "l4-g1",
+          "type": "short",
+          "prompt": "What increased, causing farming to decline",
+          "answer": "rain",
+          "id": "l4-q40"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": "LECTURER",
+          "text": "For my presentation today, I'm going to talk about the Céide Fields in the northwest of Ireland, one of the largest Neolithic sites in the world. I recently visited this site and observed the work that is currently being done by a team of archaeologists there. The site was first discovered in the 1930s by a local teacher, Patrick Caulfield. He noticed that when local people were digging in the bog, they were constantly hitting against what seemed to be rows of stones. He realised that these must be walls and that they must be thousands of years old for them to predate the bog which subsequently grew over them. He wrote to the National Museum in Dublin to ask them to investigate, but no one took him seriously. It wasn't until 40 years later, when Patrick Caulfield's son Seamus, who had become an archaeologist by then, began to explore further. He inserted iron probes into the bog to map the formation of the stones, a traditional method which local people had always used for finding fuel buried in the bog for thousands of years. Carbon dating later proved that the site was over 5,000 years old and was the largest Neolithic site in Ireland. Thanks to the bog which covers the area, the remains of the settlement at Céide Fields, which is over 5,000 years old, are extremely well-preserved. A bog is 90 percent water; its soil is so saturated that when the grasses and heathers that grow on its surface die, they don't fully decay but accumulate in layers. Objects remain so well preserved in these conditions because of the acidity of the peat and the deficiency of oxygen. At least 175 days of rain a year are required for this to happen; this part of Ireland gets an average of 225 days. The Neolithic farmers at Céide would have enjoyed several centuries of relative peace and stability. Neolithic farmers generally lived in larger communities than their predecessors, with a number of houses built around a community building. As they lived in permanent settlements, Neolithic farmers were able to build bigger houses. These weren't round as people often assume, but rectangular with a small hole in the roof that allowed smoke to escape. This is one of many innovations and indicates that the Neolithic farmers were the first people to cook indoors. Another new technology that Neolithic settlers brought to Ireland was pottery. Fragments of Neolithic pots have been found in Céide and elsewhere in Ireland. The pots were used for many things; as well as for storing food, pots were filled with a small amount of fat and when this was set alight, they served as lamps. It's thought that the Céide Fields were mainly used as paddocks for animals to graze in. Evidence from the Céide Fields suggests that each plot of land was of a suitable size to sustain an extended family. They may have used a system of rotational grazing in order to prevent over-grazing and to allow for plant recovery and regrowth. This must have been a year-round activity as no structures have been found which would have been used to shelter animals in the winter. However, archaeologists believe that this way of life at Céide ceased abruptly. Why was this? Well, several factors may have contributed to the changing circumstances. The soil would have become less productive and led to the abandonment of farming. The crop rotation system was partly responsible for this as it would have been very intensive and was not sustainable. But there were also climatic pressures too. The farmers at Céide would have enjoyed a relatively dry period, but this began to change and the conditions became wetter as there was a lot more rain. It was these conditions that encouraged the bog to form over the area which survives today. So now I'd like to show you some..."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "number": 1,
+      "title": "How tennis rackets have changed",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "text": "In 2016, the British professional tennis player Andy Murray was ranked as the world's number one. It was an incredible achievement by any standard - made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport's history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few. Yet five years previously, he had been regarded as a talented outsider who entered but never won the major tournaments."
+        },
+        {
+          "text": "Of the changes that account for this transformation, one was visible and widely publicised: in 2011, Murray invited former number one player Ivan Lendl onto his coaching team - a valuable addition that had a visible impact on the player's playing style. Another change was so subtle as to pass more or less unnoticed. Like many players, Murray has long preferred a racket that consists of two types of string: one for the mains (verticals) and another for the crosses (horizontals). While he continued to use natural string in the crosses, in 2012 he switched to a synthetic string for the mains. A small change, perhaps, but its importance should not be underestimated."
+        },
+        {
+          "text": "The modification that Murray made is just one of a number of options available to players looking to tweak their rackets in order to improve their games. 'Touring professionals have their rackets customised to their specific needs,' says Colin Triplow, a UK-based professional racket stringer. 'It's a highly important part of performance maximisation.' Consequently, the specific rackets used by the world's elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it. Take the US professional tennis players Mike and Bob Bryan, for example: 'We're very particular with our racket specifications,' they say. 'All our rackets are sent from our manufacturer to Tampa, Florida, where our frames go through a... thorough customisation process.' They explain how they have adjusted not only racket length, but even experimented with different kinds of paint. The rackets they use now weigh more than the average model and also have a denser string pattern (i.e. more crosses and mains)."
+        },
+        {
+          "text": "The primary reason for these modifications is simple: as the line between winning and losing becomes thinner and thinner, even these slight changes become more and more important. As a result, players and their teams are becoming increasingly creative with the modifications to their rackets as they look to maximise their competitive advantage."
+        },
+        {
+          "text": "Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket. It created a string bed that generated so much topspin that it was quickly banned by the International Tennis Federation. However, within a decade or two, racket modification became a regularity. Today it is, in many ways, an aspect of the game that is equal in significance to nutrition or training."
+        },
+        {
+          "text": "Modifications can be divided into two categories: those to the string bed and those to the racket frame. The former is far more common than the latter: the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with. They will continually change it depending on various factors including the court surface, climatic conditions, and game styles. Some will even change it depending on how they feel at the time."
+        },
+        {
+          "text": "At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines. This all changed in the early 1990s with the development of synthetic strings that were cheaper and more durable. They are made from three materials: nylon (relatively durable and affordable), Kevlar (too stiff to be used alone) or co-polyester (polyester combined with additives that enhance its performance). Even so, many professional players continue to use a 'hybrid set-up', where a combination of both synthetic and natural strings are used."
+        },
+        {
+          "text": "Of the synthetics, co-polyester is by far the most widely used. It's a perfect fit for the style of tennis now played, where players tend to battle it out from the back of the court rather than coming to the net. Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string or other synthetics. In a sense, the development of co-polyester strings has revolutionised the game."
+        },
+        {
+          "text": "However, many players go beyond these basic adjustments to the strings and make changes to the racket frame itself. For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process."
+        },
+        {
+          "text": "Other changes to the frame involve the handle. Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket. Other players make different changes. The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold."
+        },
+        {
+          "text": "Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it's exciting to see what further developments there will be in the future."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r1-g1",
+          "label": "Questions 1–7",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "range": [
+            1,
+            7
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r1-g2",
+          "label": "Questions 8–13",
+          "instructions": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            8,
+            13
+          ],
+          "layout": "notes",
+          "body": [
+            "# The tennis racket and how it has changed",
+            "• Mike and Bob Bryan made changes to the types of {{8}} used on their racket frames.",
+            "• Players were not allowed to use the spaghetti-strung racket because of the amount of {{9}} it created.",
+            "• Changes to rackets can be regarded as being as important as players' diets or the {{10}} they do.",
+            "• All rackets used to have natural strings made from the {{11}} of animals.",
+            "• Pete Sampras had metal {{12}} put into the frames of his rackets.",
+            "• Gonçalo Oliveira changed the {{13}} on his racket handles."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "People had expected Andy Murray to become the world's top tennis player for at least five years before 2016.",
+          "answer": "FALSE",
+          "id": "r1-q1"
+        },
+        {
+          "number": 2,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "The change that Andy Murray made to his rackets attracted a lot of attention.",
+          "answer": "FALSE",
+          "id": "r1-q2"
+        },
+        {
+          "number": 3,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "Most of the world's top players take a professional racket stringer on tour with them.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q3"
+        },
+        {
+          "number": 4,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets.",
+          "answer": "FALSE",
+          "id": "r1-q4"
+        },
+        {
+          "number": 5,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "Werner Fischer played with a spaghetti-strung racket that he designed himself.",
+          "answer": "NOT GIVEN",
+          "id": "r1-q5"
+        },
+        {
+          "number": 6,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "The weather can affect how professional players adjust the strings on their rackets.",
+          "answer": "TRUE",
+          "id": "r1-q6"
+        },
+        {
+          "number": 7,
+          "groupId": "r1-g1",
+          "type": "tfng",
+          "prompt": "It was believed that the change Pete Sampras made to his rackets contributed to his strong serve.",
+          "answer": "TRUE",
+          "id": "r1-q7"
+        },
+        {
+          "number": 8,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Types of finish changed on the Bryan brothers' racket frames",
+          "answer": "paint",
+          "id": "r1-q8"
+        },
+        {
+          "number": 9,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "What the spaghetti-strung racket created too much of",
+          "answer": "topspin",
+          "id": "r1-q9"
+        },
+        {
+          "number": 10,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Racket changes are as important as diet or this activity",
+          "answer": "training",
+          "id": "r1-q10"
+        },
+        {
+          "number": 11,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Animal part used to make natural strings",
+          "answer": "intestines",
+          "accepted": [
+            "gut"
+          ],
+          "id": "r1-q11"
+        },
+        {
+          "number": 12,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Metal items added to Sampras's racket frames",
+          "answer": "weights",
+          "id": "r1-q12"
+        },
+        {
+          "number": 13,
+          "groupId": "r1-g2",
+          "type": "short",
+          "prompt": "Part of the handle that Oliveira changed",
+          "answer": "grips",
+          "id": "r1-q13"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "number": 2,
+      "title": "The pirates of the ancient Mediterranean",
+      "subtitle": "In the first and second millennia BCE, pirates sailed around the Mediterranean, attacking ships and avoiding pursuers",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "When one mentions pirates, an image springs to most people's minds of a crew of misfits, daredevils and adventurers in command of a tall sailing ship in the Caribbean Sea. Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes. However, despite all efforts and the might of various ancient states, piracy could not be stopped. The situation remained unchanged for thousands of years. Only when the pirates directly threatened the interests of ancient Rome did the Roman Republic organise a massive fleet to eliminate piracy. Under the command of the Roman general Pompey, Rome eradicated piracy, transforming the Mediterranean into 'Mare Nostrum' (Our Sea)."
+        },
+        {
+          "label": "B",
+          "text": "Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of Pharaoh Amenhotep III (c 1390-1353 BCE), it is reasonable to assume it predated this powerful civilisation. This is partly due to the great importance the Mediterranean held at this time, and partly due to its geography. While the Mediterranean region is predominantly fertile, some parts are rugged and hilly, even mountainous. In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt. Most had their own boats, possessed good seafaring skills, and unsurpassed knowledge of the local coastline and sailing routes. Thus, it is not surprising that during hardships, these men turned to piracy. Geography itself further benefited the pirates, with the numerous coves along the coast providing places for them to hide their boats and strike undetected. Before the invention of ocean-going caravels' in the 15th century, ships could not easily cross longdistances over open water. Thus, in the ancient world most were restricted to a few well- known navigable routes that followed the coastline. Caught in a trap, a slow merchant ship laden with goods had no other option but to surrender. In addition, knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived."
+        },
+        {
+          "label": "C",
+          "text": "One should also add that it was not unknown in the first and second millennia BCE for governments to resort to pirates' services, especially during wartime, employing their skills and numbers against their opponents. A pirate fleet would serve in the first wave of attack, preparing the way for the navy. Some of the regions were known for providing safe harbours to pirates, who, in return, boosted the local economy."
+        },
+        {
+          "label": "D",
+          "text": "The first known record of a named group of Mediterranean pirates, made during the rule of ancient Egyptian Pharaoh Akhenaten (c 1353-1336 BCE), was in the Amarna Letters. These were extracts of diplomatic correspondence between the pharaoh and his allies, and covered many pressing issues, including piracy. It seems the pharaoh was troubled by two distinct pirate groups, the Lukka and the Sherden. Despite the Egyptian fleet's best efforts, the pirates continued to cause substantial disruption to regional commerce. In the letters, the king of Alashiya (modern Cyprus) rejected Akhenaten's claims of a connection with the Lukka (based in modern-day Turkey). The king assured Akhenaten he was prepared to punish any of his subjects involved in piracy."
+        },
+        {
+          "label": "E",
+          "text": "The ancient Greek world's experience of piracy was different from that of Egyptian rulers. While Egypt's power was land-based, the ancient Greeks relied on the Mediterranean in almost all aspects of life, from trade to warfare. Interestingly, in his works the Iliad and the Odyssey, the ancient Greek writer Homer not only condones, but praises the lifestyle and actions of pirates. The opinion remained unchanged in the following centuries. The ancient Greek historian Thucydides, for instance, glorified pirates' daring attacks on ships or even cities. For Greeks, piracy was a part of everyday life. Even high-ranking members of the state were not beyond engaging in such activities. According to the Greek orator Demosthenes, in 355 BCE, Athenian ambassadors made a detour from their official travel to capture a ship sailing from Egypt, taking the wealth found onboard for themselves! The Greeks' liberal approach towards piracy does not mean they always tolerated it, but attempts to curtail piracy were hampered by the large number of pirates operating in the Mediterranean."
+        },
+        {
+          "label": "F",
+          "text": "The rising power of ancient Rome required the Roman Republic to deal with piracy in the Mediterranean. While piracy was a serious issue for the Republic, Rome profited greatly from its existence. Pirate raids provided a steady source of slaves, essential for Rome's agriculture and mining industries. But this arrangement could work only while the pirates left Roman interests alone. Pirate attacks on grain ships, which were essential to Roman citizens, led to angry voices in the Senate, demanding punishment of the culprits. Rome, however, did nothing, further encouraging piracy. By the Ist century BCE, emboldened pirates kidnapped prominent Roman dignitaries, asking for a large ransom to be paid. Their most famous hostage was none other than Julius Caesar, captured in 75 BCE."
+        },
+        {
+          "label": "G",
+          "text": "By now, Rome was well aware that pirates had outlived their usefulness. The time had come for concerted action. In 67 BCE, a new law granted Pompey vast funds to combat the Mediterranean menace. Taking personal command, Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each. After cleansing one district of pirates, the fleet would join another in the next district. The process continued until the entire Mediterranean was free of pirates. Although thousands of pirates died at the hands of Pompey's troops, as a long-term solution to the problem, many more were offered land in fertile areas located far from the sea. Instead of a maritime menace, Rome got productive farmers that further boosted its economy."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r2-g1",
+          "label": "Questions 14–19",
+          "instructions": "Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G. NB You may use any letter more than once.",
+          "range": [
+            14,
+            19
+          ],
+          "layout": "match",
+          "sharedOptions": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ]
+        },
+        {
+          "id": "r2-g2",
+          "label": "Questions 20 and 21",
+          "instructions": "Choose TWO letters, A–E. Which TWO of the following statements does the writer make about inhabitants of the Mediterranean region in the ancient world?",
+          "range": [
+            20,
+            21
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r2-g3",
+          "label": "Questions 22 and 23",
+          "instructions": "Choose TWO letters, A–E. Which TWO of the following statements does the writer make about piracy and ancient Greece?",
+          "range": [
+            22,
+            23
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r2-g4",
+          "label": "Questions 24–26",
+          "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+          "range": [
+            24,
+            26
+          ],
+          "layout": "summary",
+          "body": [
+            "# Ancient Rome and piracy",
+            "Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome's industries. However, attacks on vessels transporting {{24}} to Rome resulted in calls for {{25}} for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a {{26}} for the return of the Roman officials they captured."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a reference to a denial of involvement in piracy",
+          "answer": "D",
+          "id": "r2-q14"
+        },
+        {
+          "number": 15,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "details of how a campaign to eradicate piracy was carried out",
+          "answer": "G",
+          "id": "r2-q15"
+        },
+        {
+          "number": 16,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a mention of the circumstances in which states in the ancient world would make use of pirates",
+          "answer": "C",
+          "id": "r2-q16"
+        },
+        {
+          "number": 17,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a reference to how people today commonly view pirates",
+          "answer": "A",
+          "id": "r2-q17"
+        },
+        {
+          "number": 18,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "an explanation of how some people were encouraged not to return to piracy",
+          "answer": "G",
+          "id": "r2-q18"
+        },
+        {
+          "number": 19,
+          "groupId": "r2-g1",
+          "type": "match",
+          "prompt": "a mention of the need for many sailing vessels to stay relatively close to land",
+          "answer": "B",
+          "id": "r2-q19"
+        },
+        {
+          "number": 20,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "First statement about ancient Mediterranean inhabitants",
+          "options": [
+            "They often used stolen vessels to carry out pirate attacks.",
+            "They managed to escape capture by the authorities because they knew the area so well.",
+            "They paid for information about the routes merchant ships would take.",
+            "They depended more on the sea for their livelihood than on farming.",
+            "They stored many of the goods taken in pirate attacks in coves along the coastline."
+          ],
+          "answer": "B",
+          "accepted": [
+            "D"
+          ],
+          "id": "r2-q20"
+        },
+        {
+          "number": 21,
+          "groupId": "r2-g2",
+          "type": "mcq",
+          "prompt": "Second statement about ancient Mediterranean inhabitants",
+          "options": [
+            "They often used stolen vessels to carry out pirate attacks.",
+            "They managed to escape capture by the authorities because they knew the area so well.",
+            "They paid for information about the routes merchant ships would take.",
+            "They depended more on the sea for their livelihood than on farming.",
+            "They stored many of the goods taken in pirate attacks in coves along the coastline."
+          ],
+          "answer": "D",
+          "accepted": [
+            "B"
+          ],
+          "id": "r2-q21"
+        },
+        {
+          "number": 22,
+          "groupId": "r2-g3",
+          "type": "mcq",
+          "prompt": "First statement about piracy and ancient Greece",
+          "options": [
+            "The state estimated that very few people were involved in piracy.",
+            "Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written.",
+            "Important officials were known to occasionally take part in piracy.",
+            "Every citizen regarded pirate attacks on cities as unacceptable.",
+            "A favourable view of piracy is evident in certain ancient Greek texts."
+          ],
+          "answer": "C",
+          "accepted": [
+            "E"
+          ],
+          "id": "r2-q22"
+        },
+        {
+          "number": 23,
+          "groupId": "r2-g3",
+          "type": "mcq",
+          "prompt": "Second statement about piracy and ancient Greece",
+          "options": [
+            "The state estimated that very few people were involved in piracy.",
+            "Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written.",
+            "Important officials were known to occasionally take part in piracy.",
+            "Every citizen regarded pirate attacks on cities as unacceptable.",
+            "A favourable view of piracy is evident in certain ancient Greek texts."
+          ],
+          "answer": "E",
+          "accepted": [
+            "C"
+          ],
+          "id": "r2-q23"
+        },
+        {
+          "number": 24,
+          "groupId": "r2-g4",
+          "type": "short",
+          "prompt": "Goods carried by the vessels attacked",
+          "answer": "grain",
+          "id": "r2-q24"
+        },
+        {
+          "number": 25,
+          "groupId": "r2-g4",
+          "type": "short",
+          "prompt": "What was demanded for the pirates responsible",
+          "answer": "punishment",
+          "id": "r2-q25"
+        },
+        {
+          "number": 26,
+          "groupId": "r2-g4",
+          "type": "short",
+          "prompt": "Payment demanded for captured officials",
+          "answer": "ransom",
+          "id": "r2-q26"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "number": 3,
+      "title": "The persistence and peril of misinformation",
+      "subtitle": "Brian Southwell looks at how human brains verify information and discusses some of the challenges of battling widespread falsehoods",
+      "paragraphs": [
+        {
+          "text": "Misinformation - both deliberately promoted and accidentally shared - is perhaps an inevitable part of the world in which we live, but it is not a new problem. People likely have lied to one another for roughly as long as verbal communication has existed. Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, or even to protect interpersonal bonds. Moreover, people inadvertently have been sharing inaccurate information with one another for thousands of years."
+        },
+        {
+          "text": "However, we currently live in an era in which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past. Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication and of the facilitated spread of information."
+        },
+        {
+          "text": "The main worry regarding misinformation is its potential to unduly influence attitudes and behavior, leading people to think and act differently than they would if they were correctly informed, as suggested by the research teams of Stephan Lewandowsky of the University of Bristol and Elizabeth Marsh of Duke University, among others. In other words, we worry that misinformation might lead people to hold misperceptions (or false beliefs) and that these misperceptions, especially when they occur among large groups of people, may have detrimental, downstream consequences for health, social harmony, and the political climate."
+        },
+        {
+          "text": "At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, or reads information online. First of all, people who encounter misinformation tend to believe it, at least initially. Secondly, electronic and print media often do not block many types of misinformation before it appears in content available to large audiences. Thirdly, countering misinformation once it has enjoyed wide exposure can be a resource-intensive effort."
+        },
+        {
+          "text": "Knowing what happens when people initially encounter misinformation holds tremendous importance for estimating the potential for subsequent problems. Although it is fairly routine for individuals to come across information that is false, the question of exactly how - and when - we mentally label information as true or false has garnered philosophical debate. The dilemma is neatly summarized by a contrast between how the 17th-century philosophers René Descartes and Baruch Spinoza described human information engagement, with conflicting predictions that only recently have been empirically tested in robust ways. Descartes argued that a person only accepts or rejects information after considering its truth or falsehood; Spinoza argued that people accept all encountered information (or misinformation) by default and then subsequently verify or reject it through a separate cognitive process. In recent decades, empirical evidence from the research teams of Erik Asp of the University of Chicago and Daniel Gilbert at Harvard University, among others, has supported Spinoza's account: people appear to encode all new information as if it were true, even if only momentarily, and later tag the information as being either true or false, a pattern that seems consistent with the observation that mental resources for skepticism physically reside in a different part of the brain than the resources used in perceiving and encoding."
+        },
+        {
+          "text": "What about our second observation that misinformation often can appear in electronic or print media without being preemptively blocked? In support of this, one might consider the nature of regulatory structures in the United States: regulatory agencies here tend to focus on post hoc detection of broadcast information. Organizations such as the Food and Drug Administration (FDA) offer considerable monitoring and notification functions, but these roles typically do not involve preemptive censoring. The FDA oversees direct-to-consumer prescription drug advertising, for example, and has developed mechanisms such as the 'Bad Ad' program, through which people can report advertising in apparent violation of FDA guidelines on drug risks. Such programs, although laudable and useful, do not keep false advertising off the airwaves. In addition, even misinformation that is successfully corrected can continue to affect attitudes."
+        },
+        {
+          "text": "This leads us to our third observation: a campaign to correct misinformation, even if rhetorically compelling, requires resources and planning to accomplish necessary reach and frequency. For corrective campaigns to be persuasive, audiences need to be able to comprehend them, which requires either effort to frame messages in ways that are accessible or effort to educate and sensitize audiences to the possibility of misinformation. That some audiences might be unaware of the potential for misinformation also suggests the utility of media literacy efforts as early as elementary school. Even with journalists and scholars pointing to the phenomenon of 'fake news', people do not distinguish between demonstrably false stories and those based in fact when scanning and processing written information."
+        },
+        {
+          "text": "We live at a time when widespread misinformation is common. Yet at this time many people also are passionately developing potential solutions and remedies. The journey forward undoubtedly will be a long and arduous one. Future remedies will require not only continued theoretical consideration but also the development and maintenance of consistent monitoring tools - and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered. Misinformation arises as a result of human fallibility and human information needs. To overcome the worst effects of the phenomenon, we will need coordinated efforts over time, rather than any singular one-time panacea we could hope to offer."
+        }
+      ],
+      "groups": [
+        {
+          "id": "r3-g1",
+          "label": "Questions 27–30",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "range": [
+            27,
+            30
+          ],
+          "layout": ""
+        },
+        {
+          "id": "r3-g2",
+          "label": "Questions 31–36",
+          "instructions": "Complete the summary using the list of phrases, A–J, below.",
+          "range": [
+            31,
+            36
+          ],
+          "layout": "summary",
+          "sharedOptions": [
+            "A constant conflict",
+            "B additional evidence",
+            "C different locations",
+            "D experimental subjects",
+            "E short period",
+            "F extreme distrust",
+            "G frequent exposure",
+            "H mental operation",
+            "I dubious reason",
+            "J different ideas"
+          ],
+          "body": [
+            "# What happens when people encounter misinformation?",
+            "Although people have {{31}} to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had {{32}} about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believed that a distinct {{33}} is involved in these stages. Recent research has provided {{34}} for Spinoza's theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely {{35}}, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in {{36}} in the brain."
+          ]
+        },
+        {
+          "id": "r3-g3",
+          "label": "Questions 37–40",
+          "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "range": [
+            37,
+            40
+          ],
+          "layout": ""
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What point does the writer make about misinformation in the first paragraph?",
+          "options": [
+            "Misinformation is a relatively recent phenomenon.",
+            "Some people find it easy to identify misinformation.",
+            "Misinformation changes as it is passed from one person to another.",
+            "There may be a number of reasons for the spread of misinformation."
+          ],
+          "answer": "D",
+          "id": "r3-q27"
+        },
+        {
+          "number": 28,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What does the writer say about the role of technology?",
+          "options": [
+            "It may at some point provide us with a solution to misinformation.",
+            "It could fundamentally alter the way in which people regard information.",
+            "It has changed the way in which organisations use misinformation.",
+            "It has made it easier for people to check whether information is accurate."
+          ],
+          "answer": "A",
+          "id": "r3-q28"
+        },
+        {
+          "number": 29,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What is the writer doing in the fourth paragraph?",
+          "options": [
+            "comparing the different opinions people have of misinformation",
+            "explaining how the effects of misinformation have changed over time",
+            "outlining which issues connected with misinformation are significant today",
+            "describing the attitude of policy makers towards misinformation in the media"
+          ],
+          "answer": "C",
+          "id": "r3-q29"
+        },
+        {
+          "number": 30,
+          "groupId": "r3-g1",
+          "type": "mcq",
+          "prompt": "What point does the writer make about regulation in the USA?",
+          "options": [
+            "The guidelines issued by the FDA need to be simplified.",
+            "Regulation does not affect people's opinions of new prescription drugs.",
+            "The USA has more regulatory bodies than most other countries.",
+            "Regulation fails to prevent misinformation from appearing in the media."
+          ],
+          "answer": "D",
+          "id": "r3-q30"
+        },
+        {
+          "number": 31,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "What people have to misinformation",
+          "answer": "G",
+          "id": "r3-q31"
+        },
+        {
+          "number": 32,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "What Descartes and Spinoza had about information engagement",
+          "answer": "J",
+          "id": "r3-q32"
+        },
+        {
+          "number": 33,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "What Spinoza believed was involved in the stages",
+          "answer": "H",
+          "id": "r3-q33"
+        },
+        {
+          "number": 34,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "What recent research has provided for Spinoza's theory",
+          "answer": "B",
+          "id": "r3-q34"
+        },
+        {
+          "number": 35,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "How long people accept information as true",
+          "answer": "E",
+          "id": "r3-q35"
+        },
+        {
+          "number": 36,
+          "groupId": "r3-g2",
+          "type": "select",
+          "prompt": "Where the two sets of resources are located",
+          "answer": "C",
+          "id": "r3-q36"
+        },
+        {
+          "number": 37,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Campaigns designed to correct misinformation will fail to achieve their purpose if people are unable to understand them.",
+          "answer": "YES",
+          "id": "r3-q37"
+        },
+        {
+          "number": 38,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "Attempts to teach elementary school students about misinformation have been opposed.",
+          "answer": "NOT GIVEN",
+          "id": "r3-q38"
+        },
+        {
+          "number": 39,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "It may be possible to overcome the problem of misinformation in a relatively short period.",
+          "answer": "NO",
+          "id": "r3-q39"
+        },
+        {
+          "number": 40,
+          "groupId": "r3-g3",
+          "type": "ynng",
+          "prompt": "The need to keep up with new information is hugely exaggerated in today's world.",
+          "answer": "NOT GIVEN",
+          "id": "r3-q40"
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "writing-task-1",
+      "number": 1,
+      "title": "Writing Task 1",
+      "prompt": "The graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "instructions": [
+        "Write at least 150 words.",
+        "You should spend about 20 minutes on this task."
+      ],
+      "minimumWords": 150,
+      "suggestedMinutes": 20,
+      "figure": "/media/figures/ielts19/test1-writing-task1.jpg",
+      "figureAlt": "A line graph showing participant numbers for film club, martial arts, amateur dramatics, table tennis and musical performances from 2000 to 2020."
+    },
+    {
+      "id": "writing-task-2",
+      "number": 2,
+      "title": "Writing Task 2",
+      "prompt": "Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.\n\nDiscuss both these views and give your own opinion.",
+      "instructions": [
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words.",
+        "You should spend about 40 minutes on this task."
+      ],
+      "minimumWords": 250,
+      "suggestedMinutes": 40
+    }
+  ],
+  "speaking": [
+    {
+      "id": "speaking-1",
+      "number": 1,
+      "title": "Part 1 · Interview",
+      "description": "The examiner asks you about international food.",
+      "questions": [
+        {
+          "id": "s1",
+          "text": "Can you find food from many different countries where you live? [Why/Why not?]"
+        },
+        {
+          "id": "s2",
+          "text": "How often do you eat typical food from other countries? [Why/Why not?]"
+        },
+        {
+          "id": "s3",
+          "text": "Have you ever tried making food from another country? [Why/Why not?]"
+        },
+        {
+          "id": "s4",
+          "text": "What food from your country would you recommend to people from other countries? [Why?]"
+        }
+      ]
+    },
+    {
+      "id": "speaking-2",
+      "number": 2,
+      "title": "Part 2 · Cue card",
+      "description": "Describe a law that was introduced in your country and that you thought was a very good idea.",
+      "questions": [],
+      "cueCard": {
+        "topic": "Describe a law that was introduced in your country and that you thought was a very good idea.",
+        "bullets": [
+          "what the law was",
+          "who introduced it",
+          "when and why it was introduced"
+        ],
+        "rounding": "and explain why you thought this law was such a good idea.",
+        "preparationSeconds": 60,
+        "speakingSeconds": 120
+      }
+    },
+    {
+      "id": "speaking-3",
+      "number": 3,
+      "title": "Part 3 · Discussion",
+      "description": "Discussion topics: school rules and working in the legal profession.",
+      "questions": [
+        {
+          "id": "s5",
+          "text": "What kinds of rules are common in a school?"
+        },
+        {
+          "id": "s6",
+          "text": "How important is it to have rules in a school?"
+        },
+        {
+          "id": "s7",
+          "text": "What do you recommend should happen if children break school rules?"
+        },
+        {
+          "id": "s8",
+          "text": "Can you suggest why many students decide to study law at university?"
+        },
+        {
+          "id": "s9",
+          "text": "What are the key personal qualities needed to be a successful lawyer?"
+        },
+        {
+          "id": "s10",
+          "text": "Do you agree that working in the legal profession is very stressful?"
+        }
+      ]
+    }
+  ],
+  "publishedAt": "2026-11-12T00:00:00Z",
+  "scoring": {
+    "listeningVersion": "ielts-academic-2026",
+    "readingVersion": "ielts-academic-2026",
+    "rubricVersion": "apex-local-rubric-v1"
+  },
+  "audioUrl": "/media/listening/ielts19-test1"
+}

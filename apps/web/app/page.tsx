@@ -121,7 +121,7 @@ export default function Dashboard() {
                     className={`test-chip ${exam?.id === item.id ? 'test-chip--active' : ''}`}
                     onClick={() => setSelectedId(item.id)}
                   >
-                    <span>{book ? `${book.startsWith('Cambridge') ? 'C21' : 'IELTS 20'} · ${test}` : test}</span>
+                    <span>{book ? `${book.startsWith('Cambridge') ? 'C21' : book} · ${test}` : test}</span>
                     <small>{item.listeningQuestions} L · {item.readingQuestions} R</small>
                   </button>
                 )
@@ -217,7 +217,7 @@ export default function Dashboard() {
         </section>
       </main>
 
-      <footer className="site-footer"><div className="container footer-inner"><Logo /><p>Independent IELTS practice. Not affiliated with or endorsed by the IELTS partners. Band scores are estimates for practice only. Cambridge IELTS 21 and IELTS 20 material © Cambridge University Press &amp; Assessment and Qunyan Press, included for private study only — not for redistribution.</p><div className="footer-meta"><span>{exam?.version ?? '2026.1'}</span><span>Academic</span></div></div></footer>
+      <footer className="site-footer"><div className="container footer-inner"><Logo /><p>Independent IELTS practice. Not affiliated with or endorsed by the IELTS partners. Band scores are estimates for practice only. Cambridge IELTS 21, IELTS 20 and IELTS 19 material © Cambridge University Press &amp; Assessment and Qunyan Press, included for private study only — not for redistribution.</p><div className="footer-meta"><span>{exam?.version ?? '2026.1'}</span><span>Academic</span></div></div></footer>
     </div>
   )
 }

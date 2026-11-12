@@ -17,7 +17,7 @@ A local-first IELTS Academic computer-delivered simulation with all four skills.
 | Share link | Temporary public Cloudflare tunnel for a private showcase |
 | Tests | Go unit tests + 8 Playwright end-to-end tests |
 
-The local seed contains eight Academic tests: Cambridge IELTS 21 Tests 1–4 and IELTS 20 Tests 1–4. Both source PDFs carry copyright notices; treat the content as private local test data and confirm your rights before redistributing.
+The local server seed contains eight Academic tests: Cambridge IELTS 21 Tests 1–4 and IELTS 20 Tests 1–4. The static build also includes IELTS 19 Tests 1–4, for twelve tests in total. The source PDFs carry copyright notices; treat the content as private local test data and confirm your rights before redistributing.
 
 ## Quick start
 
@@ -111,7 +111,7 @@ The content source of truth is `content/academic/`. The Go API embeds the Cambri
 node --experimental-strip-types scripts/export-content.mjs
 ```
 
-The API validates the 4/3/2/3 section structure at startup. To import another book or add a test, follow the step-by-step [Extraction & Import Guide](docs/EXTRACTION_GUIDE.md). Both packs have been audited against their books — see the [Content Fidelity Report](docs/FIDELITY_REPORT.md) and the [IELTS 20 pack notes](docs/IELTS20.md).
+The API validates the 4/3/2/3 section structure at startup. To import another book or add a test, follow the step-by-step [Extraction & Import Guide](docs/EXTRACTION_GUIDE.md). All three packs have been audited against their books — see the [Content Fidelity Report](docs/FIDELITY_REPORT.md), the [IELTS 20 pack notes](docs/IELTS20.md) and the [IELTS 19 static-pack notes](docs/IELTS19.md).
 
 ### Kokoro voice assets
 
@@ -150,7 +150,7 @@ cd apps/web && pnpm exec playwright test  # E2E (requires running app)
 ## Static / GitHub Pages mode
 
 The lab can run without the Go API or PostgreSQL. In static mode the browser fetches
-the eight exam JSON files from `public/data/exams`, saves attempts in `localStorage`,
+the twelve exam JSON files from `public/data/exams`, saves attempts in `localStorage`,
 and scores Listening/Reading locally.
 
 ```bash
@@ -189,7 +189,7 @@ Latest local run:
 
 - Writing and Speaking scores are **local estimates**, not official IELTS examiner results.
 - Speaking transcription depends on browser SpeechRecognition support; recordings and duration are still saved without it.
-- The seed contains eight Academic tests (Cambridge IELTS 21 and IELTS 20). The source PDFs prohibit redistribution without permission; confirm your rights before publishing this content. See `extraction-report.md`.
+- The server seed contains eight Academic tests (Cambridge IELTS 21 and IELTS 20); the static export adds IELTS 19 for twelve. The source PDFs prohibit redistribution without permission; confirm your rights before publishing this content. See `extraction-report.md`.
 - Listening audio is Kokoro-generated for each test under `apps/web/public/media/listening/<exam-id>/`. The section clock remains 30 minutes as in the exam specification.
 - No admin content editor UI yet. Content changes are made through the versioned JSON + reseed workflow.
 

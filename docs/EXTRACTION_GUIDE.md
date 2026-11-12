@@ -87,6 +87,28 @@ Audioscripts 98–117, Answer keys 118–125
 Put this map in `tools/passages.py` (`META`) and `tools/extract.py` (`PAGE_MAP`).
 Keep PDF page numbers, not printed page numbers — they differ by a constant.
 
+### Scanned PDFs without a usable text layer
+
+If `pdftotext` returns blank pages (common with scanned reprints), OCR the page images
+instead of relying on the text layer:
+
+```bash
+mkdir -p content/<pack>/ocr-tess content/<pack>/ocr-tess3
+pdftoppm -jpeg -r 200 -jpegopt quality=88 book.pdf content/<pack>/pages/ocr
+seq 1 139 | xargs -P 8 -I{} bash -c \
+  'p={}; tesseract "content/<pack>/pages/ocr-$(printf %03d "$p").jpg" \
+   "content/<pack>/ocr-tess/ocr-$(printf %03d "$p")" --psm 6 -l eng'
+seq 1 139 | xargs -P 8 -I{} bash -c \
+  'p={}; tesseract "content/<pack>/pages/ocr-$(printf %03d "$p").jpg" \
+   "content/<pack>/ocr-tess3/ocr-$(printf %03d "$p")" --psm 3 -l eng'
+```
+
+- Use `--psm 6` for answer keys, scripts and single-block question pages.
+- Use `--psm 3` for reading passages: it preserves columns and paragraph gaps.
+- Check key pages and cropped figures against the rendered image. OCR frequently drops
+  small two-column key values; transcribe those directly if the count is not 40/40.
+- Keep the rendered page images: they are the ground truth for figures and audit.
+
 ### Render page images and figures
 
 ```bash
