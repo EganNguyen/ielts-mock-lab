@@ -1,0 +1,1640 @@
+[
+  {
+    "id": "accommodation-learn",
+    "term": "accommodation",
+    "ipa": "/əˌkɒməˈdeɪʃn/",
+    "pos": "n",
+    "meaningEn": "a place to stay, especially when travelling",
+    "meaningVi": "chỗ ở",
+    "synonyms": [
+      "lodging",
+      "housing",
+      "place to stay"
+    ],
+    "sentenceText": "What about accommodation?",
+    "sentenceChunks": [
+      "What about accommodation?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Advice on a family visit",
+    "questions": [
+      1,
+      2
+    ],
+    "source": "exam",
+    "why": "The notes begin with accommodation. The word tells you the first section is about where the family will stay, so you listen for a hotel name and room price.",
+    "riskHint": "n"
+  },
+  {
+    "id": "exhibition-learn",
+    "term": "exhibition",
+    "ipa": "/ˌeksɪˈbɪʃn/",
+    "pos": "n",
+    "meaningEn": "a public display of objects or art",
+    "meaningVi": "cuộc triển lãm",
+    "synonyms": [
+      "display",
+      "show",
+      "exposition"
+    ],
+    "sentenceText": "I took my kids to the exhibition on old computers there, and it was far too crowded.",
+    "sentenceChunks": [
+      "I took my kids to the exhibition on old computers there, and it was far too crowded."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Advice on a family visit",
+    "questions": [
+      6
+    ],
+    "source": "exam",
+    "why": "Q6 asks about the subject of an exhibition opening soon. The word means a curated public display, so you listen for a topic rather than a performance or tour.",
+    "riskHint": "n"
+  },
+  {
+    "id": "bargain-learn",
+    "term": "bargain",
+    "ipa": "/ˈbɑːgɪn/",
+    "pos": "n",
+    "meaningEn": "something bought for less than its usual price",
+    "meaningVi": "món hời; giá rẻ",
+    "synonyms": [
+      "good deal",
+      "discount",
+      "cheap buy"
+    ],
+    "sentenceText": "Save money on theatre tickets at bargaintickets.com.",
+    "sentenceChunks": [
+      "Save money on theatre tickets at bargaintickets.com."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Advice on a family visit",
+    "questions": [
+      9
+    ],
+    "source": "exam",
+    "why": "The notes mention bargaintickets.com. A bargain is a good deal at a low price, so the word helps you connect the website with saving money on tickets.",
+    "riskHint": "n"
+  },
+  {
+    "id": "view-learn",
+    "term": "view",
+    "ipa": "/vju/",
+    "pos": "n",
+    "meaningEn": "what can be seen from a particular place",
+    "meaningVi": "tầm nhìn; quang cảnh",
+    "synonyms": [
+      "scene",
+      "panorama",
+      "outlook"
+    ],
+    "sentenceText": "I've heard the views are amazing.",
+    "sentenceChunks": [
+      "I've heard the views are amazing."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Advice on a family visit",
+    "questions": [
+      10
+    ],
+    "source": "exam",
+    "why": "Q10 asks what can be seen from Telegraph Hill. “View” signals a scene or panorama, so you listen for a landmark or landscape rather than an object on the hill.",
+    "riskHint": "n"
+  },
+  {
+    "id": "spectator-learn",
+    "term": "spectator",
+    "ipa": "/ˈspekteɪtə/",
+    "pos": "n",
+    "meaningEn": "a person who watches an event, especially a sport",
+    "meaningVi": "khán giả",
+    "synonyms": [
+      "viewer",
+      "onlooker",
+      "audience member"
+    ],
+    "sentenceText": "G the introduction of a fee for spectators",
+    "sentenceChunks": [
+      "G the introduction of a fee for spectators"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A tour of the football stadium",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "Q15–20 cover the history of football. “Spectator” means someone who watches matches, so it helps you understand the introduction of a fee for watching.",
+    "riskHint": "n"
+  },
+  {
+    "id": "dressing-room-learn",
+    "term": "dressing room",
+    "ipa": "/ˈdresɪŋ ruːm/",
+    "pos": "n",
+    "meaningEn": "a room where players change before and after a match",
+    "meaningVi": "phòng thay đồ",
+    "synonyms": [
+      "changing room",
+      "locker room",
+      "players’ room"
+    ],
+    "sentenceText": "We'll start with the 360 cinema experience, which has been very popular over the years, and then I'll take you to the players dressing rooms.",
+    "sentenceChunks": [
+      "We'll start with the 360 cinema experience",
+      "which has been very popular over the years, and then I'll take you to the players dressing rooms."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A tour of the football stadium",
+    "questions": [
+      13,
+      14
+    ],
+    "source": "exam",
+    "why": "Q13–14 ask about new features of the stadium tour. A dressing room is where players change, so it is a specific stop on the tour rather than a general stadium area.",
+    "riskHint": "n"
+  },
+  {
+    "id": "fee-learn",
+    "term": "fee",
+    "ipa": "/fi/",
+    "pos": "n",
+    "meaningEn": "money paid for a service or for the right to do something",
+    "meaningVi": "lệ phí; phí",
+    "synonyms": [
+      "charge",
+      "payment",
+      "cost"
+    ],
+    "sentenceText": "G the introduction of a fee for spectators",
+    "sentenceChunks": [
+      "G the introduction of a fee for spectators"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A tour of the football stadium",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "Q15–20 include the introduction of a fee for spectators. The word means money paid for entry, so it helps you distinguish paying to watch from paying players.",
+    "riskHint": "n"
+  },
+  {
+    "id": "competition-learn",
+    "term": "competition",
+    "ipa": "/ˌkɑmpəˈtɪʃən/",
+    "pos": "n",
+    "meaningEn": "an event in which people try to win",
+    "meaningVi": "cuộc thi",
+    "synonyms": [
+      "contest",
+      "tournament",
+      "match"
+    ],
+    "sentenceText": "There is a competition for children today.",
+    "sentenceChunks": [
+      "There is a competition for children today."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A tour of the football stadium",
+    "questions": [
+      11,
+      12
+    ],
+    "source": "exam",
+    "why": "Q11–12 mention a competition for children. The word means a contest with a winner, so it helps you separate it from a photo opportunity or a cafe offer.",
+    "riskHint": "n"
+  },
+  {
+    "id": "fine-motor-skills-learn",
+    "term": "fine motor skills",
+    "ipa": "/faɪn ˈməʊtə skɪlz/",
+    "pos": "n",
+    "meaningEn": "the ability to control small movements of the hands and fingers",
+    "meaningVi": "kỹ năng vận động tinh",
+    "synonyms": [
+      "hand-eye coordination",
+      "dexterity",
+      "small-muscle control"
+    ],
+    "sentenceText": "It's not just fine motor skills that improve through writing as I'd always assumed.",
+    "sentenceChunks": [
+      "It's not just fine motor skills that improve through writing as I'd always assumed."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "Q21–22 ask about surprising benefits of learning to write. Fine motor skills are the small hand movements used in writing, so the term connects handwriting practice with physical control.",
+    "riskHint": "n"
+  },
+  {
+    "id": "spatial-awareness-learn",
+    "term": "spatial awareness",
+    "ipa": "/ˈspeɪʃl əˈweənəs/",
+    "pos": "n",
+    "meaningEn": "the ability to understand position, space, and movement",
+    "meaningVi": "nhận thức không gian",
+    "synonyms": [
+      "spatial perception",
+      "awareness of space",
+      "spatial reasoning"
+    ],
+    "sentenceText": "I thought spatial awareness was more to do with knowing where you are in relation to objects or other people.",
+    "sentenceChunks": [
+      "I thought spatial awareness was more to do with knowing",
+      "where you are in relation to objects or other people."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "Q21–22 include improved spatial awareness as a possible benefit. The term means understanding how objects relate in space, which is not the same as memory or concentration.",
+    "riskHint": "n"
+  },
+  {
+    "id": "dyspraxia-learn",
+    "term": "dyspraxia",
+    "ipa": "/dɪsˈpræksiə/",
+    "pos": "n",
+    "meaningEn": "a developmental condition affecting coordination and movement",
+    "meaningVi": "chứng khó phối hợp vận động",
+    "synonyms": [
+      "developmental coordination disorder",
+      "motor coordination difficulty"
+    ],
+    "sentenceText": "Handwriting is so much harder for children with dyspraxia who have problems coordinating movement.",
+    "sentenceChunks": [
+      "Handwriting is so much harder for children with dyspraxia who have problems coordinating movement."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "Q23–24 ask about children with dyspraxia. Knowing the condition helps you understand why handwriting may be difficult and which problems are easiest to correct.",
+    "riskHint": "n"
+  },
+  {
+    "id": "cursive-learn",
+    "term": "cursive",
+    "ipa": "/ˈkɜːsɪv/",
+    "pos": "adj",
+    "meaningEn": "written with letters joined together",
+    "meaningVi": "viết chữ nối",
+    "synonyms": [
+      "joined-up writing",
+      "running script",
+      "handwriting with connected letters"
+    ],
+    "sentenceText": "Did you read that article on the benefits of teaching print rather than cursive handwriting where the letters are joined up?",
+    "sentenceChunks": [
+      "Did you read that article on the benefits of teaching",
+      "print rather than cursive handwriting where the letters are joined up?"
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [
+      26
+    ],
+    "source": "exam",
+    "why": "Q26 compares cursive and print writing. The word means joined-up handwriting, so it helps you follow the debate about which style should be taught.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "birds-of-prey-learn",
+    "term": "birds of prey",
+    "ipa": "/bɜːdz əv preɪ/",
+    "pos": "n",
+    "meaningEn": "birds that hunt and eat other animals",
+    "meaningVi": "chim săn mồi",
+    "synonyms": [
+      "raptors",
+      "predatory birds",
+      "hunting birds"
+    ],
+    "sentenceText": "These include a number of birds of prey such as eagles, hawks, and owls that live by hunting and killing other birds and animals.",
+    "sentenceChunks": [
+      "These include a number of birds of prey such as eagles, hawks",
+      "and owls that live by hunting and killing other birds and animals."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [
+      31,
+      32,
+      33
+    ],
+    "source": "exam",
+    "why": "The whole talk is about birds of prey and farming. The phrase tells you the birds hunt other animals, which explains both their benefits to farmers and the risks they face.",
+    "riskHint": "n"
+  },
+  {
+    "id": "rodent-learn",
+    "term": "rodent",
+    "ipa": "/ˈrəʊdənt/",
+    "pos": "n",
+    "meaningEn": "a small animal such as a rat or mouse",
+    "meaningVi": "động vật gặm nhấm",
+    "synonyms": [
+      "rats and mice",
+      "gnawing animals",
+      "rodents"
+    ],
+    "sentenceText": "For example, a lot of damage can be caused to farmers crops by rodents such as rats, which would consume the crops as they grow in the fields as well as after harvesting if they weren't hunted and killed by the birds.",
+    "sentenceChunks": [
+      "For example, a lot of damage can be caused to farmers crops by rodents such as rats",
+      "which would consume the crops as they grow in the fields as well as after harvesting if they weren't hunted and killed by the birds."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [
+      31
+    ],
+    "source": "exam",
+    "why": "Q31 asks what birds of prey destroy besides other rodents. The word covers rats and mice, so it helps you recognise the kind of pest being controlled.",
+    "riskHint": "n"
+  },
+  {
+    "id": "electrocute-learn",
+    "term": "electrocute",
+    "ipa": "/ɪˈlektrəkjuːt/",
+    "pos": "v",
+    "meaningEn": "to injure or kill with electricity",
+    "meaningVi": "bị điện giật chết",
+    "synonyms": [
+      "kill by electric shock",
+      "electrocution"
+    ],
+    "sentenceText": "as they may be electrocuted.",
+    "sentenceChunks": [
+      "as they may be electrocuted."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [
+      35
+    ],
+    "source": "exam",
+    "why": "Q35 asks when birds are especially at risk of electrocution. The word means death or injury from electric current, so it helps you link power lines with weather conditions.",
+    "riskHint": "v"
+  },
+  {
+    "id": "vegetation-learn",
+    "term": "vegetation",
+    "ipa": "/ˌvedʒəˈteɪʃən/",
+    "pos": "n",
+    "meaningEn": "plants and trees growing in an area",
+    "meaningVi": "thảm thực vật",
+    "synonyms": [
+      "plant life",
+      "greenery",
+      "flora"
+    ],
+    "sentenceText": "It's best to keep this area free from vegetation.",
+    "sentenceChunks": [
+      "It's best to keep this area free from vegetation."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [
+      37
+    ],
+    "source": "exam",
+    "why": "The notes mention clearing away vegetation. The word means plants, so it helps you understand why removing cover may or may not protect chickens.",
+    "riskHint": "n"
+  },
+  {
+    "id": "influence-learn",
+    "term": "influence",
+    "ipa": "/ˈɪnfluəns/",
+    "pos": "v",
+    "meaningEn": "to affect the way something develops",
+    "meaningVi": "ảnh hưởng",
+    "synonyms": [
+      "affect",
+      "shape",
+      "have an effect on"
+    ],
+    "sentenceText": "Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.",
+    "sentenceChunks": [
+      "Georgia O'Keeffe's style was greatly influenced by the changing",
+      "fashions in art over the seven decades of her career."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [
+      8
+    ],
+    "source": "exam",
+    "why": "Q8 asks whether O’Keeffe’s style was influenced by changing fashions. The word means affected by something else, so you check whether her work followed trends or stayed independent.",
+    "riskHint": "v"
+  },
+  {
+    "id": "career-learn",
+    "term": "career",
+    "ipa": "/kəˈrɪə/",
+    "pos": "n",
+    "meaningEn": "the period of time spent working in a profession",
+    "meaningVi": "sự nghiệp",
+    "synonyms": [
+      "working life",
+      "professional life",
+      "path"
+    ],
+    "sentenceText": "With Stieglitz's encouragement and promise of financial support, O'Keeffe arrived in New York in June 1918 to begin a career as an artist.",
+    "sentenceChunks": [
+      "With Stieglitz's encouragement and promise of financial support, O'Keeffe arrived in",
+      "New York in June 1918 to begin a career as an artist."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [
+      9
+    ],
+    "source": "exam",
+    "why": "Q9 asks about O’Keeffe’s career choice after high school. The word means her long-term profession, so you look for evidence of a decision about her future work.",
+    "riskHint": "n"
+  },
+  {
+    "id": "subject-learn",
+    "term": "subject",
+    "ipa": "/ˈsʌbdʒɪkt/",
+    "pos": "n",
+    "meaningEn": "a person or thing shown in a work of art or photograph",
+    "meaningVi": "chủ thể; đối tượng",
+    "synonyms": [
+      "focus",
+      "topic",
+      "sitter"
+    ],
+    "sentenceText": "Often, she painted the rocks, cliffs, and mountains in striking close-up, just as she had done with her botanical subjects.",
+    "sentenceChunks": [
+      "Often, she painted the rocks, cliffs, and mountains in striking",
+      "close-up, just as she had done with her botanical subjects."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [
+      11
+    ],
+    "source": "exam",
+    "why": "Q11 says O’Keeffe was the subject of Stieglitz’s photographic work. The word means the person shown in the photographs, not the topic of her paintings.",
+    "riskHint": "n"
+  },
+  {
+    "id": "quantity-learn",
+    "term": "quantity",
+    "ipa": "/ˈkwɒntəti/",
+    "pos": "n",
+    "meaningEn": "the amount or number of something",
+    "meaningVi": "số lượng",
+    "synonyms": [
+      "amount",
+      "volume",
+      "number"
+    ],
+    "sentenceText": "O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.",
+    "sentenceChunks": [
+      "O'Keeffe produced a greater quantity of work during the 1950s",
+      "to 1970s than at any other time in her life."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "Q13 compares the quantity of work O’Keeffe produced in different periods. The word means how much she produced, so it helps you compare output rather than quality.",
+    "riskHint": "n"
+  },
+  {
+    "id": "abstract-learn",
+    "term": "abstract",
+    "ipa": "/ˈæbstrækt/",
+    "pos": "adj",
+    "meaningEn": "not representing objects or scenes realistically",
+    "meaningVi": "trừu tượng",
+    "synonyms": [
+      "non-representational",
+      "conceptual",
+      "non-literal"
+    ],
+    "sentenceText": "Enlarging the tiniest details to fill an entire metre-wide canvas emphasized their shapes and lines and made them appear abstract.",
+    "sentenceChunks": [
+      "Enlarging the tiniest details to fill an entire metre-wide canvas",
+      "emphasized their shapes and lines and made them appear abstract."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [
+      10
+    ],
+    "source": "exam",
+    "why": "Q10 mentions O’Keeffe’s abstract drawings. The word means art that does not copy real objects, so it helps you identify the style sent to Stieglitz.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "cost-effective-learn",
+    "term": "cost-effective",
+    "ipa": "/kɔst ˈifektɪv/",
+    "pos": "adj",
+    "meaningEn": "giving good value for the money spent",
+    "meaningVi": "hiệu quả về chi phí",
+    "synonyms": [
+      "economical",
+      "good value",
+      "money-saving"
+    ],
+    "sentenceText": "a reference to the fact that a solution is particularly cost-effective",
+    "sentenceChunks": [
+      "a reference to the fact that a solution is particularly cost-effective"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Adapting to the effects of climate change",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "Q16 asks for a reference to a solution that is particularly cost-effective. The word means it achieves the result without much expense, a specific advantage to look for.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "intervention-learn",
+    "term": "intervention",
+    "ipa": "/ˌɪntəˈvenʃən/",
+    "pos": "n",
+    "meaningEn": "action taken to improve or change a situation",
+    "meaningVi": "sự can thiệp; biện pháp can thiệp",
+    "synonyms": [
+      "action",
+      "measure",
+      "involvement"
+    ],
+    "sentenceText": "a mention of a technology used to locate areas most in need of intervention",
+    "sentenceChunks": [
+      "a mention of a technology used to locate areas most in need of intervention"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Adapting to the effects of climate change",
+    "questions": [
+      17
+    ],
+    "source": "exam",
+    "why": "Q17 mentions areas most in need of intervention. The word means action to address a problem, so it helps you identify where help or adaptation is required.",
+    "riskHint": "n"
+  },
+  {
+    "id": "resident-learn",
+    "term": "resident",
+    "ipa": "/ˈrezɪdənt/",
+    "pos": "n",
+    "meaningEn": "a person who lives in a particular place",
+    "meaningVi": "cư dân",
+    "synonyms": [
+      "inhabitant",
+      "local",
+      "dweller"
+    ],
+    "sentenceText": "It is essential to adopt strategies which involve and help residents of the region.",
+    "sentenceChunks": [
+      "It is essential to adopt strategies which involve and help residents of the region."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Adapting to the effects of climate change",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "Q23–26 discuss strategies involving residents. The word means the people who live in the area, so it helps you distinguish community involvement from government action.",
+    "riskHint": "n"
+  },
+  {
+    "id": "adapt-learn",
+    "term": "adapt",
+    "ipa": "/əˈdæpt/",
+    "pos": "v",
+    "meaningEn": "to change in order to deal with new conditions",
+    "meaningVi": "thích nghi; điều chỉnh",
+    "synonyms": [
+      "adjust",
+      "modify",
+      "change"
+    ],
+    "sentenceText": "All around the world, nations are already preparing for, and adapting to, climate change and its impacts.",
+    "sentenceChunks": [
+      "All around the world, nations are already preparing for, and adapting to, climate change and its impacts."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Adapting to the effects of climate change",
+    "questions": [
+      14,
+      15,
+      18,
+      23
+    ],
+    "source": "exam",
+    "why": "The passage is about adapting to climate change. The word means changing behaviour or infrastructure to cope with new conditions, not stopping climate change itself.",
+    "riskHint": "v"
+  },
+  {
+    "id": "mangrove-learn",
+    "term": "mangrove",
+    "ipa": "/ˈmæŋɡrəʊv/",
+    "pos": "n",
+    "meaningEn": "a tropical tree that grows in shallow coastal water",
+    "meaningVi": "cây đước; rừng ngập mặn",
+    "synonyms": [
+      "coastal mangrove",
+      "mangrove tree",
+      "wetland tree"
+    ],
+    "sentenceText": "But Susanna Toi of the not-for-profit organisation Wetlands International says that, while hugely popular, the majority of mangrove-planting projects fail.",
+    "sentenceChunks": [
+      "But Susanna Toi of the not-for-profit organisation Wetlands International says",
+      "that, while hugely popular, the majority of mangrove-planting projects fail."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Adapting to the effects of climate change",
+    "questions": [
+      14
+    ],
+    "source": "exam",
+    "why": "Q14 asks how a type of plant protects coastlines. Mangroves are coastal trees with dense roots, so the term helps you connect vegetation with flood protection.",
+    "riskHint": "n"
+  },
+  {
+    "id": "livestock-learn",
+    "term": "livestock",
+    "ipa": "/ˈlaɪvstɒk/",
+    "pos": "n",
+    "meaningEn": "farm animals kept for use or profit",
+    "meaningVi": "gia súc; vật nuôi",
+    "synonyms": [
+      "farm animals",
+      "cattle",
+      "herds"
+    ],
+    "sentenceText": "It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them.",
+    "sentenceChunks": [
+      "It is hoped that reductions in livestock losses can make",
+      "farmers more tolerant of predators and less likely to kill them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "source": "exam",
+    "why": "The passage is about livestock guard dogs. The word means farm animals such as sheep or cattle, so it helps you understand what the dogs are protecting.",
+    "riskHint": "n"
+  },
+  {
+    "id": "predator-learn",
+    "term": "predator",
+    "ipa": "/ˈpredətə/",
+    "pos": "n",
+    "meaningEn": "an animal that hunts and eats other animals",
+    "meaningVi": "động vật săn mồi",
+    "synonyms": [
+      "hunter",
+      "carnivore",
+      "predatory animal"
+    ],
+    "sentenceText": "It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them.",
+    "sentenceChunks": [
+      "It is hoped that reductions in livestock losses can make",
+      "farmers more tolerant of predators and less likely to kill them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [
+      27,
+      28,
+      29
+    ],
+    "source": "exam",
+    "why": "The passage says guard dogs protect predators themselves. Knowing the word helps you follow the reversal: dogs usually protect livestock from predators, but here they may protect predators from farmers.",
+    "riskHint": "n"
+  },
+  {
+    "id": "optimistic-learn",
+    "term": "optimistic",
+    "ipa": "/ˌɑptɪˈmɪstɪk/",
+    "pos": "adj",
+    "meaningEn": "expecting good things to happen",
+    "meaningVi": "lạc quan",
+    "synonyms": [
+      "hopeful",
+      "positive",
+      "confident"
+    ],
+    "sentenceText": "an optimistic suggestion about the possible positive developments in the use of livestock guard dogs",
+    "sentenceChunks": [
+      "an optimistic suggestion about the possible positive developments in the use of livestock guard dogs"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "Q28 asks for an optimistic suggestion about the future use of guard dogs. The word signals a positive prediction, so you look for a hopeful development rather than a warning.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "widespread-learn",
+    "term": "widespread",
+    "ipa": "/ˈwaɪdspred/",
+    "pos": "adj",
+    "meaningEn": "existing or happening in many places",
+    "meaningVi": "lan rộng; phổ biến",
+    "synonyms": [
+      "common",
+      "extensive",
+      "widely used"
+    ],
+    "sentenceText": "In recent years, however, as increased efforts have been made to protect wild animals, predators have become more widespread again.",
+    "sentenceChunks": [
+      "In recent years, however, as increased efforts have been made",
+      "to protect wild animals, predators have become more widespread again."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [
+      34
+    ],
+    "source": "exam",
+    "why": "Q34 asks about negative results if guard dogs are not sufficiently widespread. The word means used in many places, so it helps you understand that limited adoption may cause problems.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "predation-learn",
+    "term": "predation",
+    "ipa": "/prəˈdeɪʃən/",
+    "pos": "n",
+    "meaningEn": "the act of one animal hunting and eating another",
+    "meaningVi": "sự săn mồi",
+    "synonyms": [
+      "hunting",
+      "predation pressure",
+      "being preyed on"
+    ],
+    "sentenceText": "Indeed, Australian researchers are now using dogs to enhance biodiversity and create refuges for species threatened by predation.",
+    "sentenceChunks": [
+      "Indeed, Australian researchers are now using dogs to enhance biodiversity and create refuges for species threatened by predation."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "Q? refers to species threatened by predation. The word means being hunted by predators, so it helps you understand why guard dogs can protect wildlife.",
+    "riskHint": "n"
+  },
+  {
+    "id": "herd-learn",
+    "term": "herd",
+    "ipa": "/hɜːd/",
+    "pos": "n",
+    "meaningEn": "a large group of farm animals",
+    "meaningVi": "đàn gia súc",
+    "synonyms": [
+      "flock",
+      "group of livestock",
+      "cattle group"
+    ],
+    "sentenceText": "'If we are not working with everybody, we are transferring the wolf pressure to the neighbour's herd and he can use poison and kill an entire pack of wolves.'",
+    "sentenceChunks": [
+      "'If we are not working with everybody, we are transferring the wolf pressure to",
+      "the neighbour's herd and he can use poison and kill an entire pack of wolves.'"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [
+      30
+    ],
+    "source": "exam",
+    "why": "Q30 refers to protecting farmers’ herds. The word means a group of livestock, so it helps you identify what the dogs are guarding.",
+    "riskHint": "n"
+  },
+  {
+    "id": "handwriting-sentence",
+    "term": "handwriting",
+    "ipa": "/ˈhænˌdraɪtɪŋ/",
+    "pos": "noun",
+    "meaningEn": "something written by hand",
+    "meaningVi": "",
+    "synonyms": [
+      "hand",
+      "script"
+    ],
+    "sentenceText": "I'm sure a lot of students think it's unfair that they're being judged on their handwriting, not just their knowledge.",
+    "sentenceChunks": [
+      "I'm sure a lot of students think it's unfair that",
+      "they're being judged on their handwriting, not just their knowledge."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "sanctuary-sentence",
+    "term": "sanctuary",
+    "ipa": "/ˈsæŋktʃuˌeri/",
+    "pos": "adjective",
+    "meaningEn": "a consecrated place where sacred objects are kept",
+    "meaningVi": "",
+    "synonyms": [
+      "refuge",
+      "asylum"
+    ],
+    "sentenceText": "However, more recently, the sanctuary and its birds have also become increasingly important to the community in economic terms because at present, after a relatively slow start, tourism has become an important source of revenue for them.",
+    "sentenceChunks": [
+      "However, more recently, the sanctuary and its birds have also become increasingly important to the community in economic terms",
+      "because at present, after a relatively slow start, tourism has become an important source of revenue for them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "accidental-sentence",
+    "term": "accidental",
+    "ipa": "/ˌæksəˈdenəl/",
+    "pos": "adjective",
+    "meaningEn": "happening by chance or unexpectedly or unintentionally",
+    "meaningVi": "",
+    "synonyms": [
+      "inadvertent"
+    ],
+    "sentenceText": "Accidental deaths may also occur if these birds fly close to high-voltage power lines.",
+    "sentenceChunks": [
+      "Accidental deaths may also occur if these birds fly close to high-voltage power lines."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "correctly-sentence",
+    "term": "correctly",
+    "ipa": "/kəˈektli/",
+    "pos": "adverb",
+    "meaningEn": "in an accurate manner",
+    "meaningVi": "",
+    "synonyms": [
+      "right",
+      "aright"
+    ],
+    "sentenceText": "One quite simple thing you can do is to use grid paper so they write each letter in a box and that trains them to space the letters correctly.",
+    "sentenceChunks": [
+      "One quite simple thing you can do is to use grid paper so they write each letter in a box and",
+      "that trains them to space the letters correctly."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adverb"
+  },
+  {
+    "id": "spatial-sentence",
+    "term": "spatial",
+    "ipa": "/ˈspeɪʃəl/",
+    "pos": "adjective",
+    "meaningEn": "pertaining to or involving or having the nature of space",
+    "meaningVi": "",
+    "synonyms": [
+      "spacial"
+    ],
+    "sentenceText": "I thought spatial awareness was more to do with knowing where you are in relation to objects or other people.",
+    "sentenceChunks": [
+      "I thought spatial awareness was more to do with knowing",
+      "where you are in relation to objects or other people."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "frighten-sentence",
+    "term": "frighten",
+    "ipa": "/ˈfraɪtən/",
+    "pos": "verb",
+    "meaningEn": "cause fear in",
+    "meaningVi": "",
+    "synonyms": [
+      "fright",
+      "scare",
+      "affright"
+    ],
+    "sentenceText": "Nearly all the far Farmers reported that they spent a lot of time and effort trying to frighten off the birds of prey without actually harming them.",
+    "sentenceChunks": [
+      "Nearly all the far Farmers reported",
+      "that they spent a lot of time and effort trying to frighten off the birds of prey without actually harming them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "adaptation-sentence",
+    "term": "adaptation",
+    "ipa": "/ˌædəpˈteɪʃən/",
+    "pos": "noun",
+    "meaningEn": "a written work (as a novel) that has been recast in a new form",
+    "meaningVi": "",
+    "synonyms": [
+      "version",
+      "adaption",
+      "adjustment"
+    ],
+    "sentenceText": "In addition to the road adaptations, the city has set up new pumps that can remove up to 75,000 litres of water per minute.",
+    "sentenceChunks": [
+      "In addition to the road adaptations, the city has set up new",
+      "pumps that can remove up to 75,000 litres of water per minute."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Adapting to the effects of climate change",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "patio-sentence",
+    "term": "patio",
+    "ipa": "/ˈpætiˌəʊ/",
+    "pos": "noun",
+    "meaningEn": "usually paved outdoor area adjoining a residence",
+    "meaningVi": "",
+    "synonyms": [
+      "terrace"
+    ],
+    "sentenceText": "While both locales provided a wealth of imagery for her paintings, one feature of the Abiquiu house - the large walled patio with its black door - was particularly inspirational.",
+    "sentenceChunks": [
+      "While both locales provided a wealth of imagery for her paintings, one feature of the",
+      "Abiquiu house - the large walled patio with its black door - was particularly inspirational."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "botanical-sentence",
+    "term": "botanical",
+    "ipa": "/bəˈtænɪkəl/",
+    "pos": "adjective",
+    "meaningEn": "of or relating to plants or botany",
+    "meaningVi": "",
+    "synonyms": [
+      "botanic"
+    ],
+    "sentenceText": "Often, she painted the rocks, cliffs, and mountains in striking close-up, just as she had done with her botanical subjects.",
+    "sentenceChunks": [
+      "Often, she painted the rocks, cliffs, and mountains in striking",
+      "close-up, just as she had done with her botanical subjects."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "awareness-sentence",
+    "term": "awareness",
+    "ipa": "/əˈwernəs/",
+    "pos": "noun",
+    "meaningEn": "having knowledge of",
+    "meaningVi": "",
+    "synonyms": [
+      "consciousness",
+      "cognizance",
+      "cognisance",
+      "knowingness"
+    ],
+    "sentenceText": "I thought spatial awareness was more to do with knowing where you are in relation to objects or other people.",
+    "sentenceChunks": [
+      "I thought spatial awareness was more to do with knowing",
+      "where you are in relation to objects or other people."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "skill-sentence",
+    "term": "skill",
+    "ipa": "/skɪl/",
+    "pos": "noun",
+    "meaningEn": "an ability that has been acquired by training",
+    "meaningVi": "",
+    "synonyms": [
+      "accomplishment",
+      "acquirement",
+      "acquisition",
+      "attainment"
+    ],
+    "sentenceText": "It's such an important skill and yet most people think handwriting is less important than in the past because people hardly ever write by hand these days.",
+    "sentenceChunks": [
+      "It's such an important skill and yet most people think handwriting is less important than in the past",
+      "because people hardly ever write by hand these days."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "sufficient-sentence",
+    "term": "sufficient",
+    "ipa": "/səˈfɪʃənt/",
+    "pos": "adjective",
+    "meaningEn": "of a quantity that can fulfill a need or requirement but without being abundant",
+    "meaningVi": "",
+    "synonyms": [
+      "sufficient"
+    ],
+    "sentenceText": "If necessary, they will chase away predators, but often their mere presence is sufficient.",
+    "sentenceChunks": [
+      "If necessary, they will chase away predators, but often their mere presence is sufficient."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "behaviour-sentence",
+    "term": "behaviour",
+    "ipa": "/bɪˈheɪvjə/",
+    "pos": "noun",
+    "meaningEn": "the action or reaction of something (as a machine or substance) under specified circumstances",
+    "meaningVi": "",
+    "synonyms": [
+      "behavior",
+      "demeanor",
+      "demeanour",
+      "conduct"
+    ],
+    "sentenceText": "And by creating a 'landscape of fear', their mere presence can influence the behaviour of prey animals.",
+    "sentenceChunks": [
+      "And by creating a 'landscape of fear', their mere presence can influence the behaviour of prey animals."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "associate-sentence",
+    "term": "associate",
+    "ipa": "/əˈsəʊʃiˌeɪt/",
+    "pos": "noun",
+    "meaningEn": "a person who joins with others in some activity or endeavor",
+    "meaningVi": "",
+    "synonyms": [
+      "companion",
+      "comrade",
+      "fellow",
+      "familiar"
+    ],
+    "sentenceText": "Yeah, I'd never associated spatial awareness with handwriting either.",
+    "sentenceChunks": [
+      "Yeah, I'd never associated spatial awareness with handwriting either."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "encourage-sentence",
+    "term": "encourage",
+    "ipa": "/ɪnˈkəədʒ/",
+    "pos": "noun",
+    "meaningEn": "contribute to the progress or growth of",
+    "meaningVi": "",
+    "synonyms": [
+      "promote",
+      "advance",
+      "boost",
+      "further"
+    ],
+    "sentenceText": "Some of the farmers also reported that during the breeding season when the chickens were particularly vulnerable, they encouraged their children to watch over the chickens and to hit pans with a metal spoon so that the resulting noise would succeed in driving away birds that were trying to seize the young chicks.",
+    "sentenceChunks": [
+      "Some of the farmers also reported",
+      "that during the breeding season when the chickens were particularly vulnerable, they encouraged their children to watch over the chickens and to hit pans with a metal spoon so that the resulting noise would succeed in driving away birds that were trying to seize the young chicks."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "gallery-sentence",
+    "term": "gallery",
+    "ipa": "/ˈgæləi/",
+    "pos": "noun",
+    "meaningEn": "spectators at a golf or tennis match",
+    "meaningVi": "",
+    "synonyms": [
+      "veranda",
+      "verandah"
+    ],
+    "sentenceText": "Over the next two decades she made almost annual trips to New Mexico, staying up to six months there, painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz's gallery.",
+    "sentenceChunks": [
+      "Over the next two decades she made almost annual trips to New Mexico, staying up to six months there",
+      "painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz's gallery."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "hunt-sentence",
+    "term": "hunt",
+    "ipa": "/hənt/",
+    "pos": "noun",
+    "meaningEn": "Englishman and Pre-Raphaelite painter (1827-1910)",
+    "meaningVi": "",
+    "synonyms": [
+      "Holman Hunt",
+      "William Holman Hunt",
+      "Richard Morris Hunt"
+    ],
+    "sentenceText": "These include a number of birds of prey such as eagles, hawks, and owls that live by hunting and killing other birds and animals.",
+    "sentenceChunks": [
+      "These include a number of birds of prey such as eagles, hawks",
+      "and owls that live by hunting and killing other birds and animals."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Birds of prey and farming",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "fort-sentence",
+    "term": "fort",
+    "ipa": "/fɔːt/",
+    "pos": "noun",
+    "meaningEn": "a fortified military post where troops are stationed",
+    "meaningVi": "",
+    "synonyms": [
+      "garrison",
+      "fortress"
+    ],
+    "sentenceText": "If the weather's nice, one thing you could do is visit the old fort, but you could get there by boat.",
+    "sentenceChunks": [
+      "If the weather's nice, one thing you could do is",
+      "visit the old fort, but you could get there by boat."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Advice on a family visit",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "painting-sentence",
+    "term": "painting",
+    "ipa": "/ˈpeɪnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "graphic art consisting of an artistic composition made by applying paints to a surface",
+    "meaningVi": "",
+    "synonyms": [
+      "picture"
+    ],
+    "sentenceText": "O'Keeffe died in 1986 at the age of ninety-eight, but her rich legacy of some 900 paintings has continued to attract subsequent generations of artists and art lovers who derive inspiration from these very American images.",
+    "sentenceChunks": [
+      "O'Keeffe died in 1986 at the age of ninety-eight",
+      "but her rich legacy of some 900 paintings has continued to attract subsequent generations of artists and art lovers who derive inspiration from these very American images."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "decade-sentence",
+    "term": "decade",
+    "ipa": "/ˈdekeɪd/",
+    "pos": "noun",
+    "meaningEn": "a period of 10 years",
+    "meaningVi": "",
+    "synonyms": [
+      "decennary",
+      "decennium",
+      "ten",
+      "10"
+    ],
+    "sentenceText": "Over the next two decades she made almost annual trips to New Mexico, staying up to six months there, painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz's gallery.",
+    "sentenceChunks": [
+      "Over the next two decades she made almost annual trips to New Mexico, staying up to six months there",
+      "painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz's gallery."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "drawing-sentence",
+    "term": "drawing",
+    "ipa": "/drɔɪŋ/",
+    "pos": "noun",
+    "meaningEn": "an illustration that is drawn by hand and published in a book, magazine, or newspaper",
+    "meaningVi": "",
+    "synonyms": [
+      "drawing"
+    ],
+    "sentenceText": "Stieglitz was impressed, and exhibited the drawings later that year at his gallery on Fifth Avenue, New York City, where the works of many avant-garde artists and photographers were introduced to the American public.",
+    "sentenceChunks": [
+      "Stieglitz was impressed, and exhibited the drawings later",
+      "that year at his gallery on Fifth Avenue, New York City, where the works of many avant-garde artists and photographers were introduced to the American public."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Georgia O'Keeffe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "stadium-sentence",
+    "term": "stadium",
+    "ipa": "/ˈsteɪdiəm/",
+    "pos": "noun",
+    "meaningEn": "a large structure for open-air sports or entertainments",
+    "meaningVi": "",
+    "synonyms": [
+      "bowl",
+      "arena",
+      "sports stadium"
+    ],
+    "sentenceText": "I'd like to give you some useful information about your visit to the stadium today and then we'll start the tour of the areas of the stadium that are open to visitors.",
+    "sentenceChunks": [
+      "I'd like to give you some useful information about your visit to the stadium today and then we'll start the tour of the areas of the stadium",
+      "that are open to visitors."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A tour of the football stadium",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "teach-sentence",
+    "term": "teach",
+    "ipa": "/titʃ/",
+    "pos": "noun",
+    "meaningEn": "an English pirate who operated in the Caribbean and off the Atlantic coast of North America (died in 1718)",
+    "meaningVi": "",
+    "synonyms": [
+      "Edward Teach",
+      "Thatch",
+      "Edward Thatch",
+      "Blackbeard"
+    ],
+    "sentenceText": "Touch typing still isn't taught in most schools, which is a shame, but maybe that won't be necessary in the future because people will also be able to write by hand on digital devices.",
+    "sentenceChunks": [
+      "Touch typing still isn't taught in most schools",
+      "which is a shame, but maybe that won't be necessary in the future because people will also be able to write by hand on digital devices."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "protected-sentence",
+    "term": "protected",
+    "ipa": "/prəˈtektɪd/",
+    "pos": "adjective",
+    "meaningEn": "kept safe or defended from danger or injury or loss",
+    "meaningVi": "",
+    "synonyms": [
+      "saved"
+    ],
+    "sentenceText": "In Namibia, more than 90 per cent of cheetahs live outside protected areas, close to humans raising livestock.",
+    "sentenceChunks": [
+      "In Namibia, more than 90 per cent of cheetahs live outside protected areas, close to humans raising livestock."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "A new role for livestock guard dogs",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "affected-sentence",
+    "term": "affected",
+    "ipa": "/əˈfektɪd/",
+    "pos": "adjective",
+    "meaningEn": "acted upon; influenced",
+    "meaningVi": "",
+    "synonyms": [
+      "unnatural"
+    ],
+    "sentenceText": "Marks are definitely affected if examiners can't read the script.",
+    "sentenceChunks": [
+      "Marks are definitely affected if examiners can't read the script."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Teaching handwriting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  }
+]

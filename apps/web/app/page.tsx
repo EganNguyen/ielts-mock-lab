@@ -6,6 +6,7 @@ import { AlertTriangle, ArrowRight, Check, Clock3, History, Monitor, ShieldCheck
 import { api, type ExamSummary, type Skill, type User } from '@/lib/api'
 import { Button, Logo, SkillGlyph } from '@/components/ui'
 import { ShareControl } from '@/components/ShareLink'
+import { assetUrl } from '@/lib/assets'
 
 function examYear(item: ExamSummary) {
   const match = item.title.match(/(?:Cambridge\s+)?IELTS\s+(\d{2})/) ?? item.id.match(/(?:cambridge|ielts)(\d{2})/)
@@ -75,6 +76,7 @@ export default function Dashboard() {
           <nav className="portal-nav" aria-label="Main navigation">
             <a href="#mock">Full test</a>
             <a href="#practice">Practice</a>
+            <a href={assetUrl('/vocabulary/')}>Vocabulary</a>
             <a href="#results">My results</a>
           </nav>
           <div className="portal-user">

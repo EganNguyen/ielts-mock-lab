@@ -1,0 +1,310 @@
+{
+  "tag": "ielts21-t2",
+  "links": {
+    "apron-learn|l1|q9": {
+      "support": "No, the only thing is everyone has to bring something to protect their clothing, like an apron if you've got one, or a shirt that you don't use any more, because the dye can really stain your clothes.",
+      "connection": "The silk-painting row asks what to bring besides an apron ('an apron or old ______'); the reply says everyone brings 'an apron if you've got one, or a shirt that you don't use any more'.",
+      "paraphrasing": "'an apron or old ______' -> 'an apron ... or a shirt that you don't use any more'"
+    },
+    "herb-learn|l1|q7": {
+      "support": "I think one reason why people like it is because the candles are all made out of natural products.",
+      "connection": "The candle-making row asks which ingredients are used ('only ______ ingredients are used'); this line says the candles are 'all made out of natural products'.",
+      "paraphrasing": "'only ______ ingredients are used' -> 'the candles are all made out of natural products'"
+    },
+    "sourdough-learn|l1|q3": {
+      "support": "Oh, various types of bread; I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good.",
+      "connection": "The bread-making row asks what participants make besides 'white bread, sourdough and ______'; the answer line lists 'white bread', 'sourdough' and then 'pizza'.",
+      "paraphrasing": "'participants make white bread, sourdough and ______' -> 'they make white bread and then they make sourdough ... and they learn how to make pizza'"
+    },
+    "ingredient-learn|l1|q2": {
+      "support": "The actual cost is £48 but then there's an extra charge as well as that for the ingredients - I'm not sure how much that is, no more than twenty pounds I think.",
+      "connection": "The bread-making row has a blank for 'cost: £______'; this line states the price directly.",
+      "paraphrasing": "'cost: £______' -> 'The actual cost is £48'"
+    },
+    "ingredient-learn|l1|q3": {
+      "support": "Oh, various types of bread; I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good.",
+      "connection": "The row leaves the third item blank after 'sourdough'; this line supplies 'pizza' as what 'they learn how to make'.",
+      "paraphrasing": "'white bread, sourdough and ______' -> 'white bread and then they make sourdough ... and they learn how to make pizza'"
+    },
+    "ruins-learn|l2|q11": {
+      "support": "The castle's now just a pile of stones but it's a great place to take photos, and fascinating information boards show what it once looked like.",
+      "connection": "Option B advises not to miss 'the ruins of a certain building'; this line says the castle is 'now just a pile of stones' and 'a great place to take photos'.",
+      "paraphrasing": "'the ruins of a certain building' -> 'The castle's now just a pile of stones'"
+    },
+    "ruins-learn|l2|q12": {
+      "support": "The castle's now just a pile of stones but it's a great place to take photos, and fascinating information boards show what it once looked like.",
+      "connection": "The second piece of advice is option B, and this line describes the castle as 'now just a pile of stones' - the ruins worth seeing.",
+      "paraphrasing": "'Don't miss the ruins of a certain building' -> 'The castle's now just a pile of stones'"
+    },
+    "steep-learn|l2|q11": {
+      "support": "The castle's now just a pile of stones but it's a great place to take photos, and fascinating information boards show what it once looked like.",
+      "connection": "The correct choice for the first piece of advice is option B ('Don't miss the ruins of a certain building'), and this line calls the castle 'a great place to take photos'.",
+      "paraphrasing": "'Don't miss the ruins of a certain building' -> 'The castle's now just a pile of stones ... a great place to take photos'"
+    },
+    "steep-learn|l2|q12": {
+      "support": "The castle's now just a pile of stones but it's a great place to take photos, and fascinating information boards show what it once looked like.",
+      "connection": "The second piece of advice matches option B, supported by the line that the castle is 'now just a pile of stones' and 'a great place to take photos'.",
+      "paraphrasing": "'the ruins of a certain building' -> 'a pile of stones ... a great place to take photos'"
+    },
+    "circular-learn|l2|q13": {
+      "support": "The route continues along the tops of the hills and brings you back down to the starting point - the car park at Melby Coal Mine.",
+      "connection": "Option C says 'This is a circular walk'; this line says the route 'brings you back down to the starting point'.",
+      "paraphrasing": "'This is a circular walk' -> 'brings you back down to the starting point'"
+    },
+    "circular-learn|l2|q14": {
+      "support": "The route continues along the tops of the hills and brings you back down to the starting point - the car park at Melby Coal Mine.",
+      "connection": "The second thing said about the Melby Heritage Walk is option C ('This is a circular walk'), because the route comes back down to 'the starting point'.",
+      "paraphrasing": "'This is a circular walk' -> 'brings you back down to the starting point'"
+    },
+    "far-reaching-learn|l2|q13": {
+      "support": "The route continues along the tops of the hills and brings you back down to the starting point - the car park at Melby Coal Mine.",
+      "connection": "The correct choice for the first thing said is option C ('This is a circular walk'); the route is described as returning to 'the starting point'.",
+      "paraphrasing": "'This is a circular walk' -> 'brings you back down to the starting point'"
+    },
+    "far-reaching-learn|l2|q14": {
+      "support": "The route continues along the tops of the hills and brings you back down to the starting point - the car park at Melby Coal Mine.",
+      "connection": "The second thing said is option C ('This is a circular walk'), supported by the route coming back down to 'the starting point'.",
+      "paraphrasing": "'This is a circular walk' -> 'brings you back down to the starting point'"
+    },
+    "contaminated-learn|l3|q21": {
+      "support": "But I hadn't realised that unsafe food causes more than 200 different diseases.",
+      "connection": "Option B names 'the number of diseases caused by contaminated food'; the speaker says she 'hadn't realised that unsafe food causes more than 200 different diseases', which is the same fact.",
+      "paraphrasing": "'the number of diseases caused by contaminated food' -> 'unsafe food causes more than 200 different diseases'"
+    },
+    "contaminated-learn|l3|q22": {
+      "support": "But I hadn't realised that unsafe food causes more than 200 different diseases.",
+      "connection": "Option B names 'the number of diseases caused by contaminated food'; the speaker says she 'hadn't realised that unsafe food causes more than 200 different diseases', which is the same fact.",
+      "paraphrasing": "'the number of diseases caused by contaminated food' -> 'unsafe food causes more than 200 different diseases'"
+    },
+    "antibiotic-learn|l3|q21": {
+      "support": "But I hadn't realised that unsafe food causes more than 200 different diseases.",
+      "connection": "Option B names 'the number of diseases caused by contaminated food'; the speaker says she 'hadn't realised that unsafe food causes more than 200 different diseases', which is the same fact.",
+      "paraphrasing": "'the number of diseases caused by contaminated food' -> 'unsafe food causes more than 200 different diseases'"
+    },
+    "antibiotic-learn|l3|q22": {
+      "support": "But I hadn't realised that unsafe food causes more than 200 different diseases.",
+      "connection": "Option B names 'the number of diseases caused by contaminated food'; the speaker says she 'hadn't realised that unsafe food causes more than 200 different diseases', which is the same fact.",
+      "paraphrasing": "'the number of diseases caused by contaminated food' -> 'unsafe food causes more than 200 different diseases'"
+    },
+    "fraud-learn|l3|q23": {
+      "support": "But what the researchers succeeded in doing was to ensure that these tests were carried out at different stages in the food's journey from the producer to the consumer.",
+      "connection": "Option C is 'the use of multiple tests on food items'; the text says 'these tests were carried out at different stages in the food's journey', which is the same feature.",
+      "paraphrasing": "'the use of multiple tests on food items' -> 'these tests were carried out at different stages in the food's journey'"
+    },
+    "fraud-learn|l3|q24": {
+      "support": "But what the researchers succeeded in doing was to ensure that these tests were carried out at different stages in the food's journey from the producer to the consumer.",
+      "connection": "Option C is 'the use of multiple tests on food items'; the text says 'these tests were carried out at different stages in the food's journey', which is the same feature.",
+      "paraphrasing": "'the use of multiple tests on food items' -> 'these tests were carried out at different stages in the food's journey'"
+    },
+    "dietary-learn|l3|q23": {
+      "support": "But what the researchers succeeded in doing was to ensure that these tests were carried out at different stages in the food's journey from the producer to the consumer.",
+      "connection": "Option C is 'the use of multiple tests on food items'; the text says 'these tests were carried out at different stages in the food's journey', which is the same feature.",
+      "paraphrasing": "'the use of multiple tests on food items' -> 'these tests were carried out at different stages in the food's journey'"
+    },
+    "dietary-learn|l3|q24": {
+      "support": "But what the researchers succeeded in doing was to ensure that these tests were carried out at different stages in the food's journey from the producer to the consumer.",
+      "connection": "Option C is 'the use of multiple tests on food items'; the text says 'these tests were carried out at different stages in the food's journey', which is the same feature.",
+      "paraphrasing": "'the use of multiple tests on food items' -> 'these tests were carried out at different stages in the food's journey'"
+    },
+    "overtourism-learn|l4|q31": {
+      "support": "Pollution, for example, is among the greatest threats to many popular tourist destinations.",
+      "connection": "The first note line asks what 'is one of the worst problems'; the text answers with 'Pollution ... among the greatest threats to many popular tourist destinations'.",
+      "paraphrasing": "'one of the worst problems' -> 'among the greatest threats'"
+    },
+    "overtourism-learn|l4|q32": {
+      "support": "Several cities, such as Barcelona, have responded by imposing a tax which all visitors to the city from cruise ships have to pay.",
+      "connection": "The note asks about 'a tourist ______ ... e.g. Barcelona'; the text says cities 'such as Barcelona' have responded by imposing 'a tax which all visitors to the city from cruise ships have to pay'.",
+      "paraphrasing": "'a tourist ______ ... e.g. Barcelona' -> 'a tax which all visitors to the city from cruise ships have to pay', 'such as Barcelona'"
+    },
+    "overtourism-learn|l4|q33": {
+      "support": "The city was becoming like a 'theme park', with shops only catering for tourists, selling chocolate, which Belgium is famous for, and other souvenirs.",
+      "connection": "The Bruges note says shops were 'only stocking ______ and souvenirs'; the text says shops were 'selling chocolate ... and other souvenirs'.",
+      "paraphrasing": "'many shops were only stocking ______ and souvenirs' -> 'shops only catering for tourists, selling chocolate ... and other souvenirs'"
+    },
+    "overtourism-learn|l4|q34": {
+      "support": "What it does now is control the timing of all cruise ship entries to the city's port.",
+      "connection": "The Dubrovnik note asks how 'the ______ of cruise ship arrivals' is managed; the text says it does 'control the timing of all cruise ship entries to the city's port'.",
+      "paraphrasing": "'managing the ______ of cruise ship arrivals' -> 'control the timing of all cruise ship entries to the city's port'"
+    },
+    "perception-learn|l4|q35": {
+      "support": "A recent survey showed that cost is also a major factor in putting younger groups off going on a cruise.",
+      "connection": "The note asks about 'an assumption about the ______ of cruises'; the text says 'cost is also a major factor in putting younger groups off going on a cruise'.",
+      "paraphrasing": "'assumption about the ______ of cruises' -> 'cost is also a major factor in putting younger groups off going on a cruise'"
+    },
+    "perception-learn|l4|q36": {
+      "support": "And another perception is that cruises have lots of rules about what to wear and how to behave.",
+      "connection": "The note says 'People think there may be too many ______'; the text calls this 'another perception' - that cruises have 'lots of rules about what to wear and how to behave'.",
+      "paraphrasing": "'People think there may be too many ______' -> 'another perception is that cruises have lots of rules'"
+    },
+    "assumption-learn|l4|q35": {
+      "support": "A recent survey showed that cost is also a major factor in putting younger groups off going on a cruise.",
+      "connection": "The note line 'There is an assumption about the ______ of cruises' is answered by 'cost', the factor the survey says puts younger groups off.",
+      "paraphrasing": "'There is an assumption about the ______ of cruises' -> 'cost is also a major factor in putting younger groups off'"
+    },
+    "hybrid-learn|l4|q39": {
+      "support": "Many people going on longer cruises also spend time working, so companies have to guarantee wifi that can be relied upon at all times.",
+      "connection": "The note asks about 'providing reliable ______'; the text says companies have to 'guarantee wifi that can be relied upon at all times'.",
+      "paraphrasing": "'providing reliable ______' -> 'guarantee wifi that can be relied upon at all times'"
+    },
+    "lasting-learn|r1|q6": {
+      "support": "It is believed that when events are replayed in dreams, this helps to integrate memories into longer-term storage.",
+      "connection": "The statement says dreaming about past experiences 'helps us to create lasting memories'; the text says 'events are replayed in dreams' and this helps to 'integrate memories into longer-term storage', so the statement agrees.",
+      "paraphrasing": "'create lasting memories of them' -> 'integrate memories into longer-term storage'"
+    },
+    "hunting-learn|r1|q9": {
+      "support": "Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he were being attacked by a predator.",
+      "connection": "The statement says Costello reacted 'as if it was hunting'; the text says he 'squirted ink as though he were being attacked by a predator', so the statement contradicts the text.",
+      "paraphrasing": "'reacted as if it was hunting' -> 'as though he were being attacked by a predator'"
+    },
+    "rem-sleep-learn|r1|q1": {
+      "support": "They found the patterns were very similar and concluded that the sleeping rats were dreaming about going through the maze.",
+      "connection": "The table row's blank sits before 'similar brain patterns were observed when active and sleeping'; the text names 'rats' and says the sleeping rats were 'dreaming'.",
+      "paraphrasing": "'similar brain patterns were observed when active and sleeping' -> 'the patterns were very similar ... the sleeping rats were dreaming'"
+    },
+    "rem-sleep-learn|r1|q2": {
+      "support": "Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about.",
+      "connection": "The pigeon row asks about 'parts of the brain that deal with ______ input'; the text says 'brain regions involved in processing visual information'.",
+      "paraphrasing": "'parts of the brain that deal with ______ input' -> 'brain regions involved in processing visual information'"
+    },
+    "rem-sleep-learn|r1|q3": {
+      "support": "These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake.",
+      "connection": "The row says whales and dolphins 'still have ______ their brain awake'; the text says they 'do not shut down their entire brain ... but only half of it, keeping the rest awake'.",
+      "paraphrasing": "'still have ______ their brain awake' -> 'only half of it, keeping the rest awake'"
+    },
+    "rem-sleep-learn|r1|q4": {
+      "support": "It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature.",
+      "connection": "The row says the lack of REM sleep 'could affect their sensitivity to ______'; the text says animals are 'more vulnerable to extremes of temperature'.",
+      "paraphrasing": "'sensitivity to ______' -> 'vulnerable to extremes of temperature'"
+    },
+    "rem-sleep-learn|r1|q5": {
+      "support": "They also show no sign of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid.",
+      "connection": "The row says their dreams are 'probably not very ______'; the text says non-REM dreams are 'less vivid'.",
+      "paraphrasing": "'their dreams are probably not very ______' -> 'non-REM dreams, which are less vivid'"
+    },
+    "flourish-learn|r2|q14": {
+      "support": "The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known.",
+      "connection": "The question asks for 'uncertainty regarding the purpose of certain objects'; the text says 'their precise function is not known'.",
+      "paraphrasing": "'uncertainty regarding the purpose of certain objects' -> 'their precise function is not known'"
+    },
+    "flourish-learn|r2|q18": {
+      "support": "The total population of Mapungubwe at its peak in the mid-13th century was around 5,000 people.",
+      "connection": "The question asks for 'an estimate of the size to which the Mapungubwe community grew'; the text gives 'The total population ... around 5,000 people'.",
+      "paraphrasing": "'estimate of the size to which the ... community grew' -> 'total population ... at its peak ... around 5,000 people'"
+    },
+    "uncertainty-learn|r2|q14": {
+      "support": "The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known.",
+      "connection": "The question words 'uncertainty regarding the purpose of certain objects' match 'their precise function is not known'.",
+      "paraphrasing": "'uncertainty regarding the purpose of certain objects' -> 'their precise function is not known'"
+    },
+    "climatic-learn|r2|q15": {
+      "support": "The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts.",
+      "connection": "The question asks about 'the likelihood that a climatic factor increased the problems'; the text says the situation 'may have been brought to a crisis point by a series of droughts'.",
+      "paraphrasing": "'the likelihood that a climatic factor increased the problems' -> 'may have been brought to a crisis point by a series of droughts'"
+    },
+    "sceptre-learn|r2|q20": {
+      "support": "These objects were all found at the royal burial site and date to c. 1150.",
+      "connection": "Option B says gold items were 'placed close to where Mapungubwe kings were buried'; the text says 'These objects were all found at the royal burial site'.",
+      "paraphrasing": "'placed close to where Mapungubwe kings were buried' -> 'found at the royal burial site'"
+    },
+    "sceptre-learn|r2|q21": {
+      "support": "These objects were all found at the royal burial site and date to c. 1150.",
+      "connection": "The second piece of information is option B, supported by 'These objects were all found at the royal burial site'.",
+      "paraphrasing": "'Items of gold were placed close to where Mapungubwe kings were buried' -> 'found at the royal burial site'"
+    },
+    "archaeology-learn|r2|q14": {
+      "support": "The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known.",
+      "connection": "The question asks about 'uncertainty regarding the purpose of certain objects'; the text says the figures' 'precise function is not known'.",
+      "paraphrasing": "'uncertainty regarding the purpose of certain objects' -> 'their precise function is not known'"
+    },
+    "archaeology-learn|r2|q18": {
+      "support": "The total population of Mapungubwe at its peak in the mid-13th century was around 5,000 people.",
+      "connection": "The question asks for 'an estimate of the size to which the Mapungubwe community grew'; the text gives the peak 'total population' as 'around 5,000 people'.",
+      "paraphrasing": "'estimate of the size ... community grew' -> 'total population ... around 5,000 people'"
+    },
+    "archaeology-learn|r2|q20": {
+      "support": "These objects were all found at the royal burial site and date to c. 1150.",
+      "connection": "Option B says gold items were 'placed close to where Mapungubwe kings were buried'; the text says 'These objects were all found at the royal burial site'.",
+      "paraphrasing": "'placed close to where Mapungubwe kings were buried' -> 'found at the royal burial site'"
+    },
+    "archaeology-learn|r2|q22": {
+      "support": "Archaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society.",
+      "connection": "The summary says the community's ______ 'is indicated by the amount of professionally made pottery'; the text says the pottery suggests 'professional potters' and is 'another indicator of the prosperity of Mapungubwe society'.",
+      "paraphrasing": "'the Mapungubwe community's ______ is indicated by the amount of professionally made pottery' -> 'pottery ... suggest the presence of professional potters ... indicator of the prosperity'"
+    },
+    "framework-learn|r3|q30": {
+      "support": "Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair.",
+      "connection": "The summary reports what politicians believe - that adding a neural network will 'promote ______'; the text contradicts that belief by saying it 'does not mean it will be instantaneously more inclusive or fair', the wording behind 'equality'.",
+      "paraphrasing": "'... and promote ______' (equality) -> 'more inclusive or fair'"
+    },
+    "framework-learn|r3|q31": {
+      "support": "AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning.",
+      "connection": "The summary says organisations lack 'the necessary ______ to manage the huge amount of data'; the text says the public sector 'does not have the appropriate data infrastructure to support advanced machine learning'.",
+      "paraphrasing": "'the necessary ______ to manage the huge amount of data' -> 'the appropriate data infrastructure to support advanced machine learning'"
+    },
+    "framework-learn|r3|q32": {
+      "support": "More often than not, data is spread across different government departments that each require special permissions to be accessed.",
+      "connection": "The summary says each person involved 'needs ______ to access the relevant data'; the text says departments 'require special permissions to be accessed'.",
+      "paraphrasing": "'needs ______ to access the relevant data' -> 'require special permissions to be accessed'"
+    },
+    "framework-learn|r3|q33": {
+      "support": "Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.",
+      "connection": "The summary says few employees have 'the ______ to take full advantage of machine intelligence'; the text says the sector 'lacks the human talent with the right technological capabilities to fully reap the benefits'.",
+      "paraphrasing": "'the ______ to take full advantage' -> 'technological capabilities to fully reap the benefits'"
+    },
+    "framework-learn|r3|q34": {
+      "support": "Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine.",
+      "connection": "The summary says experts 'had little faith in its ______'; the text says 'human experts found it hard to trust the machine'.",
+      "paraphrasing": "'had little faith in its ______' -> 'found it hard to trust the machine'"
+    },
+    "framework-learn|r3|q35": {
+      "support": "The system was found to amplify structural racial discrimination and was later abandoned.",
+      "connection": "The summary says algorithms 'reflected and magnified the existing ______'; the text says the system 'was found to amplify structural racial discrimination'.",
+      "paraphrasing": "'reflected and magnified the existing ______' -> 'amplify structural racial discrimination'"
+    },
+    "implement-learn|r3|q29": {
+      "support": "While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.",
+      "connection": "Option C says politicians may 'be unaware of the challenges of implementing national AI initiatives'; the text says 'they fail to realise the complexity around deploying advanced machine learning systems'.",
+      "paraphrasing": "'unaware of the challenges of implementing' -> 'fail to realise the complexity around deploying'"
+    },
+    "impractical-learn|r3|q36": {
+      "support": "Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots.",
+      "connection": "The statement calls Stuart Russell's proposals 'impractical'; the text says he 'advocated a more sensible and realistic approach', so the statement contradicts the text (NO).",
+      "paraphrasing": "'proposals regarding the use of AI are impractical' -> 'advocated a more sensible and realistic approach'"
+    },
+    "prejudice-learn|r3|q30": {
+      "support": "Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair.",
+      "connection": "The summary reports the politicians' belief that adding a neural network will 'promote ______'; the text says this does not mean government will be 'more inclusive or fair', the wording behind 'equality'.",
+      "paraphrasing": "'... and promote ______' (equality) -> 'more inclusive or fair'"
+    },
+    "prejudice-learn|r3|q31": {
+      "support": "AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning.",
+      "connection": "The summary says organisations lack 'the necessary ______ to manage the huge amount of data'; the text says the public sector 'does not have the appropriate data infrastructure to support advanced machine learning'.",
+      "paraphrasing": "'the necessary ______ to manage the huge amount of data' -> 'the appropriate data infrastructure to support advanced machine learning'"
+    },
+    "prejudice-learn|r3|q32": {
+      "support": "More often than not, data is spread across different government departments that each require special permissions to be accessed.",
+      "connection": "The summary says each person involved 'needs ______ to access the relevant data'; the text says departments 'require special permissions to be accessed'.",
+      "paraphrasing": "'needs ______ to access the relevant data' -> 'require special permissions to be accessed'"
+    },
+    "prejudice-learn|r3|q33": {
+      "support": "Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.",
+      "connection": "The summary says few employees have 'the ______ to take full advantage of machine intelligence'; the text says the sector 'lacks the human talent with the right technological capabilities to fully reap the benefits'.",
+      "paraphrasing": "'the ______ to take full advantage' -> 'technological capabilities to fully reap the benefits'"
+    },
+    "prejudice-learn|r3|q34": {
+      "support": "Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine.",
+      "connection": "The summary says experts 'had little faith in its ______'; the text says 'human experts found it hard to trust the machine'.",
+      "paraphrasing": "'had little faith in its ______' -> 'found it hard to trust the machine'"
+    },
+    "prejudice-learn|r3|q35": {
+      "support": "The system was found to amplify structural racial discrimination and was later abandoned.",
+      "connection": "The summary says algorithms 'reflected and magnified the existing ______'; the text says the system 'was found to amplify structural racial discrimination'.",
+      "paraphrasing": "'reflected and magnified the existing ______' -> 'amplify structural racial discrimination'"
+    },
+    "solutionism-learn|r3|q28": {
+      "support": "But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity.",
+      "connection": "Option A says the writer 'points out a risk involved'; the text says this mindset 'jeopardises the value of machine intelligence by disregarding important AI safety principles'.",
+      "paraphrasing": "'points out a risk involved' -> 'jeopardises the value of machine intelligence ... disregarding important AI safety principles'"
+    }
+  }
+}

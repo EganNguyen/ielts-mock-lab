@@ -1,0 +1,982 @@
+[
+  {
+    "id": "taster-learn",
+    "meaningVi": "buổi trải nghiệm thử",
+    "translation": "Được. Vậy có thể bạn sẽ quan tâm đến những Ngày Trải Nghiệm của chúng tôi?",
+    "breakdown": [
+      {
+        "text": "OK. Well you might be interested in our Taster Days?",
+        "vi": "Được. Vậy có thể bạn sẽ quan tâm đến những Ngày Trải Nghiệm của chúng tôi?",
+        "role": "offer / suggestion"
+      }
+    ]
+  },
+  {
+    "id": "tide-learn",
+    "meaningVi": "thủy triều",
+    "translation": "Vậy là bạn học về những thứ như thời tiết, điều rõ ràng là rất quan trọng, và cả thủy triều, cũng như học các kỹ năng chèo thuyền cơ bản.",
+    "breakdown": [
+      {
+        "text": "So you learn about things like the weather, which is obviously really",
+        "vi": "Vậy là bạn học về những thứ như thời tiết, điều rõ ràng là rất",
+        "role": "main idea"
+      },
+      {
+        "text": "important and also the tides, as well as learning basic sailing skills.",
+        "vi": "quan trọng, và cả thủy triều, cũng như học các kỹ năng chèo thuyền cơ bản.",
+        "role": "addition"
+      }
+    ]
+  },
+  {
+    "id": "all-inclusive-learn",
+    "meaningVi": "bao gồm mọi thứ; trọn gói",
+    "translation": "Khóa Cấp độ 1 là trọn gói, cộng thêm một ______ hữu ích.",
+    "breakdown": [
+      {
+        "text": "The Level 1 course is all inclusive, plus a useful ______.",
+        "vi": "Khóa Cấp độ 1 là trọn gói, cộng thêm một ______ hữu ích.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "toiletries-learn",
+    "meaningVi": "đồ dùng cá nhân; đồ vệ sinh",
+    "translation": "Và bạn có thể sẽ muốn mang theo đồ dùng vệ sinh cá nhân của riêng mình, những thứ như dầu gội đầu.",
+    "breakdown": [
+      {
+        "text": "And you might want to bring your own toiletries, things like shampoo.",
+        "vi": "Và bạn có thể sẽ muốn mang theo đồ dùng vệ sinh cá nhân của riêng mình, những thứ như dầu gội đầu.",
+        "role": "advice / example"
+      }
+    ]
+  },
+  {
+    "id": "minimum-wage-learn",
+    "meaningVi": "lương tối thiểu",
+    "translation": "Thực tập sinh trong các phim có kinh phí thấp có thể không nhận được lương tối thiểu.",
+    "breakdown": [
+      {
+        "text": "Trainees on low-budget films may not receive a minimum wage.",
+        "vi": "Thực tập sinh trong các phim có kinh phí thấp có thể không nhận được lương tối thiểu.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "special-effects-learn",
+    "meaningVi": "kỹ xảo đặc biệt",
+    "translation": "Trang điểm cho kỹ xảo đặc biệt mang tính chuyên môn hóa rất cao, vì vậy đừng mong được giao bất kỳ kinh nghiệm thực hành nào trong lĩnh vực đó.",
+    "breakdown": [
+      {
+        "text": "Doing makeup for special effects is highly specialised, so",
+        "vi": "Trang điểm cho kỹ xảo đặc biệt mang tính chuyên môn hóa rất cao, vì vậy",
+        "role": "reason"
+      },
+      {
+        "text": "don't expect to be offered any practical experience in that.",
+        "vi": "đừng mong được giao bất kỳ kinh nghiệm thực hành nào trong lĩnh vực đó.",
+        "role": "result / advice"
+      }
+    ]
+  },
+  {
+    "id": "portfolio-learn",
+    "meaningVi": "hồ sơ tác phẩm; bộ sưu tập tác phẩm",
+    "translation": "Vì bạn sẽ gửi hồ sơ tác phẩm của mình dưới dạng kỹ thuật số, bạn sẽ không cần phải in ảnh ra.",
+    "breakdown": [
+      {
+        "text": "As you'll be sending your portfolio digitally, you won't need to get photos printed.",
+        "vi": "Vì bạn sẽ gửi hồ sơ tác phẩm của mình dưới dạng kỹ thuật số, bạn sẽ không cần phải in ảnh ra.",
+        "role": "reason / condition"
+      }
+    ]
+  },
+  {
+    "id": "continuity-learn",
+    "meaningVi": "sự liên tục; tính nhất quán",
+    "translation": "Thực tập sinh đóng một vai trò hữu ích trong việc đảm bảo tính liên tục.",
+    "breakdown": [
+      {
+        "text": "Trainees play a useful role in continuity.",
+        "vi": "Thực tập sinh đóng một vai trò hữu ích trong việc đảm bảo tính liên tục.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "budget-learn",
+    "meaningVi": "ngân sách",
+    "translation": "Nếu may mắn, bạn có thể khởi đầu với một bộ phim có kinh phí lớn, nơi bạn sẽ có được kinh nghiệm hữu ích nhất.",
+    "breakdown": [
+      {
+        "text": "If you're lucky, you might start out on a",
+        "vi": "Nếu may mắn, bạn có thể khởi đầu với một",
+        "role": "condition"
+      },
+      {
+        "text": "big budget film where you'll get the most useful experience.",
+        "vi": "bộ phim có kinh phí lớn, nơi bạn sẽ có được kinh nghiệm hữu ích nhất.",
+        "role": "main clause / relative clause"
+      }
+    ]
+  },
+  {
+    "id": "biodiversity-learn",
+    "meaningVi": "đa dạng sinh học",
+    "translation": "Những ví dụ cô ấy đưa ra ở mức độ toàn cầu hơn, và chúng thực sự khiến tôi hiểu rõ các mối đe dọa đối với đa dạng sinh học đại dương rộng khắp đến mức nào.",
+    "breakdown": [
+      {
+        "text": "The examples she gave were at a more global level, and they really",
+        "vi": "Những ví dụ cô ấy đưa ra ở mức độ toàn cầu hơn, và chúng thực sự",
+        "role": "main idea"
+      },
+      {
+        "text": "made it clear to me just how wide-ranging the threats to ocean biodiversity are.",
+        "vi": "khiến tôi hiểu rõ các mối đe dọa đối với đa dạng sinh học đại dương rộng khắp đến mức nào.",
+        "role": "result / reported content"
+      }
+    ]
+  },
+  {
+    "id": "invasive-learn",
+    "meaningVi": "xâm lấn; xâm thực",
+    "translation": "Bạn nghĩ gì về bài viết nói về cá sư tử xâm lấn đó?",
+    "breakdown": [
+      {
+        "text": "What did you think of that article on invasive lionfish?",
+        "vi": "Bạn nghĩ gì về bài viết nói về cá sư tử xâm lấn đó?",
+        "role": "question / main idea"
+      }
+    ]
+  },
+  {
+    "id": "microplastic-learn",
+    "meaningVi": "hạt vi nhựa",
+    "translation": "Tôi đã xem bộ phim tài liệu về hạt vi nhựa, ít nhất là tôi đã bắt đầu xem, nhưng rồi tôi phát hiện nó được làm từ mười năm trước nên tôi bỏ luôn.",
+    "breakdown": [
+      {
+        "text": "I watched the documentary on microplastics, at least I started to",
+        "vi": "Tôi đã xem bộ phim tài liệu về hạt vi nhựa, ít nhất là tôi đã bắt đầu xem",
+        "role": "main idea"
+      },
+      {
+        "text": "but then I found it was made ten years ago so I gave up.",
+        "vi": "nhưng rồi tôi phát hiện nó được làm từ mười năm trước nên tôi bỏ luôn.",
+        "role": "contrast / result"
+      }
+    ]
+  },
+  {
+    "id": "toxicity-learn",
+    "meaningVi": "độc tính",
+    "translation": "Bài viết về độc tính của kim loại vượt quá tầm hiểu của tôi.",
+    "breakdown": [
+      {
+        "text": "The article on metal toxicity was way above my head.",
+        "vi": "Bài viết về độc tính của kim loại vượt quá tầm hiểu của tôi.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "cultivate-learn",
+    "meaningVi": "trồng trọt; canh tác",
+    "translation": "Có thể mất tám đến mười năm để một cây bắt đầu cho mủ cao su, vì vậy việc trồng chúng là một quá trình chậm chạp.",
+    "breakdown": [
+      {
+        "text": "It can take eight to ten years for a tree",
+        "vi": "Có thể mất tám đến mười năm để một cây",
+        "role": "main idea"
+      },
+      {
+        "text": "to start producing rubber, so cultivating them's a slow process.",
+        "vi": "bắt đầu cho mủ cao su, vì vậy việc trồng chúng là một quá trình chậm chạp.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "labour-intensive-learn",
+    "meaningVi": "thâm dụng lao động; cần nhiều nhân công",
+    "translation": "Nó rất cần nhiều lao động.",
+    "breakdown": [
+      {
+        "text": "It's very labour-intensive.",
+        "vi": "Nó rất cần nhiều lao động.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "genetic-diversity-learn",
+    "meaningVi": "đa dạng di truyền",
+    "translation": "Điều này có nghĩa là có rất ít đa dạng di truyền giữa các cây, và điều đó lại khiến chúng rất dễ bị bệnh.",
+    "breakdown": [
+      {
+        "text": "This means that there's very little genetic diversity among the",
+        "vi": "Điều này có nghĩa là có rất ít đa dạng di truyền giữa các",
+        "role": "main idea"
+      },
+      {
+        "text": "trees, which in turn makes them very vulnerable to disease.",
+        "vi": "cây, và điều đó lại khiến chúng rất dễ bị bệnh.",
+        "role": "relative clause / result"
+      }
+    ]
+  },
+  {
+    "id": "synthetic-learn",
+    "meaningVi": "tổng hợp; nhân tạo",
+    "translation": "Ví dụ, trong khi hỗn hợp cao su tự nhiên và cao su tổng hợp hoạt động tốt cho lốp ô tô, chỉ có cao su tự nhiên mới chịu được tốc độ cực cao của lốp máy bay khi cất cánh và hạ cánh.",
+    "breakdown": [
+      {
+        "text": "while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing.",
+        "vi": "Ví dụ, trong khi hỗn hợp cao su tự nhiên và cao su tổng hợp hoạt động tốt cho lốp ô tô, chỉ có cao su tự nhiên mới chịu được tốc độ cực cao của lốp máy bay khi cất cánh và hạ cánh.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "amass-learn",
+    "meaningVi": "tích lũy; sưu tầm",
+    "translation": "Gwendoline (1882-1951) và Margaret (1884-1963) Davies là cháu gái của David Davies, một người xứ Wales đã tích lũy được một gia sản trong ngành vận tải biển và khai mỏ.",
+    "breakdown": [
+      {
+        "text": "Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies",
+        "vi": "Gwendoline (1882-1951) và Margaret (1884-1963) Davies là cháu gái của David Davies",
+        "role": "main idea / who"
+      },
+      {
+        "text": "a Welshman who amassed a fortune in the shipping and mining industries.",
+        "vi": "một người xứ Wales đã tích lũy được một gia sản trong ngành vận tải biển và khai mỏ.",
+        "role": "appositive / relative clause"
+      }
+    ]
+  },
+  {
+    "id": "philanthropic-learn",
+    "meaningVi": "từ thiện; nhân đạo",
+    "translation": "Sự giáo dục tôn giáo của họ ở vùng nông thôn xứ Wales đã cho họ một ý thức sâu sắc về trách nhiệm xã hội, và họ chọn dùng tài sản thừa kế của mình cho các mục đích văn hóa và từ thiện*.",
+    "breakdown": [
+      {
+        "text": "Their religious upbringing in rural Wales gave them a deep sense of social",
+        "vi": "Sự giáo dục tôn giáo của họ ở vùng nông thôn xứ Wales đã cho họ một ý thức sâu sắc về",
+        "role": "background / cause"
+      },
+      {
+        "text": "responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.",
+        "vi": "trách nhiệm xã hội, và họ chọn dùng tài sản thừa kế của mình cho các mục đích văn hóa và từ thiện*.",
+        "role": "main clause / result"
+      }
+    ]
+  },
+  {
+    "id": "contemporary-learn",
+    "meaningVi": "đương thời; cùng thời",
+    "translation": "Margaret cũng ngừng sưu tầm vào khoảng thời gian này, nhưng lại bắt đầu trở lại vào những năm 1930, mua với quy mô tương đối nhỏ các tác phẩm của các nghệ sĩ đương thời người Anh.",
+    "breakdown": [
+      {
+        "text": "Margaret also stopped collecting around this time, but started again in the",
+        "vi": "Margaret cũng ngừng sưu tầm vào khoảng thời gian này, nhưng lại bắt đầu trở lại vào",
+        "role": "contrast"
+      },
+      {
+        "text": "1930s acquiring, on a relatively small scale, work by contemporary British artists.",
+        "vi": "những năm 1930, mua với quy mô tương đối nhỏ các tác phẩm của các nghệ sĩ đương thời người Anh.",
+        "role": "time / elaboration"
+      }
+    ]
+  },
+  {
+    "id": "oppose-learn",
+    "meaningVi": "phản đối",
+    "translation": "Hugh Blaker phản đối quyết định mua tranh của các họa sĩ Trường phái Ấn tượng Pháp của hai chị em nhà Davies.",
+    "breakdown": [
+      {
+        "text": "Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.",
+        "vi": "Hugh Blaker phản đối quyết định mua tranh của các họa sĩ Trường phái Ấn tượng Pháp của hai chị em nhà Davies.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "inheritance-learn",
+    "meaningVi": "tài sản thừa kế",
+    "translation": "Năm 1907, khi Gwendoline nhận được tài sản thừa kế (Margaret sẽ làm điều tương tự vào năm 1909), hai chị em được cho là những phụ nữ chưa kết hôn giàu nhất nước Anh.",
+    "breakdown": [
+      {
+        "text": "In 1907, when Gwendoline came into her inheritance (Margaret would follow in",
+        "vi": "Năm 1907, khi Gwendoline nhận được tài sản thừa kế (Margaret sẽ làm điều tương tự vào",
+        "role": "time clause"
+      },
+      {
+        "text": "1909), the sisters were said to be the wealthiest unmarried women in Britain.",
+        "vi": "năm 1909), hai chị em được cho là những phụ nữ chưa kết hôn giàu nhất nước Anh.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "excessive-learn",
+    "meaningVi": "quá mức",
+    "translation": "Tổ chức Y tế Thế giới gần đây đã xem tiếng ồn quá mức là một 'mối đe dọa bị đánh giá thấp' đối với sức khỏe cộng đồng, và đã nói rằng những người sống ở các thành phố như Mumbai, Tokyo và Buenos Aires đang phải chịu mức tiếng ồn ban đêm cao hơn nhiều so với mức 40 decibel được khuyến nghị.",
+    "breakdown": [
+      {
+        "text": "The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said",
+        "vi": "Tổ chức Y tế Thế giới gần đây đã xem tiếng ồn quá mức là một 'mối đe dọa bị đánh giá thấp' đối với sức khỏe cộng đồng, và đã nói rằng",
+        "role": "main idea"
+      },
+      {
+        "text": "that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night.",
+        "vi": "những người sống ở các thành phố như Mumbai, Tokyo và Buenos Aires đang phải chịu mức tiếng ồn ban đêm cao hơn nhiều so với mức 40 decibel được khuyến nghị.",
+        "role": "reported clause"
+      }
+    ]
+  },
+  {
+    "id": "physiological-learn",
+    "meaningVi": "thuộc sinh lý",
+    "translation": "một mô tả về những thay đổi sinh lý trong cơ thể chúng ta khi nghe thấy tiếng động đột ngột",
+    "breakdown": [
+      {
+        "text": "a description of physiological changes in our bodies when we hear sudden noises",
+        "vi": "một mô tả về những thay đổi sinh lý trong cơ thể chúng ta khi nghe thấy tiếng động đột ngột",
+        "role": "noun phrase / description"
+      }
+    ]
+  },
+  {
+    "id": "sensory-deprivation-learn",
+    "meaningVi": "sự thiếu hụt giác quan",
+    "translation": "Người ta biết ít hơn về những ảnh hưởng mà sự thiếu hụt giác quan có thể gây ra cho não.",
+    "breakdown": [
+      {
+        "text": "Less is known about what effects sensory deprivation can have on the brain.",
+        "vi": "Người ta biết ít hơn về những ảnh hưởng mà sự thiếu hụt giác quan có thể gây ra cho não.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "compensate-learn",
+    "meaningVi": "bù đắp; bù lại",
+    "translation": "Khi các giác quan của cơ thể hoàn toàn không có đầu vào, tâm trí chúng ta bù đắp cho điều này bằng cách tạo ra ảo giác về hình ảnh và âm thanh.",
+    "breakdown": [
+      {
+        "text": "When our body's senses are completely deprived of input, our minds",
+        "vi": "Khi các giác quan của cơ thể hoàn toàn không có đầu vào, tâm trí chúng ta",
+        "role": "condition"
+      },
+      {
+        "text": "compensate for this by creating the illusion of images and sounds.",
+        "vi": "bù đắp cho điều này bằng cách tạo ra ảo giác về hình ảnh và âm thanh.",
+        "role": "main clause / result"
+      }
+    ]
+  },
+  {
+    "id": "stimulus-learn",
+    "meaningVi": "tác nhân kích thích",
+    "translation": "Khi bạn không có các kích thích giác quan từ bên ngoài đưa vào, não sẽ cố gắng lấp đầy khoảng trống.",
+    "breakdown": [
+      {
+        "text": "When you don’t have external sensory stimuli coming in, the brain tries to fill the void.",
+        "vi": "Khi bạn không có các kích thích giác quan từ bên ngoài đưa vào, não sẽ cố gắng lấp đầy khoảng trống.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "beneficial-learn",
+    "meaningVi": "có lợi",
+    "translation": "Các nhà nghiên cứu cũng đang tìm hiểu những khía cạnh nào của trải nghiệm im lặng là có lợi nhất cho sức khỏe của chúng ta.",
+    "breakdown": [
+      {
+        "text": "Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health.",
+        "vi": "Các nhà nghiên cứu cũng đang tìm hiểu những khía cạnh nào của trải nghiệm im lặng là có lợi nhất cho sức khỏe của chúng ta.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "cultivation-learn",
+    "meaningVi": "sự trồng trọt; canh tác",
+    "translation": "'Thế giới Đường' cũng là một câu chuyện về sự tương đồng và tính liên tục trong việc trồng mía đường.",
+    "breakdown": [
+      {
+        "text": "The World of Sugar is also a story of similarity and continuity in sugar cultivation.",
+        "vi": "'Thế giới Đường' cũng là một câu chuyện về sự tương đồng và tính liên tục trong việc trồng mía đường.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "misconception-learn",
+    "meaningVi": "hiểu lầm; quan niệm sai",
+    "translation": "giải quyết một quan niệm sai về việc trồng mía đường",
+    "breakdown": [
+      {
+        "text": "addressing a misconception about the growing of sugar cane",
+        "vi": "giải quyết một quan niệm sai về việc trồng mía đường",
+        "role": "gerund phrase / focus"
+      }
+    ]
+  },
+  {
+    "id": "processed-learn",
+    "meaningVi": "đã qua chế biến",
+    "translation": "Nó hiện được tiêu thụ rộng rãi, đã được dùng trong việc sản xuất nước ngọt và một số lượng lớn thực phẩm đã qua chế biến, và được coi là một nguyên nhân hàng đầu gây béo phì.",
+    "breakdown": [
+      {
+        "text": "It is now widely consumed, having been adopted in the making of soft drinks and",
+        "vi": "Nó hiện được tiêu thụ rộng rãi, đã được dùng trong việc sản xuất nước ngọt và",
+        "role": "main idea"
+      },
+      {
+        "text": "a large number of processed foods, and is regarded as a leading cause of obesity.",
+        "vi": "một số lượng lớn thực phẩm đã qua chế biến, và được coi là một nguyên nhân hàng đầu gây béo phì.",
+        "role": "addition / evaluation"
+      }
+    ]
+  },
+  {
+    "id": "plantation-learn",
+    "meaningVi": "đồn điền",
+    "translation": "Trái với quan niệm phổ biến, sản xuất đường mía chưa bao giờ chỉ giới hạn ở những đồn điền lớn, chuyên dụng do những người giàu sở hữu.",
+    "breakdown": [
+      {
+        "text": "Contrary to popular belief, cane sugar production was never",
+        "vi": "Trái với quan niệm phổ biến, sản xuất đường mía chưa bao giờ",
+        "role": "contrast"
+      },
+      {
+        "text": "just restricted to large, dedicated plantations owned by rich men.",
+        "vi": "chỉ giới hạn ở những đồn điền lớn, chuyên dụng do những người giàu sở hữu.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "microplastics-sentence",
+    "meaningVi": "hạt vi nhựa",
+    "translation": "Tôi đã xem bộ phim tài liệu về hạt vi nhựa, ít nhất là tôi đã bắt đầu xem, nhưng rồi tôi phát hiện nó được làm từ mười năm trước nên tôi bỏ luôn.",
+    "breakdown": [
+      {
+        "text": "I watched the documentary on microplastics, at least I started to",
+        "vi": "Tôi đã xem bộ phim tài liệu về hạt vi nhựa, ít nhất là tôi đã bắt đầu xem",
+        "role": "main idea"
+      },
+      {
+        "text": "but then I found it was made ten years ago so I gave up.",
+        "vi": "nhưng rồi tôi phát hiện nó được làm từ mười năm trước nên tôi bỏ luôn.",
+        "role": "contrast / result"
+      }
+    ]
+  },
+  {
+    "id": "dandelion-sentence",
+    "meaningVi": "cây bồ công anh",
+    "translation": "Giờ thì, so với cây cao su, bồ công anh cho lượng cao su tương đối nhỏ, nhưng không giống cây cao su, chúng rất dễ thích nghi.",
+    "breakdown": [
+      {
+        "text": "Now, compared to the rubber tree, dandelions produce relatively small",
+        "vi": "Giờ thì, so với cây cao su, bồ công anh cho lượng cao su tương đối nhỏ",
+        "role": "comparison"
+      },
+      {
+        "text": "amounts of rubber, but unlike rubber trees, they're very adaptable.",
+        "vi": "nhưng không giống cây cao su, chúng rất dễ thích nghi.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "collecting-sentence",
+    "meaningVi": "việc sưu tầm",
+    "translation": "Tuy nhiên, chỉ vài năm sau thì việc sưu tầm của họ đã có một hướng đi mới và họ chuyển sang các tác phẩm của những họa sĩ Trường phái Ấn tượng Pháp***.",
+    "breakdown": [
+      {
+        "text": "However, it was only a few years before their collecting took a",
+        "vi": "Tuy nhiên, chỉ vài năm sau thì việc sưu tầm của họ đã có một",
+        "role": "contrast / time"
+      },
+      {
+        "text": "new direction and they turned to the work of the French Impressionists***.",
+        "vi": "hướng đi mới và họ chuyển sang các tác phẩm của những họa sĩ Trường phái Ấn tượng Pháp***.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "beet-sentence",
+    "meaningVi": "củ cải đường",
+    "translation": "Nhưng đây không chỉ là lịch sử của đường mía mà còn là lịch sử của đường củ cải, một dạng đường buôn bán quan trọng không kém trong trăm năm qua.",
+    "breakdown": [
+      {
+        "text": "But this is a history not just of cane sugar",
+        "vi": "Nhưng đây không chỉ là lịch sử của đường mía",
+        "role": "contrast"
+      },
+      {
+        "text": "but also of beet sugar, an equally important form of traded sugar over the last hundred years.",
+        "vi": "mà còn là lịch sử của đường củ cải, một dạng đường buôn bán quan trọng không kém trong trăm năm qua.",
+        "role": "addition / appositive"
+      }
+    ]
+  },
+  {
+    "id": "cane-sentence",
+    "meaningVi": "cây mía",
+    "translation": "Ví dụ, ở Java, một nơi xuất khẩu đường rất lớn vào đầu thế kỷ 20, mía được trồng cùng với lúa theo một cách cực kỳ thâm dụng lao động bởi những nông dân nhỏ.",
+    "breakdown": [
+      {
+        "text": "For example, in Java, a huge exporter of sugar in the early 20th century",
+        "vi": "Ví dụ, ở Java, một nơi xuất khẩu đường rất lớn vào đầu thế kỷ 20",
+        "role": "example / background"
+      },
+      {
+        "text": "sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.",
+        "vi": "mía được trồng cùng với lúa theo một cách cực kỳ thâm dụng lao động bởi những nông dân nhỏ.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "expose-sentence",
+    "meaningVi": "phơi nhiễm; tiếp xúc",
+    "translation": "Một báo cáo của Cơ quan Môi trường Châu Âu kết luận rằng tiếng ồn là một vấn đề đang tiếp diễn và lan rộng ở Châu Âu, với ít nhất 1 trong 5 người thường xuyên tiếp xúc với mức được coi là có hại cho sức khỏe.",
+    "breakdown": [
+      {
+        "text": "A report from the European Environment Agency concluded",
+        "vi": "Một báo cáo của Cơ quan Môi trường Châu Âu kết luận",
+        "role": "main idea"
+      },
+      {
+        "text": "that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health.",
+        "vi": "rằng tiếng ồn là một vấn đề đang tiếp diễn và lan rộng ở Châu Âu, với ít nhất 1 trong 5 người thường xuyên tiếp xúc với mức được coi là có hại cho sức khỏe.",
+        "role": "reported clause"
+      }
+    ]
+  },
+  {
+    "id": "lionfish-sentence",
+    "meaningVi": "cá sư tử",
+    "translation": "Bạn nghĩ gì về bài viết nói về cá sư tử xâm lấn đó?",
+    "breakdown": [
+      {
+        "text": "What did you think of that article on invasive lionfish?",
+        "vi": "Bạn nghĩ gì về bài viết nói về cá sư tử xâm lấn đó?",
+        "role": "question / main idea"
+      }
+    ]
+  },
+  {
+    "id": "impressionist-sentence",
+    "meaningVi": "họa sĩ Trường phái Ấn tượng",
+    "translation": "Bộ sưu tập của Gwendoline và Margaret Davies, được hiến tặng lần lượt vào năm 1951 và 1963 cho Bảo tàng Quốc gia Wales, gồm những tác phẩm tiêu biểu của các họa sĩ Trường phái Ấn tượng Pháp hàng đầu.",
+    "breakdown": [
+      {
+        "text": "The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to",
+        "vi": "Bộ sưu tập của Gwendoline và Margaret Davies, được hiến tặng lần lượt vào năm 1951 và 1963 cho",
+        "role": "subject / relative clause"
+      },
+      {
+        "text": "the National Museum Wales, contains major examples of work by leading French Impressionists.",
+        "vi": "Bảo tàng Quốc gia Wales, gồm những tác phẩm tiêu biểu của các họa sĩ Trường phái Ấn tượng Pháp hàng đầu.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "civilisation-sentence",
+    "meaningVi": "nền văn minh",
+    "translation": "Phần lớn thế giới hiện nay đang sống trong một nền văn minh công nghiệp.",
+    "breakdown": [
+      {
+        "text": "Much of the world now lives in an industrial civilisation.",
+        "vi": "Phần lớn thế giới hiện nay đang sống trong một nền văn minh công nghiệp.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "ecosystem-sentence",
+    "meaningVi": "hệ sinh thái",
+    "translation": "Bạn đã đọc cuốn sách về các hệ sinh thái ven biển đó chưa?",
+    "breakdown": [
+      {
+        "text": "Did you read that book on coastal ecosystems?",
+        "vi": "Bạn đã đọc cuốn sách về các hệ sinh thái ven biển đó chưa?",
+        "role": "question / main idea"
+      }
+    ]
+  },
+  {
+    "id": "supervisor-sentence",
+    "meaningVi": "người giám sát; người phụ trách",
+    "translation": "Hãy làm theo sự hướng dẫn của người giám sát và cố gắng giữ bình tĩnh mọi lúc.",
+    "breakdown": [
+      {
+        "text": "Follow your supervisor's lead and try to remain calm at all times.",
+        "vi": "Hãy làm theo sự hướng dẫn của người giám sát và cố gắng giữ bình tĩnh mọi lúc.",
+        "role": "advice / instruction"
+      }
+    ]
+  },
+  {
+    "id": "decrease-sentence",
+    "meaningVi": "sự giảm; sự suy giảm",
+    "translation": "Những người tham gia báo cáo sự giảm căng cơ, đau và các triệu chứng của tình trạng bệnh của họ sau một lần nổi trong bồn nước muối kéo dài một giờ, cùng với sự gia tăng cảm giác thư giãn và sức khỏe tổng thể.",
+    "breakdown": [
+      {
+        "text": "Participants reported decreases in muscle tension, pain and symptoms of their conditions after",
+        "vi": "Những người tham gia báo cáo sự giảm căng cơ, đau và các triệu chứng của tình trạng bệnh của họ sau",
+        "role": "main idea"
+      },
+      {
+        "text": "a single, I-hour float, alongside an increase in feelings of relaxation and overall wellbeing.",
+        "vi": "một lần nổi trong bồn nước muối kéo dài một giờ, cùng với sự gia tăng cảm giác thư giãn và sức khỏe tổng thể.",
+        "role": "time / addition"
+      }
+    ]
+  },
+  {
+    "id": "quieter-sentence",
+    "meaningVi": "yên tĩnh hơn; ít ồn hơn",
+    "translation": "'Bằng cách đưa ra các khuyến nghị về xe buýt ít ồn hơn, giảm tiếng ồn từ đường sá và cũng kiểm soát tiếng ồn từ máy bay, họ đã có thể làm cho thành phố yên tĩnh hơn', Antonio nói.",
+    "breakdown": [
+      {
+        "text": "'By providing recommendations for quieter buses, reducing noise from roads and also controlling",
+        "vi": "'Bằng cách đưa ra các khuyến nghị về xe buýt ít ồn hơn, giảm tiếng ồn từ đường sá và cũng kiểm soát",
+        "role": "means / method"
+      },
+      {
+        "text": "noise from aircraft, they were able to make the city quieter,' says Antonio.",
+        "vi": "tiếng ồn từ máy bay, họ đã có thể làm cho thành phố yên tĩnh hơn', Antonio nói.",
+        "role": "result / main clause"
+      }
+    ]
+  },
+  {
+    "id": "corn-sentence",
+    "meaningVi": "cây ngô; bắp",
+    "translation": "Xi-rô ngô có hàm lượng fructose cao, được làm từ ngô bằng một quy trình enzym được phát minh ở Nhật Bản vào những năm 1960, có số calo tương tự đường ăn nhưng rẻ hơn nhiều để sản xuất.",
+    "breakdown": [
+      {
+        "text": "High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar",
+        "vi": "Xi-rô ngô có hàm lượng fructose cao, được làm từ ngô bằng một quy trình enzym được phát minh ở Nhật Bản vào những năm 1960, có số calo tương tự đường ăn",
+        "role": "main idea"
+      },
+      {
+        "text": "but is far cheaper to produce.",
+        "vi": "nhưng rẻ hơn nhiều để sản xuất.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "resource-sentence",
+    "meaningVi": "nguồn tài nguyên",
+    "translation": "Với các nguồn tài nguyên khác như nước và thủy tinh, khi dùng xong chúng ta có thể tái chế chúng, nhưng mặc dù điều này cũng có thể làm được với cao su, việc đó rất khó, nên điều đó cũng làm giảm lượng cao su chúng ta có sẵn.",
+    "breakdown": [
+      {
+        "text": "With other resources such as water and glass",
+        "vi": "Với các nguồn tài nguyên khác như nước và thủy tinh",
+        "role": "comparison / topic"
+      },
+      {
+        "text": "when we've finished using them we can recycle them, but although this is also possible with rubber, it's very difficult, so that also reduces the amount we have available.",
+        "vi": "khi dùng xong chúng ta có thể tái chế chúng, nhưng mặc dù điều này cũng có thể làm được với cao su, việc đó rất khó, nên điều đó cũng làm giảm lượng cao su chúng ta có sẵn.",
+        "role": "contrast / result"
+      }
+    ]
+  },
+  {
+    "id": "collect-sentence",
+    "meaningVi": "sưu tầm; thu thập",
+    "translation": "Margaret cũng ngừng sưu tầm vào khoảng thời gian này, nhưng lại bắt đầu trở lại vào những năm 1930, mua với quy mô tương đối nhỏ các tác phẩm của các nghệ sĩ đương thời người Anh.",
+    "breakdown": [
+      {
+        "text": "Margaret also stopped collecting around this time, but started again in the",
+        "vi": "Margaret cũng ngừng sưu tầm vào khoảng thời gian này, nhưng lại bắt đầu trở lại vào",
+        "role": "contrast"
+      },
+      {
+        "text": "1930s acquiring, on a relatively small scale, work by contemporary British artists.",
+        "vi": "những năm 1930, mua với quy mô tương đối nhỏ các tác phẩm của các nghệ sĩ đương thời người Anh.",
+        "role": "time / elaboration"
+      }
+    ]
+  },
+  {
+    "id": "makeup-sentence",
+    "meaningVi": "trang điểm; đồ trang điểm",
+    "translation": "Nó có thể căng thẳng, nhưng bạn sẽ thấy rằng những chuyên viên trang điểm hàng đầu rất chuyên nghiệp - ngay cả khi họ phải làm việc với những đạo diễn thiếu kiên nhẫn.",
+    "breakdown": [
+      {
+        "text": "It can be stressful",
+        "vi": "Nó có thể căng thẳng",
+        "role": "concession"
+      },
+      {
+        "text": "but you'll see that the top makeup artists are very professional - even when they're having to work with directors who are impatient.",
+        "vi": "nhưng bạn sẽ thấy rằng những chuyên viên trang điểm hàng đầu rất chuyên nghiệp - ngay cả khi họ phải làm việc với những đạo diễn thiếu kiên nhẫn.",
+        "role": "contrast / main clause"
+      }
+    ]
+  },
+  {
+    "id": "silent-sentence",
+    "meaningVi": "im lặng; yên tĩnh",
+    "translation": "Trong một nghiên cứu gần đây, ông phát hiện rằng những người tham gia báo cáo thư giãn hơn và ít buồn chán hơn khi họ ngồi yên tĩnh trong một khu vườn ngoài trời so với một căn phòng hoàn toàn im lặng.",
+    "breakdown": [
+      {
+        "text": "In a recent study, he found",
+        "vi": "Trong một nghiên cứu gần đây, ông phát hiện",
+        "role": "main idea / source"
+      },
+      {
+        "text": "that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room.",
+        "vi": "rằng những người tham gia báo cáo thư giãn hơn và ít buồn chán hơn khi họ ngồi yên tĩnh trong một khu vườn ngoài trời so với một căn phòng hoàn toàn im lặng.",
+        "role": "reported clause / comparison"
+      }
+    ]
+  },
+  {
+    "id": "documentary-sentence",
+    "meaningVi": "phim tài liệu",
+    "translation": "Tôi đã xem bộ phim tài liệu về hạt vi nhựa, ít nhất là tôi đã bắt đầu xem, nhưng rồi tôi phát hiện nó được làm từ mười năm trước nên tôi bỏ luôn.",
+    "breakdown": [
+      {
+        "text": "I watched the documentary on microplastics, at least I started to",
+        "vi": "Tôi đã xem bộ phim tài liệu về hạt vi nhựa, ít nhất là tôi đã bắt đầu xem",
+        "role": "main idea"
+      },
+      {
+        "text": "but then I found it was made ten years ago so I gave up.",
+        "vi": "nhưng rồi tôi phát hiện nó được làm từ mười năm trước nên tôi bỏ luôn.",
+        "role": "contrast / result"
+      }
+    ]
+  },
+  {
+    "id": "diversity-sentence",
+    "meaningVi": "sự đa dạng",
+    "translation": "Điều này có nghĩa là có rất ít đa dạng di truyền giữa các cây, và điều đó lại khiến chúng rất dễ bị bệnh.",
+    "breakdown": [
+      {
+        "text": "This means that there's very little genetic diversity among the",
+        "vi": "Điều này có nghĩa là có rất ít đa dạng di truyền giữa các",
+        "role": "main idea"
+      },
+      {
+        "text": "trees, which in turn makes them very vulnerable to disease.",
+        "vi": "cây, và điều đó lại khiến chúng rất dễ bị bệnh.",
+        "role": "relative clause / result"
+      }
+    ]
+  },
+  {
+    "id": "agriculture-sentence",
+    "meaningVi": "nông nghiệp",
+    "translation": "Nhưng sản xuất đường chưa bao giờ chỉ là chuyện nông nghiệp.",
+    "breakdown": [
+      {
+        "text": "But sugar production was never just a matter of agriculture.",
+        "vi": "Nhưng sản xuất đường chưa bao giờ chỉ là chuyện nông nghiệp.",
+        "role": "contrast / main idea"
+      }
+    ]
+  },
+  {
+    "id": "suitable-sentence",
+    "meaningVi": "phù hợp",
+    "translation": "Và có khóa học nào khác phù hợp không?",
+    "breakdown": [
+      {
+        "text": "And are there any other suitable courses?",
+        "vi": "Và có khóa học nào khác phù hợp không?",
+        "role": "question / request"
+      }
+    ]
+  },
+  {
+    "id": "worker-sentence",
+    "meaningVi": "công nhân; người lao động",
+    "translation": "Ví dụ, Cuba đã phát triển một hệ thống đường sắt dày đặc bất thường để vận chuyển công nhân và mía, cũng như các nhà máy đường chạy bằng hơi nước.",
+    "breakdown": [
+      {
+        "text": "Cuba, for example, developed an extraordinarily dense system of railways",
+        "vi": "Ví dụ, Cuba đã phát triển một hệ thống đường sắt dày đặc bất thường",
+        "role": "example / main clause"
+      },
+      {
+        "text": "to transport workers and cane, as well as steam-powered sugar factories.",
+        "vi": "để vận chuyển công nhân và mía, cũng như các nhà máy đường chạy bằng hơi nước.",
+        "role": "purpose / addition"
+      }
+    ]
+  },
+  {
+    "id": "noise-sentence",
+    "meaningVi": "tiếng ồn",
+    "translation": "Một báo cáo của Cơ quan Môi trường Châu Âu kết luận rằng tiếng ồn là một vấn đề đang tiếp diễn và lan rộng ở Châu Âu, với ít nhất 1 trong 5 người thường xuyên tiếp xúc với mức được coi là có hại cho sức khỏe.",
+    "breakdown": [
+      {
+        "text": "A report from the European Environment Agency concluded",
+        "vi": "Một báo cáo của Cơ quan Môi trường Châu Âu kết luận",
+        "role": "main idea"
+      },
+      {
+        "text": "that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health.",
+        "vi": "rằng tiếng ồn là một vấn đề đang tiếp diễn và lan rộng ở Châu Âu, với ít nhất 1 trong 5 người thường xuyên tiếp xúc với mức được coi là có hại cho sức khỏe.",
+        "role": "reported clause"
+      }
+    ]
+  },
+  {
+    "id": "quiet-sentence",
+    "meaningVi": "yên tĩnh",
+    "translation": "'Khi chúng ta tìm ra cách để yên tĩnh, chúng ta không chỉ yên tĩnh trong môi trường của mình, mà còn yên tĩnh trong nội tâm', bà giải thích.",
+    "breakdown": [
+      {
+        "text": "'When we find ways to be quiet, we are not only",
+        "vi": "'Khi chúng ta tìm ra cách để yên tĩnh, chúng ta không chỉ",
+        "role": "condition"
+      },
+      {
+        "text": "quiet in our environment, but quiet in our inner selves,' she explains.",
+        "vi": "yên tĩnh trong môi trường của mình, mà còn yên tĩnh trong nội tâm', bà giải thích.",
+        "role": "not only... but also / main clause"
+      }
+    ]
+  },
+  {
+    "id": "sugar-sentence",
+    "meaningVi": "đường",
+    "translation": "Ở nhiều nơi - không chỉ vùng Caribe thuộc Anh mà cả Cuba và Philippines nữa - một tầng lớp tư sản đường quyền lực đóng vai trò lớn trong chính trị và lợi ích của họ vì thế được bảo vệ bằng hàng rào thương mại và trợ cấp.",
+    "breakdown": [
+      {
+        "text": "In many places - not just the British Caribbean",
+        "vi": "Ở nhiều nơi - không chỉ vùng Caribe thuộc Anh",
+        "role": "setting / scope"
+      },
+      {
+        "text": "but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies.",
+        "vi": "mà cả Cuba và Philippines nữa - một tầng lớp tư sản đường quyền lực đóng vai trò lớn trong chính trị và lợi ích của họ vì thế được bảo vệ bằng hàng rào thương mại và trợ cấp.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "ocean-sentence",
+    "meaningVi": "đại dương",
+    "translation": "Những ví dụ cô ấy đưa ra ở mức độ toàn cầu hơn, và chúng thực sự khiến tôi hiểu rõ các mối đe dọa đối với đa dạng sinh học đại dương rộng khắp đến mức nào.",
+    "breakdown": [
+      {
+        "text": "The examples she gave were at a more global level, and they really",
+        "vi": "Những ví dụ cô ấy đưa ra ở mức độ toàn cầu hơn, và chúng thực sự",
+        "role": "main idea"
+      },
+      {
+        "text": "made it clear to me just how wide-ranging the threats to ocean biodiversity are.",
+        "vi": "khiến tôi hiểu rõ các mối đe dọa đối với đa dạng sinh học đại dương rộng khắp đến mức nào.",
+        "role": "result / reported content"
+      }
+    ]
+  },
+  {
+    "id": "external-sentence",
+    "meaningVi": "bên ngoài",
+    "translation": "'Khi bạn không có các kích thích giác quan từ bên ngoài đưa vào, não cố gắng lấp đầy khoảng trống để hiểu được thế giới tối tăm và im lặng này', ông giải thích.",
+    "breakdown": [
+      {
+        "text": "'When you don't have external sensory stimuli coming in, the brain tries to",
+        "vi": "'Khi bạn không có các kích thích giác quan từ bên ngoài đưa vào, não cố gắng",
+        "role": "condition"
+      },
+      {
+        "text": "fill the void to make sense of this dark and silent world,' he explains.",
+        "vi": "lấp đầy khoảng trống để hiểu được thế giới tối tăm và im lặng này', ông giải thích.",
+        "role": "purpose / main clause"
+      }
+    ]
+  },
+  {
+    "id": "introduction-sentence",
+    "meaningVi": "sự giới thiệu; phần giới thiệu",
+    "translation": "Vậy những khóa này dành cho những người chưa từng chèo thuyền - về cơ bản đây là bước giới thiệu ban đầu về việc chèo thuyền để xem bạn có thích và có muốn tiếp tục với nó hay không.",
+    "breakdown": [
+      {
+        "text": "So these are for people who've never sailed before - it's basically an introduction to",
+        "vi": "Vậy những khóa này dành cho những người chưa từng chèo thuyền - về cơ bản đây là bước giới thiệu ban đầu về",
+        "role": "main idea"
+      },
+      {
+        "text": "sailing to find out whether you enjoy it and want to carry on with it.",
+        "vi": "việc chèo thuyền để xem bạn có thích và có muốn tiếp tục với nó hay không.",
+        "role": "purpose / elaboration"
+      }
+    ]
+  },
+  {
+    "id": "aircraft-sentence",
+    "meaningVi": "máy bay",
+    "translation": "Ví dụ, trong khi hỗn hợp cao su tự nhiên và cao su tổng hợp hoạt động tốt cho lốp ô tô, chỉ có cao su tự nhiên mới chịu được tốc độ cực cao của lốp máy bay khi cất cánh và hạ cánh.",
+    "breakdown": [
+      {
+        "text": "while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing.",
+        "vi": "Ví dụ, trong khi hỗn hợp cao su tự nhiên và cao su tổng hợp hoạt động tốt cho lốp ô tô, chỉ có cao su tự nhiên mới chịu được tốc độ cực cao của lốp máy bay khi cất cánh và hạ cánh.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "internal-sentence",
+    "meaningVi": "bên trong; nội tại",
+    "translation": "Để giúp đảm bảo những tiếng ồn lớn hoặc bất ngờ nhận được sự chú ý mà chúng xứng đáng, hóa học bên trong cơ thể chúng ta thay đổi để phản ứng với chúng.",
+    "breakdown": [
+      {
+        "text": "To help ensure loud or unexpected noises get the attention",
+        "vi": "Để giúp đảm bảo những tiếng ồn lớn hoặc bất ngờ nhận được sự chú ý",
+        "role": "purpose"
+      },
+      {
+        "text": "they deserve, our internal chemistry alters in response to them.",
+        "vi": "mà chúng xứng đáng, hóa học bên trong cơ thể chúng ta thay đổi để phản ứng với chúng.",
+        "role": "relative clause / main clause"
+      }
+    ]
+  },
+  {
+    "id": "extreme-sentence",
+    "meaningVi": "cực độ; tột cùng",
+    "translation": "Ví dụ, trong khi hỗn hợp cao su tự nhiên và cao su tổng hợp hoạt động tốt cho lốp ô tô, chỉ có cao su tự nhiên mới chịu được tốc độ cực cao của lốp máy bay khi cất cánh và hạ cánh.",
+    "breakdown": [
+      {
+        "text": "while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing.",
+        "vi": "Ví dụ, trong khi hỗn hợp cao su tự nhiên và cao su tổng hợp hoạt động tốt cho lốp ô tô, chỉ có cao su tự nhiên mới chịu được tốc độ cực cao của lốp máy bay khi cất cánh và hạ cánh.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "detail-sentence",
+    "meaningVi": "chi tiết",
+    "translation": "Vâng, lúc đầu tôi thấy nó khó đọc, nó đi vào rất nhiều chi tiết về những thứ như tác động của các trang trại điện gió ngoài khơi và các trang trại cá, nhưng thực ra cuối cùng tôi lại hiểu các vấn đề tốt hơn nhiều.",
+    "breakdown": [
+      {
+        "text": "Yes, I found it hard going at first, it went into a lot of detail about things like the effects of offshore windfarms and fish farms",
+        "vi": "Vâng, lúc đầu tôi thấy nó khó đọc, nó đi vào rất nhiều chi tiết về những thứ như tác động của các trang trại điện gió ngoài khơi và các trang trại cá",
+        "role": "concession"
+      },
+      {
+        "text": "but actually I ended up with a much better understanding of the issues.",
+        "vi": "nhưng thực ra cuối cùng tôi lại hiểu các vấn đề tốt hơn nhiều.",
+        "role": "contrast / result"
+      }
+    ]
+  }
+]

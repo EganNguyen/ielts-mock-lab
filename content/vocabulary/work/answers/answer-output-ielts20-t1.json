@@ -1,0 +1,140 @@
+{
+  "tag": "ielts20-t1",
+  "links": {
+    "keen-on-learn|l1|q1": {
+      "support": "If you like fish, it's probably the best restaurant in town for that.",
+      "connection": "The table asks what The Junction is 'especially good for' people who are 'keen on' something; the reply answers with 'If you like fish'.",
+      "paraphrasing": "'people who are keen on ______' -> 'If you like fish'"
+    },
+    "outlive-learn|l2|q13": {
+      "support": "Like our ancestors, they hope that something they create will also last longer than they do.",
+      "connection": "The question asks why some people join Heather's pottery class; this line gives their hope that what they create will 'last longer than they do'.",
+      "paraphrasing": "'make something that will outlive them' -> 'something they create will also last longer than they do'"
+    },
+    "essential-learn|l2|q19": {
+      "support": "However, there are some basic tools that you will need to handle the clay on the wheel.",
+      "connection": "The question asks for a point about a potter's tools; 'basic tools that you will need' matches the option 'Some are essential items'.",
+      "paraphrasing": "'Some are essential items' -> 'basic tools that you will need'"
+    },
+    "essential-learn|l2|q20": {
+      "support": "We can provide these, and I wouldn't recommend spending money on them yet.",
+      "connection": "'We can provide these' matches the option 'Some are available for use by participants'.",
+      "paraphrasing": "'Some are available for use by participants' -> 'We can provide these'"
+    },
+    "apron-learn|l2|q16": {
+      "support": "As we said in our email, please remove any watches, necklaces, etc., and put them somewhere safe.",
+      "connection": "Heather reminds visitors to 'remove any watches, necklaces, etc.', which matches 'take off their jewellery'.",
+      "paraphrasing": "'take off their jewellery' -> 'remove any watches, necklaces, etc.'"
+    },
+    "dementia-learn|l3|q23": {
+      "support": "but there's no doubt that loneliness contributes to a weakened immune system.",
+      "connection": "The question asks which health risks the students agree are based on solid evidence; 'there's no doubt' is said of 'a weakened immune system'.",
+      "paraphrasing": "'based on solid evidence' -> 'there's no doubt that loneliness contributes to a weakened immune system'"
+    },
+    "cardiovascular-learn|l3|q23": {
+      "support": "but there's no doubt that loneliness contributes to a weakened immune system.",
+      "connection": "The question asks which health risks the students agree are based on solid evidence; 'there's no doubt' is said of 'a weakened immune system'.",
+      "paraphrasing": "'based on solid evidence' -> 'there's no doubt that loneliness contributes to a weakened immune system'"
+    },
+    "overstated-learn|l3|q27": {
+      "support": "There's no available diagnosis or effective treatments, and that's not likely to change.",
+      "connection": "The students are comparing loneliness with depression; 'no available diagnosis or effective treatments, and that's not likely to change' supports doubting a medical cure.",
+      "paraphrasing": "'doubt that there will ever be a medical cure' -> 'no available ... effective treatments, and that's not likely to change'"
+    },
+    "solitude-learn|l3|q30": {
+      "support": "It's strange the way some people can't stand being by themselves while others love it.",
+      "connection": "The question says the students find it difficult to understand why solitude is considered enjoyable; 'It's strange' and 'others love it' supply that idea.",
+      "paraphrasing": "'solitude ... an enjoyable experience' -> 'being by themselves ... others love it'"
+    },
+    "sewage-learn|l4|q31": {
+      "support": "In addition, other types of pollution increased as factories were built beside the river.",
+      "connection": "The note asks about pollution from something 'on the river bank'; 'factories were built beside the river' gives the answer 'factories'.",
+      "paraphrasing": "'pollution from ______ on the river bank' -> 'pollution increased as factories were built beside the river'"
+    },
+    "biologically-dead-learn|l4|q32": {
+      "support": "As recently as 1957, scientists at London's Natural History Museum declared that the river Thames was dead in biological terms, as the water was too filthy to support any kind of life.",
+      "connection": "The note says the Thames was declared 'biologically ______' in 1957; the sentence has 'dead in biological terms'.",
+      "paraphrasing": "'biologically ______' -> 'dead in biological terms'"
+    },
+    "freight-barge-learn|l4|q39": {
+      "support": "The parcels could be taken the last few kilometers to their final destination on cargo bikes, electric ones.",
+      "connection": "The note lists goods travelling by 'freight barges and electric ______'; the sentence names 'cargo bikes, electric ones'.",
+      "paraphrasing": "'electric ______' -> 'cargo bikes, electric ones'"
+    },
+    "warehouse-learn|l4|q34": {
+      "support": "Warehouses that were once used for storing goods are now being converted into expensive restaurants and also into apartments with river views which are in great demand sell for astronomical prices.",
+      "connection": "The note says riverside warehouses 'are converted into restaurants and ______'; the sentence adds 'also into apartments'.",
+      "paraphrasing": "'restaurants and ______' -> 'restaurants and also into apartments'"
+    },
+    "inability-learn|r1|q1": {
+      "support": "It is the world's only flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years.",
+      "connection": "The statement claims other parrots share the kākāpō's 'inability to fly'; 'the world's only flightless parrot' contradicts that, so the answer is FALSE.",
+      "paraphrasing": "'inability to fly' -> 'flightless'; 'other parrots' -> 'the world's only'"
+    },
+    "critically-endangered-learn|r1|q1": {
+      "support": "It is the world's only flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years.",
+      "connection": "The statement claims other parrots share the kākāpō's 'inability to fly'; 'the world's only flightless parrot' contradicts that, so q1 is FALSE.",
+      "paraphrasing": "'other parrots ... inability to fly' -> 'the world's only flightless parrot'"
+    },
+    "nocturnal-learn|r1|q1": {
+      "support": "It is the world's only flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years.",
+      "connection": "The statement claims other parrots share the kākāpō's 'inability to fly'; 'the world's only flightless parrot' contradicts that, so q1 is FALSE.",
+      "paraphrasing": "'other parrots ... inability to fly' -> 'the world's only flightless parrot'"
+    },
+    "reintroduce-learn|r2|q16": {
+      "support": "A first epidemic, which occurred in the 1920s, gradually died down, but in the '70s a second epidemic was triggered by shipments of elm from Canada.",
+      "connection": "The question asks how Dutch elm disease was brought into Britain; the sentence says the second epidemic 'was triggered by shipments of elm from Canada'.",
+      "paraphrasing": "'was brought into Britain' -> 'was triggered by shipments of elm from Canada'"
+    },
+    "resistant-learn|r2|q19": {
+      "support": "You return in four to six weeks and trees that are resistant show no symptoms, whereas those that are susceptible show leaf loss and may even have died completely.",
+      "connection": "The statement says the damage 'rapidly becomes visible'; the sentence has susceptible trees showing 'leaf loss' and dying within 'four to six weeks'.",
+      "paraphrasing": "'damage rapidly becomes visible' -> 'in four to six weeks ... show leaf loss'"
+    },
+    "resistant-learn|r2|q20": {
+      "support": "Sometimes the best thing you can do is just give nature time to recover... over time, you might get resistance,' says Elliot.",
+      "connection": "The statement suggests it may be better to wait and see; Elliot says 'the best thing you can do is just give nature time to recover'.",
+      "paraphrasing": "'wait and see' -> 'give nature time to recover'"
+    },
+    "resistant-learn|r2|q21": {
+      "support": "The key, Russell says, is to identify and study those trees that have survived and work out why they stood tall when millions of others succumbed.",
+      "connection": "The statement says there must be an explanation for the survival of some mature elms; Russell says the key is to 'work out why they stood tall'.",
+      "paraphrasing": "'an explanation for the survival' -> 'study those trees that have survived and work out why they stood tall'"
+    },
+    "prominent-learn|r2|q23": {
+      "support": "The impact of the disease is difficult to picture if you hadn't seen what was there before,' says Matt Elliot of the Woodland Trust.",
+      "connection": "The statement says you understand the effect of the disease when you see evidence of how prominent the tree once was; Elliot says it is 'difficult to picture if you hadn't seen what was there before'.",
+      "paraphrasing": "'understand the effect ... when you see evidence' -> 'difficult to picture if you hadn't seen what was there before'"
+    },
+    "vulnerable-learn|r2|q18": {
+      "support": "Once the trunk of the elm reaches 10-15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold.",
+      "connection": "The question asks for the stage at which young elms become vulnerable; the sentence gives the trunk size at which the elm becomes 'a perfect size for beetles to lay eggs'.",
+      "paraphrasing": "'the stage at which young elms become vulnerable' -> 'Once the trunk ... reaches 10-15 centimetres ... a perfect size for beetles'"
+    },
+    "mature-learn|r2|q20": {
+      "support": "Sometimes the best thing you can do is just give nature time to recover... over time, you might get resistance,' says Elliot.",
+      "connection": "The statement suggests waiting to see if the mature elms that survived flourish; Elliot says to 'give nature time to recover' and that 'over time, you might get resistance'.",
+      "paraphrasing": "'wait and see if the mature elms ... continue to flourish' -> 'give nature time to recover ... over time, you might get resistance'"
+    },
+    "widely-held-assumption-learn|r3|q27": {
+      "support": "From medical decisions to financial and professional ones, we are all sometimes required to weigh up information under stressful conditions.",
+      "connection": "The question asks how the writer introduces the topic in the first paragraph; 'we are all sometimes required to weigh up information under stressful conditions' mentions a challenge faced by everyone.",
+      "paraphrasing": "'a challenge faced by everyone' -> 'we are all sometimes required to weigh up information under stressful conditions'"
+    },
+    "methodology-learn|r3|q29": {
+      "support": "Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online.",
+      "connection": "The question asks what the writer is doing in the fourth paragraph; this sentence sets out the lab procedure with 'students who were told they had to give a surprise public speech'.",
+      "paraphrasing": "'describing their methodology' -> 'Back in our lab, we observed ... students who were told they had to give a surprise public speech'"
+    },
+    "heightened-sensitivity-learn|r3|q30": {
+      "support": "Brain imaging reveals that this 'switch' is related to a sudden boost in a neural signal important for learning, specifically in response to unexpected warning signs, such as faces expressing fear.",
+      "connection": "The question asks about a mechanism in the brain; 'a sudden boost in a neural signal ... in response to unexpected warning signs' matches 'heightened sensitivity to indications of external threats'.",
+      "paraphrasing": "'produces heightened sensitivity to indications of external threats' -> 'a sudden boost in a neural signal ... in response to unexpected warning signs'"
+    },
+    "precaution-learn|r3|q39": {
+      "support": "As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do.",
+      "connection": "The statement says stress can lead us to take unnecessary precautions; 'trips are cancelled' and 'stocks are sold, even when holding on is the best thing to do' are those precautions.",
+      "paraphrasing": "'unnecessary precautions' -> 'trips are cancelled ... stocks are sold, even when holding on is the best thing to do'"
+    }
+  }
+}

@@ -1,0 +1,856 @@
+[
+  {
+    "id": "accommodation-learn",
+    "meaningVi": "chỗ ở",
+    "translation": "Còn chỗ ở thì sao?",
+    "breakdown": [
+      {
+        "text": "What about accommodation?",
+        "vi": "Còn chỗ ở thì sao?",
+        "role": "question"
+      }
+    ]
+  },
+  {
+    "id": "exhibition-learn",
+    "meaningVi": "cuộc triển lãm",
+    "translation": "Tôi đã đưa bọn trẻ đến cuộc triển lãm về máy tính cổ ở đó, và nó quá đông đúc.",
+    "breakdown": [
+      {
+        "text": "I took my kids to the exhibition on old computers there, and it was far too crowded.",
+        "vi": "Tôi đã đưa bọn trẻ đến cuộc triển lãm về máy tính cổ ở đó, và nó quá đông đúc.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "bargain-learn",
+    "meaningVi": "món hời; giá rẻ",
+    "translation": "Tiết kiệm tiền mua vé nhà hát tại bargaintickets.com.",
+    "breakdown": [
+      {
+        "text": "Save money on theatre tickets at bargaintickets.com.",
+        "vi": "Tiết kiệm tiền mua vé nhà hát tại bargaintickets.com.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "view-learn",
+    "meaningVi": "tầm nhìn; quang cảnh",
+    "translation": "Tôi nghe nói phong cảnh ở đó tuyệt đẹp.",
+    "breakdown": [
+      {
+        "text": "I've heard the views are amazing.",
+        "vi": "Tôi nghe nói phong cảnh ở đó tuyệt đẹp.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "spectator-learn",
+    "meaningVi": "khán giả",
+    "translation": "G việc bắt đầu thu phí đối với khán giả",
+    "breakdown": [
+      {
+        "text": "G the introduction of a fee for spectators",
+        "vi": "G việc bắt đầu thu phí đối với khán giả",
+        "role": "option statement"
+      }
+    ]
+  },
+  {
+    "id": "dressing-room-learn",
+    "meaningVi": "phòng thay đồ",
+    "translation": "Chúng ta sẽ bắt đầu với trải nghiệm rạp chiếu phim 360 độ, vốn đã rất được ưa chuộng trong nhiều năm qua, và sau đó tôi sẽ đưa các bạn đến phòng thay đồ của các cầu thủ.",
+    "breakdown": [
+      {
+        "text": "We'll start with the 360 cinema experience",
+        "vi": "Chúng ta sẽ bắt đầu với trải nghiệm rạp chiếu phim 360 độ",
+        "role": "main idea"
+      },
+      {
+        "text": "which has been very popular over the years, and then I'll take you to the players dressing rooms.",
+        "vi": "vốn đã rất được ưa chuộng trong nhiều năm qua, và sau đó tôi sẽ đưa các bạn đến phòng thay đồ của các cầu thủ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "fee-learn",
+    "meaningVi": "lệ phí; phí",
+    "translation": "G việc bắt đầu thu phí đối với khán giả",
+    "breakdown": [
+      {
+        "text": "G the introduction of a fee for spectators",
+        "vi": "G việc bắt đầu thu phí đối với khán giả",
+        "role": "option statement"
+      }
+    ]
+  },
+  {
+    "id": "competition-learn",
+    "meaningVi": "cuộc thi",
+    "translation": "Hôm nay có một cuộc thi dành cho trẻ em.",
+    "breakdown": [
+      {
+        "text": "There is a competition for children today.",
+        "vi": "Hôm nay có một cuộc thi dành cho trẻ em.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "fine-motor-skills-learn",
+    "meaningVi": "kỹ năng vận động tinh",
+    "translation": "Không chỉ có kỹ năng vận động tinh được cải thiện nhờ việc viết, như tôi vẫn luôn nghĩ.",
+    "breakdown": [
+      {
+        "text": "It's not just fine motor skills that improve through writing as I'd always assumed.",
+        "vi": "Không chỉ có kỹ năng vận động tinh được cải thiện nhờ việc viết, như tôi vẫn luôn nghĩ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "spatial-awareness-learn",
+    "meaningVi": "nhận thức không gian",
+    "translation": "Tôi tưởng nhận thức không gian thiên về việc biết mình đang ở đâu so với các vật thể hoặc người khác.",
+    "breakdown": [
+      {
+        "text": "I thought spatial awareness was more to do with knowing",
+        "vi": "Tôi tưởng nhận thức không gian thiên về việc biết",
+        "role": "main idea"
+      },
+      {
+        "text": "where you are in relation to objects or other people.",
+        "vi": "mình đang ở đâu so với các vật thể hoặc người khác.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "dyspraxia-learn",
+    "meaningVi": "chứng khó phối hợp vận động",
+    "translation": "Viết tay khó hơn nhiều đối với trẻ mắc chứng khó phối hợp vận động, những em gặp vấn đề trong việc phối hợp cử động.",
+    "breakdown": [
+      {
+        "text": "Handwriting is so much harder for children with dyspraxia who have problems coordinating movement.",
+        "vi": "Viết tay khó hơn nhiều đối với trẻ mắc chứng khó phối hợp vận động, những em gặp vấn đề trong việc phối hợp cử động.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "cursive-learn",
+    "meaningVi": "viết chữ nối",
+    "translation": "Bạn có đọc bài báo về lợi ích của việc dạy chữ in thay vì chữ viết nối, tức loại chữ mà các nét được nối liền nhau?",
+    "breakdown": [
+      {
+        "text": "Did you read that article on the benefits of teaching",
+        "vi": "Bạn có đọc bài báo về lợi ích của việc dạy",
+        "role": "question"
+      },
+      {
+        "text": "print rather than cursive handwriting where the letters are joined up?",
+        "vi": "chữ in thay vì chữ viết nối, tức loại chữ mà các nét được nối liền nhau?",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "birds-of-prey-learn",
+    "meaningVi": "chim săn mồi",
+    "translation": "Những loài này bao gồm một số chim săn mồi như đại bàng, diều hâu và cú, những loài sống bằng việc săn và giết các loài chim và động vật khác.",
+    "breakdown": [
+      {
+        "text": "These include a number of birds of prey such as eagles, hawks",
+        "vi": "Những loài này bao gồm một số chim săn mồi như đại bàng, diều hâu",
+        "role": "main idea"
+      },
+      {
+        "text": "and owls that live by hunting and killing other birds and animals.",
+        "vi": "và cú, những loài sống bằng việc săn và giết các loài chim và động vật khác.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "rodent-learn",
+    "meaningVi": "động vật gặm nhấm",
+    "translation": "Ví dụ, động vật gặm nhấm như chuột có thể gây rất nhiều thiệt hại cho mùa màng của nông dân, vì chúng sẽ ăn mùa màng khi cây lớn trên đồng cũng như sau khi thu hoạch nếu chúng không bị các loài chim săn và giết.",
+    "breakdown": [
+      {
+        "text": "For example, a lot of damage can be caused to farmers crops by rodents such as rats",
+        "vi": "Ví dụ, động vật gặm nhấm như chuột có thể gây rất nhiều thiệt hại cho mùa màng của nông dân",
+        "role": "main idea"
+      },
+      {
+        "text": "which would consume the crops as they grow in the fields as well as after harvesting if they weren't hunted and killed by the birds.",
+        "vi": "vì chúng sẽ ăn mùa màng khi cây lớn trên đồng cũng như sau khi thu hoạch nếu chúng không bị các loài chim săn và giết.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "electrocute-learn",
+    "meaningVi": "bị điện giật chết",
+    "translation": "vì chúng có thể bị điện giật chết.",
+    "breakdown": [
+      {
+        "text": "as they may be electrocuted.",
+        "vi": "vì chúng có thể bị điện giật chết.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "vegetation-learn",
+    "meaningVi": "thảm thực vật",
+    "translation": "Tốt nhất là giữ khu vực này không có thảm thực vật.",
+    "breakdown": [
+      {
+        "text": "It's best to keep this area free from vegetation.",
+        "vi": "Tốt nhất là giữ khu vực này không có thảm thực vật.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "influence-learn",
+    "meaningVi": "ảnh hưởng",
+    "translation": "Phong cách của Georgia O'Keeffe chịu ảnh hưởng lớn từ những xu hướng nghệ thuật thay đổi trong bảy thập kỷ sự nghiệp của bà.",
+    "breakdown": [
+      {
+        "text": "Georgia O'Keeffe's style was greatly influenced by the changing",
+        "vi": "Phong cách của Georgia O'Keeffe chịu ảnh hưởng lớn từ những",
+        "role": "main idea"
+      },
+      {
+        "text": "fashions in art over the seven decades of her career.",
+        "vi": "xu hướng nghệ thuật thay đổi trong bảy thập kỷ sự nghiệp của bà.",
+        "role": "agent"
+      }
+    ]
+  },
+  {
+    "id": "career-learn",
+    "meaningVi": "sự nghiệp",
+    "translation": "Với sự khuyến khích và lời hứa hỗ trợ tài chính của Stieglitz, O'Keeffe đến New York vào tháng 6 năm 1918 để bắt đầu sự nghiệp họa sĩ.",
+    "breakdown": [
+      {
+        "text": "With Stieglitz's encouragement and promise of financial support, O'Keeffe arrived in",
+        "vi": "Với sự khuyến khích và lời hứa hỗ trợ tài chính của Stieglitz, O'Keeffe đến",
+        "role": "background"
+      },
+      {
+        "text": "New York in June 1918 to begin a career as an artist.",
+        "vi": "New York vào tháng 6 năm 1918 để bắt đầu sự nghiệp họa sĩ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "subject-learn",
+    "meaningVi": "chủ thể; đối tượng",
+    "translation": "Thường thì bà vẽ đá, vách đá và núi ở góc cận cảnh ấn tượng, đúng như bà từng làm với các chủ thể thực vật của mình.",
+    "breakdown": [
+      {
+        "text": "Often, she painted the rocks, cliffs, and mountains in striking",
+        "vi": "Thường thì bà vẽ đá, vách đá và núi ở góc cận cảnh",
+        "role": "main idea"
+      },
+      {
+        "text": "close-up, just as she had done with her botanical subjects.",
+        "vi": "ấn tượng, đúng như bà từng làm với các chủ thể thực vật của mình.",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "quantity-learn",
+    "meaningVi": "số lượng",
+    "translation": "O'Keeffe sáng tác nhiều tác phẩm hơn trong giai đoạn những năm 1950 đến 1970 so với bất kỳ giai đoạn nào khác trong cuộc đời bà.",
+    "breakdown": [
+      {
+        "text": "O'Keeffe produced a greater quantity of work during the 1950s",
+        "vi": "O'Keeffe sáng tác nhiều tác phẩm hơn trong những năm 1950",
+        "role": "main idea"
+      },
+      {
+        "text": "to 1970s than at any other time in her life.",
+        "vi": "đến 1970 so với bất kỳ giai đoạn nào khác trong cuộc đời bà.",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "abstract-learn",
+    "meaningVi": "trừu tượng",
+    "translation": "Việc phóng to những chi tiết nhỏ nhất để lấp đầy cả một bức toan rộng một mét đã làm nổi bật hình dạng và đường nét của chúng, khiến chúng trông trừu tượng.",
+    "breakdown": [
+      {
+        "text": "Enlarging the tiniest details to fill an entire metre-wide canvas",
+        "vi": "Việc phóng to những chi tiết nhỏ nhất để lấp đầy cả một bức toan rộng một mét",
+        "role": "action"
+      },
+      {
+        "text": "emphasized their shapes and lines and made them appear abstract.",
+        "vi": "đã làm nổi bật hình dạng và đường nét của chúng, khiến chúng trông trừu tượng.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "cost-effective-learn",
+    "meaningVi": "hiệu quả về chi phí",
+    "translation": "một đề cập đến việc một giải pháp đặc biệt hiệu quả về chi phí",
+    "breakdown": [
+      {
+        "text": "a reference to the fact that a solution is particularly cost-effective",
+        "vi": "một đề cập đến việc một giải pháp đặc biệt hiệu quả về chi phí",
+        "role": "option statement"
+      }
+    ]
+  },
+  {
+    "id": "intervention-learn",
+    "meaningVi": "sự can thiệp; biện pháp can thiệp",
+    "translation": "một đề cập đến công nghệ được dùng để xác định những khu vực cần can thiệp nhất",
+    "breakdown": [
+      {
+        "text": "a mention of a technology used to locate areas most in need of intervention",
+        "vi": "một đề cập đến công nghệ được dùng để xác định những khu vực cần can thiệp nhất",
+        "role": "option statement"
+      }
+    ]
+  },
+  {
+    "id": "resident-learn",
+    "meaningVi": "cư dân",
+    "translation": "Điều thiết yếu là áp dụng những chiến lược có sự tham gia và hỗ trợ cư dân trong vùng.",
+    "breakdown": [
+      {
+        "text": "It is essential to adopt strategies which involve and help residents of the region.",
+        "vi": "Điều thiết yếu là áp dụng những chiến lược có sự tham gia và hỗ trợ cư dân trong vùng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "adapt-learn",
+    "meaningVi": "thích nghi; điều chỉnh",
+    "translation": "Trên khắp thế giới, các quốc gia đang chuẩn bị ứng phó và thích nghi với biến đổi khí hậu cùng những tác động của nó.",
+    "breakdown": [
+      {
+        "text": "All around the world, nations are already preparing for, and adapting to, climate change and its impacts.",
+        "vi": "Trên khắp thế giới, các quốc gia đang chuẩn bị ứng phó và thích nghi với biến đổi khí hậu cùng những tác động của nó.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "mangrove-learn",
+    "meaningVi": "cây đước; rừng ngập mặn",
+    "translation": "Nhưng Susanna Toi thuộc tổ chức phi lợi nhuận Wetlands International nói rằng, dù rất được ưa chuộng, phần lớn các dự án trồng đước đều thất bại.",
+    "breakdown": [
+      {
+        "text": "But Susanna Toi of the not-for-profit organisation Wetlands International says",
+        "vi": "Nhưng Susanna Toi thuộc tổ chức phi lợi nhuận Wetlands International nói rằng",
+        "role": "attribution"
+      },
+      {
+        "text": "that, while hugely popular, the majority of mangrove-planting projects fail.",
+        "vi": "dù rất được ưa chuộng, phần lớn các dự án trồng đước đều thất bại.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "livestock-learn",
+    "meaningVi": "gia súc; vật nuôi",
+    "translation": "Người ta hy vọng rằng việc giảm thiệt hại về gia súc có thể khiến nông dân bao dung hơn với động vật săn mồi và ít có khả năng giết chúng hơn.",
+    "breakdown": [
+      {
+        "text": "It is hoped that reductions in livestock losses can make",
+        "vi": "Người ta hy vọng rằng việc giảm thiệt hại về gia súc có thể khiến",
+        "role": "main idea"
+      },
+      {
+        "text": "farmers more tolerant of predators and less likely to kill them.",
+        "vi": "nông dân bao dung hơn với động vật săn mồi và ít có khả năng giết chúng hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "predator-learn",
+    "meaningVi": "động vật săn mồi",
+    "translation": "Người ta hy vọng rằng việc giảm thiệt hại về gia súc có thể khiến nông dân bao dung hơn với động vật săn mồi và ít có khả năng giết chúng hơn.",
+    "breakdown": [
+      {
+        "text": "It is hoped that reductions in livestock losses can make",
+        "vi": "Người ta hy vọng rằng việc giảm thiệt hại về gia súc có thể khiến",
+        "role": "main idea"
+      },
+      {
+        "text": "farmers more tolerant of predators and less likely to kill them.",
+        "vi": "nông dân bao dung hơn với động vật săn mồi và ít có khả năng giết chúng hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "optimistic-learn",
+    "meaningVi": "lạc quan",
+    "translation": "một gợi ý lạc quan về những phát triển tích cực có thể có trong việc sử dụng chó bảo vệ gia súc",
+    "breakdown": [
+      {
+        "text": "an optimistic suggestion about the possible positive developments in the use of livestock guard dogs",
+        "vi": "một gợi ý lạc quan về những phát triển tích cực có thể có trong việc sử dụng chó bảo vệ gia súc",
+        "role": "option statement"
+      }
+    ]
+  },
+  {
+    "id": "widespread-learn",
+    "meaningVi": "lan rộng; phổ biến",
+    "translation": "Tuy nhiên, trong những năm gần đây, khi nhiều nỗ lực hơn được thực hiện để bảo vệ động vật hoang dã, động vật săn mồi lại trở nên phổ biến hơn.",
+    "breakdown": [
+      {
+        "text": "In recent years, however, as increased efforts have been made",
+        "vi": "Tuy nhiên, trong những năm gần đây, khi nhiều nỗ lực hơn được thực hiện",
+        "role": "background"
+      },
+      {
+        "text": "to protect wild animals, predators have become more widespread again.",
+        "vi": "để bảo vệ động vật hoang dã, động vật săn mồi lại trở nên phổ biến hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "predation-learn",
+    "meaningVi": "sự săn mồi",
+    "translation": "Thật vậy, các nhà nghiên cứu Australia hiện đang dùng chó để tăng cường đa dạng sinh học và tạo nơi trú ẩn cho các loài bị đe dọa bởi sự săn mồi.",
+    "breakdown": [
+      {
+        "text": "Indeed, Australian researchers are now using dogs to enhance biodiversity and create refuges for species threatened by predation.",
+        "vi": "Thật vậy, các nhà nghiên cứu Australia hiện đang dùng chó để tăng cường đa dạng sinh học và tạo nơi trú ẩn cho các loài bị đe dọa bởi sự săn mồi.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "herd-learn",
+    "meaningVi": "đàn gia súc",
+    "translation": "Nếu chúng ta không làm việc với tất cả mọi người, chúng ta đang chuyển áp lực từ sói sang đàn gia súc của hàng xóm, và anh ta có thể dùng thuốc độc giết cả một bầy sói.",
+    "breakdown": [
+      {
+        "text": "'If we are not working with everybody, we are transferring the wolf pressure to",
+        "vi": "Nếu chúng ta không làm việc với tất cả mọi người, chúng ta đang chuyển áp lực từ sói sang",
+        "role": "condition"
+      },
+      {
+        "text": "the neighbour's herd and he can use poison and kill an entire pack of wolves.'",
+        "vi": "đàn gia súc của hàng xóm, và anh ta có thể dùng thuốc độc giết cả một bầy sói.",
+        "role": "consequence"
+      }
+    ]
+  },
+  {
+    "id": "handwriting-sentence",
+    "meaningVi": "chữ viết tay",
+    "translation": "Tôi chắc rằng nhiều học sinh cho rằng thật không công bằng khi các em bị đánh giá dựa trên chữ viết tay, chứ không chỉ dựa trên kiến thức.",
+    "breakdown": [
+      {
+        "text": "I'm sure a lot of students think it's unfair that",
+        "vi": "Tôi chắc rằng nhiều học sinh cho rằng thật không công bằng khi",
+        "role": "main idea"
+      },
+      {
+        "text": "they're being judged on their handwriting, not just their knowledge.",
+        "vi": "các em bị đánh giá dựa trên chữ viết tay, chứ không chỉ dựa trên kiến thức.",
+        "role": "reported content"
+      }
+    ]
+  },
+  {
+    "id": "sanctuary-sentence",
+    "meaningVi": "khu bảo tồn",
+    "translation": "Tuy nhiên, gần đây hơn, khu bảo tồn và các loài chim ở đây cũng ngày càng trở nên quan trọng với cộng đồng về mặt kinh tế, vì hiện nay, sau một khởi đầu khá chậm, du lịch đã trở thành nguồn thu quan trọng đối với họ.",
+    "breakdown": [
+      {
+        "text": "However, more recently, the sanctuary and its birds have also become increasingly important to the community in economic terms",
+        "vi": "Tuy nhiên, gần đây hơn, khu bảo tồn và các loài chim ở đây cũng ngày càng trở nên quan trọng với cộng đồng về mặt kinh tế",
+        "role": "contrast"
+      },
+      {
+        "text": "because at present, after a relatively slow start, tourism has become an important source of revenue for them.",
+        "vi": "vì hiện nay, sau một khởi đầu khá chậm, du lịch đã trở thành nguồn thu quan trọng đối với họ.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "accidental-sentence",
+    "meaningVi": "tình cờ; ngẫu nhiên",
+    "translation": "Những cái chết tình cờ cũng có thể xảy ra nếu những con chim này bay gần đường dây điện cao thế.",
+    "breakdown": [
+      {
+        "text": "Accidental deaths may also occur if these birds fly close to high-voltage power lines.",
+        "vi": "Những cái chết tình cờ cũng có thể xảy ra nếu những con chim này bay gần đường dây điện cao thế.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "correctly-sentence",
+    "meaningVi": "một cách chính xác",
+    "translation": "Một việc khá đơn giản bạn có thể làm là dùng giấy kẻ ô để các em viết mỗi chữ cái vào một ô, và điều đó luyện cho các em đặt khoảng cách giữa các chữ cái đúng cách.",
+    "breakdown": [
+      {
+        "text": "One quite simple thing you can do is to use grid paper so they write each letter in a box and",
+        "vi": "Một việc khá đơn giản bạn có thể làm là dùng giấy kẻ ô để các em viết mỗi chữ cái vào một ô và",
+        "role": "suggestion"
+      },
+      {
+        "text": "that trains them to space the letters correctly.",
+        "vi": "điều đó luyện cho các em đặt khoảng cách giữa các chữ cái đúng cách.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "spatial-sentence",
+    "meaningVi": "thuộc về không gian",
+    "translation": "Tôi tưởng nhận thức không gian thiên về việc biết mình đang ở đâu so với các vật thể hoặc người khác.",
+    "breakdown": [
+      {
+        "text": "I thought spatial awareness was more to do with knowing",
+        "vi": "Tôi tưởng nhận thức không gian thiên về việc biết",
+        "role": "main idea"
+      },
+      {
+        "text": "where you are in relation to objects or other people.",
+        "vi": "mình đang ở đâu so với các vật thể hoặc người khác.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "frighten-sentence",
+    "meaningVi": "làm sợ; xua đuổi",
+    "translation": "Gần như tất cả nông dân đều cho biết họ đã dành rất nhiều thời gian và công sức để xua đuổi chim săn mồi mà không thực sự làm hại chúng.",
+    "breakdown": [
+      {
+        "text": "Nearly all the far Farmers reported",
+        "vi": "Gần như tất cả nông dân đều cho biết",
+        "role": "main idea"
+      },
+      {
+        "text": "that they spent a lot of time and effort trying to frighten off the birds of prey without actually harming them.",
+        "vi": "họ đã dành rất nhiều thời gian và công sức để xua đuổi chim săn mồi mà không thực sự làm hại chúng.",
+        "role": "reported content"
+      }
+    ]
+  },
+  {
+    "id": "adaptation-sentence",
+    "meaningVi": "sự điều chỉnh; sự thích ứng",
+    "translation": "Ngoài những điều chỉnh ở đường sá, thành phố đã lắp đặt những máy bơm mới có thể bơm đi tới 75.000 lít nước mỗi phút.",
+    "breakdown": [
+      {
+        "text": "In addition to the road adaptations, the city has set up new",
+        "vi": "Ngoài những điều chỉnh ở đường sá, thành phố đã lắp đặt",
+        "role": "addition"
+      },
+      {
+        "text": "pumps that can remove up to 75,000 litres of water per minute.",
+        "vi": "những máy bơm mới có thể bơm đi tới 75.000 lít nước mỗi phút.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "patio-sentence",
+    "meaningVi": "sân trong; sân hiên",
+    "translation": "Trong khi cả hai vùng đất đều mang lại nguồn hình ảnh phong phú cho các bức tranh của bà, có một chi tiết của ngôi nhà Abiquiu - sân trong rộng có tường bao với cánh cửa màu đen - đặc biệt truyền cảm hứng.",
+    "breakdown": [
+      {
+        "text": "While both locales provided a wealth of imagery for her paintings, one feature of the",
+        "vi": "Trong khi cả hai vùng đất đều mang lại nguồn hình ảnh phong phú cho các bức tranh của bà, một chi tiết của",
+        "role": "contrast"
+      },
+      {
+        "text": "Abiquiu house - the large walled patio with its black door - was particularly inspirational.",
+        "vi": "ngôi nhà Abiquiu - sân trong rộng có tường bao với cánh cửa màu đen - đặc biệt truyền cảm hứng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "botanical-sentence",
+    "meaningVi": "thuộc về thực vật",
+    "translation": "Thường thì bà vẽ đá, vách đá và núi ở góc cận cảnh ấn tượng, đúng như bà từng làm với các chủ thể thực vật của mình.",
+    "breakdown": [
+      {
+        "text": "Often, she painted the rocks, cliffs, and mountains in striking",
+        "vi": "Thường thì bà vẽ đá, vách đá và núi ở góc cận cảnh",
+        "role": "main idea"
+      },
+      {
+        "text": "close-up, just as she had done with her botanical subjects.",
+        "vi": "ấn tượng, đúng như bà từng làm với các chủ thể thực vật của mình.",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "awareness-sentence",
+    "meaningVi": "nhận thức; sự hiểu biết",
+    "translation": "Tôi tưởng nhận thức không gian thiên về việc biết mình đang ở đâu so với các vật thể hoặc người khác.",
+    "breakdown": [
+      {
+        "text": "I thought spatial awareness was more to do with knowing",
+        "vi": "Tôi tưởng nhận thức không gian thiên về việc biết",
+        "role": "main idea"
+      },
+      {
+        "text": "where you are in relation to objects or other people.",
+        "vi": "mình đang ở đâu so với các vật thể hoặc người khác.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "skill-sentence",
+    "meaningVi": "kỹ năng",
+    "translation": "Đây là một kỹ năng quan trọng như vậy, thế nhưng hầu hết mọi người cho rằng viết tay ít quan trọng hơn trước đây, vì ngày nay người ta hiếm khi viết bằng tay.",
+    "breakdown": [
+      {
+        "text": "It's such an important skill and yet most people think handwriting is less important than in the past",
+        "vi": "Đây là một kỹ năng quan trọng như vậy, thế nhưng hầu hết mọi người cho rằng viết tay ít quan trọng hơn trước đây",
+        "role": "contrast"
+      },
+      {
+        "text": "because people hardly ever write by hand these days.",
+        "vi": "vì ngày nay người ta hiếm khi viết bằng tay.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "sufficient-sentence",
+    "meaningVi": "đủ; đầy đủ",
+    "translation": "Nếu cần thiết, chúng sẽ đuổi động vật săn mồi đi, nhưng thường thì chỉ cần sự hiện diện của chúng là đủ.",
+    "breakdown": [
+      {
+        "text": "If necessary, they will chase away predators, but often their mere presence is sufficient.",
+        "vi": "Nếu cần thiết, chúng sẽ đuổi động vật săn mồi đi, nhưng thường thì chỉ cần sự hiện diện của chúng là đủ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "behaviour-sentence",
+    "meaningVi": "hành vi; cách cư xử",
+    "translation": "Và bằng cách tạo ra một 'cảnh quan sợ hãi', chỉ sự hiện diện của chúng cũng có thể ảnh hưởng đến hành vi của các loài động vật là con mồi.",
+    "breakdown": [
+      {
+        "text": "And by creating a 'landscape of fear', their mere presence can influence the behaviour of prey animals.",
+        "vi": "Và bằng cách tạo ra một 'cảnh quan sợ hãi', chỉ sự hiện diện của chúng cũng có thể ảnh hưởng đến hành vi của các loài động vật là con mồi.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "associate-sentence",
+    "meaningVi": "liên tưởng; kết nối",
+    "translation": "Ừ, tôi cũng chưa bao giờ liên tưởng nhận thức không gian với viết tay.",
+    "breakdown": [
+      {
+        "text": "Yeah, I'd never associated spatial awareness with handwriting either.",
+        "vi": "Ừ, tôi cũng chưa bao giờ liên tưởng nhận thức không gian với viết tay.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "encourage-sentence",
+    "meaningVi": "khuyến khích",
+    "translation": "Một số nông dân cũng cho biết rằng vào mùa sinh sản, khi gà đặc biệt dễ bị tổn thương, họ khuyến khích con mình trông coi gà và gõ vào chảo bằng thìa kim loại để tiếng động tạo ra xua đuổi được những con chim đang cố bắt gà con.",
+    "breakdown": [
+      {
+        "text": "Some of the farmers also reported",
+        "vi": "Một số nông dân cũng cho biết",
+        "role": "main idea"
+      },
+      {
+        "text": "that during the breeding season when the chickens were particularly vulnerable, they encouraged their children to watch over the chickens and to hit pans with a metal spoon so that the resulting noise would succeed in driving away birds that were trying to seize the young chicks.",
+        "vi": "rằng vào mùa sinh sản, khi gà đặc biệt dễ bị tổn thương, họ khuyến khích con mình trông coi gà và gõ vào chảo bằng thìa kim loại để tiếng động tạo ra xua đuổi được những con chim đang cố bắt gà con.",
+        "role": "reported content"
+      }
+    ]
+  },
+  {
+    "id": "gallery-sentence",
+    "meaningVi": "phòng trưng bày",
+    "translation": "Trong hai thập kỷ tiếp theo, bà gần như năm nào cũng đến New Mexico, ở đó tới sáu tháng, vẽ tranh trong sự tĩnh lặng tương đối, rồi mỗi mùa đông trở lại New York để trưng bày tác phẩm mới tại phòng trưng bày của Stieglitz.",
+    "breakdown": [
+      {
+        "text": "Over the next two decades she made almost annual trips to New Mexico, staying up to six months there",
+        "vi": "Trong hai thập kỷ tiếp theo, bà gần như năm nào cũng đến New Mexico, ở đó tới sáu tháng",
+        "role": "main idea"
+      },
+      {
+        "text": "painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz's gallery.",
+        "vi": "vẽ tranh trong sự tĩnh lặng tương đối, rồi mỗi mùa đông trở lại New York để trưng bày tác phẩm mới tại phòng trưng bày của Stieglitz.",
+        "role": "sequence"
+      }
+    ]
+  },
+  {
+    "id": "hunt-sentence",
+    "meaningVi": "săn; việc săn mồi",
+    "translation": "Những loài này bao gồm một số chim săn mồi như đại bàng, diều hâu và cú, những loài sống bằng việc săn và giết các loài chim và động vật khác.",
+    "breakdown": [
+      {
+        "text": "These include a number of birds of prey such as eagles, hawks",
+        "vi": "Những loài này bao gồm một số chim săn mồi như đại bàng, diều hâu",
+        "role": "main idea"
+      },
+      {
+        "text": "and owls that live by hunting and killing other birds and animals.",
+        "vi": "và cú, những loài sống bằng việc săn và giết các loài chim và động vật khác.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "fort-sentence",
+    "meaningVi": "pháo đài",
+    "translation": "Nếu thời tiết đẹp, một việc bạn có thể làm là thăm pháo đài cũ, nhưng bạn có thể đến đó bằng thuyền.",
+    "breakdown": [
+      {
+        "text": "If the weather's nice, one thing you could do is",
+        "vi": "Nếu thời tiết đẹp, một việc bạn có thể làm là",
+        "role": "condition"
+      },
+      {
+        "text": "visit the old fort, but you could get there by boat.",
+        "vi": "thăm pháo đài cũ, nhưng bạn có thể đến đó bằng thuyền.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "painting-sentence",
+    "meaningVi": "bức tranh; hội họa",
+    "translation": "O'Keeffe mất năm 1986 ở tuổi chín mươi tám, nhưng di sản phong phú gồm khoảng 900 bức tranh của bà vẫn tiếp tục thu hút các thế hệ nghệ sĩ và người yêu nghệ thuật sau này, những người tìm thấy cảm hứng từ những hình ảnh rất Mỹ này.",
+    "breakdown": [
+      {
+        "text": "O'Keeffe died in 1986 at the age of ninety-eight",
+        "vi": "O'Keeffe mất năm 1986 ở tuổi chín mươi tám",
+        "role": "main idea"
+      },
+      {
+        "text": "but her rich legacy of some 900 paintings has continued to attract subsequent generations of artists and art lovers who derive inspiration from these very American images.",
+        "vi": "nhưng di sản phong phú gồm khoảng 900 bức tranh của bà vẫn tiếp tục thu hút các thế hệ nghệ sĩ và người yêu nghệ thuật sau này, những người tìm thấy cảm hứng từ những hình ảnh rất Mỹ này.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "decade-sentence",
+    "meaningVi": "thập kỷ",
+    "translation": "Trong hai thập kỷ tiếp theo, bà gần như năm nào cũng đến New Mexico, ở đó tới sáu tháng, vẽ tranh trong sự tĩnh lặng tương đối, rồi mỗi mùa đông trở lại New York để trưng bày tác phẩm mới tại phòng trưng bày của Stieglitz.",
+    "breakdown": [
+      {
+        "text": "Over the next two decades she made almost annual trips to New Mexico, staying up to six months there",
+        "vi": "Trong hai thập kỷ tiếp theo, bà gần như năm nào cũng đến New Mexico, ở đó tới sáu tháng",
+        "role": "main idea"
+      },
+      {
+        "text": "painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz's gallery.",
+        "vi": "vẽ tranh trong sự tĩnh lặng tương đối, rồi mỗi mùa đông trở lại New York để trưng bày tác phẩm mới tại phòng trưng bày của Stieglitz.",
+        "role": "sequence"
+      }
+    ]
+  },
+  {
+    "id": "drawing-sentence",
+    "meaningVi": "bức vẽ; bản vẽ",
+    "translation": "Stieglitz rất ấn tượng và đã trưng bày những bức vẽ vào cuối năm đó tại phòng trưng bày của ông trên Đại lộ Fifth, thành phố New York, nơi tác phẩm của nhiều nghệ sĩ và nhiếp ảnh gia tiên phong được giới thiệu với công chúng Mỹ.",
+    "breakdown": [
+      {
+        "text": "Stieglitz was impressed, and exhibited the drawings later",
+        "vi": "Stieglitz rất ấn tượng và đã trưng bày những bức vẽ",
+        "role": "main idea"
+      },
+      {
+        "text": "that year at his gallery on Fifth Avenue, New York City, where the works of many avant-garde artists and photographers were introduced to the American public.",
+        "vi": "vào cuối năm đó tại phòng trưng bày của ông trên Đại lộ Fifth, thành phố New York, nơi tác phẩm của nhiều nghệ sĩ và nhiếp ảnh gia tiên phong được giới thiệu với công chúng Mỹ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "stadium-sentence",
+    "meaningVi": "sân vận động",
+    "translation": "Tôi muốn cung cấp cho các bạn một số thông tin hữu ích về chuyến thăm sân vận động hôm nay, sau đó chúng ta sẽ bắt đầu chuyến tham quan các khu vực của sân mở cửa cho khách tham quan.",
+    "breakdown": [
+      {
+        "text": "I'd like to give you some useful information about your visit to the stadium today and then we'll start the tour of the areas of the stadium",
+        "vi": "Tôi muốn cung cấp cho các bạn một số thông tin hữu ích về chuyến thăm sân vận động hôm nay, sau đó chúng ta sẽ bắt đầu chuyến tham quan các khu vực của sân",
+        "role": "main idea"
+      },
+      {
+        "text": "that are open to visitors.",
+        "vi": "mở cửa cho khách tham quan.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "teach-sentence",
+    "meaningVi": "dạy",
+    "translation": "Đánh máy bằng mười ngón vẫn chưa được dạy ở hầu hết trường học, điều đó thật đáng tiếc, nhưng có lẽ điều đó sẽ không cần thiết trong tương lai vì người ta cũng sẽ có thể viết tay trên các thiết bị số.",
+    "breakdown": [
+      {
+        "text": "Touch typing still isn't taught in most schools",
+        "vi": "Đánh máy bằng mười ngón vẫn chưa được dạy ở hầu hết trường học",
+        "role": "main idea"
+      },
+      {
+        "text": "which is a shame, but maybe that won't be necessary in the future because people will also be able to write by hand on digital devices.",
+        "vi": "điều đó thật đáng tiếc, nhưng có lẽ điều đó sẽ không cần thiết trong tương lai vì người ta cũng sẽ có thể viết tay trên các thiết bị số.",
+        "role": "comment"
+      }
+    ]
+  },
+  {
+    "id": "protected-sentence",
+    "meaningVi": "được bảo vệ",
+    "translation": "Ở Namibia, hơn 90 phần trăm báo cheetah sống bên ngoài các khu bảo tồn, gần những người chăn nuôi gia súc.",
+    "breakdown": [
+      {
+        "text": "In Namibia, more than 90 per cent of cheetahs live outside protected areas, close to humans raising livestock.",
+        "vi": "Ở Namibia, hơn 90 phần trăm báo cheetah sống bên ngoài các khu bảo tồn, gần những người chăn nuôi gia súc.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "affected-sentence",
+    "meaningVi": "bị ảnh hưởng",
+    "translation": "Điểm số chắc chắn bị ảnh hưởng nếu giám khảo không thể đọc bài viết.",
+    "breakdown": [
+      {
+        "text": "Marks are definitely affected if examiners can't read the script.",
+        "vi": "Điểm số chắc chắn bị ảnh hưởng nếu giám khảo không thể đọc bài viết.",
+        "role": "main idea"
+      }
+    ]
+  }
+]

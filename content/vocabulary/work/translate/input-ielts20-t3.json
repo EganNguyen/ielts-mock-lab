@@ -1,0 +1,1944 @@
+[
+  {
+    "id": "rental-learn",
+    "term": "rental",
+    "ipa": "/ˈrentəl/",
+    "pos": "n",
+    "meaningEn": "an arrangement in which you pay to use something owned by someone else",
+    "meaningVi": "sự thuê; dịch vụ cho thuê",
+    "synonyms": [
+      "hire",
+      "leasing",
+      "rented item"
+    ],
+    "sentenceText": "People have mentioned that the furniture from Peak Rentals is more modern than any of the other companies.",
+    "sentenceChunks": [
+      "People have mentioned that the furniture from Peak Rentals is more modern than any of the other companies."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [
+      1,
+      2,
+      6,
+      10
+    ],
+    "source": "exam",
+    "why": "The table compares furniture rental companies. “Rental” tells you the customer is paying to use furniture temporarily, not buying it outright.",
+    "riskHint": "n"
+  },
+  {
+    "id": "mid-range-learn",
+    "term": "mid-range",
+    "ipa": "/mɪd reɪndʒ/",
+    "pos": "adj",
+    "meaningEn": "neither the cheapest nor the most expensive",
+    "meaningVi": "tầm trung",
+    "synonyms": [
+      "moderately priced",
+      "middle-priced",
+      "affordable but not cheap"
+    ],
+    "sentenceText": "______ and Oliver — mid-range prices — 12% monthly fee for ______ — also offers a cleaning service",
+    "sentenceChunks": [
+      "______ and Oliver",
+      "12% monthly fee for ______",
+      "also offers a cleaning service"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [
+      4,
+      5
+    ],
+    "source": "exam",
+    "why": "The second company is described as mid-range. This helps you place it between the cheapest and most expensive options when comparing prices.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "contract-learn",
+    "term": "contract",
+    "ipa": "/ˈkɒntrækt/",
+    "pos": "n",
+    "meaningEn": "a formal agreement, especially for a period of service",
+    "meaningVi": "hợp đồng",
+    "synonyms": [
+      "agreement",
+      "lease",
+      "policy"
+    ],
+    "sentenceText": "Also, you can't take out a contract for less than 6 months, but I figure that might not be a problem for you.",
+    "sentenceChunks": [
+      "Also, you can't take out a contract for less than 6",
+      "months, but I figure that might not be a problem for you."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "The table gives a minimum contract length of six months. “Contract” signals a formal rental agreement, so you listen for the time commitment rather than the price.",
+    "riskHint": "n"
+  },
+  {
+    "id": "up-to-date-learn",
+    "term": "up-to-date",
+    "ipa": "/ˌʌp tə ˈdeɪt/",
+    "pos": "adj",
+    "meaningEn": "including the most recent information",
+    "meaningVi": "cập nhật; mới nhất",
+    "synonyms": [
+      "current",
+      "latest",
+      "recent"
+    ],
+    "sentenceText": "______ Rentals — see the ______ for the most up-to-date prices — ______ are allowed within 7 days of delivery",
+    "sentenceChunks": [
+      "see the ______ for the most up-to-date prices",
+      "______ are allowed within 7 days of delivery"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [
+      9
+    ],
+    "source": "exam",
+    "why": "Q9 asks where to see the most up-to-date prices. The phrase means the newest prices, so you look for a website or notice rather than an old brochure.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "archaeological-learn",
+    "term": "archaeological",
+    "ipa": "/ˌɑːkiəˈlɑdʒɪkəl/",
+    "pos": "adj",
+    "meaningEn": "relating to the study of past societies through their remains",
+    "meaningVi": "thuộc khảo cổ học",
+    "synonyms": [
+      "historical",
+      "excavation-related",
+      "ancient-site"
+    ],
+    "sentenceText": "The talk describes an archaeological dig at Bidcaster.",
+    "sentenceChunks": [
+      "The talk describes an archaeological dig at Bidcaster."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "source": "exam",
+    "why": "The talk is about an archaeological dig. Knowing the word helps you follow the evidence, structures and objects being discussed as clues about the past.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "remains-learn",
+    "term": "remains",
+    "ipa": "/rɪˈmeɪnz/",
+    "pos": "n",
+    "meaningEn": "the parts of a building, object, or body left from the past",
+    "meaningVi": "di tích; phần còn lại",
+    "synonyms": [
+      "ruins",
+      "remnants",
+      "traces"
+    ],
+    "sentenceText": "Over the three summers the team has been here, we found the remains of several buildings and more broken pots than you can count.",
+    "sentenceChunks": [
+      "Over the three summers the team has been here, we found the",
+      "remains of several buildings and more broken pots than you can count."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "Q15 asks what was found on the other side of the river. “Remains” can mean the surviving parts of a building, so it helps you identify structural evidence rather than a complete building.",
+    "riskHint": "n"
+  },
+  {
+    "id": "outline-learn",
+    "term": "outline",
+    "ipa": "/ˈaʊˌtlaɪn/",
+    "pos": "n",
+    "meaningEn": "the outer shape or boundary of something",
+    "meaningVi": "đường viền; phác thảo",
+    "synonyms": [
+      "shape",
+      "boundary",
+      "layout"
+    ],
+    "sentenceText": "The outline of fields was visible on the other side of the river.",
+    "sentenceChunks": [
+      "The outline of fields was visible on the other side of the river."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "Q15 includes “the outline of fields”. The word means the visible boundary or shape left in the ground, not the crops themselves.",
+    "riskHint": "n"
+  },
+  {
+    "id": "metal-detector-learn",
+    "term": "metal detector",
+    "ipa": "/ˈmetəl dɪˈtektə/",
+    "pos": "n",
+    "meaningEn": "a device used to find metal objects underground",
+    "meaningVi": "máy dò kim loại",
+    "synonyms": [
+      "metal scanner",
+      "detector",
+      "search device"
+    ],
+    "sentenceText": "Coins are often found by people using metal detectors to look for things buried in the ground.",
+    "sentenceChunks": [
+      "Coins are often found by people using metal detectors to look for things buried in the ground."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [
+      12
+    ],
+    "source": "exam",
+    "why": "Q12 asks how the gold coin was found. A metal detector is a device for locating metal, so the phrase helps you identify the method rather than the cause of soil removal.",
+    "riskHint": "n"
+  },
+  {
+    "id": "mistaken-belief-learn",
+    "term": "mistaken belief",
+    "ipa": "/mɪˈsteɪkən bɪˈlif/",
+    "pos": "n",
+    "meaningEn": "a belief that is wrong",
+    "meaningVi": "niềm tin sai lầm",
+    "synonyms": [
+      "misconception",
+      "false impression",
+      "wrong idea"
+    ],
+    "sentenceText": "Maya says a mistaken belief about theatre programmes is that",
+    "sentenceChunks": [
+      "Maya says a mistaken belief about theatre programmes is that"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [
+      22
+    ],
+    "source": "exam",
+    "why": "Q22 asks about a mistaken belief about theatre programmes. The phrase signals that the speaker will correct a common but false idea.",
+    "riskHint": "n"
+  },
+  {
+    "id": "free-of-charge-learn",
+    "term": "free of charge",
+    "ipa": "/friː əv tʃɑːdʒ/",
+    "pos": "adj",
+    "meaningEn": "costing nothing",
+    "meaningVi": "miễn phí",
+    "synonyms": [
+      "free",
+      "at no cost",
+      "complimentary"
+    ],
+    "sentenceText": "were given out free of charge.",
+    "sentenceChunks": [
+      "were given out free of charge."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [
+      23
+    ],
+    "source": "exam",
+    "why": "Q23 asks about early British theatre programmes. “Free of charge” means audiences did not pay for them, so it helps you reject the idea that they were difficult to obtain.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "informative-learn",
+    "term": "informative",
+    "ipa": "/ˌɪnˈfɔːmətɪv/",
+    "pos": "adj",
+    "meaningEn": "providing useful or interesting information",
+    "meaningVi": "cung cấp nhiều thông tin; bổ ích",
+    "synonyms": [
+      "instructive",
+      "educational",
+      "revealing"
+    ],
+    "sentenceText": "Eighteenth-century programmes were more informative.",
+    "sentenceChunks": [
+      "Eighteenth-century programmes were more informative."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [
+      25
+    ],
+    "source": "exam",
+    "why": "Q25 compares eighteenth- and nineteenth-century programmes. “Informative” means they contained more useful information, not that they were more colourful or original.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "audience-learn",
+    "term": "audience",
+    "ipa": "/ˈɔːdiəns/",
+    "pos": "n",
+    "meaningEn": "the people who watch or listen to a performance",
+    "meaningVi": "khán giả; thính giả",
+    "synonyms": [
+      "spectators",
+      "viewers",
+      "theatre-goers"
+    ],
+    "sentenceText": "Yeah, audiences were very familiar with leading actors and big names would draw huge crowds.",
+    "sentenceChunks": [
+      "Yeah, audiences were very familiar with leading actors and big names would draw huge crowds."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [
+      23
+    ],
+    "source": "exam",
+    "why": "Q23 asks whether early programmes were difficult for audiences to obtain. The word means the people watching the plays, so it helps you focus on theatre-goers rather than companies.",
+    "riskHint": "n"
+  },
+  {
+    "id": "inclusive-design-learn",
+    "term": "inclusive design",
+    "ipa": "/ɪnˈkluːsɪv dɪˈzaɪn/",
+    "pos": "n",
+    "meaningEn": "design that works for as many different people as possible",
+    "meaningVi": "thiết kế bao trùm",
+    "synonyms": [
+      "universal design",
+      "accessible design",
+      "design for all"
+    ],
+    "sentenceText": "Inclusive design is often linked with universal design although they are not quite the same thing.",
+    "sentenceChunks": [
+      "Inclusive design is often linked with universal design although they are not quite the same thing."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [
+      31,
+      32
+    ],
+    "source": "exam",
+    "why": "The whole lecture defines inclusive design. Knowing the term helps you understand that the aim is to remove barriers for diverse users rather than create special products.",
+    "riskHint": "n"
+  },
+  {
+    "id": "adjustable-learn",
+    "term": "adjustable",
+    "ipa": "/əˈdʒəstəbəl/",
+    "pos": "adj",
+    "meaningEn": "able to be changed to suit different people or situations",
+    "meaningVi": "có thể điều chỉnh",
+    "synonyms": [
+      "adaptable",
+      "flexible",
+      "movable"
+    ],
+    "sentenceText": "______ which are adjustable, avoiding back or neck problems",
+    "sentenceChunks": [
+      "______ which are adjustable, avoiding back or neck problems"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [
+      33
+    ],
+    "source": "exam",
+    "why": "Q33 asks about adjustable workplace items. The word means the item can be changed to fit the user, which is the key feature preventing back or neck problems.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "problematic-learn",
+    "term": "problematic",
+    "ipa": "/ˌprɑbləˈmætɪk/",
+    "pos": "adj",
+    "meaningEn": "causing difficulty or being unsuitable",
+    "meaningVi": "có vấn đề; gây khó khăn",
+    "synonyms": [
+      "difficult",
+      "unsuitable",
+      "troublesome"
+    ],
+    "sentenceText": "Safety: seatbelts are especially problematic for ______ women; PPE jackets are often unsuitable because of the size of women's ______; PPE for female ______ officers dealing with emergencies is the worst.",
+    "sentenceChunks": [
+      "seatbelts are especially problematic for ______ women;",
+      "PPE jackets are often unsuitable because of the size of women's ______;",
+      "PPE for female ______ officers dealing with emergencies is the worst."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "source": "exam",
+    "why": "Q37–40 discuss products that are problematic for women. The word signals a design failure, so you look for the specific group and reason.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "interface-learn",
+    "term": "interface",
+    "ipa": "/ˈɪntəfeɪs/",
+    "pos": "n",
+    "meaningEn": "the screen or controls through which a user operates a device",
+    "meaningVi": "giao diện",
+    "synonyms": [
+      "user interface",
+      "screen controls",
+      "display"
+    ],
+    "sentenceText": "For example, it's well known that vision declines with age and that we also become worse at distinguishing between similar colors, in particular shades of blue, which is why software designers rarely create interfaces with this color.",
+    "sentenceChunks": [
+      "For example, it's well known",
+      "that vision declines with age and that we also become worse at distinguishing between similar colors, in particular shades of blue, which is why software designers rarely create interfaces with this color."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [
+      35,
+      36
+    ],
+    "source": "exam",
+    "why": "Q35–36 discuss colours and commands in interfaces. The word means the part of a device people interact with, so it helps you understand usability problems for older users.",
+    "riskHint": "n"
+  },
+  {
+    "id": "transportation-learn",
+    "term": "transportation",
+    "ipa": "/ˌtrænspəˈteɪʃən/",
+    "pos": "n",
+    "meaningEn": "the movement of goods or people from one place to another",
+    "meaningVi": "sự vận chuyển",
+    "synonyms": [
+      "transport",
+      "shipping",
+      "conveyance"
+    ],
+    "sentenceText": "The ice transportation business made some Boston ship owners very wealthy in the early 1800s.",
+    "sentenceChunks": [
+      "The ice transportation business made some Boston ship owners very wealthy in the early 1800s."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [
+      8
+    ],
+    "source": "exam",
+    "why": "Q8 concerns the ice transportation business. The word helps you understand that the passage is about moving ice, not producing or storing it.",
+    "riskHint": "n"
+  },
+  {
+    "id": "disadvantage-learn",
+    "term": "disadvantage",
+    "ipa": "/ˌdɪsədˈvænɪdʒ/",
+    "pos": "n",
+    "meaningEn": "a condition that makes something less useful or successful",
+    "meaningVi": "nhược điểm; bất lợi",
+    "synonyms": [
+      "drawback",
+      "downside",
+      "weakness"
+    ],
+    "sentenceText": "A disadvantage of the freezing process invented in Australia was that it affected the taste of food.",
+    "sentenceChunks": [
+      "A disadvantage of the freezing process invented in Australia was that it affected the taste of food."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [
+      9
+    ],
+    "source": "exam",
+    "why": "Q9 asks about a disadvantage of the freezing process. The word signals a negative feature, so you look for a problem such as changed taste rather than a benefit.",
+    "riskHint": "n"
+  },
+  {
+    "id": "promotion-learn",
+    "term": "promotion",
+    "ipa": "/pəˈməʊʃən/",
+    "pos": "n",
+    "meaningEn": "activity intended to make a product more popular or known",
+    "meaningVi": "sự quảng bá; khuyến mãi",
+    "synonyms": [
+      "advertising",
+      "marketing",
+      "publicity"
+    ],
+    "sentenceText": "Swanson Foods invested a great deal of money in the promotion of the TV Dinner.",
+    "sentenceChunks": [
+      "Swanson Foods invested a great deal of money in the promotion of the TV Dinner."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [
+      11
+    ],
+    "source": "exam",
+    "why": "Q11 asks about investment in the promotion of the TV Dinner. The word means marketing activity, so you listen for spending on advertising rather than on food production.",
+    "riskHint": "n"
+  },
+  {
+    "id": "container-learn",
+    "term": "container",
+    "ipa": "/kənˈteɪnə/",
+    "pos": "n",
+    "meaningEn": "an object used to hold or pack something",
+    "meaningVi": "vật chứa; hộp đựng",
+    "synonyms": [
+      "packaging",
+      "receptacle",
+      "box"
+    ],
+    "sentenceText": "Swanson Foods developed a new style of container for the launch of the TV Dinner.",
+    "sentenceChunks": [
+      "Swanson Foods developed a new style of container for the launch of the TV Dinner."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [
+      12
+    ],
+    "source": "exam",
+    "why": "Q12 asks about a new style of container. The word means the packaging that holds the meal, so it helps you focus on the physical design rather than the food itself.",
+    "riskHint": "n"
+  },
+  {
+    "id": "refrigeration-learn",
+    "term": "refrigeration",
+    "ipa": "/rɪˌfrɪdʒəˈeɪʃən/",
+    "pos": "n",
+    "meaningEn": "the process of keeping food cold to preserve it",
+    "meaningVi": "sự làm lạnh; bảo quản lạnh",
+    "synonyms": [
+      "cold storage",
+      "cooling",
+      "chilling"
+    ],
+    "sentenceText": "Natural ice remained the main form of refrigeration until late in the 19th century.",
+    "sentenceChunks": [
+      "Natural ice remained the main form of refrigeration until late in the 19th century."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [
+      1,
+      2,
+      3
+    ],
+    "source": "exam",
+    "why": "Q? and the passage discuss refrigeration as the key to frozen food. The word means keeping food cold, so it helps you follow the development of the industry.",
+    "riskHint": "n"
+  },
+  {
+    "id": "contamination-learn",
+    "term": "contamination",
+    "ipa": "/kənˌtæməˈneɪʃən/",
+    "pos": "n",
+    "meaningEn": "the presence of a harmful or unwanted substance",
+    "meaningVi": "sự ô nhiễm; sự nhiễm bẩn",
+    "synonyms": [
+      "pollution",
+      "poisoning",
+      "impurity"
+    ],
+    "sentenceText": "the contamination of the sea from waste",
+    "sentenceChunks": [
+      "the contamination of the sea from waste"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "Q20–21 list contamination of the sea from waste as a cause of damage. The word means harmful substances entering the water, so it helps you distinguish pollution from overfishing or disease.",
+    "riskHint": "n"
+  },
+  {
+    "id": "alteration-learn",
+    "term": "alteration",
+    "ipa": "/ˌɔːltəˈreɪʃn/",
+    "pos": "n",
+    "meaningEn": "a change made to something",
+    "meaningVi": "sự thay đổi; sự chỉnh sửa",
+    "synonyms": [
+      "change",
+      "modification",
+      "shift"
+    ],
+    "sentenceText": "alterations in the usual flow of water in the seas",
+    "sentenceChunks": [
+      "alterations in the usual flow of water in the seas"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "Q20–21 include alterations in the usual flow of water. The word means a change in currents or circulation, not simply an increase in temperature.",
+    "riskHint": "n"
+  },
+  {
+    "id": "cope-with-learn",
+    "term": "cope with",
+    "ipa": "/kəʊp wɪθ/",
+    "pos": "v",
+    "meaningEn": "to deal successfully with a difficult situation",
+    "meaningVi": "đối phó với; xử lý được",
+    "synonyms": [
+      "handle",
+      "deal with",
+      "manage"
+    ],
+    "sentenceText": "They are looking at corals that can cope well with the changed sea conditions.",
+    "sentenceChunks": [
+      "They are looking at corals that can cope well with the changed sea conditions."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [
+      22,
+      23
+    ],
+    "source": "exam",
+    "why": "Q22–23 ask which corals can cope with changed sea conditions. The phrase means survive and function despite stress, so it helps you identify corals that are more resilient.",
+    "riskHint": "v"
+  },
+  {
+    "id": "reproduction-learn",
+    "term": "reproduction",
+    "ipa": "/ˌriːprəˈdʌkʃn/",
+    "pos": "n",
+    "meaningEn": "the process by which living things produce young",
+    "meaningVi": "sự sinh sản",
+    "synonyms": [
+      "breeding",
+      "procreation",
+      "spawning"
+    ],
+    "sentenceText": "They are trying out methods that would speed up reproduction in some corals.",
+    "sentenceChunks": [
+      "They are trying out methods that would speed up reproduction in some corals."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [
+      22,
+      23
+    ],
+    "source": "exam",
+    "why": "Q22–23 mention methods that speed up reproduction. The word means the process of producing new corals, so it helps you distinguish breeding from protecting or moving them.",
+    "riskHint": "n"
+  },
+  {
+    "id": "restoration-learn",
+    "term": "restoration",
+    "ipa": "/ˌrestəˈreɪʃn/",
+    "pos": "n",
+    "meaningEn": "the process of returning something to a good condition",
+    "meaningVi": "sự phục hồi; sự khôi phục",
+    "synonyms": [
+      "repair",
+      "recovery",
+      "rebuilding"
+    ],
+    "sentenceText": "'However, aquarium-based research has enabled some corals to spawn artificially, which can assist coral reef restoration efforts.",
+    "sentenceChunks": [
+      "'However, aquarium-based research has enabled some corals to spawn artificially, which can assist coral reef restoration efforts."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [
+      14,
+      19
+    ],
+    "source": "exam",
+    "why": "The passage discusses coral reef restoration. The word means actively repairing the reef, so it helps you distinguish restoration from mere protection.",
+    "riskHint": "n"
+  },
+  {
+    "id": "restrict-learn",
+    "term": "restrict",
+    "ipa": "/riˈstrɪkt/",
+    "pos": "v",
+    "meaningEn": "to limit the size, amount, or freedom of something",
+    "meaningVi": "hạn chế",
+    "synonyms": [
+      "limit",
+      "control",
+      "constrain"
+    ],
+    "sentenceText": "For our own safety, humans will need to restrict the abilities of robots.",
+    "sentenceChunks": [
+      "For our own safety, humans will need to restrict the abilities of robots."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "Q27 says humans may need to restrict the abilities of robots. The word means to keep robot abilities within limits, a key safety proposal in the passage.",
+    "riskHint": "v"
+  },
+  {
+    "id": "ethical-learn",
+    "term": "ethical",
+    "ipa": "/ˈeθɪkəl/",
+    "pos": "adj",
+    "meaningEn": "relating to moral principles",
+    "meaningVi": "thuộc đạo đức",
+    "synonyms": [
+      "moral",
+      "principled",
+      "right and wrong"
+    ],
+    "sentenceText": "Richardson and Rees express similar views regarding the ethical aspect of",
+    "sentenceChunks": [
+      "Richardson and Rees express similar views regarding the ethical aspect of"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [
+      34
+    ],
+    "source": "exam",
+    "why": "Q34 asks about the ethical aspect of treating robots. The word signals a question of right and wrong, not simply practical usefulness.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "inclination-learn",
+    "term": "inclination",
+    "ipa": "/ˌɪnkləˈneɪʃən/",
+    "pos": "n",
+    "meaningEn": "a natural tendency to behave in a particular way",
+    "meaningVi": "khuynh hướng; xu hướng",
+    "synonyms": [
+      "tendency",
+      "disposition",
+      "leaning"
+    ],
+    "sentenceText": "It is the result of our inclination to attribute human characteristics to non-human entities.",
+    "sentenceChunks": [
+      "It is the result of our inclination to attribute human characteristics to non-human entities."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [
+      37
+    ],
+    "source": "exam",
+    "why": "Q37 asks what point Richardson makes about fear of machines. Her explanation involves a human inclination to attribute human qualities to objects, so the word helps you follow her argument.",
+    "riskHint": "n"
+  },
+  {
+    "id": "inanimate-learn",
+    "term": "inanimate",
+    "ipa": "/ɪnˈænɪmət/",
+    "pos": "adj",
+    "meaningEn": "not alive",
+    "meaningVi": "vô sinh; không có sự sống",
+    "synonyms": [
+      "lifeless",
+      "non-living",
+      "not alive"
+    ],
+    "sentenceText": "In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat.",
+    "sentenceChunks": [
+      "In her view, it stems from humans' tendency to personify inanimate objects:",
+      "we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [
+      37
+    ],
+    "source": "exam",
+    "why": "Q37 refers to non-human entities and inanimate objects. The word means things that are not alive, so it helps you understand why people treat robots as if they had feelings.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "personify-learn",
+    "term": "personify",
+    "ipa": "/pəˈsɒnɪfaɪ/",
+    "pos": "v",
+    "meaningEn": "to treat an object or animal as if it were human",
+    "meaningVi": "nhân cách hóa",
+    "synonyms": [
+      "anthropomorphise",
+      "humanise",
+      "attribute human qualities"
+    ],
+    "sentenceText": "In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat.",
+    "sentenceChunks": [
+      "In her view, it stems from humans' tendency to personify inanimate objects:",
+      "we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [
+      37
+    ],
+    "source": "exam",
+    "why": "Q37 option B describes our inclination to attribute human characteristics to non-human entities. “Personify” is the verb for doing this, so it helps you recognise the explanation of why people fear robots.",
+    "riskHint": "v"
+  },
+  {
+    "id": "inclusive-sentence",
+    "term": "inclusive",
+    "ipa": "/ˌɪnˈklusɪv/",
+    "pos": "adjective",
+    "meaningEn": "including much or everything; and especially including stated limits",
+    "meaningVi": "",
+    "synonyms": [
+      "inclusive"
+    ],
+    "sentenceText": "It's only relatively recently that designers have become aware of the need to be inclusive when designing products.",
+    "sentenceChunks": [
+      "It's only relatively recently that designers have become aware of the need to be inclusive when designing products."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "workplace-sentence",
+    "term": "workplace",
+    "ipa": "/ˈwəkˌpleɪs/",
+    "pos": "noun",
+    "meaningEn": "a place where work is done",
+    "meaningVi": "",
+    "synonyms": [
+      "work"
+    ],
+    "sentenceText": "In workplaces, it is common to see desks which can be adjusted to suit people of different heights or for wheelchair users.",
+    "sentenceChunks": [
+      "In workplaces, it is common to see desks which can be",
+      "adjusted to suit people of different heights or for wheelchair users."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "freezing-sentence",
+    "term": "freezing",
+    "ipa": "/ˈfrizɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the withdrawal of heat to change something from a liquid to a solid",
+    "meaningVi": "",
+    "synonyms": [
+      "freeze"
+    ],
+    "sentenceText": "During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, this spoilt the flavor and texture of the food.",
+    "sentenceChunks": [
+      "During the freezing process, crystals formed within the cells of the food, and",
+      "when the ice expanded and the cells burst, this spoilt the flavor and texture of the food."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "disabled-sentence",
+    "term": "disabled",
+    "ipa": "/dɪˈseɪbəld/",
+    "pos": "adjective",
+    "meaningEn": "incapable of functioning as a consequence of injury or illness",
+    "meaningVi": "",
+    "synonyms": [
+      "handicapped"
+    ],
+    "sentenceText": "Not being able to access public transport because buses or trains are not wheelchair friendly means many disabled people can't go out unless someone goes with them.",
+    "sentenceChunks": [
+      "Not being able to access public transport",
+      "because buses or trains are not wheelchair friendly means many disabled people can't go out unless someone goes with them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "specie-sentence",
+    "term": "specie",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "coins collectively",
+    "meaningVi": "",
+    "synonyms": [
+      "coinage",
+      "mintage",
+      "metal money"
+    ],
+    "sentenceText": "Samples of the planet's most spectacular corals - vivid green branching coral, yellow scroll, blue ridge and many more species - have been added to the giant tank along with fish that thrive in their presence: blue tang, clownfish and many others.",
+    "sentenceChunks": [
+      "Samples of the planet's most spectacular corals - vivid green branching coral, yellow scroll, blue ridge and many more species - have been added to the giant tank along with fish that thrive in their presence:",
+      "blue tang, clownfish and many others."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "reef-sentence",
+    "term": "reef",
+    "ipa": "/rif/",
+    "pos": "noun",
+    "meaningEn": "a submerged ridge of rock or coral near the surface of the water",
+    "meaningVi": "",
+    "synonyms": [
+      "Witwatersrand",
+      "Rand"
+    ],
+    "sentenceText": "This comfortable symbiotic relationship has led to the growth of coral reefs that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish.",
+    "sentenceChunks": [
+      "This comfortable symbiotic relationship has led to the growth of coral reefs",
+      "that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "coral-sentence",
+    "term": "coral",
+    "ipa": "/ˈkɔːəl/",
+    "pos": "adjective",
+    "meaningEn": "of a strong pink to yellowish-pink color",
+    "meaningVi": "",
+    "synonyms": [
+      "coral"
+    ],
+    "sentenceText": "Samples of the planet's most spectacular corals - vivid green branching coral, yellow scroll, blue ridge and many more species - have been added to the giant tank along with fish that thrive in their presence: blue tang, clownfish and many others.",
+    "sentenceChunks": [
+      "Samples of the planet's most spectacular corals - vivid green branching coral, yellow scroll, blue ridge and many more species - have been added to the giant tank along with fish that thrive in their presence:",
+      "blue tang, clownfish and many others."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "resemble-sentence",
+    "term": "resemble",
+    "ipa": "/rɪˈzembəl/",
+    "pos": "verb",
+    "meaningEn": "appear like; be similar or bear a likeness to",
+    "meaningVi": "",
+    "synonyms": [
+      "resemble"
+    ],
+    "sentenceText": "Wasn't it in the 19th century that theater programs started to resemble programs today?",
+    "sentenceChunks": [
+      "Wasn't it in the 19th century that theater programs started to resemble programs today?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "non-inclusive-sentence",
+    "term": "non-inclusive",
+    "ipa": "/nɑn ˌɪnˈklusɪv/",
+    "pos": "adjective",
+    "meaningEn": "a key term used in this section",
+    "meaningVi": "",
+    "synonyms": [
+      "non-inclusive"
+    ],
+    "sentenceText": "It's worth looking at the problems non-inclusive designs cause when not enough consideration is given to a range of users as it can have a serious impact on people's lives.",
+    "sentenceChunks": [
+      "It's worth looking at the problems non-inclusive designs cause",
+      "when not enough consideration is given to a range of users as it can have a serious impact on people's lives."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "nowadays-sentence",
+    "term": "nowadays",
+    "ipa": "/ˈnaʊəˌdeɪz/",
+    "pos": "noun",
+    "meaningEn": "the period of time that is happening now; any continuous stretch of time including the moment of speech",
+    "meaningVi": "",
+    "synonyms": [
+      "present"
+    ],
+    "sentenceText": "Yes, they're quite common nowadays.",
+    "sentenceChunks": [
+      "Yes, they're quite common nowadays."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "artificial-sentence",
+    "term": "artificial",
+    "ipa": "/ˌɑːtəˈfɪʃəl/",
+    "pos": "adjective",
+    "meaningEn": "contrived by art rather than nature",
+    "meaningVi": "",
+    "synonyms": [
+      "unreal",
+      "contrived",
+      "hokey",
+      "stilted"
+    ],
+    "sentenceText": "Conservationists have put the final touches to a giant artificial reef they have been assembling at the world-renowned Zoological Society of London (London Zoo).",
+    "sentenceChunks": [
+      "Conservationists have put the final touches to a giant artificial reef they",
+      "have been assembling at the world-renowned Zoological Society of London (London Zoo)."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "dependent-sentence",
+    "term": "dependent",
+    "ipa": "/dɪˈpendənt/",
+    "pos": "adjective",
+    "meaningEn": "relying on or requiring a person or thing for support, supply, or what is needed",
+    "meaningVi": "",
+    "synonyms": [
+      "dependant",
+      "qualified"
+    ],
+    "sentenceText": "And another worry is that we are increasingly dependent on computer networks, and that these could behave like a single \"brain\" with a mind of its own, and with goals that may be contrary to human welfare.",
+    "sentenceChunks": [
+      "And another worry is",
+      "that we are increasingly dependent on computer networks, and that these could behave like a single \"brain\" with a mind of its own, and with goals that may be contrary to human welfare."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "invent-sentence",
+    "term": "invent",
+    "ipa": "/ˌɪnˈvent/",
+    "pos": "noun",
+    "meaningEn": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
+    "meaningVi": "",
+    "synonyms": [
+      "contrive",
+      "devise",
+      "excogitate",
+      "formulate"
+    ],
+    "sentenceText": "Birdseye methodically kept inventing better freezers and gradually built a business selling frozen fish from Gloucester, Massachusetts.",
+    "sentenceChunks": [
+      "Birdseye methodically kept inventing better freezers and gradually built a business selling frozen fish from Gloucester, Massachusetts."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "module-sentence",
+    "term": "module",
+    "ipa": "/ˈmɑdʒul/",
+    "pos": "noun",
+    "meaningEn": "one of the inherent cognitive or perceptual powers of the mind",
+    "meaningVi": "",
+    "synonyms": [
+      "faculty",
+      "mental faculty"
+    ],
+    "sentenceText": "Although it is one of the research areas of the module convenor.",
+    "sentenceChunks": [
+      "Although it is one of the research areas of the module convenor."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "designer-sentence",
+    "term": "designer",
+    "ipa": "/dɪˈzaɪnə/",
+    "pos": "noun",
+    "meaningEn": "a person who specializes in designing architectural interiors and their furnishings",
+    "meaningVi": "",
+    "synonyms": [
+      "interior designer",
+      "interior decorator",
+      "house decorator",
+      "room decorator"
+    ],
+    "sentenceText": "For example, it's well known that vision declines with age and that we also become worse at distinguishing between similar colors, in particular shades of blue, which is why software designers rarely create interfaces with this color.",
+    "sentenceChunks": [
+      "For example, it's well known",
+      "that vision declines with age and that we also become worse at distinguishing between similar colors, in particular shades of blue, which is why software designers rarely create interfaces with this color."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "fiction-sentence",
+    "term": "fiction",
+    "ipa": "/ˈfɪkʃən/",
+    "pos": "noun",
+    "meaningEn": "a literary work based on the imagination and not necessarily on fact",
+    "meaningVi": "",
+    "synonyms": [
+      "fabrication",
+      "fable"
+    ],
+    "sentenceText": "As his response, Wolpert commented, 'Science fiction has often been remarkable at predicting the future Science fiction has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies.",
+    "sentenceChunks": [
+      "As his response, Wolpert commented, 'Science fiction has often been remarkable at predicting the future Science fiction",
+      "has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "castle-sentence",
+    "term": "castle",
+    "ipa": "/ˈkæsəl/",
+    "pos": "noun",
+    "meaningEn": "a large and stately mansion",
+    "meaningVi": "",
+    "synonyms": [
+      "palace"
+    ],
+    "sentenceText": "Just by chance, the team found some old maps and documents in our library, which showed 500-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.",
+    "sentenceChunks": [
+      "Just by chance, the team found some old maps and documents in our library",
+      "which showed 500-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "discover-sentence",
+    "term": "discover",
+    "ipa": "/dɪˈskəvə/",
+    "pos": "noun",
+    "meaningEn": "discover or determine the existence, presence, or fact of",
+    "meaningVi": "",
+    "synonyms": [
+      "detect",
+      "observe",
+      "find",
+      "notice"
+    ],
+    "sentenceText": "Last year, we discovered a fish pond in the ancient village.",
+    "sentenceChunks": [
+      "Last year, we discovered a fish pond in the ancient village."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "discovery-sentence",
+    "term": "discovery",
+    "ipa": "/ˌdɪˈskəvri/",
+    "pos": "noun",
+    "meaningEn": "the act of discovering something",
+    "meaningVi": "",
+    "synonyms": [
+      "find",
+      "uncovering"
+    ],
+    "sentenceText": "Besides the discovery of the village, we've also found evidence of human activity on the other side of the river.",
+    "sentenceChunks": [
+      "Besides the discovery of the village, we've also found evidence",
+      "of human activity on the other side of the river."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "universal-sentence",
+    "term": "universal",
+    "ipa": "/ˌjunəˈvəsəl/",
+    "pos": "adjective",
+    "meaningEn": "of worldwide scope or applicability; ; - Christopher Morley",
+    "meaningVi": "",
+    "synonyms": [
+      "cosmopolitan",
+      "ecumenical",
+      "oecumenical",
+      "general"
+    ],
+    "sentenceText": "Inclusive design is often linked with universal design although they are not quite the same thing.",
+    "sentenceChunks": [
+      "Inclusive design is often linked with universal design although they are not quite the same thing."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "format-sentence",
+    "term": "format",
+    "ipa": "/ˈfɔːˌmæt/",
+    "pos": "noun",
+    "meaningEn": "the organization of information according to preset specifications (usually for computer processing)",
+    "meaningVi": "",
+    "synonyms": [
+      "formatting",
+      "data format",
+      "data formatting"
+    ],
+    "sentenceText": "In the USA, programs, or rather playbills, continued to be published in the same format, while here in the UK, programs became merely a single sheet of paper folded to create four pages for text.",
+    "sentenceChunks": [
+      "In the USA, programs, or rather playbills, continued to be published in the same format",
+      "while here in the UK, programs became merely a single sheet of paper folded to create four pages for text."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "contain-sentence",
+    "term": "contain",
+    "ipa": "/kənˈteɪn/",
+    "pos": "noun",
+    "meaningEn": "include or contain; have as a component",
+    "meaningVi": "",
+    "synonyms": [
+      "incorporate",
+      "comprise",
+      "hold",
+      "bear"
+    ],
+    "sentenceText": "I thought this was a good program to show, not because of the pictures, but because it contains articles written by members of theater company, so we can learn how the production was created and the thoughts and feelings of the cast.",
+    "sentenceChunks": [
+      "I thought this was a good program to show, not",
+      "because of the pictures, but because it contains articles written by members of theater company, so we can learn how the production was created and the thoughts and feelings of the cast."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "monthly-sentence",
+    "term": "monthly",
+    "ipa": "/ˈmənθli/",
+    "pos": "adjective",
+    "meaningEn": "of or occurring or payable every month",
+    "meaningVi": "",
+    "synonyms": [
+      "monthly"
+    ],
+    "sentenceText": "It says the monthly price per room.",
+    "sentenceChunks": [
+      "It says the monthly price per room."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "intelligence-sentence",
+    "term": "intelligence",
+    "ipa": "/ˌɪnˈtelədʒəns/",
+    "pos": "noun",
+    "meaningEn": "the ability to comprehend; to understand and profit from experience",
+    "meaningVi": "",
+    "synonyms": [
+      "intelligence service",
+      "intelligence agency"
+    ],
+    "sentenceText": "Richardson's response to this question was this: 'We need to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.'",
+    "sentenceChunks": [
+      "Richardson's response to this question was this:",
+      "'We need to ask why fears of artificial intelligence and robots persist;",
+      "none have in fact risen up and challenged human supremacy.'"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "rent-sentence",
+    "term": "rent",
+    "ipa": "/rent/",
+    "pos": "verb",
+    "meaningEn": "let for money",
+    "meaningVi": "",
+    "synonyms": [
+      "lease",
+      "let"
+    ],
+    "sentenceText": "When I viewed the house, I told you I'll most probably need to rent some furniture.",
+    "sentenceChunks": [
+      "When I viewed the house, I told you I'll most probably need to rent some furniture."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "actor-sentence",
+    "term": "actor",
+    "ipa": "/ˈæktə/",
+    "pos": "noun",
+    "meaningEn": "a theatrical performer",
+    "meaningVi": "",
+    "synonyms": [
+      "histrion",
+      "player",
+      "thespian",
+      "role player"
+    ],
+    "sentenceText": "When a company of actors arrived in a town, they'd parade around the streets in their costumes, beating drums and announcing their upcoming performances.",
+    "sentenceChunks": [
+      "When a company of actors arrived in a town, they'd parade around",
+      "the streets in their costumes, beating drums and announcing their upcoming performances."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "ancient-sentence",
+    "term": "ancient",
+    "ipa": "/ˈeɪntʃənt/",
+    "pos": "adjective",
+    "meaningEn": "belonging to times long past especially of the historical period before the fall of the Western Roman Empire",
+    "meaningVi": "",
+    "synonyms": [
+      "ancient"
+    ],
+    "sentenceText": "At one point, we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall.",
+    "sentenceChunks": [
+      "At one point, we found a long wall and thought it was",
+      "an ancient palace, but it turned out to be a modern wall."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The Bidcaster archaeological dig",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "planet-sentence",
+    "term": "planet",
+    "ipa": "/ˈplænət/",
+    "pos": "noun",
+    "meaningEn": "(astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction",
+    "meaningVi": "",
+    "synonyms": [
+      "major planet",
+      "satellite"
+    ],
+    "sentenceText": "On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied, 'I don't see a pressing need to colonise other planets unless we can bring [these] resources back to Earth.",
+    "sentenceChunks": [
+      "On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied",
+      "'I don't see a pressing need to colonise other planets unless we can bring [these] resources back to Earth."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "perspective-sentence",
+    "term": "perspective",
+    "ipa": "/pəˈspektɪv/",
+    "pos": "noun",
+    "meaningEn": "a way of regarding situations or topics etc.",
+    "meaningVi": "",
+    "synonyms": [
+      "position",
+      "view",
+      "linear perspective"
+    ],
+    "sentenceText": "'In some cases, we need to bring these different understandings together to get a whole perspective.",
+    "sentenceChunks": [
+      "'In some cases, we need to bring these different understandings together to get a whole perspective."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Robots and us",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "independence-sentence",
+    "term": "independence",
+    "ipa": "/ˌɪndɪˈpendəns/",
+    "pos": "noun",
+    "meaningEn": "freedom from control or influence of another or others",
+    "meaningVi": "",
+    "synonyms": [
+      "independency"
+    ],
+    "sentenceText": "Access is one obvious example because it has such a huge impact on disabled people's independence.",
+    "sentenceChunks": [
+      "Access is one obvious example because it has such a huge impact on disabled people's independence."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Inclusive design",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "customer-sentence",
+    "term": "customer",
+    "ipa": "/ˈkəstəmə/",
+    "pos": "noun",
+    "meaningEn": "someone who pays for goods or services",
+    "meaningVi": "",
+    "synonyms": [
+      "client"
+    ],
+    "sentenceText": "But one helpful thing is that they also do cleaning for customers.",
+    "sentenceChunks": [
+      "But one helpful thing is that they also do cleaning for customers."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "familiar-sentence",
+    "term": "familiar",
+    "ipa": "/fəˈmɪljə/",
+    "pos": "adjective",
+    "meaningEn": "well known or easily recognized",
+    "meaningVi": "",
+    "synonyms": [
+      "familiar"
+    ],
+    "sentenceText": "Yeah, audiences were very familiar with leading actors and big names would draw huge crowds.",
+    "sentenceChunks": [
+      "Yeah, audiences were very familiar with leading actors and big names would draw huge crowds."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "temperature-sentence",
+    "term": "temperature",
+    "ipa": "/ˈtempəətʃə/",
+    "pos": "noun",
+    "meaningEn": "the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)",
+    "meaningVi": "",
+    "synonyms": [
+      "temperature"
+    ],
+    "sentenceText": "Rising ocean temperatures are triggering bleaching events that strip reefs of their colour and eventually kill them.",
+    "sentenceChunks": [
+      "Rising ocean temperatures are triggering bleaching events that strip reefs of their colour and eventually kill them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "marine-sentence",
+    "term": "marine",
+    "ipa": "/məˈin/",
+    "pos": "noun",
+    "meaningEn": "a member of the United States Marine Corps",
+    "meaningVi": "",
+    "synonyms": [
+      "devil dog",
+      "leatherneck",
+      "shipboard soldier"
+    ],
+    "sentenceText": "This comfortable symbiotic relationship has led to the growth of coral reefs that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish.",
+    "sentenceChunks": [
+      "This comfortable symbiotic relationship has led to the growth of coral reefs",
+      "that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "deliver-sentence",
+    "term": "deliver",
+    "ipa": "/dɪˈlɪvə/",
+    "pos": "noun",
+    "meaningEn": "deliver (a speech, oration, or idea)",
+    "meaningVi": "",
+    "synonyms": [
+      "present"
+    ],
+    "sentenceText": "One good thing about that company is that if you don't like the furniture once it's delivered, you can request exchanges as long as you do that within a week of receiving it.",
+    "sentenceChunks": [
+      "One good thing about",
+      "that company is that if you don't like the furniture once it's delivered, you can request exchanges as long as you do that within a week of receiving it."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Furniture rental companies",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "wave-sentence",
+    "term": "wave",
+    "ipa": "/weɪv/",
+    "pos": "noun",
+    "meaningEn": "one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)",
+    "meaningVi": "",
+    "synonyms": [
+      "moving ridge"
+    ],
+    "sentenceText": "Pearce-Kelly says that coral reefs have to survive really harsh conditions - wave erosion and other factors.",
+    "sentenceChunks": [
+      "Pearce-Kelly says that coral reefs have to survive really harsh conditions - wave erosion and other factors."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Can the planet's coral reefs be saved?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "perform-sentence",
+    "term": "perform",
+    "ipa": "/pəˈfɔːm/",
+    "pos": "verb",
+    "meaningEn": "carry out or perform an action",
+    "meaningVi": "",
+    "synonyms": [
+      "execute",
+      "do"
+    ],
+    "sentenceText": "But I hadn't realized that If the program named a famous actor, that's who the public expected to perform.",
+    "sentenceChunks": [
+      "But I hadn't realized that If the program named",
+      "a famous actor, that's who the public expected to perform."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A project on theatre programmes",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "launch-sentence",
+    "term": "launch",
+    "ipa": "/lɔntʃ/",
+    "pos": "noun",
+    "meaningEn": "a motorboat with an open deck or a half deck",
+    "meaningVi": "",
+    "synonyms": [
+      "launching"
+    ],
+    "sentenceText": "In 1954, the company adapted some of Birdseye's freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first 'TV Dinner'.",
+    "sentenceChunks": [
+      "In 1954, the company adapted some of Birdseye's freezing techniques, and with the help",
+      "of a clever name and a huge advertising budget, it launched the first 'TV Dinner'."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Frozen Food",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  }
+]

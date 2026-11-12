@@ -1,0 +1,28 @@
+{
+  "flags": [
+    {
+      "id": "hunting-learn",
+      "term": "hunting",
+      "issue": "sentence uses 'hunting' as a verb ('was hunting'); current noun gloss/POS mismatch",
+      "pos": "v",
+      "meaningEn": "to chase and kill animals for food",
+      "synonyms": [
+        "chase prey",
+        "pursue prey",
+        "prey on animals"
+      ]
+    },
+    {
+      "id": "conservation-learn",
+      "term": "conservation",
+      "issue": "sentence uses 'Conservationist' (a person), not 'conservation' (the concept); gloss/synonyms mismatch",
+      "pos": null,
+      "meaningEn": "a person who works to protect wildlife and natural places",
+      "synonyms": [
+        "environmentalist",
+        "preservationist",
+        "wildlife campaigner"
+      ]
+    }
+  ]
+}

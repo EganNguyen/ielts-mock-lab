@@ -1,0 +1,727 @@
+{
+  "flags": [
+    {
+      "id": "firefighter-sentence",
+      "term": "firefighter",
+      "issue": "synonym 'fire-eater' is a circus performer, not a firefighter",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "fireman",
+        "fire fighter"
+      ]
+    },
+    {
+      "id": "instruction-sentence",
+      "term": "instruction",
+      "issue": "'medium of instruction' means teaching, not a direction or order",
+      "pos": null,
+      "meaningEn": "the act or process of teaching",
+      "synonyms": [
+        "teaching",
+        "education"
+      ]
+    },
+    {
+      "id": "volunteer-sentence",
+      "term": "volunteer",
+      "issue": "gloss is limited to military enlistment; sentence means an unpaid festival helper",
+      "pos": null,
+      "meaningEn": "a person who offers to do something without being paid",
+      "synonyms": [
+        "unpaid worker",
+        "helper"
+      ]
+    },
+    {
+      "id": "pottery-sentence",
+      "term": "pottery",
+      "issue": "gloss is ceramic ware; sentence uses 'a pottery' = the workshop",
+      "pos": null,
+      "meaningEn": "a workshop where pottery is made",
+      "synonyms": [
+        "pottery workshop",
+        "studio"
+      ]
+    },
+    {
+      "id": "cane-sentence",
+      "term": "cane",
+      "issue": "gloss is a walking stick; sentence is about sugar cane",
+      "pos": null,
+      "meaningEn": "sugar cane - a tall tropical grass grown for its sweet juice",
+      "synonyms": [
+        "sugar cane",
+        "sugarcane"
+      ]
+    },
+    {
+      "id": "reef-sentence",
+      "term": "reef",
+      "issue": "synonyms Witwatersrand/Rand are a gold-bearing ridge, not a coral reef",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "coral reef",
+        "shoal",
+        "sandbar"
+      ]
+    },
+    {
+      "id": "coral-sentence",
+      "term": "coral",
+      "issue": "sentence uses coral as a noun (marine organism); gloss is the pink colour",
+      "pos": "n",
+      "meaningEn": "a hard stony substance built by colonies of marine polyps",
+      "synonyms": null
+    },
+    {
+      "id": "exhibit-sentence",
+      "term": "exhibit",
+      "issue": "gloss is 'show a quality or skill'; sentence means display goods at an exhibition",
+      "pos": null,
+      "meaningEn": "to show goods or products at an exhibition",
+      "synonyms": [
+        "display",
+        "show",
+        "present"
+      ]
+    },
+    {
+      "id": "minimise-sentence",
+      "term": "minimise",
+      "issue": "gloss is 'downplay'; sentence means reduce potential harm",
+      "pos": null,
+      "meaningEn": "to reduce something to the smallest possible amount",
+      "synonyms": [
+        "reduce",
+        "lessen",
+        "keep to a minimum"
+      ]
+    },
+    {
+      "id": "barbecue-sentence",
+      "term": "barbecue",
+      "issue": "sentence means an outdoor meal/event; gloss is barbecued meat",
+      "pos": null,
+      "meaningEn": "an outdoor meal or party where food is cooked over a fire",
+      "synonyms": [
+        "cookout",
+        "outdoor meal"
+      ]
+    },
+    {
+      "id": "dreaming-sentence",
+      "term": "dreaming",
+      "issue": "gloss is daydreaming while awake; sentence is dreaming during sleep",
+      "pos": null,
+      "meaningEn": "the experience of dreams during sleep",
+      "synonyms": null
+    },
+    {
+      "id": "supervisor-sentence",
+      "term": "supervisor",
+      "issue": "synonyms are computer programs, not a person who supervises",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "manager",
+        "overseer",
+        "boss"
+      ]
+    },
+    {
+      "id": "adaptation-sentence",
+      "term": "adaptation",
+      "issue": "gloss is a film/book adaptation; sentence means physical modifications",
+      "pos": null,
+      "meaningEn": "a change made to something to suit new conditions",
+      "synonyms": [
+        "adjustment",
+        "modification",
+        "alteration"
+      ]
+    },
+    {
+      "id": "nowadays-sentence",
+      "term": "nowadays",
+      "issue": "'nowadays' is an adverb, not a noun",
+      "pos": "adv",
+      "meaningEn": "at the present time; these days",
+      "synonyms": [
+        "currently",
+        "these days",
+        "today"
+      ]
+    },
+    {
+      "id": "occupation-sentence",
+      "term": "occupation",
+      "issue": "gloss is a job; sentence means the act of inhabiting a site",
+      "pos": null,
+      "meaningEn": "the act of living in or using a place",
+      "synonyms": [
+        "inhabitation",
+        "settlement",
+        "residence"
+      ]
+    },
+    {
+      "id": "artificial-sentence",
+      "term": "artificial",
+      "issue": "synonyms hokey/stilted describe affected behaviour, not man-made things",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "man-made",
+        "synthetic",
+        "imitation"
+      ]
+    },
+    {
+      "id": "dependent-sentence",
+      "term": "dependent",
+      "issue": "synonym 'qualified' does not mean dependent",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "reliant",
+        "reliant on"
+      ]
+    },
+    {
+      "id": "quieter-sentence",
+      "term": "quieter",
+      "issue": "sentence uses the comparative adjective; entry is glossed and tagged as a noun",
+      "pos": "adj",
+      "meaningEn": "less noisy",
+      "synonyms": [
+        "less noisy",
+        "softer"
+      ]
+    },
+    {
+      "id": "invent-sentence",
+      "term": "invent",
+      "issue": "verb glossed and tagged as a noun",
+      "pos": "v",
+      "meaningEn": "to design or create something that did not exist before",
+      "synonyms": [
+        "create",
+        "devise",
+        "originate"
+      ]
+    },
+    {
+      "id": "involve-sentence",
+      "term": "involve",
+      "issue": "verb tagged as a noun and glossed with the 'implicate' sense; sentence means take part",
+      "pos": "v",
+      "meaningEn": "to take part in something or be connected with it",
+      "synonyms": [
+        "participate in",
+        "engage in",
+        "be connected with"
+      ]
+    },
+    {
+      "id": "elms-sentence",
+      "term": "elms",
+      "issue": "plural noun ('Brighton's elms') tagged as an adjective",
+      "pos": "n",
+      "meaningEn": null,
+      "synonyms": null
+    },
+    {
+      "id": "attach-sentence",
+      "term": "attach",
+      "issue": "verb tagged as a noun; gloss is also circular",
+      "pos": "v",
+      "meaningEn": "to fasten or join one thing to another",
+      "synonyms": [
+        "fasten",
+        "join",
+        "fix"
+      ]
+    },
+    {
+      "id": "module-sentence",
+      "term": "module",
+      "issue": "gloss is a mental faculty; sentence means a unit of study",
+      "pos": null,
+      "meaningEn": "a unit of study within a course",
+      "synonyms": [
+        "unit",
+        "course unit"
+      ]
+    },
+    {
+      "id": "disc-sentence",
+      "term": "disc",
+      "issue": "gloss is a vinyl record; sentence means flat ceramic discs",
+      "pos": null,
+      "meaningEn": "a flat circular object",
+      "synonyms": [
+        "disk",
+        "circle",
+        "plate"
+      ]
+    },
+    {
+      "id": "mortality-sentence",
+      "term": "mortality",
+      "issue": "gloss is the state of being mortal; sentence means mass death",
+      "pos": null,
+      "meaningEn": "death, especially when many individuals die",
+      "synonyms": [
+        "death",
+        "dying",
+        "fatality"
+      ]
+    },
+    {
+      "id": "introduce-sentence",
+      "term": "introduce",
+      "issue": "verb tagged as a noun and glossed as 'make acquainted'; sentence means bring a species in",
+      "pos": "v",
+      "meaningEn": "to bring a species into a place where it did not exist before",
+      "synonyms": [
+        "bring in",
+        "import",
+        "establish"
+      ]
+    },
+    {
+      "id": "designer-sentence",
+      "term": "designer",
+      "issue": "gloss is limited to interior designers; sentence is software designers",
+      "pos": null,
+      "meaningEn": "a person who designs products, systems or interfaces",
+      "synonyms": [
+        "creator",
+        "planner"
+      ]
+    },
+    {
+      "id": "pitch-sentence",
+      "term": "pitch",
+      "issue": "gloss is sound frequency; sentence is a baseball throw",
+      "pos": null,
+      "meaningEn": "the act of throwing the ball to the batter in baseball",
+      "synonyms": null
+    },
+    {
+      "id": "castle-sentence",
+      "term": "castle",
+      "issue": "gloss is a mansion; sentence is a fortified castle",
+      "pos": null,
+      "meaningEn": "a large fortified building with thick walls",
+      "synonyms": [
+        "fortress",
+        "stronghold",
+        "citadel"
+      ]
+    },
+    {
+      "id": "bread-sentence",
+      "term": "bread",
+      "issue": "synonyms 'boodle' and 'cabbage' are slang for money, not bread",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "loaf",
+        "breadstuff",
+        "staff of life"
+      ]
+    },
+    {
+      "id": "presentation-sentence",
+      "term": "presentation",
+      "issue": "gloss is presenting a prize; sentence is a talk to an audience",
+      "pos": null,
+      "meaningEn": "a talk given to an audience",
+      "synonyms": [
+        "talk",
+        "demonstration",
+        "slideshow"
+      ]
+    },
+    {
+      "id": "ambassador-sentence",
+      "term": "ambassador",
+      "issue": "gloss is a diplomat; sentence is a brand ambassador",
+      "pos": null,
+      "meaningEn": "a person who represents and promotes a brand or organization",
+      "synonyms": [
+        "representative",
+        "promoter"
+      ]
+    },
+    {
+      "id": "consumption-sentence",
+      "term": "consumption",
+      "issue": "synonym 'pulmonary tuberculosis' is the disease sense, not eating/ingesting",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "ingestion",
+        "intake"
+      ]
+    },
+    {
+      "id": "associate-sentence",
+      "term": "associate",
+      "issue": "verb tagged as a noun; sentence means connect ideas in the mind",
+      "pos": "v",
+      "meaningEn": "to connect one thing with another in your mind",
+      "synonyms": [
+        "link",
+        "connect",
+        "relate"
+      ]
+    },
+    {
+      "id": "discover-sentence",
+      "term": "discover",
+      "issue": "verb tagged as a noun",
+      "pos": "v",
+      "meaningEn": "to find something for the first time",
+      "synonyms": [
+        "find",
+        "uncover",
+        "come across"
+      ]
+    },
+    {
+      "id": "exposure-sentence",
+      "term": "exposure",
+      "issue": "gloss is vulnerability to weather; sentence means contact with a language",
+      "pos": null,
+      "meaningEn": "the experience of coming into contact with something",
+      "synonyms": [
+        "contact",
+        "experience",
+        "familiarity"
+      ]
+    },
+    {
+      "id": "encourage-sentence",
+      "term": "encourage",
+      "issue": "verb tagged as a noun and glossed as 'promote'; sentence means urge children",
+      "pos": "v",
+      "meaningEn": "to urge or persuade someone to do something",
+      "synonyms": [
+        "urge",
+        "prompt",
+        "motivate"
+      ]
+    },
+    {
+      "id": "gallery-sentence",
+      "term": "gallery",
+      "issue": "gloss is spectators at a golf/tennis match; sentence is an art gallery",
+      "pos": null,
+      "meaningEn": "a room or building where works of art are shown",
+      "synonyms": [
+        "art gallery",
+        "exhibition space"
+      ]
+    },
+    {
+      "id": "reward-sentence",
+      "term": "reward",
+      "issue": "sentence uses 'rewarding' (adjective); entry defines the noun reward",
+      "pos": "adj",
+      "meaningEn": "making you feel satisfied and pleased",
+      "synonyms": [
+        "satisfying",
+        "fulfilling",
+        "gratifying"
+      ]
+    },
+    {
+      "id": "rail-sentence",
+      "term": "rail",
+      "issue": "gloss is a handrail; sentence means the railway system",
+      "pos": null,
+      "meaningEn": "the railway system",
+      "synonyms": [
+        "railway",
+        "railroad"
+      ]
+    },
+    {
+      "id": "format-sentence",
+      "term": "format",
+      "issue": "gloss is a computer data format; sentence means a publication's layout",
+      "pos": null,
+      "meaningEn": "the size, shape and layout of a publication",
+      "synonyms": [
+        "layout",
+        "arrangement",
+        "design"
+      ]
+    },
+    {
+      "id": "contain-sentence",
+      "term": "contain",
+      "issue": "verb tagged as a noun",
+      "pos": "v",
+      "meaningEn": "to have something inside or as a part",
+      "synonyms": [
+        "include",
+        "hold",
+        "comprise"
+      ]
+    },
+    {
+      "id": "intelligence-sentence",
+      "term": "intelligence",
+      "issue": "synonyms are intelligence agencies, not mental ability",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "intellect",
+        "reasoning",
+        "mental ability"
+      ]
+    },
+    {
+      "id": "depression-sentence",
+      "term": "depression",
+      "issue": "synonyms refer to economic depression, not low mood",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "low mood",
+        "despondency",
+        "melancholy"
+      ]
+    },
+    {
+      "id": "facility-sentence",
+      "term": "facility",
+      "issue": "synonyms adeptness/adroitness/deftness mean ease or skill, not facilities",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "amenity",
+        "installation",
+        "service"
+      ]
+    },
+    {
+      "id": "trend-sentence",
+      "term": "trend",
+      "issue": "sentence uses 'are trending' (verb); entry is the noun",
+      "pos": "v",
+      "meaningEn": "to become popular or widely discussed, especially online",
+      "synonyms": [
+        "be popular",
+        "go viral",
+        "take off"
+      ]
+    },
+    {
+      "id": "manage-sentence",
+      "term": "manage",
+      "issue": "gloss is 'succeed in doing'; sentence means cope with stress",
+      "pos": null,
+      "meaningEn": "to deal with or control something difficult",
+      "synonyms": [
+        "handle",
+        "deal with",
+        "cope with"
+      ]
+    },
+    {
+      "id": "object-sentence",
+      "term": "object",
+      "issue": "synonyms aim/objective/target are the 'goal' sense, not a physical object",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "thing",
+        "item",
+        "artifact"
+      ]
+    },
+    {
+      "id": "rent-sentence",
+      "term": "rent",
+      "issue": "gloss is 'let out' (landlord); sentence means pay to use furniture",
+      "pos": null,
+      "meaningEn": "to pay money to use something temporarily",
+      "synonyms": [
+        "hire",
+        "lease"
+      ]
+    },
+    {
+      "id": "kingdom-sentence",
+      "term": "kingdom",
+      "issue": "gloss is a figurative domain; sentence is a state ruled by a king",
+      "pos": null,
+      "meaningEn": "a country or state ruled by a king or queen",
+      "synonyms": [
+        "realm",
+        "monarchy",
+        "state"
+      ]
+    },
+    {
+      "id": "teach-sentence",
+      "term": "teach",
+      "issue": "gloss is the pirate Blackbeard; sentence uses the verb teach",
+      "pos": "v",
+      "meaningEn": "to give lessons or instruction to someone",
+      "synonyms": [
+        "instruct",
+        "educate",
+        "train"
+      ]
+    },
+    {
+      "id": "planet-sentence",
+      "term": "planet",
+      "issue": "synonym 'satellite' is a different celestial object, not a planet",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "world",
+        "celestial body"
+      ]
+    },
+    {
+      "id": "literature-sentence",
+      "term": "literature",
+      "issue": "gloss is creative writing; sentence means published research on a subject",
+      "pos": null,
+      "meaningEn": "the published works on a particular subject",
+      "synonyms": [
+        "published works",
+        "writings",
+        "research"
+      ]
+    },
+    {
+      "id": "affected-sentence",
+      "term": "affected",
+      "issue": "synonym 'unnatural' is the 'pretentious' sense, not influenced",
+      "pos": null,
+      "meaningEn": null,
+      "synonyms": [
+        "influenced",
+        "impacted",
+        "altered"
+      ]
+    },
+    {
+      "id": "survive-sentence",
+      "term": "survive",
+      "issue": "verb tagged as a noun",
+      "pos": "v",
+      "meaningEn": "to continue to live or exist after a difficult event",
+      "synonyms": [
+        "endure",
+        "last",
+        "persist"
+      ]
+    },
+    {
+      "id": "marine-sentence",
+      "term": "marine",
+      "issue": "gloss is a US Marine; sentence uses the adjective 'of the sea'",
+      "pos": "adj",
+      "meaningEn": "relating to the sea or sea life",
+      "synonyms": [
+        "oceanic",
+        "maritime",
+        "sea"
+      ]
+    },
+    {
+      "id": "deliver-sentence",
+      "term": "deliver",
+      "issue": "verb tagged as a noun and glossed as 'give a speech'; sentence means transport goods",
+      "pos": "v",
+      "meaningEn": "to take goods to a place or person",
+      "synonyms": [
+        "transport",
+        "bring",
+        "convey"
+      ]
+    },
+    {
+      "id": "plastic-sentence",
+      "term": "plastic",
+      "issue": "sentence uses plastic as a noun (material); gloss is the adjective 'moldable'",
+      "pos": "n",
+      "meaningEn": "a synthetic material made from polymers",
+      "synonyms": [
+        "synthetic material",
+        "polymer"
+      ]
+    },
+    {
+      "id": "diet-sentence",
+      "term": "diet",
+      "issue": "sentence uses diet as a noun (food eaten); gloss is the verb",
+      "pos": "n",
+      "meaningEn": "the food and drink that a person usually consumes",
+      "synonyms": [
+        "eating plan",
+        "nutrition",
+        "food intake"
+      ]
+    },
+    {
+      "id": "escape-sentence",
+      "term": "escape",
+      "issue": "sentence uses escape as a verb; gloss is the noun",
+      "pos": "v",
+      "meaningEn": "to avoid something harmful or unpleasant",
+      "synonyms": [
+        "avoid",
+        "evade",
+        "dodge"
+      ]
+    },
+    {
+      "id": "perform-sentence",
+      "term": "perform",
+      "issue": "gloss is 'carry out an action'; sentence means act for an audience",
+      "pos": null,
+      "meaningEn": "to act, sing or dance in front of an audience",
+      "synonyms": [
+        "act",
+        "appear",
+        "play"
+      ]
+    },
+    {
+      "id": "strike-sentence",
+      "term": "strike",
+      "issue": "gloss is a work stoppage; sentence means a collision (boat strikes)",
+      "pos": null,
+      "meaningEn": "a collision or hit",
+      "synonyms": [
+        "collision",
+        "hit",
+        "impact"
+      ]
+    },
+    {
+      "id": "launch-sentence",
+      "term": "launch",
+      "issue": "sentence uses launch as a verb; gloss is a motorboat",
+      "pos": "v",
+      "meaningEn": "to introduce a new product or start something",
+      "synonyms": [
+        "introduce",
+        "start",
+        "release"
+      ]
+    }
+  ]
+}

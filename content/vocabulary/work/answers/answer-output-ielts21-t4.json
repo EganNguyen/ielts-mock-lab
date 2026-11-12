@@ -1,0 +1,350 @@
+{
+  "tag": "ielts21-t4",
+  "links": {
+    "survey-learn|l1|q2": {
+      "support": "Well, normally I catch the bus, but I'm on my motorbike today because I'm going to work later.",
+      "connection": "The speaker says he is \"on my motorbike today\", which fills the note after \"used his\".",
+      "paraphrasing": "\"used his ______\" -> \"I'm on my motorbike today\""
+    },
+    "survey-learn|l1|q8": {
+      "support": "But there's only one place that sells books at the moment.",
+      "connection": "\"only one place that sells books\" answers the note about wanting more places to buy them.",
+      "paraphrasing": "\"more places to buy ______\" -> \"only one place that sells books\""
+    },
+    "out-of-town-learn|l1|q9": {
+      "support": "But my favourite thing is the plants they've put around the building.",
+      "connection": "\"my favourite thing\" answers \"Likes the ______ best\", and the thing named is \"the plants\".",
+      "paraphrasing": "\"Likes the ______ best\" -> \"my favourite thing is the plants\""
+    },
+    "exhibitor-learn|l2|q13": {
+      "support": "The scheme is available to every member of your organisation so this is a benefit that really does have something for you all.",
+      "connection": "The discount \"scheme\" is \"available to every member of your organisation\", matching availability to all members of exhibiting companies.",
+      "paraphrasing": "\"available to all members of exhibiting companies\" -> \"available to every member of your organisation\""
+    },
+    "discount-learn|l2|q13": {
+      "support": "The scheme is available to every member of your organisation so this is a benefit that really does have something for you all.",
+      "connection": "The discount \"scheme\" is \"available to every member of your organisation\", matching availability to all members of exhibiting companies.",
+      "paraphrasing": "\"available to all members of exhibiting companies\" -> \"available to every member of your organisation\""
+    },
+    "rapid-expansion-learn|l2|q15": {
+      "support": "Rather to his surprise this became a bit of a sensation, and in a remarkably short time he had opened an amazing 76 restaurants worldwide.",
+      "connection": "\"became a bit of a sensation\" and \"in a remarkably short time he had opened an amazing 76 restaurants\" match \"an unexpectedly rapid expansion\".",
+      "paraphrasing": "\"an unexpectedly rapid expansion\" -> \"Rather to his surprise ... in a remarkably short time ... 76 restaurants worldwide\""
+    },
+    "rapid-expansion-learn|l2|q16": {
+      "support": "David's company has gone from strength to strength but he isn't just interested in making money - he also makes regular donations to organisations helping those in need both in the UK and elsewhere in the world.",
+      "connection": "Business success (\"gone from strength to strength\") plus \"regular donations to organisations helping those in need\" matches \"Combining business success with contributions to charities\".",
+      "paraphrasing": "\"contributions to charities\" -> \"makes regular donations to organisations helping those in need\""
+    },
+    "rapid-expansion-learn|l2|q17": {
+      "support": "He'll be telling you about what he discovered during his travels around the world about business practices in different cultures.",
+      "connection": "\"his travels around the world about business practices in different cultures\" matches \"A global range of business experiences\".",
+      "paraphrasing": "\"a global range of business experiences\" -> \"his travels around the world about business practices in different cultures\""
+    },
+    "rapid-expansion-learn|l2|q18": {
+      "support": "Her main business interest is in technology, but she's also passionate about helping people gain employment and organises an annual jobs fair, so she'll be concentrating on this in her talk.",
+      "connection": "\"helping people gain employment\" and \"an annual jobs fair\" match \"Supporting job seekers\", and \"she'll be concentrating on this\" names her topic.",
+      "paraphrasing": "\"Supporting job seekers\" -> \"helping people gain employment and organises an annual jobs fair\""
+    },
+    "rapid-expansion-learn|l2|q19": {
+      "support": "He'll be talking about the need for flexibility to cope with new directions in today's business world.",
+      "connection": "\"the need for flexibility to cope with new directions\" matches \"Developing a company in response to changing markets\".",
+      "paraphrasing": "\"changing markets\" -> \"new directions in today's business world\""
+    },
+    "rapid-expansion-learn|l2|q20": {
+      "support": "Her session will offer an interactive look at different obstacles in people's own lives, not just in business.",
+      "connection": "\"different obstacles in people's own lives\" matches \"Dealing with personal problems\".",
+      "paraphrasing": "\"personal problems\" -> \"obstacles in people's own lives\""
+    },
+    "financial-set-back-learn|l2|q15": {
+      "support": "Rather to his surprise this became a bit of a sensation, and in a remarkably short time he had opened an amazing 76 restaurants worldwide.",
+      "connection": "\"became a bit of a sensation\" and \"in a remarkably short time he had opened an amazing 76 restaurants\" match \"an unexpectedly rapid expansion\".",
+      "paraphrasing": "\"an unexpectedly rapid expansion\" -> \"Rather to his surprise ... in a remarkably short time ... 76 restaurants worldwide\""
+    },
+    "financial-set-back-learn|l2|q16": {
+      "support": "David's company has gone from strength to strength but he isn't just interested in making money - he also makes regular donations to organisations helping those in need both in the UK and elsewhere in the world.",
+      "connection": "Business success (\"gone from strength to strength\") plus \"regular donations to organisations helping those in need\" matches \"Combining business success with contributions to charities\".",
+      "paraphrasing": "\"contributions to charities\" -> \"makes regular donations to organisations helping those in need\""
+    },
+    "financial-set-back-learn|l2|q17": {
+      "support": "He'll be telling you about what he discovered during his travels around the world about business practices in different cultures.",
+      "connection": "\"his travels around the world about business practices in different cultures\" matches \"A global range of business experiences\".",
+      "paraphrasing": "\"a global range of business experiences\" -> \"his travels around the world about business practices in different cultures\""
+    },
+    "financial-set-back-learn|l2|q18": {
+      "support": "Her main business interest is in technology, but she's also passionate about helping people gain employment and organises an annual jobs fair, so she'll be concentrating on this in her talk.",
+      "connection": "\"helping people gain employment\" and \"an annual jobs fair\" match \"Supporting job seekers\", and \"she'll be concentrating on this\" names her topic.",
+      "paraphrasing": "\"Supporting job seekers\" -> \"helping people gain employment and organises an annual jobs fair\""
+    },
+    "financial-set-back-learn|l2|q19": {
+      "support": "He'll be talking about the need for flexibility to cope with new directions in today's business world.",
+      "connection": "\"the need for flexibility to cope with new directions\" matches \"Developing a company in response to changing markets\".",
+      "paraphrasing": "\"changing markets\" -> \"new directions in today's business world\""
+    },
+    "financial-set-back-learn|l2|q20": {
+      "support": "Her session will offer an interactive look at different obstacles in people's own lives, not just in business.",
+      "connection": "\"different obstacles in people's own lives\" matches \"Dealing with personal problems\".",
+      "paraphrasing": "\"personal problems\" -> \"obstacles in people's own lives\""
+    },
+    "accommodation-learn|l3|q23": {
+      "support": "But I think the solution is to design multi-storey apartment blocks.",
+      "connection": "\"the solution is to design multi-storey apartment blocks\" answers how demand for accommodation in urban areas should be met, i.e. \"constructing tall buildings\".",
+      "paraphrasing": "\"constructing tall buildings\" -> \"design multi-storey apartment blocks\""
+    },
+    "repurpose-learn|l3|q23": {
+      "support": "But I think the solution is to design multi-storey apartment blocks.",
+      "connection": "\"the solution is to design multi-storey apartment blocks\" answers how demand for accommodation in urban areas should be met, i.e. \"constructing tall buildings\".",
+      "paraphrasing": "\"constructing tall buildings\" -> \"design multi-storey apartment blocks\""
+    },
+    "communal-learn|l3|q24": {
+      "support": "In fact it doesn't have to be high-rise, you can do it on a one-storey building in a suburb, but it would greatly improve how you feel if you live in an urban high-rise.",
+      "connection": "\"it would greatly improve how you feel if you live in an urban high-rise\" matches \"especially beneficial for city residents\".",
+      "paraphrasing": "\"especially beneficial for city residents\" -> \"greatly improve how you feel if you live in an urban high-rise\""
+    },
+    "communal-learn|l3|q27": {
+      "support": "People might worry about conditions which aren't serious at all.",
+      "connection": "\"worry about conditions which aren't serious at all\" matches anxiety that is unnecessary.",
+      "paraphrasing": "\"cause unnecessary anxiety\" -> \"worry about conditions which aren't serious at all\""
+    },
+    "communal-learn|l3|q30": {
+      "support": "That\"d be a great way for older people to get to know one another, especially if they're no longer going out to work.",
+      "connection": "\"older people ... no longer going out to work\" matches retired people, and the plots are \"a great way ... to get to know one another\", i.e. a shared project.",
+      "paraphrasing": "\"enable retired people to share a project\" -> \"a great way for older people to get to know one another\""
+    },
+    "post-surgical-learn|l4|q31": {
+      "support": "They may also be negatively affected by having their routine disturbed, you know, like if they can't do the things they normally do, or have to devote a lot of time to appointments such as physiotherapy, to aid their recovery.",
+      "connection": "\"negatively affected by having their routine disturbed\" answers the note about unwelcome changes to their routine.",
+      "paraphrasing": "\"unwelcome changes to their ______\" -> \"having their routine disturbed\""
+    },
+    "pain-relief-learn|l4|q31": {
+      "support": "They may also be negatively affected by having their routine disturbed, you know, like if they can't do the things they normally do, or have to devote a lot of time to appointments such as physiotherapy, to aid their recovery.",
+      "connection": "\"negatively affected by having their routine disturbed\" answers the note about unwelcome changes to their routine.",
+      "paraphrasing": "\"unwelcome changes to their ______\" -> \"having their routine disturbed\""
+    },
+    "post-surgical-learn|l4|q32": {
+      "support": "They identified nearly a hundred trials involving a total of seven thousand patients who were played recorded music as part of their post-operative care.",
+      "connection": "\"nearly a hundred trials\" answers the note's \"about 100 ______\" for the study.",
+      "paraphrasing": "\"about 100 ______\" -> \"nearly a hundred trials\""
+    },
+    "pain-relief-learn|l4|q32": {
+      "support": "They identified nearly a hundred trials involving a total of seven thousand patients who were played recorded music as part of their post-operative care.",
+      "connection": "\"nearly a hundred trials\" answers the note's \"about 100 ______\" for the study.",
+      "paraphrasing": "\"about 100 ______\" -> \"nearly a hundred trials\""
+    },
+    "wellbeing-learn|l4|q33": {
+      "support": "However, a common factor was that the chosen music had a calming quality.",
+      "connection": "\"a common factor\" across the patients and \"a calming quality\" answer the note about music with a calming effect.",
+      "paraphrasing": "\"a ______ effect\" -> \"a calming quality\""
+    },
+    "wellbeing-learn|l4|q34": {
+      "support": "More often though, the mode of delivery was by what are known as music pillows.",
+      "connection": "\"More often\" matches \"mostly\", and \"the mode of delivery ... music pillows\" answers how the music was played.",
+      "paraphrasing": "\"mostly played through music ______\" -> \"the mode of delivery was by ... music pillows\""
+    },
+    "wellbeing-learn|l4|q35": {
+      "support": "When asked to report their experience of listening to music, surgical patients said that either they had no feelings of anxiety at any point, or those feelings were only slight.",
+      "connection": "\"no feelings of anxiety at any point, or those feelings were only slight\" answers \"an absence or low levels of ______\".",
+      "paraphrasing": "\"absence or low levels\" -> \"no feelings ... at any point, or ... only slight\""
+    },
+    "pain-relief-learn|l4|q36": {
+      "support": "And in every case, those who were given music to listen to didn't need as much medication to ease their pain as those patients who weren't played music.",
+      "connection": "\"didn't need as much medication ... as those patients who weren't played music\" matches needing less medication.",
+      "paraphrasing": "\"needed less ______ than those who weren't played music\" -> \"didn't need as much medication ... as those patients who weren't played music\""
+    },
+    "medical-record-learn|l4|q36": {
+      "support": "And in every case, those who were given music to listen to didn't need as much medication to ease their pain as those patients who weren't played music.",
+      "connection": "\"didn't need as much medication ... as those patients who weren't played music\" matches needing less medication.",
+      "paraphrasing": "\"needed less ______ than those who weren't played music\" -> \"didn't need as much medication ... as those patients who weren't played music\""
+    },
+    "decorative-learn|r1|q1": {
+      "support": "In east Africa the plant arrived with Belgian colonists in Rwanda, who liked the look of its glossy leaves and delicate purple flowers floating in their ponds.",
+      "connection": "The plant \"arrived with Belgian colonists\" in east Africa and they \"liked the look of its glossy leaves and delicate purple flowers\", showing it was introduced as decorative.",
+      "paraphrasing": "\"introduced as a decorative plant\" -> \"arrived with Belgian colonists ... liked the look of its glossy leaves and delicate purple flowers\""
+    },
+    "hyacinth-learn|r1|q1": {
+      "support": "In east Africa the plant arrived with Belgian colonists in Rwanda, who liked the look of its glossy leaves and delicate purple flowers floating in their ponds.",
+      "connection": "The plant \"arrived with Belgian colonists\" in east Africa and they \"liked the look of its glossy leaves and delicate purple flowers\", showing it was introduced as decorative.",
+      "paraphrasing": "\"introduced as a decorative plant\" -> \"arrived with Belgian colonists ... liked the look of its glossy leaves and delicate purple flowers\""
+    },
+    "hyacinth-learn|r1|q2": {
+      "support": "But by the 1980s, it had 'escaped' out of the country via the Kagera river and made its way downstream to Lake Victoria.",
+      "connection": "The plant \"escaped\" and \"made its way downstream\" to Lake Victoria, so fishermen did not take it there.",
+      "paraphrasing": "\"Fishermen took ... plants\" -> \"it had escaped ... and made its way downstream\""
+    },
+    "hyacinth-learn|r1|q3": {
+      "support": "For the women who smoke fish from the lake to sell it has meant declining income, as the boats that once brought the fish to shore by the hundreds struggle to navigate through the mass of plants.",
+      "connection": "\"the boats ... struggle to navigate through the mass of plants\" matches difficulty forcing boats through the thick water hyacinth.",
+      "paraphrasing": "\"difficult to force boats through\" -> \"boats ... struggle to navigate through the mass of plants\""
+    },
+    "hyacinth-learn|r1|q6": {
+      "support": "Some years ago, on the shores of Lake Victoria, huge piles of water hyacinth that villagers had taken out of the water in an attempt to clear it were a common sight.",
+      "connection": "\"huge piles of water hyacinth that villagers had taken out of the water\" shows removal was possible, contradicting \"impossible\".",
+      "paraphrasing": "\"found it impossible to remove\" -> \"huge piles ... villagers had taken out of the water\""
+    },
+    "hyacinth-learn|r1|q7": {
+      "support": "It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, across the world, they began to explore its potential as a biofuel.",
+      "connection": "Researchers \"began to explore its potential as a biofuel\" in the 1980s, which is in the last century.",
+      "paraphrasing": "\"started investigating ... in the last century\" -> \"since as early as the 1980s ... began to explore its potential as a biofuel\""
+    },
+    "biogas-learn|r1|q7": {
+      "support": "It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, across the world, they began to explore its potential as a biofuel.",
+      "connection": "Researchers \"began to explore its potential as a biofuel\" in the 1980s, which is in the last century.",
+      "paraphrasing": "\"started investigating ... in the last century\" -> \"since as early as the 1980s ... began to explore its potential as a biofuel\""
+    },
+    "investigate-learn|r1|q7": {
+      "support": "It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, across the world, they began to explore its potential as a biofuel.",
+      "connection": "Researchers \"began to explore its potential as a biofuel\" in the 1980s, which is in the last century.",
+      "paraphrasing": "\"started investigating ... in the last century\" -> \"since as early as the 1980s ... began to explore its potential as a biofuel\""
+    },
+    "biogas-learn|r1|q8": {
+      "support": "The community received a pair of donated biogas digesters - machines that would transform a mix of water hyacinth and cow dung into biogas for cooking.",
+      "connection": "\"a mix of water hyacinth and cow dung\" put into the digesters answers the first step of the flow-chart.",
+      "paraphrasing": "\"water hyacinth together with some ______\" -> \"a mix of water hyacinth and cow dung\""
+    },
+    "biogas-learn|r1|q9": {
+      "support": "The mixture goes in one end - think of it as a mouth - and over the next 20 to 30 days, it goes through a fermentation process and breaks down, giving off gas that comes out the other end.",
+      "connection": "\"goes through a fermentation process and breaks down\" answers what must be completed before gas is released.",
+      "paraphrasing": "\"until the ______ is completed\" -> \"goes through a fermentation process\""
+    },
+    "biogas-learn|r1|q10": {
+      "support": "From there, the clean- burning gas is passed through pipes to the point of use, just like traditional domestic gas.",
+      "connection": "\"the clean- burning gas is passed through pipes\" answers what is used to transport the gas for use.",
+      "paraphrasing": "\"use ______ to transport it\" -> \"passed through pipes\""
+    },
+    "biogas-learn|r1|q11": {
+      "support": "Besides, they don't have to devote a lot of time every day to gathering firewood, which is a great relief.",
+      "connection": "\"don't have to devote a lot of time ... to gathering firewood\" matches no need to spend so much time collecting fuel.",
+      "paraphrasing": "\"spend so much ______ collecting fuel\" -> \"devote a lot of time ... to gathering firewood\""
+    },
+    "biogas-learn|r1|q12": {
+      "support": "As a result, they're able to make more money for their families from other enterprises.",
+      "connection": "\"make more money ... from other enterprises\" matches different tasks that bring in money.",
+      "paraphrasing": "\"different tasks that bring in ______\" -> \"other enterprises ... make more money\""
+    },
+    "biogas-learn|r1|q13": {
+      "support": "But unless the price of the machines drops, it's pretty clear that most communities will never be able to afford any, since they sell for about $750.",
+      "connection": "\"the price of the machines\" and \"most communities will never be able to afford any\" match price being beyond the reach of most villages.",
+      "paraphrasing": "\"the ______ of the digesters is beyond the reach of most villages\" -> \"the price of the machines ... most communities will never be able to afford\""
+    },
+    "literacy-learn|r2|q20": {
+      "support": "'Each year across India, 600,000 children are tested, and year after year over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli.",
+      "connection": "Over 50% \"cannot read ... fluently\" while just under 50% \"cannot solve a ... subtraction task\", so literacy performance is worse, not better.",
+      "paraphrasing": "\"perform better in literacy tests than in numeracy tests\" -> \"over 50% ... cannot read ... fluently, and just under 50% ... cannot solve a ... subtraction task\""
+    },
+    "numeracy-learn|r2|q20": {
+      "support": "'Each year across India, 600,000 children are tested, and year after year over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli.",
+      "connection": "Over 50% \"cannot read ... fluently\" while just under 50% \"cannot solve a ... subtraction task\", so literacy performance is worse, not better.",
+      "paraphrasing": "\"perform better in literacy tests than in numeracy tests\" -> \"over 50% ... cannot read ... fluently, and just under 50% ... cannot solve a ... subtraction task\""
+    },
+    "socio-economic-learn|r2|q26": {
+      "support": "While the preliminary results show there is no difference in general intelligence among boys and girls from slum areas versus those from urban poor backgrounds, an unanticipated finding has been that children from slum backgrounds do not seem to lag behind children from other urban poor backgrounds - and in some cases outperform them (e.g. in numeracy and literacy tasks).",
+      "connection": "\"an unanticipated finding\" is what surprised the researchers, and \"do not seem to lag behind ... (e.g. in numeracy and literacy tasks)\" matches skills that are not lower.",
+      "paraphrasing": "\"not lower than\" -> \"do not seem to lag behind ... and in some cases outperform\""
+    },
+    "medium-of-instruction-learn|r2|q26": {
+      "support": "While the preliminary results show there is no difference in general intelligence among boys and girls from slum areas versus those from urban poor backgrounds, an unanticipated finding has been that children from slum backgrounds do not seem to lag behind children from other urban poor backgrounds - and in some cases outperform them (e.g. in numeracy and literacy tasks).",
+      "connection": "\"an unanticipated finding\" is what surprised the researchers, and \"do not seem to lag behind ... (e.g. in numeracy and literacy tasks)\" matches skills that are not lower.",
+      "paraphrasing": "\"not lower than\" -> \"do not seem to lag behind ... and in some cases outperform\""
+    },
+    "medium-of-instruction-learn|r2|q22": {
+      "support": "Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home.",
+      "connection": "\"investigating whether these low learning outcomes could be caused by\" a language that \"differs from the language used at home\" links poor performance to unfamiliar instruction.",
+      "paraphrasing": "\"being taught in an unfamiliar language\" -> \"the language that children are taught in often differs from the language used at home\""
+    },
+    "medium-of-instruction-learn|r2|q24": {
+      "support": "According to Tsimpli, most of the evidence from this and other projects shows that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.",
+      "connection": "\"English instruction for children from low socio-economic areas might not be the best way for them to learn\" matches poor children being disadvantaged by instruction in English.",
+      "paraphrasing": "\"Poor children may be disadvantaged further by being instructed in English\" -> \"English instruction for children from low socio-economic areas might not be the best way for them to learn\""
+    },
+    "medium-of-instruction-learn|r2|q25": {
+      "support": "We are not suggesting that English be withdrawn - that ship has sailed - but we perhaps have to think more about learner needs.",
+      "connection": "\"English be withdrawn - that ship has sailed\" means it is too late to remove English as a language of instruction.",
+      "paraphrasing": "\"too late to remove English completely\" -> \"that ship has sailed\""
+    },
+    "multilingualism-learn|r2|q14": {
+      "support": "Stop to listen and, above the din of rickshaws and buses, you'll hear a multitude of languages, as more than 20 million people go about their daily lives.",
+      "connection": "\"more than 20 million people\" in Delhi's streets matches a dense population, and \"a multitude of languages\" matches the variety heard.",
+      "paraphrasing": "\"dense population\" -> \"more than 20 million people\""
+    },
+    "multilingualism-learn|r2|q15": {
+      "support": "Many were born and raised here, and many millions more have recently made India's capital their home, having moved from surrounding neighbourhoods, cities and states or across the country, often in the hope of gaining better jobs and a better life.",
+      "connection": "\"Many were born and raised here\" contrasts with those who \"have recently made India's capital their home\", i.e. new immigrants.",
+      "paraphrasing": "\"new immigrants\" -> \"many millions more have recently made India's capital their home\""
+    },
+    "multilingualism-learn|r2|q16": {
+      "support": "Many were born and raised here, and many millions more have recently made India's capital their home, having moved from surrounding neighbourhoods, cities and states or across the country, often in the hope of gaining better jobs and a better life.",
+      "connection": "\"having moved from surrounding neighbourhoods, cities and states\" matches coming from a nearby district.",
+      "paraphrasing": "\"nearby district\" -> \"surrounding neighbourhoods, cities and states\""
+    },
+    "multilingualism-learn|r2|q17": {
+      "support": "Many were born and raised here, and many millions more have recently made India's capital their home, having moved from surrounding neighbourhoods, cities and states or across the country, often in the hope of gaining better jobs and a better life.",
+      "connection": "\"in the hope of gaining better jobs and a better life\" matches improved employment opportunities.",
+      "paraphrasing": "\"improved employment opportunities\" -> \"gaining better jobs and a better life\""
+    },
+    "multilingualism-learn|r2|q18": {
+      "support": "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.",
+      "connection": "\"The overriding aim of the four-year project ... is to find out why\" matches the primary objective being to discover why.",
+      "paraphrasing": "\"primary objective\" -> \"overriding aim\""
+    },
+    "multilingualism-learn|r2|q19": {
+      "support": "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.",
+      "connection": "\"the many benefits of speaking more than one language, observed in schools in Europe ... do not apply to many of India's schoolchildren\" matches not experiencing similar advantages.",
+      "paraphrasing": "\"similar advantages\" -> \"the many benefits ... do not apply\""
+    },
+    "globe-learn|r3|q27": {
+      "support": "The first surprise in The Globemakers, Bellerby's account of this impulsive enterprise, is that obtaining such a globe was not simply a matter of a quick online order and a repressed sigh at the shipping costs.",
+      "connection": "\"The first surprise\" and \"not simply a matter of a quick online order\" show the plan was unexpectedly challenging.",
+      "paraphrasing": "\"unexpectedly ______\" -> \"The first surprise ... not simply a matter of\""
+    },
+    "globe-learn|r3|q28": {
+      "support": "In the process, almost everything that could possibly go wrong did so.",
+      "connection": "\"almost everything that could possibly go wrong did so\" matches numerous problems to overcome.",
+      "paraphrasing": "\"numerous problems\" -> \"almost everything that could possibly go wrong did so\""
+    },
+    "globe-learn|r3|q29": {
+      "support": "The first surprise in The Globemakers, Bellerby's account of this impulsive enterprise, is that obtaining such a globe was not simply a matter of a quick online order and a repressed sigh at the shipping costs.",
+      "connection": "\"was not simply a matter of a quick online order\" matches a straightforward internet purchase not being possible.",
+      "paraphrasing": "\"straightforward internet purchase\" -> \"a quick online order\""
+    },
+    "globe-learn|r3|q30": {
+      "support": "Bellerby came across shoddy commercial versions designed for school classrooms and genuine antiques in auction houses that would have bust his budget.",
+      "connection": "\"shoddy commercial versions\" matches inferior makes.",
+      "paraphrasing": "\"inferior makes\" -> \"shoddy commercial versions\""
+    },
+    "globe-learn|r3|q31": {
+      "support": "Bellerby came across shoddy commercial versions designed for school classrooms and genuine antiques in auction houses that would have bust his budget.",
+      "connection": "\"designed for school classrooms\" matches things intended for educational use.",
+      "paraphrasing": "\"educational use\" -> \"designed for school classrooms\""
+    },
+    "globe-learn|r3|q32": {
+      "support": "Even his trips to Morocco and India, where surely the knowledge of artisan cartographers* had been preserved, drew a blank.",
+      "connection": "\"the knowledge of artisan cartographers had been preserved\" matches places where people might still have the necessary skills.",
+      "paraphrasing": "\"necessary skills\" -> \"the knowledge of artisan cartographers\""
+    },
+    "gore-learn|r3|q37": {
+      "support": "Right at the end of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).",
+      "connection": "\"Right at the end of the process, he learnt that the paper had stretched slightly\" matches becoming aware of an unexpected issue.",
+      "paraphrasing": "\"he became aware of an unexpected issue\" -> \"he learnt that the paper had stretched slightly\""
+    },
+    "craftsmanship-learn|r3|q37": {
+      "support": "Right at the end of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).",
+      "connection": "\"Right at the end of the process, he learnt that the paper had stretched slightly\" matches becoming aware of an unexpected issue.",
+      "paraphrasing": "\"he became aware of an unexpected issue\" -> \"he learnt that the paper had stretched slightly\""
+    },
+    "profitable-learn|r3|q40": {
+      "support": "His book, beautifully illustrated with photographs of the various stages of his venture and a few illustrations of historic globes and maps, is hardly a blueprint for commercial success.",
+      "connection": "\"hardly a blueprint for commercial success\" matches not telling you how to create a profitable business.",
+      "paraphrasing": "\"does not tell you how to create a profitable business\" -> \"hardly a blueprint for commercial success\""
+    },
+    "craftsmanship-learn|r3|q33": {
+      "support": "After all, contrary to stubbornly held popular views of our ancestors' geographical ignorance, we have known that the world is spherical since at least the 6th century BCE.",
+      "connection": "\"contrary to stubbornly held popular views of our ancestors' geographical ignorance\" contradicts the assumption, so the answer is NO.",
+      "paraphrasing": "\"the assumption ... is correct\" -> \"contrary to ... views of our ancestors' geographical ignorance\""
+    },
+    "craftsmanship-learn|r3|q39": {
+      "support": "Although a celebration of the revival of an ancient craft, Bellerby's book is also a lament for the fading away of centuries-old traditions.",
+      "connection": "\"a lament for the fading away of centuries-old traditions\" matches regretting the loss of many globe-making skills.",
+      "paraphrasing": "\"He regrets the loss of many globe-making skills\" -> \"a lament for the fading away of centuries-old traditions\""
+    }
+  }
+}

@@ -1,0 +1,1843 @@
+[
+  {
+    "id": "taster-learn",
+    "term": "taster",
+    "ipa": "/ˈteɪstə/",
+    "pos": "n",
+    "meaningEn": "a short introductory experience of an activity",
+    "meaningVi": "buổi trải nghiệm thử",
+    "synonyms": [
+      "trial session",
+      "introductory class",
+      "sample lesson"
+    ],
+    "sentenceText": "OK. Well you might be interested in our Taster Days?",
+    "sentenceChunks": [
+      "OK. Well you might be interested in our Taster Days?"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A sailing course enquiry",
+    "questions": [
+      1,
+      2
+    ],
+    "source": "exam",
+    "why": "The first course is a Taster day. The word means a short trial, so it helps you understand that the session is an introduction rather than a full qualification course.",
+    "riskHint": "n"
+  },
+  {
+    "id": "tide-learn",
+    "term": "tide",
+    "ipa": "/taɪd/",
+    "pos": "n",
+    "meaningEn": "the regular rise and fall of the sea",
+    "meaningVi": "thủy triều",
+    "synonyms": [
+      "sea level change",
+      "tidal movement",
+      "flow of the sea"
+    ],
+    "sentenceText": "So you learn about things like the weather, which is obviously really important and also the tides, as well as learning basic sailing skills.",
+    "sentenceChunks": [
+      "So you learn about things like the weather, which is obviously really",
+      "important and also the tides, as well as learning basic sailing skills."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A sailing course enquiry",
+    "questions": [
+      2
+    ],
+    "source": "exam",
+    "why": "Q2 asks what Level 1 theory helps you understand, with tides. Knowing the word helps you listen for a sea condition that affects sailing rather than a type of boat.",
+    "riskHint": "n"
+  },
+  {
+    "id": "all-inclusive-learn",
+    "term": "all-inclusive",
+    "ipa": "/ˌɔːl ɪnˈkluːsɪv/",
+    "pos": "adj",
+    "meaningEn": "including everything in the price",
+    "meaningVi": "bao gồm mọi thứ; trọn gói",
+    "synonyms": [
+      "everything included",
+      "full package",
+      "no extras"
+    ],
+    "sentenceText": "The Level 1 course is all inclusive, plus a useful ______.",
+    "sentenceChunks": [
+      "The Level 1 course is all inclusive, plus a useful ______."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A sailing course enquiry",
+    "questions": [
+      4,
+      5
+    ],
+    "source": "exam",
+    "why": "The Level 1 course is described as all inclusive. The word means the price covers everything, so it helps you understand why a separate item is described as included.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "toiletries-learn",
+    "term": "toiletries",
+    "ipa": "/ˈtɔɪlətriːz/",
+    "pos": "n",
+    "meaningEn": "items used for washing and personal care",
+    "meaningVi": "đồ dùng cá nhân; đồ vệ sinh",
+    "synonyms": [
+      "personal care items",
+      "washing products",
+      "toiletries"
+    ],
+    "sentenceText": "And you might want to bring your own toiletries, things like shampoo.",
+    "sentenceChunks": [
+      "And you might want to bring your own toiletries, things like shampoo."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A sailing course enquiry",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "Q7 asks what to bring with toiletries. The word covers shampoo, soap and similar items, so it helps you predict the kind of small personal item needed.",
+    "riskHint": "n"
+  },
+  {
+    "id": "minimum-wage-learn",
+    "term": "minimum wage",
+    "ipa": "/ˈmɪnɪməm weɪdʒ/",
+    "pos": "n",
+    "meaningEn": "the lowest amount of money an employer can legally pay",
+    "meaningVi": "lương tối thiểu",
+    "synonyms": [
+      "lowest legal pay",
+      "base pay",
+      "statutory pay"
+    ],
+    "sentenceText": "Trainees on low-budget films may not receive a minimum wage.",
+    "sentenceChunks": [
+      "Trainees on low-budget films may not receive a minimum wage."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a makeup trainee",
+    "questions": [
+      11
+    ],
+    "source": "exam",
+    "why": "Q11 asks what trainees should expect on low-budget films. “Minimum wage” is the legal minimum, so it helps you distinguish paid work from expenses or meals.",
+    "riskHint": "n"
+  },
+  {
+    "id": "special-effects-learn",
+    "term": "special effects",
+    "ipa": "/ˈspeʃl ɪˈfekts/",
+    "pos": "n",
+    "meaningEn": "techniques used to create illusions in films",
+    "meaningVi": "kỹ xảo đặc biệt",
+    "synonyms": [
+      "visual effects",
+      "SFX",
+      "movie effects"
+    ],
+    "sentenceText": "Doing makeup for special effects is highly specialised, so don't expect to be offered any practical experience in that.",
+    "sentenceChunks": [
+      "Doing makeup for special effects is highly specialised, so",
+      "don't expect to be offered any practical experience in that."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a makeup trainee",
+    "questions": [
+      12
+    ],
+    "source": "exam",
+    "why": "Q12 says trainees may get experience of makeup for special effects. The phrase means creating artificial wounds, creatures or transformations, not ordinary beauty makeup.",
+    "riskHint": "n"
+  },
+  {
+    "id": "portfolio-learn",
+    "term": "portfolio",
+    "ipa": "/pɔːtˈfəʊliəʊ/",
+    "pos": "n",
+    "meaningEn": "a collection of someone’s work used to show their skills",
+    "meaningVi": "hồ sơ tác phẩm; bộ sưu tập tác phẩm",
+    "synonyms": [
+      "work samples",
+      "showreel",
+      "collection of work"
+    ],
+    "sentenceText": "As you'll be sending your portfolio digitally, you won't need to get photos printed.",
+    "sentenceChunks": [
+      "As you'll be sending your portfolio digitally, you won't need to get photos printed."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a makeup trainee",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "Q16 gives advice about creating a portfolio. The word means a curated selection of work, so it helps you understand why only a small selection may be needed.",
+    "riskHint": "n"
+  },
+  {
+    "id": "continuity-learn",
+    "term": "continuity",
+    "ipa": "/ˌkɒntɪˈnjuːəti/",
+    "pos": "n",
+    "meaningEn": "the process of keeping details consistent from one scene to the next",
+    "meaningVi": "sự liên tục; tính nhất quán",
+    "synonyms": [
+      "consistency",
+      "continuity checking",
+      "scene-to-scene accuracy"
+    ],
+    "sentenceText": "Trainees play a useful role in continuity.",
+    "sentenceChunks": [
+      "Trainees play a useful role in continuity."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a makeup trainee",
+    "questions": [
+      18
+    ],
+    "source": "exam",
+    "why": "Q18 asks what ability continuity requires. In film, continuity means noticing small changes between scenes, so it points to being well organised and observant.",
+    "riskHint": "n"
+  },
+  {
+    "id": "budget-learn",
+    "term": "budget",
+    "ipa": "/ˈbʌdʒɪt/",
+    "pos": "n",
+    "meaningEn": "the amount of money available for a purpose",
+    "meaningVi": "ngân sách",
+    "synonyms": [
+      "funds",
+      "spending limit",
+      "allocation"
+    ],
+    "sentenceText": "If you're lucky, you might start out on a big budget film where you'll get the most useful experience.",
+    "sentenceChunks": [
+      "If you're lucky, you might start out on a",
+      "big budget film where you'll get the most useful experience."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a makeup trainee",
+    "questions": [
+      11
+    ],
+    "source": "exam",
+    "why": "Q11 asks about low-budget short films. The word means a limited amount of money, so it helps you understand why trainees may receive meals rather than high pay.",
+    "riskHint": "n"
+  },
+  {
+    "id": "biodiversity-learn",
+    "term": "biodiversity",
+    "ipa": "/ˌbaɪəʊdaɪˈvəsəti/",
+    "pos": "n",
+    "meaningEn": "the variety of living things in an environment",
+    "meaningVi": "đa dạng sinh học",
+    "synonyms": [
+      "variety of life",
+      "biological diversity",
+      "range of species"
+    ],
+    "sentenceText": "The examples she gave were at a more global level, and they really made it clear to me just how wide-ranging the threats to ocean biodiversity are.",
+    "sentenceChunks": [
+      "The examples she gave were at a more global level, and they really",
+      "made it clear to me just how wide-ranging the threats to ocean biodiversity are."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [
+      21,
+      22,
+      25
+    ],
+    "source": "exam",
+    "why": "The lecture is on ocean biodiversity. The word means the variety of species and ecosystems, so it helps you understand why the lecture covers many different examples.",
+    "riskHint": "n"
+  },
+  {
+    "id": "invasive-learn",
+    "term": "invasive",
+    "ipa": "/ɪnˈveɪsɪv/",
+    "pos": "adj",
+    "meaningEn": "spreading into a new area and causing harm",
+    "meaningVi": "xâm lấn; xâm thực",
+    "synonyms": [
+      "non-native and harmful",
+      "spreading aggressively",
+      "alien"
+    ],
+    "sentenceText": "What did you think of that article on invasive lionfish?",
+    "sentenceChunks": [
+      "What did you think of that article on invasive lionfish?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [
+      25
+    ],
+    "source": "exam",
+    "why": "Q25 mentions an article on invasive lionfish. The word means a species that has spread into a new environment and causes damage, not simply a species that lives there.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "microplastic-learn",
+    "term": "microplastic",
+    "ipa": "/ˈmaɪkrəʊplæstɪk/",
+    "pos": "n",
+    "meaningEn": "a very small piece of plastic pollution",
+    "meaningVi": "hạt vi nhựa",
+    "synonyms": [
+      "tiny plastic particles",
+      "plastic fragments",
+      "nanoplastics"
+    ],
+    "sentenceText": "I watched the documentary on microplastics, at least I started to, but then I found it was made ten years ago so I gave up.",
+    "sentenceChunks": [
+      "I watched the documentary on microplastics, at least I started to",
+      "but then I found it was made ten years ago so I gave up."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [
+      26
+    ],
+    "source": "exam",
+    "why": "Q26 mentions a documentary on microplastics. The word means tiny plastic particles, so it helps you understand a form of pollution that is difficult to see.",
+    "riskHint": "n"
+  },
+  {
+    "id": "toxicity-learn",
+    "term": "toxicity",
+    "ipa": "/tɒkˈsɪsəti/",
+    "pos": "n",
+    "meaningEn": "the degree to which a substance is poisonous",
+    "meaningVi": "độc tính",
+    "synonyms": [
+      "poisonousness",
+      "harmfulness",
+      "toxicity level"
+    ],
+    "sentenceText": "The article on metal toxicity was way above my head.",
+    "sentenceChunks": [
+      "The article on metal toxicity was way above my head."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [
+      29
+    ],
+    "source": "exam",
+    "why": "Q29 mentions an article on metal toxicity. The word means how poisonous a substance is, so it helps you follow a discussion of harm to marine life.",
+    "riskHint": "n"
+  },
+  {
+    "id": "cultivate-learn",
+    "term": "cultivate",
+    "ipa": "/ˈkʌltɪveɪt/",
+    "pos": "v",
+    "meaningEn": "to grow plants or crops",
+    "meaningVi": "trồng trọt; canh tác",
+    "synonyms": [
+      "grow",
+      "farm",
+      "raise"
+    ],
+    "sentenceText": "It can take eight to ten years for a tree to start producing rubber, so cultivating them's a slow process.",
+    "sentenceChunks": [
+      "It can take eight to ten years for a tree",
+      "to start producing rubber, so cultivating them's a slow process."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "The notes say the Para rubber tree is cultivated in South-East Asia. The word means grown deliberately, so it helps you distinguish plantation farming from wild trees.",
+    "riskHint": "v"
+  },
+  {
+    "id": "labour-intensive-learn",
+    "term": "labour-intensive",
+    "ipa": "/ˈleɪbər ɪnˈtensɪv/",
+    "pos": "adj",
+    "meaningEn": "needing a lot of workers or effort",
+    "meaningVi": "thâm dụng lao động; cần nhiều nhân công",
+    "synonyms": [
+      "workforce-heavy",
+      "requiring much labour",
+      "manpower-intensive"
+    ],
+    "sentenceText": "It's very labour-intensive.",
+    "sentenceChunks": [
+      "It's very labour-intensive."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [
+      34,
+      35
+    ],
+    "source": "exam",
+    "why": "The notes say extracting latex is labour-intensive. The word means it requires a lot of human work, which explains why the supply is limited and costly.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "genetic-diversity-learn",
+    "term": "genetic diversity",
+    "ipa": "/dʒəˈnetɪk daɪˈvɜːsəti/",
+    "pos": "n",
+    "meaningEn": "the range of different genes within a species",
+    "meaningVi": "đa dạng di truyền",
+    "synonyms": [
+      "variation in genes",
+      "genetic variety",
+      "biological diversity"
+    ],
+    "sentenceText": "This means that there's very little genetic diversity among the trees, which in turn makes them very vulnerable to disease.",
+    "sentenceChunks": [
+      "This means that there's very little genetic diversity among the",
+      "trees, which in turn makes them very vulnerable to disease."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [
+      36
+    ],
+    "source": "exam",
+    "why": "The notes link lack of genetic diversity to disease risk. The phrase means having a narrow gene pool, which makes a crop more vulnerable to pests or disease.",
+    "riskHint": "n"
+  },
+  {
+    "id": "synthetic-learn",
+    "term": "synthetic",
+    "ipa": "/sɪnˈθetɪk/",
+    "pos": "adj",
+    "meaningEn": "made by chemical processes rather than naturally",
+    "meaningVi": "tổng hợp; nhân tạo",
+    "synonyms": [
+      "artificial",
+      "man-made",
+      "chemically produced"
+    ],
+    "sentenceText": "For example, while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing.",
+    "sentenceChunks": [
+      "while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [
+      38
+    ],
+    "source": "exam",
+    "why": "The notes compare natural and synthetic rubber. The word means manufactured rather than grown, so it helps you follow the differences in performance and use.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "amass-learn",
+    "term": "amass",
+    "ipa": "/əˈmæs/",
+    "pos": "v",
+    "meaningEn": "to gradually collect a large amount of something",
+    "meaningVi": "tích lũy; sưu tầm",
+    "synonyms": [
+      "collect",
+      "accumulate",
+      "gather"
+    ],
+    "sentenceText": "Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries.",
+    "sentenceChunks": [
+      "Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies",
+      "a Welshman who amassed a fortune in the shipping and mining industries."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [
+      1,
+      2,
+      3
+    ],
+    "source": "exam",
+    "why": "The subtitle says the sisters amassed a large art collection. The word means built it up over time, so it helps you understand the scale of their collecting.",
+    "riskHint": "v"
+  },
+  {
+    "id": "philanthropic-learn",
+    "term": "philanthropic",
+    "ipa": "/ˌfɪlənˈθrɒpɪk/",
+    "pos": "adj",
+    "meaningEn": "relating to helping others, especially by giving money",
+    "meaningVi": "từ thiện; nhân đạo",
+    "synonyms": [
+      "charitable",
+      "humanitarian",
+      "generous"
+    ],
+    "sentenceText": "Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.",
+    "sentenceChunks": [
+      "Their religious upbringing in rural Wales gave them a deep sense of social",
+      "responsibility and they chose to use their inheritance for cultural and philanthropic* purposes."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [
+      1,
+      2,
+      3
+    ],
+    "source": "exam",
+    "why": "The passage describes their philanthropic purposes. The word means using wealth to help society, which helps explain their cultural and social donations.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "contemporary-learn",
+    "term": "contemporary",
+    "ipa": "/kənˈtemprəri/",
+    "pos": "adj",
+    "meaningEn": "belonging to the same period as something else",
+    "meaningVi": "đương thời; cùng thời",
+    "synonyms": [
+      "of the same period",
+      "current at the time",
+      "modern then"
+    ],
+    "sentenceText": "Margaret also stopped collecting around this time, but started again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists.",
+    "sentenceChunks": [
+      "Margaret also stopped collecting around this time, but started again in the",
+      "1930s acquiring, on a relatively small scale, work by contemporary British artists."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [
+      8,
+      10,
+      11,
+      13
+    ],
+    "source": "exam",
+    "why": "Q8–13 discuss contemporary French art. The word means art from the same period, not necessarily art made today, so it helps you place the collection in time.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "oppose-learn",
+    "term": "oppose",
+    "ipa": "/əˈpəʊz/",
+    "pos": "v",
+    "meaningEn": "to disagree with or try to prevent something",
+    "meaningVi": "phản đối",
+    "synonyms": [
+      "object to",
+      "resist",
+      "be against"
+    ],
+    "sentenceText": "Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.",
+    "sentenceChunks": [
+      "Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [
+      10
+    ],
+    "source": "exam",
+    "why": "Q10 asks whether Hugh Blaker opposed the sisters’ decision. The word means he was against it, so you look for disagreement rather than support.",
+    "riskHint": "v"
+  },
+  {
+    "id": "inheritance-learn",
+    "term": "inheritance",
+    "ipa": "/ɪnˈherɪtəns/",
+    "pos": "n",
+    "meaningEn": "money or property received from someone who has died",
+    "meaningVi": "tài sản thừa kế",
+    "synonyms": [
+      "inherited wealth",
+      "legacy",
+      "bequest"
+    ],
+    "sentenceText": "In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain.",
+    "sentenceChunks": [
+      "In 1907, when Gwendoline came into her inheritance (Margaret would follow in",
+      "1909), the sisters were said to be the wealthiest unmarried women in Britain."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [
+      1
+    ],
+    "source": "exam",
+    "why": "The passage says Gwendoline came into her inheritance. The word means money or property received from her family, so it explains how the sisters could afford to collect art.",
+    "riskHint": "n"
+  },
+  {
+    "id": "excessive-learn",
+    "term": "excessive",
+    "ipa": "/ɪkˈsesɪv/",
+    "pos": "adj",
+    "meaningEn": "more than is necessary or reasonable",
+    "meaningVi": "quá mức",
+    "synonyms": [
+      "too much",
+      "extreme",
+      "disproportionate"
+    ],
+    "sentenceText": "The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night.",
+    "sentenceChunks": [
+      "The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said",
+      "that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "Q15 asks for data on excessive noise. The word means noise at a level that is harmful or unreasonable, so it helps you locate the scale of the problem.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "physiological-learn",
+    "term": "physiological",
+    "ipa": "/ˌfɪziəˈlɑdʒɪkəl/",
+    "pos": "adj",
+    "meaningEn": "relating to the normal functions of the body",
+    "meaningVi": "thuộc sinh lý",
+    "synonyms": [
+      "bodily",
+      "biological",
+      "physical"
+    ],
+    "sentenceText": "a description of physiological changes in our bodies when we hear sudden noises",
+    "sentenceChunks": [
+      "a description of physiological changes in our bodies when we hear sudden noises"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "Q16 asks for a description of physiological changes when we hear sudden noises. The word means changes in the body, such as heart rate or hormone levels, not psychological reactions.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "sensory-deprivation-learn",
+    "term": "sensory deprivation",
+    "ipa": "/ˈsensəri ˌdeprɪˈveɪʃn/",
+    "pos": "n",
+    "meaningEn": "a state in which the senses receive little or no input",
+    "meaningVi": "sự thiếu hụt giác quan",
+    "synonyms": [
+      "reduced sensory input",
+      "sensory isolation",
+      "lack of stimulation"
+    ],
+    "sentenceText": "Less is known about what effects sensory deprivation can have on the brain.",
+    "sentenceChunks": [
+      "Less is known about what effects sensory deprivation can have on the brain."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [
+      24
+    ],
+    "source": "exam",
+    "why": "Q24 discusses what happens when the senses are completely deprived of input. The phrase means being cut off from sight, sound and other sensations, which explains the mind’s compensating images.",
+    "riskHint": "n"
+  },
+  {
+    "id": "compensate-learn",
+    "term": "compensate",
+    "ipa": "/ˈkɒmpenseɪt/",
+    "pos": "v",
+    "meaningEn": "to balance or make up for a loss",
+    "meaningVi": "bù đắp; bù lại",
+    "synonyms": [
+      "make up for",
+      "offset",
+      "balance"
+    ],
+    "sentenceText": "When our body's senses are completely deprived of input, our minds compensate for this by creating the illusion of images and sounds.",
+    "sentenceChunks": [
+      "When our body's senses are completely deprived of input, our minds",
+      "compensate for this by creating the illusion of images and sounds."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [
+      24
+    ],
+    "source": "exam",
+    "why": "Q24 says the mind compensates by creating images and sounds. The word means it fills the gap left by missing sensory input, a key cause-and-effect link.",
+    "riskHint": "v"
+  },
+  {
+    "id": "stimulus-learn",
+    "term": "stimulus",
+    "ipa": "/ˈstɪmjələs/",
+    "pos": "n",
+    "meaningEn": "something that causes a reaction or response",
+    "meaningVi": "tác nhân kích thích",
+    "synonyms": [
+      "trigger",
+      "input",
+      "provocation"
+    ],
+    "sentenceText": "When you don’t have external sensory stimuli coming in, the brain tries to fill the void.",
+    "sentenceChunks": [
+      "When you don’t have external sensory stimuli coming in, the brain tries to fill the void."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [
+      18,
+      21
+    ],
+    "source": "exam",
+    "why": "The passage discusses sensory stimuli in silent tanks. The word means something that produces a reaction, so it helps you understand how the brain responds to input.",
+    "riskHint": "n"
+  },
+  {
+    "id": "beneficial-learn",
+    "term": "beneficial",
+    "ipa": "/ˌbenəˈfɪʃəl/",
+    "pos": "adj",
+    "meaningEn": "having a good effect",
+    "meaningVi": "có lợi",
+    "synonyms": [
+      "helpful",
+      "advantageous",
+      "positive"
+    ],
+    "sentenceText": "Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health.",
+    "sentenceChunks": [
+      "Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [
+      17
+    ],
+    "source": "exam",
+    "why": "Q17 asks whether a quiet environment can be more beneficial than total silence. The word means producing a good effect, so it helps you compare two conditions.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "cultivation-learn",
+    "term": "cultivation",
+    "ipa": "/ˌkəltɪˈveɪʃən/",
+    "pos": "n",
+    "meaningEn": "the growing of crops or plants",
+    "meaningVi": "sự trồng trọt; canh tác",
+    "synonyms": [
+      "farming",
+      "growing",
+      "agriculture"
+    ],
+    "sentenceText": "The World of Sugar is also a story of similarity and continuity in sugar cultivation.",
+    "sentenceChunks": [
+      "The World of Sugar is also a story of similarity and continuity in sugar cultivation."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [
+      27,
+      28,
+      29
+    ],
+    "source": "exam",
+    "why": "Q27–29 discuss sugar cultivation. The word means growing sugar cane or beet, so it helps you distinguish farming from trading or refining.",
+    "riskHint": "n"
+  },
+  {
+    "id": "misconception-learn",
+    "term": "misconception",
+    "ipa": "/mɪskənˈsepʃən/",
+    "pos": "n",
+    "meaningEn": "a wrong belief or understanding",
+    "meaningVi": "hiểu lầm; quan niệm sai",
+    "synonyms": [
+      "false belief",
+      "mistaken idea",
+      "myth"
+    ],
+    "sentenceText": "addressing a misconception about the growing of sugar cane",
+    "sentenceChunks": [
+      "addressing a misconception about the growing of sugar cane"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [
+      29
+    ],
+    "source": "exam",
+    "why": "Q29 asks what the reviewer is doing in the third paragraph. “Addressing a misconception” means correcting a false belief, so you look for a claim the reviewer challenges.",
+    "riskHint": "n"
+  },
+  {
+    "id": "processed-learn",
+    "term": "processed",
+    "ipa": "/ˈprəʊsest/",
+    "pos": "adj",
+    "meaningEn": "changed from its natural state by industrial methods",
+    "meaningVi": "đã qua chế biến",
+    "synonyms": [
+      "manufactured",
+      "refined",
+      "treated"
+    ],
+    "sentenceText": "It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity.",
+    "sentenceChunks": [
+      "It is now widely consumed, having been adopted in the making of soft drinks and",
+      "a large number of processed foods, and is regarded as a leading cause of obesity."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [
+      40
+    ],
+    "source": "exam",
+    "why": "Q40 says high-fructose corn syrup is an ingredient in many processed foods. The word means foods that have been industrially altered, not fresh whole foods.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "plantation-learn",
+    "term": "plantation",
+    "ipa": "/ˌplænˈteɪʃən/",
+    "pos": "n",
+    "meaningEn": "a large farm where crops such as sugar are grown",
+    "meaningVi": "đồn điền",
+    "synonyms": [
+      "estate",
+      "large farm",
+      "cash-crop farm"
+    ],
+    "sentenceText": "Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men.",
+    "sentenceChunks": [
+      "Contrary to popular belief, cane sugar production was never",
+      "just restricted to large, dedicated plantations owned by rich men."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [
+      29
+    ],
+    "source": "exam",
+    "why": "Q29 discusses sugar cane plantations. The word means a large commercial farm, so it helps you challenge the misconception that all sugar was grown on plantations.",
+    "riskHint": "n"
+  },
+  {
+    "id": "microplastics-sentence",
+    "term": "microplastics",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "a key term used in this section",
+    "meaningVi": "",
+    "synonyms": [
+      "microplastics"
+    ],
+    "sentenceText": "I watched the documentary on microplastics, at least I started to, but then I found it was made ten years ago so I gave up.",
+    "sentenceChunks": [
+      "I watched the documentary on microplastics, at least I started to",
+      "but then I found it was made ten years ago so I gave up."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "dandelion-sentence",
+    "term": "dandelion",
+    "ipa": "/ˈdændəˌlaɪən/",
+    "pos": "noun",
+    "meaningEn": "any of several herbs of the genus Taraxacum having long tap roots and deeply notched leaves and bright yellow flowers followed by fluffy seed balls",
+    "meaningVi": "",
+    "synonyms": [
+      "blowball"
+    ],
+    "sentenceText": "Now, compared to the rubber tree, dandelions produce relatively small amounts of rubber, but unlike rubber trees, they're very adaptable.",
+    "sentenceChunks": [
+      "Now, compared to the rubber tree, dandelions produce relatively small",
+      "amounts of rubber, but unlike rubber trees, they're very adaptable."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "collecting-sentence",
+    "term": "collecting",
+    "ipa": "/kəˈlektɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the act of gathering something together",
+    "meaningVi": "",
+    "synonyms": [
+      "collection",
+      "assembling",
+      "aggregation"
+    ],
+    "sentenceText": "However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***.",
+    "sentenceChunks": [
+      "However, it was only a few years before their collecting took a",
+      "new direction and they turned to the work of the French Impressionists***."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "beet-sentence",
+    "term": "beet",
+    "ipa": "/bit/",
+    "pos": "noun",
+    "meaningEn": "biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop",
+    "meaningVi": "",
+    "synonyms": [
+      "common beet",
+      "Beta vulgaris",
+      "beetroot"
+    ],
+    "sentenceText": "But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years.",
+    "sentenceChunks": [
+      "But this is a history not just of cane sugar",
+      "but also of beet sugar, an equally important form of traded sugar over the last hundred years."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "cane-sentence",
+    "term": "cane",
+    "ipa": "/keɪn/",
+    "pos": "noun",
+    "meaningEn": "a stick that people can lean on to help them walk",
+    "meaningVi": "",
+    "synonyms": [
+      "cane"
+    ],
+    "sentenceText": "For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.",
+    "sentenceChunks": [
+      "For example, in Java, a huge exporter of sugar in the early 20th century",
+      "sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "expose-sentence",
+    "term": "expose",
+    "ipa": "/ɪkˈspəʊz/",
+    "pos": "noun",
+    "meaningEn": "the exposure of an impostor or a fraud",
+    "meaningVi": "",
+    "synonyms": [
+      "unmasking"
+    ],
+    "sentenceText": "A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health.",
+    "sentenceChunks": [
+      "A report from the European Environment Agency concluded",
+      "that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "lionfish-sentence",
+    "term": "lionfish",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "brightly striped fish of the tropical Pacific having elongated spiny fins",
+    "meaningVi": "",
+    "synonyms": [
+      "lionfish"
+    ],
+    "sentenceText": "What did you think of that article on invasive lionfish?",
+    "sentenceChunks": [
+      "What did you think of that article on invasive lionfish?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "impressionist-sentence",
+    "term": "impressionist",
+    "ipa": "/ˌɪmˈpreʃənɪst/",
+    "pos": "noun",
+    "meaningEn": "a painter who follows the theories of Impressionism",
+    "meaningVi": "",
+    "synonyms": [
+      "impressionist"
+    ],
+    "sentenceText": "The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to the National Museum Wales, contains major examples of work by leading French Impressionists.",
+    "sentenceChunks": [
+      "The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to",
+      "the National Museum Wales, contains major examples of work by leading French Impressionists."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "civilisation-sentence",
+    "term": "civilisation",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "the social process whereby societies achieve an advanced stage of development and organization",
+    "meaningVi": "",
+    "synonyms": [
+      "civilization",
+      "culture"
+    ],
+    "sentenceText": "Much of the world now lives in an industrial civilisation.",
+    "sentenceChunks": [
+      "Much of the world now lives in an industrial civilisation."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "ecosystem-sentence",
+    "term": "ecosystem",
+    "ipa": "/ˈikəʊˌsɪstəm/",
+    "pos": "noun",
+    "meaningEn": "a system formed by the interaction of a community of organisms with their physical environment",
+    "meaningVi": "",
+    "synonyms": [
+      "ecosystem"
+    ],
+    "sentenceText": "Did you read that book on coastal ecosystems?",
+    "sentenceChunks": [
+      "Did you read that book on coastal ecosystems?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "supervisor-sentence",
+    "term": "supervisor",
+    "ipa": "/ˈsupəˌvaɪzə/",
+    "pos": "noun",
+    "meaningEn": "one who supervises or has charge and direction of",
+    "meaningVi": "",
+    "synonyms": [
+      "supervisory program",
+      "executive program"
+    ],
+    "sentenceText": "Follow your supervisor's lead and try to remain calm at all times.",
+    "sentenceChunks": [
+      "Follow your supervisor's lead and try to remain calm at all times."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a makeup trainee",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "decrease-sentence",
+    "term": "decrease",
+    "ipa": "/ˈdiˌkris/",
+    "pos": "noun",
+    "meaningEn": "a change downward",
+    "meaningVi": "",
+    "synonyms": [
+      "lessening",
+      "drop-off",
+      "decrement"
+    ],
+    "sentenceText": "Participants reported decreases in muscle tension, pain and symptoms of their conditions after a single, I-hour float, alongside an increase in feelings of relaxation and overall wellbeing.",
+    "sentenceChunks": [
+      "Participants reported decreases in muscle tension, pain and symptoms of their conditions after",
+      "a single, I-hour float, alongside an increase in feelings of relaxation and overall wellbeing."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "quieter-sentence",
+    "term": "quieter",
+    "ipa": "/kˈwaɪətə/",
+    "pos": "noun",
+    "meaningEn": "characterized by an absence or near absence of agitation or activity",
+    "meaningVi": "",
+    "synonyms": [
+      "quiet"
+    ],
+    "sentenceText": "'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio.",
+    "sentenceChunks": [
+      "'By providing recommendations for quieter buses, reducing noise from roads and also controlling",
+      "noise from aircraft, they were able to make the city quieter,' says Antonio."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "corn-sentence",
+    "term": "corn",
+    "ipa": "/kɔːn/",
+    "pos": "noun",
+    "meaningEn": "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times",
+    "meaningVi": "",
+    "synonyms": [
+      "maize",
+      "Indian corn",
+      "Zea mays"
+    ],
+    "sentenceText": "High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar but is far cheaper to produce.",
+    "sentenceChunks": [
+      "High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar",
+      "but is far cheaper to produce."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "resource-sentence",
+    "term": "resource",
+    "ipa": "/ˈrisɔːs/",
+    "pos": "noun",
+    "meaningEn": "available source of wealth; a new or reserve supply that can be drawn upon when needed",
+    "meaningVi": "",
+    "synonyms": [
+      "resource"
+    ],
+    "sentenceText": "With other resources such as water and glass, when we've finished using them we can recycle them, but although this is also possible with rubber, it's very difficult, so that also reduces the amount we have available.",
+    "sentenceChunks": [
+      "With other resources such as water and glass",
+      "when we've finished using them we can recycle them, but although this is also possible with rubber, it's very difficult, so that also reduces the amount we have available."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "collect-sentence",
+    "term": "collect",
+    "ipa": "/kəˈlekt/",
+    "pos": "noun",
+    "meaningEn": "a short prayer generally preceding the lesson in the Church of Rome or the Church of England",
+    "meaningVi": "",
+    "synonyms": [
+      "collect"
+    ],
+    "sentenceText": "Margaret also stopped collecting around this time, but started again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists.",
+    "sentenceChunks": [
+      "Margaret also stopped collecting around this time, but started again in the",
+      "1930s acquiring, on a relatively small scale, work by contemporary British artists."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Davies Sisters",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "makeup-sentence",
+    "term": "makeup",
+    "ipa": "/ˈmeɪˌkəp/",
+    "pos": "noun",
+    "meaningEn": "cosmetics applied to the face to improve or change your appearance",
+    "meaningVi": "",
+    "synonyms": [
+      "make-up",
+      "war paint"
+    ],
+    "sentenceText": "It can be stressful but you'll see that the top makeup artists are very professional - even when they're having to work with directors who are impatient.",
+    "sentenceChunks": [
+      "It can be stressful",
+      "but you'll see that the top makeup artists are very professional - even when they're having to work with directors who are impatient."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a makeup trainee",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "silent-sentence",
+    "term": "silent",
+    "ipa": "/ˈsaɪlənt/",
+    "pos": "adjective",
+    "meaningEn": "marked by absence of sound",
+    "meaningVi": "",
+    "synonyms": [
+      "soundless",
+      "still",
+      "mum"
+    ],
+    "sentenceText": "In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room.",
+    "sentenceChunks": [
+      "In a recent study, he found",
+      "that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "documentary-sentence",
+    "term": "documentary",
+    "ipa": "/ˌdɑkjəˈmenəi/",
+    "pos": "noun",
+    "meaningEn": "a film or TV program presenting the facts about a person or event",
+    "meaningVi": "",
+    "synonyms": [
+      "docudrama",
+      "documentary film",
+      "infotainment"
+    ],
+    "sentenceText": "I watched the documentary on microplastics, at least I started to, but then I found it was made ten years ago so I gave up.",
+    "sentenceChunks": [
+      "I watched the documentary on microplastics, at least I started to",
+      "but then I found it was made ten years ago so I gave up."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "diversity-sentence",
+    "term": "diversity",
+    "ipa": "/dɪˈvəsɪti/",
+    "pos": "noun",
+    "meaningEn": "noticeable heterogeneity",
+    "meaningVi": "",
+    "synonyms": [
+      "diverseness",
+      "multifariousness",
+      "variety"
+    ],
+    "sentenceText": "This means that there's very little genetic diversity among the trees, which in turn makes them very vulnerable to disease.",
+    "sentenceChunks": [
+      "This means that there's very little genetic diversity among the",
+      "trees, which in turn makes them very vulnerable to disease."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "agriculture-sentence",
+    "term": "agriculture",
+    "ipa": "/ˈægrɪˌkəltʃə/",
+    "pos": "noun",
+    "meaningEn": "a large-scale farming enterprise",
+    "meaningVi": "",
+    "synonyms": [
+      "agribusiness",
+      "factory farm",
+      "farming",
+      "husbandry"
+    ],
+    "sentenceText": "But sugar production was never just a matter of agriculture.",
+    "sentenceChunks": [
+      "But sugar production was never just a matter of agriculture."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "suitable-sentence",
+    "term": "suitable",
+    "ipa": "/ˈsutəbəl/",
+    "pos": "adjective",
+    "meaningEn": "meant or adapted for an occasion or use",
+    "meaningVi": "",
+    "synonyms": [
+      "suited",
+      "desirable",
+      "worthy"
+    ],
+    "sentenceText": "And are there any other suitable courses?",
+    "sentenceChunks": [
+      "And are there any other suitable courses?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A sailing course enquiry",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "worker-sentence",
+    "term": "worker",
+    "ipa": "/ˈwəkə/",
+    "pos": "noun",
+    "meaningEn": "a person who works at a specific occupation",
+    "meaningVi": "",
+    "synonyms": [
+      "proletarian",
+      "prole"
+    ],
+    "sentenceText": "Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, as well as steam-powered sugar factories.",
+    "sentenceChunks": [
+      "Cuba, for example, developed an extraordinarily dense system of railways",
+      "to transport workers and cane, as well as steam-powered sugar factories."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "noise-sentence",
+    "term": "noise",
+    "ipa": "/nɔɪz/",
+    "pos": "noun",
+    "meaningEn": "sound of any kind (especially unintelligible or dissonant sound)",
+    "meaningVi": "",
+    "synonyms": [
+      "dissonance",
+      "racket"
+    ],
+    "sentenceText": "A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health.",
+    "sentenceChunks": [
+      "A report from the European Environment Agency concluded",
+      "that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "quiet-sentence",
+    "term": "quiet",
+    "ipa": "/kwaɪət/",
+    "pos": "adjective",
+    "meaningEn": "characterized by an absence or near absence of agitation or activity",
+    "meaningVi": "",
+    "synonyms": [
+      "quiet"
+    ],
+    "sentenceText": "'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains.",
+    "sentenceChunks": [
+      "'When we find ways to be quiet, we are not only",
+      "quiet in our environment, but quiet in our inner selves,' she explains."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "sugar-sentence",
+    "term": "sugar",
+    "ipa": "/ˈʃʊgə/",
+    "pos": "noun",
+    "meaningEn": "a white crystalline carbohydrate used as a sweetener and preservative",
+    "meaningVi": "",
+    "synonyms": [
+      "refined sugar",
+      "carbohydrate",
+      "saccharide"
+    ],
+    "sentenceText": "In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies.",
+    "sentenceChunks": [
+      "In many places - not just the British Caribbean",
+      "but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Book review: The World of Sugar by Ulbe Bosma",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "ocean-sentence",
+    "term": "ocean",
+    "ipa": "/ˈəʊʃən/",
+    "pos": "verb",
+    "meaningEn": "a large body of water constituting a principal part of the hydrosphere",
+    "meaningVi": "",
+    "synonyms": [
+      "sea"
+    ],
+    "sentenceText": "The examples she gave were at a more global level, and they really made it clear to me just how wide-ranging the threats to ocean biodiversity are.",
+    "sentenceChunks": [
+      "The examples she gave were at a more global level, and they really",
+      "made it clear to me just how wide-ranging the threats to ocean biodiversity are."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "external-sentence",
+    "term": "external",
+    "ipa": "/ɪkˈstənəl/",
+    "pos": "adjective",
+    "meaningEn": "happening or arising or located outside or beyond some limits or especially surface",
+    "meaningVi": "",
+    "synonyms": [
+      "extraneous",
+      "outside"
+    ],
+    "sentenceText": "'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains.",
+    "sentenceChunks": [
+      "'When you don't have external sensory stimuli coming in, the brain tries to",
+      "fill the void to make sense of this dark and silent world,' he explains."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "introduction-sentence",
+    "term": "introduction",
+    "ipa": "/ˌɪntrəˈdəkʃən/",
+    "pos": "noun",
+    "meaningEn": "the act of beginning something new",
+    "meaningVi": "",
+    "synonyms": [
+      "debut",
+      "first appearance",
+      "launching",
+      "unveiling"
+    ],
+    "sentenceText": "So these are for people who've never sailed before - it's basically an introduction to sailing to find out whether you enjoy it and want to carry on with it.",
+    "sentenceChunks": [
+      "So these are for people who've never sailed before - it's basically an introduction to",
+      "sailing to find out whether you enjoy it and want to carry on with it."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A sailing course enquiry",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "aircraft-sentence",
+    "term": "aircraft",
+    "ipa": "/ˈerˌkræft/",
+    "pos": "noun",
+    "meaningEn": "a vehicle that can fly",
+    "meaningVi": "",
+    "synonyms": [
+      "aircraft"
+    ],
+    "sentenceText": "For example, while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing.",
+    "sentenceChunks": [
+      "while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "internal-sentence",
+    "term": "internal",
+    "ipa": "/ˌɪnˈtənəl/",
+    "pos": "adjective",
+    "meaningEn": "happening or arising or located within some limits or especially surface",
+    "meaningVi": "",
+    "synonyms": [
+      "intragroup"
+    ],
+    "sentenceText": "To help ensure loud or unexpected noises get the attention they deserve, our internal chemistry alters in response to them.",
+    "sentenceChunks": [
+      "To help ensure loud or unexpected noises get the attention",
+      "they deserve, our internal chemistry alters in response to them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Why we need silence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "extreme-sentence",
+    "term": "extreme",
+    "ipa": "/ɪkˈstrim/",
+    "pos": "adjective",
+    "meaningEn": "of the greatest possible degree or extent or intensity",
+    "meaningVi": "",
+    "synonyms": [
+      "utmost",
+      "uttermost"
+    ],
+    "sentenceText": "For example, while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing.",
+    "sentenceChunks": [
+      "while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Sources of rubber",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "detail-sentence",
+    "term": "detail",
+    "ipa": "/ˈditeɪl/",
+    "pos": "noun",
+    "meaningEn": "an isolated fact that is considered separately from the whole",
+    "meaningVi": "",
+    "synonyms": [
+      "item",
+      "point",
+      "particular"
+    ],
+    "sentenceText": "Yes, I found it hard going at first, it went into a lot of detail about things like the effects of offshore windfarms and fish farms, but actually I ended up with a much better understanding of the issues.",
+    "sentenceChunks": [
+      "Yes, I found it hard going at first, it went into a lot of detail about things like the effects of offshore windfarms and fish farms",
+      "but actually I ended up with a much better understanding of the issues."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A lecture on ocean biodiversity",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  }
+]

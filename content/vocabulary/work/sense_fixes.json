@@ -1,0 +1,553 @@
+{
+ "firefighter-sentence": {
+  "synonyms": [
+   "fireman",
+   "fire-fighter",
+   "emergency responder"
+  ]
+ },
+ "instruction-sentence": {
+  "meaningEn": "the act or process of teaching",
+  "synonyms": [
+   "teaching",
+   "education",
+   "tuition"
+  ]
+ },
+ "volunteer-sentence": {
+  "meaningEn": "a person who offers to do something without being paid",
+  "synonyms": [
+   "unpaid helper",
+   "helper",
+   "participant"
+  ]
+ },
+ "pottery-sentence": {
+  "meaningEn": "a workshop where pottery is made",
+  "meaningVi": "xưởng gốm",
+  "synonyms": [
+   "pottery workshop",
+   "ceramics studio",
+   "kiln site"
+  ]
+ },
+ "cane-sentence": {
+  "meaningEn": "sugar cane — a tall tropical grass grown for its sweet juice",
+  "meaningVi": "cây mía",
+  "synonyms": [
+   "sugar cane",
+   "sugarcane",
+   "reed"
+  ]
+ },
+ "reef-sentence": {
+  "synonyms": [
+   "coral reef",
+   "shoal",
+   "ridge"
+  ]
+ },
+ "coral-sentence": {
+  "meaningEn": "a hard stony substance built by colonies of marine polyps",
+  "meaningVi": "san hô",
+  "synonyms": [
+   "coral reef",
+   "polyps",
+   "marine organism"
+  ],
+  "pos": "noun"
+ },
+ "exhibit-sentence": {
+  "meaningEn": "to show goods or products at an exhibition",
+  "synonyms": [
+   "display",
+   "showcase",
+   "present"
+  ]
+ },
+ "minimise-sentence": {
+  "meaningEn": "to reduce something to the smallest possible amount",
+  "synonyms": [
+   "reduce",
+   "lessen",
+   "keep to a minimum"
+  ]
+ },
+ "barbecue-sentence": {
+  "meaningEn": "an outdoor meal or party where food is cooked over a fire",
+  "synonyms": [
+   "cookout",
+   "outdoor meal",
+   "grill"
+  ]
+ },
+ "dreaming-sentence": {
+  "meaningEn": "the experience of dreams during sleep",
+  "meaningVi": "giấc mơ khi ngủ",
+  "synonyms": [
+   "dreams",
+   "sleeping visions",
+   "REM sleep"
+  ]
+ },
+ "supervisor-sentence": {
+  "synonyms": [
+   "manager",
+   "overseer",
+   "team leader"
+  ]
+ },
+ "adaptation-sentence": {
+  "meaningEn": "a change made to something to suit new conditions",
+  "meaningVi": "sự thích nghi; sự điều chỉnh",
+  "synonyms": [
+   "adjustment",
+   "modification",
+   "alteration"
+  ]
+ },
+ "nowadays-sentence": {
+  "pos": "adverb",
+  "meaningEn": "at the present time; these days",
+  "synonyms": [
+   "currently",
+   "today",
+   "these days"
+  ]
+ },
+ "occupation-sentence": {
+  "meaningEn": "the act of living in or using a place",
+  "meaningVi": "sự chiếm đóng; việc sử dụng",
+  "synonyms": [
+   "inhabitation",
+   "use",
+   "settlement"
+  ]
+ },
+ "artificial-sentence": {
+  "synonyms": [
+   "man-made",
+   "synthetic",
+   "manufactured"
+  ]
+ },
+ "dependent-sentence": {
+  "synonyms": [
+   "reliant",
+   "conditional",
+   "contingent"
+  ]
+ },
+ "quieter-sentence": {
+  "pos": "adjective",
+  "meaningEn": "less noisy",
+  "meaningVi": "yên tĩnh hơn",
+  "synonyms": [
+   "less noisy",
+   "softer",
+   "more peaceful"
+  ]
+ },
+ "invent-sentence": {
+  "pos": "verb",
+  "meaningEn": "to design or create something that did not exist before",
+  "synonyms": [
+   "create",
+   "devise",
+   "originate"
+  ]
+ },
+ "involve-sentence": {
+  "pos": "verb",
+  "meaningEn": "to take part in something or be connected with it",
+  "synonyms": [
+   "participate in",
+   "engage in",
+   "be connected with"
+  ]
+ },
+ "elms-sentence": {
+  "pos": "noun",
+  "meaningEn": "tall deciduous trees with serrated leaves",
+  "meaningVi": "cây du",
+  "synonyms": [
+   "elm trees",
+   "ulmus",
+   "shade trees"
+  ]
+ },
+ "attach-sentence": {
+  "pos": "verb",
+  "meaningEn": "to fasten or join one thing to another",
+  "synonyms": [
+   "fasten",
+   "join",
+   "affix"
+  ]
+ },
+ "module-sentence": {
+  "meaningEn": "a unit of study within a course",
+  "meaningVi": "học phần",
+  "synonyms": [
+   "unit",
+   "course unit",
+   "segment"
+  ]
+ },
+ "disc-sentence": {
+  "meaningEn": "a flat circular object",
+  "meaningVi": "đĩa; vật hình tròn dẹt",
+  "synonyms": [
+   "disk",
+   "circle",
+   "plate"
+  ]
+ },
+ "mortality-sentence": {
+  "meaningEn": "death, especially when many individuals die",
+  "meaningVi": "tỷ lệ tử vong; sự chết",
+  "synonyms": [
+   "death",
+   "death rate",
+   "fatalities"
+  ]
+ },
+ "introduce-sentence": {
+  "pos": "verb",
+  "meaningEn": "to bring a species into a place where it did not exist before",
+  "synonyms": [
+   "bring in",
+   "establish",
+   "import"
+  ]
+ },
+ "designer-sentence": {
+  "meaningEn": "a person who designs products, systems or interfaces",
+  "synonyms": [
+   "creator",
+   "developer",
+   "architect"
+  ]
+ },
+ "pitch-sentence": {
+  "meaningEn": "the act of throwing the ball to the batter in baseball",
+  "meaningVi": "cú ném bóng",
+  "synonyms": [
+   "throw",
+   "toss",
+   "delivery"
+  ]
+ },
+ "castle-sentence": {
+  "meaningEn": "a large fortified building with thick walls",
+  "synonyms": [
+   "fortress",
+   "stronghold",
+   "citadel"
+  ]
+ },
+ "bread-sentence": {
+  "synonyms": [
+   "loaf",
+   "baked food",
+   "staff of life"
+  ]
+ },
+ "presentation-sentence": {
+  "meaningEn": "a talk given to an audience",
+  "synonyms": [
+   "talk",
+   "lecture",
+   "demonstration"
+  ]
+ },
+ "ambassador-sentence": {
+  "meaningEn": "a person who represents and promotes a brand or organization",
+  "synonyms": [
+   "representative",
+   "promoter",
+   "spokesperson"
+  ]
+ },
+ "consumption-sentence": {
+  "synonyms": [
+   "use",
+   "intake",
+   "eating"
+  ]
+ },
+ "associate-sentence": {
+  "pos": "verb",
+  "meaningEn": "to connect one thing with another in your mind",
+  "synonyms": [
+   "link",
+   "connect",
+   "relate"
+  ]
+ },
+ "discover-sentence": {
+  "pos": "verb",
+  "meaningEn": "to find something for the first time",
+  "synonyms": [
+   "find",
+   "uncover",
+   "come across"
+  ]
+ },
+ "exposure-sentence": {
+  "meaningEn": "the experience of coming into contact with something",
+  "synonyms": [
+   "contact",
+   "experience",
+   "access"
+  ]
+ },
+ "encourage-sentence": {
+  "pos": "verb",
+  "meaningEn": "to urge or persuade someone to do something",
+  "synonyms": [
+   "urge",
+   "prompt",
+   "motivate"
+  ]
+ },
+ "gallery-sentence": {
+  "meaningEn": "a room or building where works of art are shown",
+  "synonyms": [
+   "art gallery",
+   "exhibition space",
+   "museum"
+  ]
+ },
+ "reward-sentence": {
+  "term": "rewarding",
+  "pos": "adjective",
+  "meaningEn": "making you feel satisfied and pleased",
+  "meaningVi": "đáng giá; bổ ích",
+  "synonyms": [
+   "satisfying",
+   "fulfilling",
+   "gratifying"
+  ]
+ },
+ "rail-sentence": {
+  "meaningEn": "the railway system",
+  "meaningVi": "hệ thống đường sắt",
+  "synonyms": [
+   "railway",
+   "railway network",
+   "train system"
+  ]
+ },
+ "format-sentence": {
+  "meaningEn": "the size, shape and layout of a publication",
+  "synonyms": [
+   "layout",
+   "design",
+   "structure"
+  ]
+ },
+ "contain-sentence": {
+  "pos": "verb",
+  "meaningEn": "to have something inside or as a part",
+  "synonyms": [
+   "hold",
+   "include",
+   "comprise"
+  ]
+ },
+ "intelligence-sentence": {
+  "synonyms": [
+   "intellect",
+   "mental ability",
+   "reasoning"
+  ]
+ },
+ "depression-sentence": {
+  "synonyms": [
+   "low mood",
+   "sadness",
+   "despair"
+  ]
+ },
+ "facility-sentence": {
+  "synonyms": [
+   "amenity",
+   "service",
+   "resource"
+  ]
+ },
+ "trend-sentence": {
+  "pos": "verb",
+  "meaningEn": "to become popular or widely discussed, especially online",
+  "synonyms": [
+   "go viral",
+   "become popular",
+   "gain traction"
+  ],
+  "meaningVi": "đang thịnh hành; trở nên phổ biến"
+ },
+ "manage-sentence": {
+  "meaningEn": "to deal with or control something difficult",
+  "synonyms": [
+   "cope with",
+   "handle",
+   "deal with"
+  ]
+ },
+ "object-sentence": {
+  "synonyms": [
+   "item",
+   "thing",
+   "entity"
+  ]
+ },
+ "rent-sentence": {
+  "meaningEn": "to pay money to use something temporarily",
+  "synonyms": [
+   "hire",
+   "lease",
+   "pay to use"
+  ]
+ },
+ "kingdom-sentence": {
+  "meaningEn": "a country or state ruled by a king or queen",
+  "synonyms": [
+   "realm",
+   "monarchy",
+   "domain"
+  ]
+ },
+ "teach-sentence": {
+  "meaningEn": "to give lessons or instruction to someone",
+  "synonyms": [
+   "instruct",
+   "educate",
+   "tutor"
+  ]
+ },
+ "planet-sentence": {
+  "synonyms": [
+   "world",
+   "globe",
+   "celestial body"
+  ]
+ },
+ "literature-sentence": {
+  "meaningEn": "the published works on a particular subject",
+  "meaningVi": "tài liệu nghiên cứu; văn liệu",
+  "synonyms": [
+   "published research",
+   "studies",
+   "writings"
+  ]
+ },
+ "affected-sentence": {
+  "synonyms": [
+   "influenced",
+   "impacted",
+   "changed"
+  ]
+ },
+ "survive-sentence": {
+  "pos": "verb",
+  "meaningEn": "to continue to live or exist after a difficult event",
+  "synonyms": [
+   "endure",
+   "persist",
+   "live through"
+  ]
+ },
+ "marine-sentence": {
+  "pos": "adjective",
+  "meaningEn": "relating to the sea or sea life",
+  "synonyms": [
+   "oceanic",
+   "sea",
+   "maritime"
+  ]
+ },
+ "deliver-sentence": {
+  "pos": "verb",
+  "meaningEn": "to take goods to a place or person",
+  "synonyms": [
+   "transport",
+   "bring",
+   "convey"
+  ]
+ },
+ "plastic-sentence": {
+  "pos": "noun",
+  "meaningEn": "a synthetic material made from polymers",
+  "synonyms": [
+   "polymer",
+   "synthetic material",
+   "resin"
+  ]
+ },
+ "diet-sentence": {
+  "pos": "noun",
+  "meaningEn": "the food and drink that a person usually consumes",
+  "synonyms": [
+   "food intake",
+   "eating habits",
+   "nutrition"
+  ]
+ },
+ "escape-sentence": {
+  "pos": "verb",
+  "meaningEn": "to avoid something harmful or unpleasant",
+  "synonyms": [
+   "avoid",
+   "get away from",
+   "elude"
+  ]
+ },
+ "perform-sentence": {
+  "meaningEn": "to act, sing or dance in front of an audience",
+  "synonyms": [
+   "act",
+   "appear",
+   "entertain"
+  ]
+ },
+ "strike-sentence": {
+  "meaningEn": "a collision or hit",
+  "meaningVi": "cú va chạm; cú đánh",
+  "synonyms": [
+   "collision",
+   "hit",
+   "impact"
+  ]
+ },
+ "launch-sentence": {
+  "pos": "verb",
+  "meaningEn": "to introduce a new product or start something",
+  "synonyms": [
+   "start",
+   "introduce",
+   "roll out"
+  ]
+ },
+ "hunting-learn": {
+  "term": "hunt",
+  "pos": "verb",
+  "meaningEn": "to chase and kill animals for food",
+  "synonyms": [
+   "chase prey",
+   "pursue prey",
+   "prey on animals"
+  ]
+ },
+ "conservation-learn": {
+  "term": "conservationist",
+  "pos": "noun",
+  "meaningEn": "a person who works to protect wildlife and natural places",
+  "meaningVi": "nhà bảo tồn",
+  "synonyms": [
+   "environmentalist",
+   "preservationist",
+   "wildlife campaigner"
+  ]
+ }
+}

@@ -1,0 +1,1693 @@
+[
+  {
+    "id": "carer-learn",
+    "term": "carer",
+    "ipa": "/ˈkeərə/",
+    "pos": "n",
+    "meaningEn": "a person who looks after someone who is ill, old, or disabled",
+    "meaningVi": "người chăm sóc",
+    "synonyms": [
+      "caregiver",
+      "person looking after someone",
+      "support worker"
+    ],
+    "sentenceText": "They realize that carers sometimes need time for all the other responsibilities they have.",
+    "sentenceChunks": [
+      "They realize that carers sometimes need time for all the other responsibilities they have."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Support for carers",
+    "questions": [
+      1,
+      2,
+      10
+    ],
+    "source": "exam",
+    "why": "The whole table is about practical support for carers. Knowing that a carer looks after a relative helps you follow who needs help and what kind of support is being discussed.",
+    "riskHint": "n"
+  },
+  {
+    "id": "assessment-learn",
+    "term": "assessment",
+    "ipa": "/əˈsesmənt/",
+    "pos": "n",
+    "meaningEn": "an official judgement of someone’s needs or abilities",
+    "meaningVi": "sự đánh giá",
+    "synonyms": [
+      "evaluation",
+      "appraisal",
+      "needs review"
+    ],
+    "sentenceText": "So, once they've done this assessment, if I'm eligible, what happens next?",
+    "sentenceChunks": [
+      "So, once they've done this assessment, if I'm eligible, what happens next?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Support for carers",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "source": "exam",
+    "why": "The table asks what an assessment of the mother’s needs may include. “Assessment” signals a structured review, so you listen for categories of need rather than a single task.",
+    "riskHint": "n"
+  },
+  {
+    "id": "responsibilities-learn",
+    "term": "responsibilities",
+    "ipa": "/rɪˌspɒnsəˈbɪlətiz/",
+    "pos": "n",
+    "meaningEn": "duties or tasks that someone must deal with",
+    "meaningVi": "trách nhiệm; nghĩa vụ",
+    "synonyms": [
+      "duties",
+      "obligations",
+      "commitments"
+    ],
+    "sentenceText": "They realize that carers sometimes need time for all the other responsibilities they have.",
+    "sentenceChunks": [
+      "They realize that carers sometimes need time for all the other responsibilities they have."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Support for carers",
+    "questions": [
+      1
+    ],
+    "source": "exam",
+    "why": "Q1 asks what the carer can have time for. “Other responsibilities” means other duties, so you listen for something the carer cannot do while caring.",
+    "riskHint": "n"
+  },
+  {
+    "id": "fuel-learn",
+    "term": "fuel",
+    "ipa": "/fjuəl/",
+    "pos": "n",
+    "meaningEn": "a substance burned to produce power, especially for vehicles",
+    "meaningVi": "nhiên liệu",
+    "synonyms": [
+      "petrol",
+      "diesel",
+      "energy source"
+    ],
+    "sentenceText": "car-related costs, e.g. fuel and ______",
+    "sentenceChunks": [
+      "car-related costs, e.g. fuel and ______"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Support for carers",
+    "questions": [
+      9
+    ],
+    "source": "exam",
+    "why": "Q9 asks for a car-related cost besides fuel. The word means the energy source for a car, so it helps you identify another running cost rather than a repair.",
+    "riskHint": "n"
+  },
+  {
+    "id": "publicity-learn",
+    "term": "publicity",
+    "ipa": "/pəˈblɪsɪti/",
+    "pos": "n",
+    "meaningEn": "attention given to something by the media or public",
+    "meaningVi": "sự quảng bá; sự chú ý của công chúng",
+    "synonyms": [
+      "promotion",
+      "public attention",
+      "exposure"
+    ],
+    "sentenceText": "Oat milk: a Swedish brand's media campaign received publicity by upsetting competitors; promotion in the USA through ______ shops reduced the need for advertising; it appealed to consumers concerned about the ______.",
+    "sentenceChunks": [
+      "a Swedish brand's media campaign received publicity by upsetting competitors;",
+      "promotion in the USA through ______ shops reduced the need for advertising;",
+      "it appealed to consumers concerned about the ______."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The town volunteer scheme",
+    "questions": [
+      14
+    ],
+    "source": "exam",
+    "why": "Q14 asks about helping with a magazine. “Providing publicity about a council service” means promoting it to the public, so you listen for marketing or information work.",
+    "riskHint": "n"
+  },
+  {
+    "id": "interpersonal-skills-learn",
+    "term": "interpersonal skills",
+    "ipa": "/ˌɪntəˈpɜːsənl skɪlz/",
+    "pos": "n",
+    "meaningEn": "the ability to communicate and work well with people",
+    "meaningVi": "kỹ năng giao tiếp",
+    "synonyms": [
+      "people skills",
+      "communication skills",
+      "social skills"
+    ],
+    "sentenceText": "Volunteers need strong interpersonal skills.",
+    "sentenceChunks": [
+      "Volunteers need strong interpersonal skills."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The town volunteer scheme",
+    "questions": [
+      18
+    ],
+    "source": "exam",
+    "why": "Q18 asks for the most important requirement for volunteers. “Interpersonal skills” means getting on with people, so it helps you choose between interest and flexibility.",
+    "riskHint": "n"
+  },
+  {
+    "id": "flexibility-learn",
+    "term": "flexibility",
+    "ipa": "/ˌfleksəˈbɪləti/",
+    "pos": "n",
+    "meaningEn": "the ability to change plans or adapt to different situations",
+    "meaningVi": "sự linh hoạt",
+    "synonyms": [
+      "adaptability",
+      "willingness to change",
+      "versatility"
+    ],
+    "sentenceText": "Flexibility is one of the requirements for festival volunteers.",
+    "sentenceChunks": [
+      "Flexibility is one of the requirements for festival volunteers."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The town volunteer scheme",
+    "questions": [
+      18
+    ],
+    "source": "exam",
+    "why": "Q18 includes flexibility as a possible requirement. It means being able to change when needed, which is different from simply being interested in the event.",
+    "riskHint": "n"
+  },
+  {
+    "id": "cooperation-learn",
+    "term": "cooperation",
+    "ipa": "/kəʊˌɒpəˈreɪʃn/",
+    "pos": "n",
+    "meaningEn": "the act of working together",
+    "meaningVi": "sự hợp tác",
+    "synonyms": [
+      "collaboration",
+      "working together",
+      "teamwork"
+    ],
+    "sentenceText": "H encouraging cooperation between local organisations",
+    "sentenceChunks": [
+      "H encouraging cooperation between local organisations"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The town volunteer scheme",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "One volunteer role is encouraging cooperation between local organisations. The word means getting groups to work together, so it helps you distinguish it from providing information or selling tickets.",
+    "riskHint": "n"
+  },
+  {
+    "id": "vague-learn",
+    "term": "vague",
+    "ipa": "/veɪg/",
+    "pos": "adj",
+    "meaningEn": "not clear or precise",
+    "meaningVi": "mơ hồ; không rõ ràng",
+    "synonyms": [
+      "unclear",
+      "imprecise",
+      "general"
+    ],
+    "sentenceText": "A The information given about this was too vague.",
+    "sentenceChunks": [
+      "A The information given about this was too vague."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Planning a human geography assignment",
+    "questions": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "source": "exam",
+    "why": "Q21–25 ask for opinions on aspects of human geography. “The information was too vague” means it lacked detail, so it helps you reject an option that says the information was useful.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "reliable-learn",
+    "term": "reliable",
+    "ipa": "/rɪˈlaɪəbəl/",
+    "pos": "adj",
+    "meaningEn": "able to be trusted or depended on",
+    "meaningVi": "đáng tin cậy",
+    "synonyms": [
+      "dependable",
+      "trustworthy",
+      "accurate"
+    ],
+    "sentenceText": "E The facts about this may not be reliable.",
+    "sentenceChunks": [
+      "E The facts about this may not be reliable."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Planning a human geography assignment",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "Q21–25 include the idea that facts may not be reliable. The word signals a doubt about accuracy, which is different from saying the topic is irrelevant or interesting.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "disused-learn",
+    "term": "disused",
+    "ipa": "/ˌdɪsˈjuːzd/",
+    "pos": "adj",
+    "meaningEn": "no longer used",
+    "meaningVi": "không còn sử dụng",
+    "synonyms": [
+      "abandoned",
+      "unused",
+      "derelict"
+    ],
+    "sentenceText": "We could include something about developing disused industrial sites.",
+    "sentenceChunks": [
+      "We could include something about developing disused industrial sites."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Planning a human geography assignment",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "Q28 asks about developing disused industrial sites. “Disused” means the sites are no longer in use, so you listen for the costs or benefits of redeveloping them.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "outskirts-learn",
+    "term": "outskirts",
+    "ipa": "/ˈaʊtskɜːts/",
+    "pos": "n",
+    "meaningEn": "the areas at the edge of a city",
+    "meaningVi": "vùng ngoại vi; rìa thành phố",
+    "synonyms": [
+      "edge of the city",
+      "outer areas",
+      "periphery"
+    ],
+    "sentenceText": "It would be nice to talk about some positive developments, like some of the new developments on the outskirts of cities.",
+    "sentenceChunks": [
+      "It would be nice to talk about some positive developments",
+      "like some of the new developments on the outskirts of cities."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Planning a human geography assignment",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "Q27 asks about recent additions to the outskirts of their cities. The word means the outer edge of a city, so it helps you locate new facilities outside the centre.",
+    "riskHint": "n"
+  },
+  {
+    "id": "influencer-learn",
+    "term": "influencer",
+    "ipa": "/ˈɪnfluənsə/",
+    "pos": "n",
+    "meaningEn": "a social media user who can affect what others buy",
+    "meaningVi": "người có ảnh hưởng trên mạng",
+    "synonyms": [
+      "content creator",
+      "opinion leader",
+      "social media figure"
+    ],
+    "sentenceText": "One of the most effective ways of promoting a new food product is by using social media influencers as brand ambassadors in return for free samples.",
+    "sentenceChunks": [
+      "One of the most effective ways of promoting a new food product is",
+      "by using social media influencers as brand ambassadors in return for free samples."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "The notes mention influencers becoming brand ambassadors. Knowing the term helps you follow how social media users promote food brands and drive sales.",
+    "riskHint": "n"
+  },
+  {
+    "id": "brand-ambassador-learn",
+    "term": "brand ambassador",
+    "ipa": "/brænd æmˈbæsədə(r)/",
+    "pos": "n",
+    "meaningEn": "a person paid or chosen to represent a brand",
+    "meaningVi": "đại sứ thương hiệu",
+    "synonyms": [
+      "brand representative",
+      "promoter",
+      "spokesperson"
+    ],
+    "sentenceText": "One of the most effective ways of promoting a new food product is by using social media influencers as brand ambassadors in return for free samples.",
+    "sentenceChunks": [
+      "One of the most effective ways of promoting a new food product is",
+      "by using social media influencers as brand ambassadors in return for free samples."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "The notes describe influencers becoming brand ambassadors. The phrase means they officially represent a brand, not just mention it once.",
+    "riskHint": "n"
+  },
+  {
+    "id": "overuse-learn",
+    "term": "overuse",
+    "ipa": "/ˌəʊvəˈjuːz/",
+    "pos": "n",
+    "meaningEn": "the use of something too much or too often",
+    "meaningVi": "sự sử dụng quá mức",
+    "synonyms": [
+      "excessive use",
+      "overexploitation",
+      "depletion"
+    ],
+    "sentenceText": "Quinoa: its success led to an increase in its ______; overuse of resources resulted in poor quality ______.",
+    "sentenceChunks": [
+      "its success led to an increase in its ______;",
+      "overuse of resources resulted in poor quality ______."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [
+      39,
+      40
+    ],
+    "source": "exam",
+    "why": "Q40 asks what overuse of resources did to quinoa quality. “Overuse” means using land or resources beyond a sustainable level, which explains the fall in quality.",
+    "riskHint": "n"
+  },
+  {
+    "id": "demand-learn",
+    "term": "demand",
+    "ipa": "/dɪˈmænd/",
+    "pos": "n",
+    "meaningEn": "the amount of a product that people want to buy",
+    "meaningVi": "nhu cầu",
+    "synonyms": [
+      "consumer need",
+      "market demand",
+      "desire to buy"
+    ],
+    "sentenceText": "The demand for skrei has been used by a food marketing agency to build the reputation of Norway's fisheries in general.",
+    "sentenceChunks": [
+      "The demand for skrei has been used by a food",
+      "marketing agency to build the reputation of Norway's fisheries in general."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [
+      31,
+      32
+    ],
+    "source": "exam",
+    "why": "The notes say supermarkets track demand for ingredients. The word means how much people want to buy, so it helps you understand how social media trends affect sales.",
+    "riskHint": "n"
+  },
+  {
+    "id": "aquatic-learn",
+    "term": "aquatic",
+    "ipa": "/əˈkwætɪk/",
+    "pos": "adj",
+    "meaningEn": "living in or connected with water",
+    "meaningVi": "dưới nước; thủy sinh",
+    "synonyms": [
+      "marine",
+      "water-dwelling",
+      "water-based"
+    ],
+    "sentenceText": "They do have pelvic bones, however - a leftover from their evolution from a four-legged to a fully aquatic animal.",
+    "sentenceChunks": [
+      "They do have pelvic bones, however - a leftover from",
+      "their evolution from a four-legged to a fully aquatic animal."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "Q7 asks whether West Indian manatees live in a variety of aquatic habitats. “Aquatic” tells you the habitats are in water, so you check for different water environments, not land ones.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "entanglement-learn",
+    "term": "entanglement",
+    "ipa": "/ɪnˈtæŋgəlmənt/",
+    "pos": "n",
+    "meaningEn": "the state of being caught or twisted in something",
+    "meaningVi": "sự mắc vào; sự vướng",
+    "synonyms": [
+      "getting caught",
+      "snaring",
+      "trapping"
+    ],
+    "sentenceText": "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that at least 700 cases involved manatees.",
+    "sentenceChunks": [
+      "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found",
+      "that at least 700 cases involved manatees."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [
+      12
+    ],
+    "source": "exam",
+    "why": "Q12 asks about entanglement and plastic consumption. “Entanglement” means being caught in fishing nets, a specific risk that is different from eating plastic.",
+    "riskHint": "n"
+  },
+  {
+    "id": "legislation-learn",
+    "term": "legislation",
+    "ipa": "/ˌledʒɪsˈleɪʃn/",
+    "pos": "n",
+    "meaningEn": "laws made by a government",
+    "meaningVi": "pháp luật; đạo luật",
+    "synonyms": [
+      "laws",
+      "regulations",
+      "statute"
+    ],
+    "sentenceText": "There is some legislation in place which aims to reduce the likelihood of boat strikes on manatees in Florida.",
+    "sentenceChunks": [
+      "There is some legislation in place which aims to",
+      "reduce the likelihood of boat strikes on manatees in Florida."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "Q13 asks whether legislation aims to reduce boat strikes. The word means official laws, so you check for a legal measure rather than a voluntary guideline.",
+    "riskHint": "n"
+  },
+  {
+    "id": "likelihood-learn",
+    "term": "likelihood",
+    "ipa": "/ˈlaɪkliˌhʊd/",
+    "pos": "n",
+    "meaningEn": "the chance that something will happen",
+    "meaningVi": "khả năng xảy ra",
+    "synonyms": [
+      "probability",
+      "chance",
+      "risk"
+    ],
+    "sentenceText": "There is some legislation in place which aims to reduce the likelihood of boat strikes on manatees in Florida.",
+    "sentenceChunks": [
+      "There is some legislation in place which aims to",
+      "reduce the likelihood of boat strikes on manatees in Florida."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [
+      11,
+      13
+    ],
+    "source": "exam",
+    "why": "Q13 refers to reducing the likelihood of boat strikes. The word means the chance of an event, so you look for a measure that makes strikes less probable.",
+    "riskHint": "n"
+  },
+  {
+    "id": "habitat-learn",
+    "term": "habitat",
+    "ipa": "/ˈhæbɪtæt/",
+    "pos": "n",
+    "meaningEn": "the natural environment where an animal lives",
+    "meaningVi": "môi trường sống",
+    "synonyms": [
+      "natural home",
+      "environment",
+      "ecosystem"
+    ],
+    "sentenceText": "West Indian manatees can be found in a variety of different aquatic habitats.",
+    "sentenceChunks": [
+      "West Indian manatees can be found in a variety of different aquatic habitats."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "Q7 asks about aquatic habitats. The word means the places where manatees naturally live, so it helps you check whether they use a range of water environments.",
+    "riskHint": "n"
+  },
+  {
+    "id": "procrastination-learn",
+    "term": "procrastination",
+    "ipa": "/prəˌkræstəˈneɪʃən/",
+    "pos": "n",
+    "meaningEn": "the habit of delaying tasks that need to be done",
+    "meaningVi": "sự trì hoãn",
+    "synonyms": [
+      "delay",
+      "putting things off",
+      "task avoidance"
+    ],
+    "sentenceText": "Procrastination is the habit of delaying a necessary task, usually by focusing on less urgent, more enjoyable, and easier activities instead.",
+    "sentenceChunks": [
+      "Procrastination is the habit of delaying a necessary task, usually",
+      "by focusing on less urgent, more enjoyable, and easier activities instead."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [
+      14,
+      17,
+      23,
+      25
+    ],
+    "source": "exam",
+    "why": "The passage explains why we put off important tasks. “Procrastination” is the key concept, so you need it to follow the causes, consequences and advice.",
+    "riskHint": "n"
+  },
+  {
+    "id": "false-assumption-learn",
+    "term": "false assumption",
+    "ipa": "/fɔːls əˈsʌmpʃn/",
+    "pos": "n",
+    "meaningEn": "a belief that is wrong but accepted without proof",
+    "meaningVi": "giả định sai",
+    "synonyms": [
+      "misconception",
+      "mistaken belief",
+      "wrong idea"
+    ],
+    "sentenceText": "mention of false assumptions about why people procrastinate",
+    "sentenceChunks": [
+      "mention of false assumptions about why people procrastinate"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [
+      14
+    ],
+    "source": "exam",
+    "why": "Q14 asks for a mention of false assumptions about why people procrastinate. The phrase signals a belief the passage will correct, so you look for a contrast with the real cause.",
+    "riskHint": "n"
+  },
+  {
+    "id": "neurological-learn",
+    "term": "neurological",
+    "ipa": "/ˌnjʊərəˈlɒdʒɪkl/",
+    "pos": "adj",
+    "meaningEn": "relating to the brain and nervous system",
+    "meaningVi": "thuộc thần kinh",
+    "synonyms": [
+      "brain-related",
+      "neural",
+      "nervous-system"
+    ],
+    "sentenceText": "neurological evidence of a link between procrastination and emotion",
+    "sentenceChunks": [
+      "neurological evidence of a link between procrastination and emotion"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "Q16 asks for neurological evidence linking procrastination and emotion. The word tells you the evidence comes from brain activity, not from surveys or interviews.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "manageable-learn",
+    "term": "manageable",
+    "ipa": "/ˈmænɪdʒəbəl/",
+    "pos": "adj",
+    "meaningEn": "easy enough to deal with or achieve",
+    "meaningVi": "có thể xử lý được",
+    "synonyms": [
+      "achievable",
+      "realistic",
+      "controllable"
+    ],
+    "sentenceText": "The writer recommends setting manageable aims.",
+    "sentenceChunks": [
+      "The writer recommends setting manageable aims."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [
+      25,
+      26
+    ],
+    "source": "exam",
+    "why": "Q25–26 ask for recommendations. “Manageable aims” means goals that are realistic, so you listen for advice to make tasks smaller rather than to work harder.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "emotion-learn",
+    "term": "emotion",
+    "ipa": "/ɪˈməʊʃn/",
+    "pos": "n",
+    "meaningEn": "a strong feeling such as fear, anger, or happiness",
+    "meaningVi": "cảm xúc",
+    "synonyms": [
+      "feeling",
+      "emotional state",
+      "mood"
+    ],
+    "sentenceText": "Finding better ways of managing our emotions is one route out of the vicious cycle of procrastination.",
+    "sentenceChunks": [
+      "Finding better ways of managing our emotions is one route out of the vicious cycle of procrastination."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "Q16 asks for neurological evidence linking procrastination and emotion. The word signals a role for feelings, which helps you distinguish emotional explanations from time-management ones.",
+    "riskHint": "n"
+  },
+  {
+    "id": "amend-learn",
+    "term": "amend",
+    "ipa": "/əˈmend/",
+    "pos": "v",
+    "meaningEn": "to change something slightly, usually a rule or document",
+    "meaningVi": "sửa đổi",
+    "synonyms": [
+      "modify",
+      "adjust",
+      "revise"
+    ],
+    "sentenceText": "MLB considered it necessary to amend the size of the strike zone when criticisms were received from players.",
+    "sentenceChunks": [
+      "MLB considered it necessary to amend the size of the strike zone when criticisms were received from players."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "Q28 asks whether MLB amended the size of the strike zone. “Amend” means to make a formal change, so you check whether the rule itself was altered.",
+    "riskHint": "v"
+  },
+  {
+    "id": "feasible-learn",
+    "term": "feasible",
+    "ipa": "/ˈfizəbəl/",
+    "pos": "adj",
+    "meaningEn": "possible to do successfully",
+    "meaningVi": "khả thi",
+    "synonyms": [
+      "practicable",
+      "workable",
+      "achievable"
+    ],
+    "sentenceText": "ABS makes changes to the shape of the strike zone feasible.",
+    "sentenceChunks": [
+      "ABS makes changes to the shape of the strike zone feasible."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "Q32 asks whether ABS makes changes to the strike zone feasible. The word means possible to carry out, so it helps you distinguish a practical effect from a prediction.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "subjective-learn",
+    "term": "subjective",
+    "ipa": "/səˈbdʒektɪv/",
+    "pos": "adj",
+    "meaningEn": "based on personal opinion rather than fixed facts",
+    "meaningVi": "chủ quan",
+    "synonyms": [
+      "personal",
+      "opinion-based",
+      "judgement-based"
+    ],
+    "sentenceText": "Umpires make a subjective assessment of the strike zone.",
+    "sentenceChunks": [
+      "Umpires make a subjective assessment of the strike zone."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "source": "exam",
+    "why": "Q33–37 include “subjective assessment” in the summary options. It contrasts with an objective, measured judgement, which is central to the passage’s argument about umpires.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "perceived-learn",
+    "term": "perceived",
+    "ipa": "/pəˈsivd/",
+    "pos": "adj",
+    "meaningEn": "noticed or understood in a particular way",
+    "meaningVi": "được nhận thức; được cảm nhận",
+    "synonyms": [
+      "apparent",
+      "sensed",
+      "viewed"
+    ],
+    "sentenceText": "The perceived area may differ from its measured size.",
+    "sentenceChunks": [
+      "The perceived area may differ from its measured size."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "source": "exam",
+    "why": "Q33–37 include “perceived area”. The word means the area as people experience or understand it, not necessarily its exact measured size.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "accuracy-learn",
+    "term": "accuracy",
+    "ipa": "/ˈækjərəsi/",
+    "pos": "n",
+    "meaningEn": "the quality of being correct or exact",
+    "meaningVi": "độ chính xác",
+    "synonyms": [
+      "precision",
+      "correctness",
+      "exactness"
+    ],
+    "sentenceText": "Some players I have met take a dissenting stance toward the robots too, believing that accuracy is not the answer.",
+    "sentenceChunks": [
+      "Some players I have met take a dissenting stance toward",
+      "the robots too, believing that accuracy is not the answer."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [
+      29,
+      39
+    ],
+    "source": "exam",
+    "why": "Q29 and Q39 discuss the accuracy of ABS. The word means how exact the system is, so it helps you follow the trade-off between precision and enjoyment.",
+    "riskHint": "n"
+  },
+  {
+    "id": "procrastinate-sentence",
+    "term": "procrastinate",
+    "ipa": "/prəˈkræstəˌneɪt/",
+    "pos": "verb",
+    "meaningEn": "postpone doing what one should be doing",
+    "meaningVi": "",
+    "synonyms": [
+      "stall",
+      "drag one's feet",
+      "drag one's heels",
+      "shillyshally"
+    ],
+    "sentenceText": "Research involving brain imaging has found that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate compared to those who don't procrastinate frequently.",
+    "sentenceChunks": [
+      "Research involving brain imaging has found",
+      "that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate compared to those who don't procrastinate frequently."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "influencers-sentence",
+    "term": "influencers",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "a key term used in this section",
+    "meaningVi": "",
+    "synonyms": [
+      "influencers"
+    ],
+    "sentenceText": "One of the most effective ways of promoting a new food product is by using social media influencers as brand ambassadors in return for free samples.",
+    "sentenceChunks": [
+      "One of the most effective ways of promoting a new food product is",
+      "by using social media influencers as brand ambassadors in return for free samples."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "volunteer-sentence",
+    "term": "volunteer",
+    "ipa": "/ˌvɑlənˈtɪə/",
+    "pos": "noun",
+    "meaningEn": "(military) a person who freely enlists for service",
+    "meaningVi": "",
+    "synonyms": [
+      "military volunteer",
+      "voluntary",
+      "unpaid worker"
+    ],
+    "sentenceText": "We try to use volunteers who are flexible though because some festival events are held outdoors and the weather may affect the size of the audience and even whether the event can take place.",
+    "sentenceChunks": [
+      "We try to use volunteers who are flexible though",
+      "because some festival events are held outdoors and the weather may affect the size of the audience and even whether the event can take place."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The town volunteer scheme",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "boundary-sentence",
+    "term": "boundary",
+    "ipa": "/ˈbaʊndəi/",
+    "pos": "noun",
+    "meaningEn": "the line or plane indicating the limit or extent of something",
+    "meaningVi": "",
+    "synonyms": [
+      "bound",
+      "bounds",
+      "edge"
+    ],
+    "sentenceText": "For a hundred and fifty years or so, the strike zone has been the game's animating force-countless arguments between a team's manager and the umpire have taken place over its boundaries and whether a ball had crossed through it.",
+    "sentenceChunks": [
+      "For a hundred and fifty years or so, the strike zone has been the game's animating force-countless arguments between",
+      "a team's manager and the umpire have taken place over its boundaries and whether a ball had crossed through it."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "manatee-sentence",
+    "term": "manatee",
+    "ipa": "/ˈmænəˌti/",
+    "pos": "noun",
+    "meaningEn": "sirenian mammal of tropical coastal waters of America; the flat tail is rounded",
+    "meaningVi": "",
+    "synonyms": [
+      "Trichechus manatus"
+    ],
+    "sentenceText": "There are two subspecies of West Indian manatee: The Antillean manatee is found in waters from the Bahamas to Brazil, whereas the Florida manatee is found in US waters, although some individuals have been recorded in the Bahamas.",
+    "sentenceChunks": [
+      "There are two subspecies of West Indian manatee:",
+      "The Antillean manatee is found in waters from the Bahamas to Brazil, whereas the Florida manatee is found in US waters, although some individuals have been recorded in the Bahamas."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "umpire-sentence",
+    "term": "umpire",
+    "ipa": "/ˈəmˌpaɪə/",
+    "pos": "noun",
+    "meaningEn": "an official at a baseball game",
+    "meaningVi": "",
+    "synonyms": [
+      "ump",
+      "arbiter",
+      "arbitrator"
+    ],
+    "sentenceText": "A few years ago, Fred DeJesus from Brooklyn, New York became the first umpire in a minor league baseball game to use something called the Automated Ball- Strike System (ABS), often referred to as the 'robo-umpire'.",
+    "sentenceChunks": [
+      "A few years ago, Fred DeJesus from Brooklyn, New York became the first umpire in a minor league",
+      "baseball game to use something called the Automated Ball- Strike System (ABS), often referred to as the 'robo-umpire'."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "fastball-sentence",
+    "term": "fastball",
+    "ipa": "/ˈfæstˌbɔl/",
+    "pos": "noun",
+    "meaningEn": "(baseball) a pitch thrown with maximum velocity",
+    "meaningVi": "",
+    "synonyms": [
+      "heater",
+      "smoke",
+      "hummer",
+      "bullet"
+    ],
+    "sentenceText": "This type of baseball essentially hasn't existed since the 1960s, when the hundred-mile-an-hour fastball, which is difficult to hit and control, entered the game.",
+    "sentenceChunks": [
+      "This type of baseball essentially hasn't existed since the 1960s, when the",
+      "hundred-mile-an-hour fastball, which is difficult to hit and control, entered the game."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "statistic-sentence",
+    "term": "statistic",
+    "ipa": "/stəˈtɪstɪk/",
+    "pos": "noun",
+    "meaningEn": "a datum that can be represented numerically",
+    "meaningVi": "",
+    "synonyms": [
+      "statistic"
+    ],
+    "sentenceText": "Lots of facts and statistics.",
+    "sentenceChunks": [
+      "Lots of facts and statistics."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Planning a human geography assignment",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "barbecue-sentence",
+    "term": "barbecue",
+    "ipa": "/ˈbɑːbɪˌkju/",
+    "pos": "noun",
+    "meaningEn": "meat that has been barbecued or grilled in a highly seasoned sauce",
+    "meaningVi": "",
+    "synonyms": [
+      "barbeque"
+    ],
+    "sentenceText": "In recent years, we've had a party in the town hall and last year a barbecue in Chamber Park.",
+    "sentenceChunks": [
+      "In recent years, we've had a party in the",
+      "town hall and last year a barbecue in Chamber Park."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The town volunteer scheme",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "involve-sentence",
+    "term": "involve",
+    "ipa": "/ˌɪnˈvɑlv/",
+    "pos": "noun",
+    "meaningEn": "connect closely and often incriminatingly",
+    "meaningVi": "",
+    "synonyms": [
+      "affect",
+      "regard"
+    ],
+    "sentenceText": "Volunteers may get involved with community groups such as sports clubs or gardeners associations.",
+    "sentenceChunks": [
+      "Volunteers may get involved with community groups such as sports clubs or gardeners associations."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "The town volunteer scheme",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "carers-sentence",
+    "term": "carers",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "a key term used in this section",
+    "meaningVi": "",
+    "synonyms": [
+      "carers"
+    ],
+    "sentenceText": "They realize that carers sometimes need time for all the other responsibilities they have.",
+    "sentenceChunks": [
+      "They realize that carers sometimes need time for all the other responsibilities they have."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Support for carers",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "harshly-sentence",
+    "term": "harshly",
+    "ipa": "/ˈhɑːʃli/",
+    "pos": "adverb",
+    "meaningEn": "in a harsh or unkind manner",
+    "meaningVi": "",
+    "synonyms": [
+      "gratingly",
+      "raspingly"
+    ],
+    "sentenceText": "Another group of people who tend to procrastinate are perfectionists, who worry their work will be judged harshly by others.",
+    "sentenceChunks": [
+      "Another group of people who tend to procrastinate are perfectionists",
+      "who worry their work will be judged harshly by others."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adverb"
+  },
+  {
+    "id": "coastal-sentence",
+    "term": "coastal",
+    "ipa": "/ˈkəʊstəl/",
+    "pos": "adjective",
+    "meaningEn": "of or relating to a coast",
+    "meaningVi": "",
+    "synonyms": [
+      "coastal"
+    ],
+    "sentenceText": "It moves between fresh water and salt water, taking advantage of coastal mangroves and coral reefs, rivers, lakes and inland lagoons.",
+    "sentenceChunks": [
+      "It moves between fresh water and salt water, taking advantage",
+      "of coastal mangroves and coral reefs, rivers, lakes and inland lagoons."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "employee-sentence",
+    "term": "employee",
+    "ipa": "/ɪmˈplɔɪi/",
+    "pos": "noun",
+    "meaningEn": "a worker who is hired to perform a job",
+    "meaningVi": "",
+    "synonyms": [
+      "employee"
+    ],
+    "sentenceText": "In fact, in one US survey of over 22,000 employees, participants who said they regularly procrastinated had less annual income and less employment stability.",
+    "sentenceChunks": [
+      "In fact, in one US survey of over 22,000 employees, participants who",
+      "said they regularly procrastinated had less annual income and less employment stability."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "pitch-sentence",
+    "term": "pitch",
+    "ipa": "/pɪtʃ/",
+    "pos": "noun",
+    "meaningEn": "the property of sound that varies with variation in the frequency of vibration",
+    "meaningVi": "",
+    "synonyms": [
+      "delivery"
+    ],
+    "sentenceText": "When the first pitch came in, a recorded voice told DeJesus it was a strike.",
+    "sentenceChunks": [
+      "When the first pitch came in, a recorded voice told DeJesus it was a strike."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Invasion of the Robot Umpires",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "ambassador-sentence",
+    "term": "ambassador",
+    "ipa": "/æmˈbæsədə/",
+    "pos": "noun",
+    "meaningEn": "a diplomat of the highest rank; accredited as representative from one country to another",
+    "meaningVi": "",
+    "synonyms": [
+      "embassador"
+    ],
+    "sentenceText": "One of the most effective ways of promoting a new food product is by using social media influencers as brand ambassadors in return for free samples.",
+    "sentenceChunks": [
+      "One of the most effective ways of promoting a new food product is",
+      "by using social media influencers as brand ambassadors in return for free samples."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "consumption-sentence",
+    "term": "consumption",
+    "ipa": "/kənˈsəmʃən/",
+    "pos": "noun",
+    "meaningEn": "the process of taking food into the body through the mouth (as by eating)",
+    "meaningVi": "",
+    "synonyms": [
+      "ingestion",
+      "intake",
+      "uptake",
+      "pulmonary tuberculosis"
+    ],
+    "sentenceText": "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that at least 700 cases involved manatees.",
+    "sentenceChunks": [
+      "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found",
+      "that at least 700 cases involved manatees."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "practical-sentence",
+    "term": "practical",
+    "ipa": "/ˈpræktɪkəl/",
+    "pos": "adjective",
+    "meaningEn": "concerned with actual use or practice",
+    "meaningVi": "",
+    "synonyms": [
+      "hardheaded",
+      "hard-nosed",
+      "pragmatic"
+    ],
+    "sentenceText": "Yes, they offer different kinds of practical support.",
+    "sentenceChunks": [
+      "Yes, they offer different kinds of practical support."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Support for carers",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "poverty-sentence",
+    "term": "poverty",
+    "ipa": "/ˈpɑvəti/",
+    "pos": "noun",
+    "meaningEn": "the state of having little or no money and few or no material possessions",
+    "meaningVi": "",
+    "synonyms": [
+      "poorness",
+      "impoverishment"
+    ],
+    "sentenceText": "The trouble is Dr. Lee was saying that you have to be careful with some of the figures relating to poverty.",
+    "sentenceChunks": [
+      "The trouble is Dr. Lee was saying that you have",
+      "to be careful with some of the figures relating to poverty."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Planning a human geography assignment",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "reward-sentence",
+    "term": "reward",
+    "ipa": "/rɪˈwɔːd/",
+    "pos": "noun",
+    "meaningEn": "a recompense for worthy acts or retribution for wrongdoing",
+    "meaningVi": "",
+    "synonyms": [
+      "wages",
+      "payoff"
+    ],
+    "sentenceText": "This is rewarding, and it conditions us to use procrastination to repair our mood.",
+    "sentenceChunks": [
+      "This is rewarding, and it conditions us to use procrastination to repair our mood."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "meal-sentence",
+    "term": "meal",
+    "ipa": "/mil/",
+    "pos": "noun",
+    "meaningEn": "the food served and eaten at one time",
+    "meaningVi": "",
+    "synonyms": [
+      "repast"
+    ],
+    "sentenceText": "They'll probably ask you if you do the shopping for her and help her at meal times and whether she can cope using money.",
+    "sentenceChunks": [
+      "They'll probably ask you if you do the shopping for her and",
+      "help her at meal times and whether she can cope using money."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Support for carers",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "trend-sentence",
+    "term": "trend",
+    "ipa": "/trend/",
+    "pos": "noun",
+    "meaningEn": "a general direction in which something tends to move",
+    "meaningVi": "",
+    "synonyms": [
+      "tendency",
+      "course"
+    ],
+    "sentenceText": "They have dedicated teams closely following which new products or ingredients are trending on social media and are particularly interested in what well-known chefs are putting on their menus.",
+    "sentenceChunks": [
+      "They have dedicated teams closely following",
+      "which new products or ingredients are trending on social media and are particularly interested in what well-known chefs are putting on their menus."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "manage-sentence",
+    "term": "manage",
+    "ipa": "/ˈmænɪdʒ/",
+    "pos": "verb",
+    "meaningEn": "be successful; achieve a goal",
+    "meaningVi": "",
+    "synonyms": [
+      "pull off",
+      "negociate",
+      "bring off",
+      "carry off"
+    ],
+    "sentenceText": "They are less likely to practise healthy behaviours, such as eating a healthy diet and regularly exercising, and use destructive coping strategies to manage their stress.",
+    "sentenceChunks": [
+      "They are less likely to practise healthy behaviours, such as eating a healthy",
+      "diet and regularly exercising, and use destructive coping strategies to manage their stress."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "advertising-sentence",
+    "term": "advertising",
+    "ipa": "/ˈædvəˌtaɪzɪŋ/",
+    "pos": "noun",
+    "meaningEn": "a public promotion of some product or service",
+    "meaningVi": "",
+    "synonyms": [
+      "ad",
+      "advertisement",
+      "advertizement",
+      "advertizing"
+    ],
+    "sentenceText": "In the USA, the brand decided against a big retail launch in favor of getting the product into coffee chains, which removed the need for a big advertising budget.",
+    "sentenceChunks": [
+      "In the USA, the brand decided against a big retail launch in favor of getting the product into coffee chains",
+      "which removed the need for a big advertising budget."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Developing food trends",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "cycle-sentence",
+    "term": "cycle",
+    "ipa": "/ˈsaɪkəl/",
+    "pos": "noun",
+    "meaningEn": "an interval during which a recurring sequence of events occurs",
+    "meaningVi": "",
+    "synonyms": [
+      "rhythm",
+      "round"
+    ],
+    "sentenceText": "Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle.",
+    "sentenceChunks": [
+      "Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Procrastination",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "plastic-sentence",
+    "term": "plastic",
+    "ipa": "/ˈplæstɪk/",
+    "pos": "adjective",
+    "meaningEn": "capable of being molded or modeled (especially of earth or clay or other soft material)",
+    "meaningVi": "",
+    "synonyms": [
+      "fictile",
+      "moldable",
+      "pliant"
+    ],
+    "sentenceText": "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that at least 700 cases involved manatees.",
+    "sentenceChunks": [
+      "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found",
+      "that at least 700 cases involved manatees."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "strike-sentence",
+    "term": "strike",
+    "ipa": "/straɪk/",
+    "pos": "noun",
+    "meaningEn": "a group's refusal to work in protest against low pay or bad work conditions",
+    "meaningVi": "",
+    "synonyms": [
+      "work stoppage"
+    ],
+    "sentenceText": "The chief cause of death in Florida manatees is boat strikes.",
+    "sentenceChunks": [
+      "The chief cause of death in Florida manatees is boat strikes."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "limit-sentence",
+    "term": "limit",
+    "ipa": "/ˈlɪmət/",
+    "pos": "verb",
+    "meaningEn": "place limits on (extent or access)",
+    "meaningVi": "",
+    "synonyms": [
+      "restrict",
+      "restrain",
+      "trammel",
+      "bound"
+    ],
+    "sentenceText": "However, laws in certain parts of Florida now limit boat speeds during winter, allowing slow-moving manatees more time to respond.",
+    "sentenceChunks": [
+      "However, laws in certain parts of Florida now limit boat",
+      "speeds during winter, allowing slow-moving manatees more time to respond."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 20",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Manatees",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  }
+]

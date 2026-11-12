@@ -1,0 +1,737 @@
+[
+  {
+    "id": "ferry-learn",
+    "meaningVi": "phà",
+    "translation": "Dịch vụ khá hạn chế – chỉ có một chuyến phà khởi hành mỗi tối vào mùa hè, bảy ngày một tuần – tôi không chắc về những tháng mùa đông.",
+    "breakdown": [
+      {
+        "text": "The service is pretty limited - there's only one ferry leaving every evening in",
+        "vi": "Dịch vụ khá hạn chế – chỉ có một chuyến phà khởi hành mỗi tối vào",
+        "role": "main idea"
+      },
+      {
+        "text": "summer anyway, seven days a week - I'm not sure about the winter months.",
+        "vi": "mùa hè, bảy ngày một tuần – tôi không chắc về những tháng mùa đông.",
+        "role": "qualification"
+      }
+    ]
+  },
+  {
+    "id": "cancellation-learn",
+    "meaningVi": "sự hủy bỏ",
+    "translation": "Chính sách hủy: được nhận ______ (nếu hủy trước một tháng)",
+    "breakdown": [
+      {
+        "text": "receive a ______ (if cancelled a month in advance)",
+        "vi": "được nhận ______ (nếu hủy trước một tháng)",
+        "role": "policy detail"
+      }
+    ]
+  },
+  {
+    "id": "refund-learn",
+    "meaningVi": "tiền hoàn lại",
+    "translation": "Tôi không nghĩ chính sách của họ là hoàn tiền – chỉ đưa phiếu mua hàng – mà bạn có thể dùng vào một dịp sau này.",
+    "breakdown": [
+      {
+        "text": "I don't think it's their policy to give refunds - just",
+        "vi": "Tôi không nghĩ chính sách của họ là hoàn tiền – chỉ đưa",
+        "role": "main idea"
+      },
+      {
+        "text": "a voucher - which you can use at a later date.",
+        "vi": "một phiếu mua hàng – mà bạn có thể dùng vào một dịp sau này.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "kennel-learn",
+    "meaningVi": "chuồng chó; nơi trông giữ chó",
+    "translation": "Chuồng chó trên tàu cũng ổn – chúng khá rộng – bạn chỉ cần mang theo một tấm chăn.",
+    "breakdown": [
+      {
+        "text": "The kennels on board are OK - they're quite big - you just need to provide a blanket.",
+        "vi": "Chuồng chó trên tàu cũng ổn – chúng khá rộng – bạn chỉ cần mang theo một tấm chăn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "locally-sourced-learn",
+    "meaningVi": "có nguồn gốc địa phương",
+    "translation": "Đồ ăn đường phố phổ biến một phần vì nguyên liệu được lấy từ địa phương.",
+    "breakdown": [
+      {
+        "text": "Street food is popular partly because it is locally sourced.",
+        "vi": "Đồ ăn đường phố phổ biến một phần vì nguyên liệu được lấy từ địa phương.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "permit-learn",
+    "meaningVi": "giấy phép",
+    "translation": "D. Rất khó để xin được giấy phép bán thức ăn.",
+    "breakdown": [
+      {
+        "text": "D It was difficult to get a permit to sell food.",
+        "vi": "D. Rất khó để xin được giấy phép bán thức ăn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "competitor-learn",
+    "meaningVi": "đối thủ cạnh tranh",
+    "translation": "E. Một đối thủ cạnh tranh đang bán món ăn tương tự trong khu vực của họ.",
+    "breakdown": [
+      {
+        "text": "E A competitor was selling similar food in their area.",
+        "vi": "E. Một đối thủ cạnh tranh đang bán món ăn tương tự trong khu vực của họ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "second-hand-learn",
+    "meaningVi": "đã qua sử dụng; cũ",
+    "translation": "Tốt nhất là mua thiết bị đã qua sử dụng.",
+    "breakdown": [
+      {
+        "text": "It's best to buy second-hand equipment.",
+        "vi": "Tốt nhất là mua thiết bị đã qua sử dụng.",
+        "role": "recommendation"
+      }
+    ]
+  },
+  {
+    "id": "sustainable-learn",
+    "meaningVi": "bền vững",
+    "translation": "Nhưng tôi không chắc điều này thực sự bền vững đến đâu, vì có rất nhiều báo cáo về ô nhiễm do quá trình sản xuất gây ra.",
+    "breakdown": [
+      {
+        "text": "But I'm not sure how sustainable this really is as there",
+        "vi": "Nhưng tôi không chắc điều này thực sự bền vững đến đâu, vì",
+        "role": "contrast"
+      },
+      {
+        "text": "are so many reports of pollution caused by the manufacturing process.",
+        "vi": "có rất nhiều báo cáo về ô nhiễm do quá trình sản xuất gây ra.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "imprecisely-learn",
+    "meaningVi": "một cách không chính xác",
+    "translation": "Chúng thường được dùng một cách không chính xác.",
+    "breakdown": [
+      {
+        "text": "They are often used imprecisely.",
+        "vi": "Chúng thường được dùng một cách không chính xác.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "durable-learn",
+    "meaningVi": "bền; lâu bền",
+    "translation": "E. Nó không bền về lâu dài.",
+    "breakdown": [
+      {
+        "text": "E It is not durable in the long-term.",
+        "vi": "E. Nó không bền về lâu dài.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "semi-synthetic-learn",
+    "meaningVi": "bán tổng hợp",
+    "translation": "EcoVero là một ví dụ về loại vải bán tổng hợp đang ngày càng trở nên phổ biến.",
+    "breakdown": [
+      {
+        "text": "EcoVero is an example of a semi-synthetic fabric which is becoming really popular.",
+        "vi": "EcoVero là một ví dụ về loại vải bán tổng hợp đang ngày càng trở nên phổ biến.",
+        "role": "example"
+      }
+    ]
+  },
+  {
+    "id": "native-learn",
+    "meaningVi": "bản địa",
+    "translation": "Thường thì các loài xâm lấn sinh sản rất nhanh – điều này càng làm trầm trọng thêm vấn đề các loài bản địa mất nguồn thức ăn.",
+    "breakdown": [
+      {
+        "text": "Often the invasive species breed very quickly - which further adds",
+        "vi": "Thường thì các loài xâm lấn sinh sản rất nhanh – điều này càng làm",
+        "role": "main idea"
+      },
+      {
+        "text": "to the problem of native species losing their sources of food.",
+        "vi": "trầm trọng thêm vấn đề các loài bản địa mất nguồn thức ăn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "cargo-learn",
+    "meaningVi": "hàng hóa",
+    "translation": "Thực vật và động vật, đặc biệt là côn trùng, đến trong hoặc trên hàng hóa của tàu, rồi thoát ra ngoài 'ngôi nhà' mới của chúng.",
+    "breakdown": [
+      {
+        "text": "Plants and animals, especially insects, arrive in or on the",
+        "vi": "Thực vật và động vật, đặc biệt là côn trùng, đến trong hoặc trên",
+        "role": "main idea"
+      },
+      {
+        "text": "cargo of ships, and then escape into their new 'home'.",
+        "vi": "hàng hóa của tàu, rồi thoát ra ngoài 'ngôi nhà' mới của chúng.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "monitoring-learn",
+    "meaningVi": "sự giám sát; theo dõi",
+    "translation": "Giám sát là một phần quan trọng của việc này, để chúng ta có thể biết liệu loài mới có bắt đầu gây tác động tiêu cực trong môi trường mới của nó hay không.",
+    "breakdown": [
+      {
+        "text": "Monitoring is an important part of this",
+        "vi": "Giám sát là một phần quan trọng của việc này",
+        "role": "main idea"
+      },
+      {
+        "text": "so that we can know if the new species begins to have a negative impact in its new environment.",
+        "vi": "để chúng ta có thể biết liệu loài mới có bắt đầu gây tác động tiêu cực trong môi trường mới của nó hay không.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "pest-control-learn",
+    "meaningVi": "kiểm soát dịch hại",
+    "translation": "một cách có chủ đích, ví dụ để kiểm soát dịch hại, hoặc như ______",
+    "breakdown": [
+      {
+        "text": "intentionally e.g. for pest control, or as ______",
+        "vi": "một cách có chủ đích, ví dụ để kiểm soát dịch hại, hoặc như ______",
+        "role": "example"
+      }
+    ]
+  },
+  {
+    "id": "distribute-learn",
+    "meaningVi": "phân bố; phân phối",
+    "translation": "Ngày nay, số lượng linh dương saiga phân bố đều trên bốn quốc gia ở Trung Á: Kazakhstan, Nga, Mông Cổ và Uzbekistan.",
+    "breakdown": [
+      {
+        "text": "Today, numbers of saiga are distributed evenly across four nations in Central Asia:",
+        "vi": "Ngày nay, số lượng linh dương saiga phân bố đều trên bốn quốc gia ở Trung Á:",
+        "role": "main idea"
+      },
+      {
+        "text": "Kazakhstan, Russia, Mongolia and Uzbekistan.",
+        "vi": "Kazakhstan, Nga, Mông Cổ và Uzbekistan.",
+        "role": "examples"
+      }
+    ]
+  },
+  {
+    "id": "fluctuation-learn",
+    "meaningVi": "sự dao động; biến động",
+    "translation": "Mặc dù thích nghi tốt với mùa đông lạnh và mùa hè nóng, linh dương saiga vẫn khó chống chọi với nhiệt độ cực đoan và những biến động khó lường của khí hậu.",
+    "breakdown": [
+      {
+        "text": "Although well adapted to cold winters and hot summers, saiga",
+        "vi": "Mặc dù thích nghi tốt với mùa đông lạnh và mùa hè nóng, linh dương saiga",
+        "role": "concession"
+      },
+      {
+        "text": "struggle to cope with temperature extremes and unpredictable fluctuations in climate.",
+        "vi": "vẫn khó chống chọi với nhiệt độ cực đoan và những biến động khó lường của khí hậu.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "recognition-learn",
+    "meaningVi": "sự công nhận",
+    "translation": "Việc Sáng kiến Bảo tồn Altyn Dala được công nhận là dự án World Restoration Flagship đã thu hút thêm nguồn tài trợ quốc tế cho chương trình này.",
+    "breakdown": [
+      {
+        "text": "The Altyn Dala Conservation Initiative's recognition as a World",
+        "vi": "Việc Sáng kiến Bảo tồn Altyn Dala được công nhận là dự án World Restoration Flagship",
+        "role": "subject"
+      },
+      {
+        "text": "Restoration Flagship project attracted additional international funding for the scheme.",
+        "vi": "đã thu hút thêm nguồn tài trợ quốc tế cho chương trình này.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "flagship-learn",
+    "meaningVi": "dự án trọng điểm; dự án tiêu biểu",
+    "translation": "Năm 2022, Liên Hợp Quốc đã công nhận sáng kiến này là dự án World Restoration Flagship, một danh hiệu chỉ dành cho mười ví dụ tốt nhất về phục hồi hệ sinh thái quy mô lớn trên toàn cầu.",
+    "breakdown": [
+      {
+        "text": "In 2022 the United Nations recognised the initiative as a World Restoration Flagship project",
+        "vi": "Năm 2022, Liên Hợp Quốc đã công nhận sáng kiến này là dự án World Restoration Flagship",
+        "role": "main idea"
+      },
+      {
+        "text": "an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.",
+        "vi": "một danh hiệu chỉ dành cho mười ví dụ tốt nhất về phục hồi hệ sinh thái quy mô lớn trên toàn cầu.",
+        "role": "appositive"
+      }
+    ]
+  },
+  {
+    "id": "high-rise-learn",
+    "meaningVi": "cao tầng",
+    "translation": "Phần lớn cư dân Dar es Salaam sống trong các tòa nhà cao tầng ở rìa thành phố.",
+    "breakdown": [
+      {
+        "text": "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.",
+        "vi": "Phần lớn cư dân Dar es Salaam sống trong các tòa nhà cao tầng ở rìa thành phố.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "consult-learn",
+    "meaningVi": "tham vấn; hỏi ý kiến",
+    "translation": "Cư dân đã được lấy ý kiến về quan điểm của họ đối với tuyến đường sắt ngoại ô ở Dar es Salaam.",
+    "breakdown": [
+      {
+        "text": "Residents have been consulted about their views on the suburban rail line in Dar es Salaam.",
+        "vi": "Cư dân đã được lấy ý kiến về quan điểm của họ đối với tuyến đường sắt ngoại ô ở Dar es Salaam.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "unplanned-learn",
+    "meaningVi": "không có quy hoạch; tự phát",
+    "translation": "Phần lớn quá trình phát triển khu dân cư hiện nay ở Dar es Salaam là tự phát, không có quy hoạch.",
+    "breakdown": [
+      {
+        "text": "The majority of the present residential development in Dar es Salaam is unplanned.",
+        "vi": "Phần lớn quá trình phát triển khu dân cư hiện nay ở Dar es Salaam là tự phát, không có quy hoạch.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "adopt-learn",
+    "meaningVi": "áp dụng; thông qua",
+    "translation": "Chính quyền Dar es Salaam đã quyết định làm theo kế hoạch giao thông công cộng mà nhiều thành phố châu Phi đã áp dụng.",
+    "breakdown": [
+      {
+        "text": "Dar es Salaam's authorities have decided to follow the public",
+        "vi": "Chính quyền Dar es Salaam đã quyết định làm theo kế hoạch giao thông",
+        "role": "main idea"
+      },
+      {
+        "text": "transport plan adopted by a large number of African cities.",
+        "vi": "công cộng mà nhiều thành phố châu Phi đã áp dụng.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "periphery-learn",
+    "meaningVi": "vùng ngoại vi; rìa",
+    "translation": "Gần như toàn bộ sự mở rộng đang diễn ra ở vùng ngoại vi, và gần như tất cả đều diễn ra một cách tự phát, không có chiến lược nào được thống nhất.",
+    "breakdown": [
+      {
+        "text": "Nearly all the expansion is happening on the periphery",
+        "vi": "Gần như toàn bộ sự mở rộng đang diễn ra ở vùng ngoại vi",
+        "role": "main idea"
+      },
+      {
+        "text": "and nearly all takes place informally without any agreed strategy.",
+        "vi": "và gần như tất cả đều diễn ra một cách tự phát, không có chiến lược nào được thống nhất.",
+        "role": "addition"
+      }
+    ]
+  },
+  {
+    "id": "pinpoint-learn",
+    "meaningVi": "xác định chính xác",
+    "translation": "xác định chính xác một số thay đổi then chốt trong hiểu biết của chúng ta về thời tiền sử",
+    "breakdown": [
+      {
+        "text": "pinpointing some key changes in our understanding of prehistory",
+        "vi": "xác định chính xác một số thay đổi then chốt trong hiểu biết của chúng ta về thời tiền sử",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "revelation-learn",
+    "meaningVi": "phát hiện; điều mới được tiết lộ",
+    "translation": "tóm tắt một số thái độ đối với những phát hiện khảo cổ gần đây",
+    "breakdown": [
+      {
+        "text": "summarising some attitudes towards recent archaeological revelations",
+        "vi": "tóm tắt một số thái độ đối với những phát hiện khảo cổ gần đây",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "gradual-learn",
+    "meaningVi": "dần dần; từ từ",
+    "translation": "hầu hết các bước phát triển đều diễn ra một cách từ từ.",
+    "breakdown": [
+      {
+        "text": "most developments happen in a gradual way.",
+        "vi": "hầu hết các bước phát triển đều diễn ra một cách từ từ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "authenticity-learn",
+    "meaningVi": "tính xác thực; tính chân thật",
+    "translation": "đặt câu hỏi về tính xác thực của bằng chứng được sử dụng trong nghiên cứu trước đây.",
+    "breakdown": [
+      {
+        "text": "questioning the authenticity of evidence used in earlier research.",
+        "vi": "đặt câu hỏi về tính xác thực của bằng chứng được sử dụng trong nghiên cứu trước đây.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "hominin-learn",
+    "meaningVi": "người tối cổ; họ người",
+    "translation": "Tuy nhiên, nó có bộ não khá nhỏ, đặc trưng của những người tối cổ hơn – và vì thế, theo giáo điều của ngành cổ nhân loại học, nó không có khả năng thực hiện các hành vi phức tạp.",
+    "breakdown": [
+      {
+        "text": "However, it had quite a small brain, typical of older hominins",
+        "vi": "Tuy nhiên, nó có bộ não khá nhỏ, đặc trưng của những người tối cổ hơn",
+        "role": "contrast"
+      },
+      {
+        "text": "- and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours.",
+        "vi": "– và vì thế, theo giáo điều của ngành cổ nhân loại học, nó không có khả năng thực hiện các hành vi phức tạp.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "researcher-sentence",
+    "meaningVi": "nhà nghiên cứu",
+    "translation": "Tại thác Kalambo ở Zambia, các nhà nghiên cứu đã tìm thấy những khúc gỗ bị chôn vùi được đẽo gọt bằng công cụ đá sao cho chúng khớp vào nhau.",
+    "breakdown": [
+      {
+        "text": "At Kalambo Falls in Zambia, researchers found buried logs that",
+        "vi": "Tại thác Kalambo ở Zambia, các nhà nghiên cứu đã tìm thấy những khúc gỗ bị chôn vùi",
+        "role": "main idea"
+      },
+      {
+        "text": "had been shaped with stone tools so that they interlocked.",
+        "vi": "được đẽo gọt bằng công cụ đá sao cho chúng khớp vào nhau.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "prehistory-sentence",
+    "meaningVi": "thời tiền sử",
+    "translation": "Điều tương tự cũng đúng với những quan niệm của chúng ta về giới tính trong thời tiền sử.",
+    "breakdown": [
+      {
+        "text": "The same is true for our ideas about gender in prehistory.",
+        "vi": "Điều tương tự cũng đúng với những quan niệm của chúng ta về giới tính trong thời tiền sử.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "prehistoric-sentence",
+    "meaningVi": "thuộc thời tiền sử",
+    "translation": "Và điều còn lại là chúng ta đã hiểu sai nghiêm trọng về vai trò giới trong các xã hội thời tiền sử, khi áp đặt những giá trị phụ quyền lên những nền văn hóa vốn có quan niệm rất khác về cách phụ nữ nên hành xử.",
+    "breakdown": [
+      {
+        "text": "And the other is",
+        "vi": "Và điều còn lại là",
+        "role": "transition"
+      },
+      {
+        "text": "that we have badly misunderstood gender roles in prehistoric societies, imposing patriarchal values onto cultures that had very different ideas about how women should behave.",
+        "vi": "chúng ta đã hiểu sai nghiêm trọng về vai trò giới trong các xã hội thời tiền sử, khi áp đặt những giá trị phụ quyền lên những nền văn hóa vốn có quan niệm rất khác về cách phụ nữ nên hành xử.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "unpredictable-sentence",
+    "meaningVi": "không thể dự đoán; khó lường",
+    "translation": "Mặc dù thích nghi tốt với mùa đông lạnh và mùa hè nóng, linh dương saiga vẫn khó chống chọi với nhiệt độ cực đoan và những biến động khó lường của khí hậu.",
+    "breakdown": [
+      {
+        "text": "Although well adapted to cold winters and hot summers, saiga",
+        "vi": "Mặc dù thích nghi tốt với mùa đông lạnh và mùa hè nóng, linh dương saiga",
+        "role": "concession"
+      },
+      {
+        "text": "struggle to cope with temperature extremes and unpredictable fluctuations in climate.",
+        "vi": "vẫn khó chống chọi với nhiệt độ cực đoan và những biến động khó lường của khí hậu.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "saiga-sentence",
+    "meaningVi": "linh dương saiga",
+    "translation": "Nạn săn trộm đã lên đến mức như dịch bệnh sau khi những nhà bảo tồn sai lầm cố gắng giảm áp lực lên loài tê giác châu Phi đang bị đe dọa bằng cách chủ động khuyến khích việc sử dụng sừng linh dương saiga trong y học cổ truyền như một phương án thay thế cho sừng tê giác.",
+    "breakdown": [
+      {
+        "text": "Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by",
+        "vi": "Nạn săn trộm đã lên đến mức như dịch bệnh sau khi những nhà bảo tồn sai lầm cố gắng giảm áp lực lên loài tê giác châu Phi đang bị đe dọa bằng",
+        "role": "main idea"
+      },
+      {
+        "text": "actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos.",
+        "vi": "cách chủ động khuyến khích việc sử dụng sừng linh dương saiga trong y học cổ truyền như một phương án thay thế cho sừng tê giác.",
+        "role": "method"
+      }
+    ]
+  },
+  {
+    "id": "extinct-sentence",
+    "meaningVi": "đã tuyệt chủng",
+    "translation": "Những phát hiện đã đến dồn dập trong khoảng mười năm trở lại đây, và chúng buộc chúng ta phải suy nghĩ lại về nhiều điểm then chốt, chẳng hạn như loài người chúng ta đã bao nhiêu tuổi – khoảng 300.000 năm thay vì 200.000 – và những người tối cổ đã tuyệt chủng, như anh em họ Neanderthal của chúng ta, thực sự như thế nào.",
+    "breakdown": [
+      {
+        "text": "Discoveries have come thick and fast over the last decade or so, and these have forced us to rethink many crucial points, such as how old",
+        "vi": "Những phát hiện đã đến dồn dập trong khoảng mười năm trở lại đây, và chúng buộc chúng ta phải suy nghĩ lại về nhiều điểm then chốt, chẳng hạn như",
+        "role": "main idea"
+      },
+      {
+        "text": "our species is - about 300,000 years old as opposed to 200,000 - and what extinct hominins, such as our cousins the Neanderthals, were really like.",
+        "vi": "loài người chúng ta đã bao nhiêu tuổi – khoảng 300.000 năm thay vì 200.000 – và những người tối cổ đã tuyệt chủng, như anh em họ Neanderthal của chúng ta, thực sự như thế nào.",
+        "role": "examples"
+      }
+    ]
+  },
+  {
+    "id": "knotweed-sentence",
+    "meaningVi": "cây knotweed Nhật Bản",
+    "translation": "Một số loài thực vật xâm lấn, chẳng hạn như cây knotweed Nhật Bản, đã gây tác động tàn phá đối với một số vùng của Vương quốc Anh.",
+    "breakdown": [
+      {
+        "text": "Some invasive plants, such as Japanese knotweed, have had a devastating impact on parts of the UK.",
+        "vi": "Một số loài thực vật xâm lấn, chẳng hạn như cây knotweed Nhật Bản, đã gây tác động tàn phá đối với một số vùng của Vương quốc Anh.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "poisonous-sentence",
+    "meaningVi": "có độc",
+    "translation": "Những con cóc này có độc ở mọi giai đoạn trong vòng đời của chúng, và bất cứ thứ gì ăn chúng đều sẽ chết.",
+    "breakdown": [
+      {
+        "text": "The toads are poisonous at every stage of their life cycle, and anything that eats them will die.",
+        "vi": "Những con cóc này có độc ở mọi giai đoạn trong vòng đời của chúng, và bất cứ thứ gì ăn chúng đều sẽ chết.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "intentional-sentence",
+    "meaningVi": "có chủ đích; cố ý",
+    "translation": "Điều này có thể là cố ý, hoặc có thể là vô tình, chẳng hạn như khi những người đi nghỉ ở nước khác trở về với, ví dụ, hạt của các loài cây dính trên quần áo hoặc giày của họ.",
+    "breakdown": [
+      {
+        "text": "This could be intentional, or it could be accidental, such as",
+        "vi": "Điều này có thể là cố ý, hoặc có thể là vô tình, chẳng hạn như",
+        "role": "contrast"
+      },
+      {
+        "text": "when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes.",
+        "vi": "khi những người đi nghỉ ở nước khác trở về với, ví dụ, hạt của các loài cây dính trên quần áo hoặc giày của họ.",
+        "role": "example"
+      }
+    ]
+  },
+  {
+    "id": "suburban-sentence",
+    "meaningVi": "thuộc ngoại ô",
+    "translation": "Chỉ một tuyến đường sắt ngoại ô phục vụ cư dân ở vài khu vực phía nam nhưng lại rất nhỏ bé so với bối cảnh của cả thành phố rộng lớn.",
+    "breakdown": [
+      {
+        "text": "A single suburban rail line serves residents in a few areas to",
+        "vi": "Chỉ một tuyến đường sắt ngoại ô phục vụ cư dân ở vài khu vực",
+        "role": "main idea"
+      },
+      {
+        "text": "the south but is tiny in the context of the wider city.",
+        "vi": "phía nam nhưng lại rất nhỏ bé so với bối cảnh của cả thành phố rộng lớn.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "controversy-sentence",
+    "meaningVi": "sự tranh cãi",
+    "translation": "Quan điểm của tôi về cuộc tranh cãi xung quanh H. naledi khá phức tạp.",
+    "breakdown": [
+      {
+        "text": "My views on the H. naledi controversy are complicated.",
+        "vi": "Quan điểm của tôi về cuộc tranh cãi xung quanh H. naledi khá phức tạp.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "rhino-sentence",
+    "meaningVi": "tê giác",
+    "translation": "Nạn săn trộm đã lên đến mức như dịch bệnh sau khi những nhà bảo tồn sai lầm cố gắng giảm áp lực lên loài tê giác châu Phi đang bị đe dọa bằng cách chủ động khuyến khích việc sử dụng sừng linh dương saiga trong y học cổ truyền như một phương án thay thế cho sừng tê giác.",
+    "breakdown": [
+      {
+        "text": "Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by",
+        "vi": "Nạn săn trộm đã lên đến mức như dịch bệnh sau khi những nhà bảo tồn sai lầm cố gắng giảm áp lực lên loài tê giác châu Phi đang bị đe dọa bằng",
+        "role": "main idea"
+      },
+      {
+        "text": "actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos.",
+        "vi": "cách chủ động khuyến khích việc sử dụng sừng linh dương saiga trong y học cổ truyền như một phương án thay thế cho sừng tê giác.",
+        "role": "method"
+      }
+    ]
+  },
+  {
+    "id": "cancel-sentence",
+    "meaningVi": "hủy",
+    "translation": "Nhưng bạn phải hủy trước một tháng thì mới được hưởng điều đó.",
+    "breakdown": [
+      {
+        "text": "But you have to cancel a month in advance to get that.",
+        "vi": "Nhưng bạn phải hủy trước một tháng thì mới được hưởng điều đó.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "mortality-sentence",
+    "meaningVi": "tỷ lệ tử vong; sự chết",
+    "translation": "Đã có một số phục hồi trong thập kỷ đầu tiên của thiên niên kỷ mới, nhưng điều này sau đó bị nghiền nát bởi những sự kiện chết hàng loạt tàn khốc khiến hàng trăm nghìn cá thể của loài bị mất đi.",
+    "breakdown": [
+      {
+        "text": "There was some recovery in the first decade of the new millennium",
+        "vi": "Đã có một số phục hồi trong thập kỷ đầu tiên của thiên niên kỷ mới",
+        "role": "background"
+      },
+      {
+        "text": "but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species.",
+        "vi": "nhưng điều này sau đó bị nghiền nát bởi những sự kiện chết hàng loạt tàn khốc khiến hàng trăm nghìn cá thể của loài bị mất đi.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "metro-sentence",
+    "meaningVi": "tàu điện ngầm",
+    "translation": "'Với một hệ thống tàu điện ngầm, một công ty quốc tế thường chỉ đơn giản là đưa hệ thống của riêng mình vào,' Kost nói.",
+    "breakdown": [
+      {
+        "text": "'With a metro, an international firm will often just parachute in its own system,' says Kost.",
+        "vi": "'Với một hệ thống tàu điện ngầm, một công ty quốc tế thường chỉ đơn giản là đưa hệ thống của riêng mình vào,' Kost nói.",
+        "role": "quotation"
+      }
+    ]
+  },
+  {
+    "id": "introduce-sentence",
+    "meaningVi": "du nhập; giới thiệu",
+    "translation": "Bây giờ hãy xem một ví dụ về một loài xâm lấn ở đây tại Úc: Rhinella marina là một loài cóc được cố ý du nhập từ Hawaii vào năm 1935 như một hình thức kiểm soát sinh học.",
+    "breakdown": [
+      {
+        "text": "Let's now look at an example of an invasive species here in Australia:",
+        "vi": "Bây giờ hãy xem một ví dụ về một loài xâm lấn ở đây tại Úc:",
+        "role": "introduction"
+      },
+      {
+        "text": "Rhinella marina is a species of toad that was deliberately introduced from Hawaii in 1935 as a form of biological control.",
+        "vi": "Rhinella marina là một loài cóc được cố ý du nhập từ Hawaii vào năm 1935 như một hình thức kiểm soát sinh học.",
+        "role": "example"
+      }
+    ]
+  },
+  {
+    "id": "evolution-sentence",
+    "meaningVi": "quá trình tiến hóa",
+    "translation": "Ý tưởng rằng đã có một sự bùng nổ đột ngột về trí tuệ và khả năng sáng tạo tại một thời điểm nào đó trong quá trình tiến hóa của chúng ta không hề vô lý về bản chất: đôi khi một hệ thống chạm đến điểm tới hạn và trải qua sự thay đổi không thể kiểm soát.",
+    "breakdown": [
+      {
+        "text": "The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous:",
+        "vi": "Ý tưởng rằng đã có một sự bùng nổ đột ngột về trí tuệ và khả năng sáng tạo tại một thời điểm nào đó trong quá trình tiến hóa của chúng ta không hề vô lý về bản chất:",
+        "role": "main idea"
+      },
+      {
+        "text": "sometimes a system hits a tipping point and undergoes runaway change.",
+        "vi": "đôi khi một hệ thống chạm đến điểm tới hạn và trải qua sự thay đổi không thể kiểm soát.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "rapid-sentence",
+    "meaningVi": "nhanh; tốc hành",
+    "translation": "Hệ thống vận tải nhanh bằng xe buýt DART (BRT) chạy trên các làn xe buýt tách biệt khỏi các phương tiện khác, phần lớn ở giữa đường để giảm các lần dừng.",
+    "breakdown": [
+      {
+        "text": "The DART bus rapid transit (BRT) system runs on bus lanes separated",
+        "vi": "Hệ thống vận tải nhanh bằng xe buýt DART (BRT) chạy trên các làn xe buýt tách biệt",
+        "role": "main idea"
+      },
+      {
+        "text": "from other traffic, mostly in the middle of the road to reduce stoppages.",
+        "vi": "khỏi các phương tiện khác, phần lớn ở giữa đường để giảm các lần dừng.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "luxury-sentence",
+    "meaningVi": "sang trọng; xa xỉ",
+    "translation": "Họ cũng có các cabin sang trọng, chỉ dành cho hai người và có TV – nhưng tôi thì không bận tâm đến loại đó.",
+    "breakdown": [
+      {
+        "text": "They also have luxury cabins, which are only for two people",
+        "vi": "Họ cũng có các cabin sang trọng, chỉ dành cho hai người",
+        "role": "main idea"
+      },
+      {
+        "text": "and have a TV - but I wouldn't bother with those.",
+        "vi": "và có TV – nhưng tôi thì không bận tâm đến loại đó.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "rail-sentence",
+    "meaningVi": "đường sắt",
+    "translation": "Chỉ một tuyến đường sắt ngoại ô phục vụ cư dân ở vài khu vực phía nam nhưng lại rất nhỏ bé so với bối cảnh của cả thành phố rộng lớn.",
+    "breakdown": [
+      {
+        "text": "A single suburban rail line serves residents in a few areas to",
+        "vi": "Chỉ một tuyến đường sắt ngoại ô phục vụ cư dân ở vài khu vực",
+        "role": "main idea"
+      },
+      {
+        "text": "the south but is tiny in the context of the wider city.",
+        "vi": "phía nam nhưng lại rất nhỏ bé so với bối cảnh của cả thành phố rộng lớn.",
+        "role": "contrast"
+      }
+    ]
+  }
+]

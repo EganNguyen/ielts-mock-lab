@@ -1,0 +1,691 @@
+[
+  {
+    "id": "survey-learn",
+    "meaningVi": "bài khảo sát",
+    "translation": "Tôi đang làm một bài khảo sát những người mua sắm ở Broadbeach.",
+    "breakdown": [
+      {
+        "text": "I'm doing a survey of shoppers in Broadbeach.",
+        "vi": "Tôi đang làm một bài khảo sát những người mua sắm ở Broadbeach.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "repair-learn",
+    "meaningVi": "sự sửa chữa",
+    "translation": "Món hàng đang được lấy lại sau khi sửa chữa.",
+    "breakdown": [
+      {
+        "text": "The item is being collected after repair.",
+        "vi": "Món hàng đang được lấy lại sau khi sửa chữa.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "unnecessary-learn",
+    "meaningVi": "không cần thiết",
+    "translation": "Cho rằng ______ là không cần thiết",
+    "breakdown": [
+      {
+        "text": "Believes the ______ is unnecessary",
+        "vi": "Cho rằng ______ là không cần thiết",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "out-of-town-learn",
+    "meaningVi": "ngoại thành; ngoài trung tâm",
+    "translation": "## Ý kiến về trung tâm mua sắm ngoại thành mới",
+    "breakdown": [
+      {
+        "text": "## Opinions about new out-of-town Shopping Centre",
+        "vi": "## Ý kiến về trung tâm mua sắm ngoại thành mới",
+        "role": "heading"
+      }
+    ]
+  },
+  {
+    "id": "exhibitor-learn",
+    "meaningVi": "đơn vị triển lãm",
+    "translation": "Trên thực tế, mức tiết kiệm trung bình của mỗi đơn vị triển lãm lên tới hơn 400 bảng Anh!",
+    "breakdown": [
+      {
+        "text": "In fact, the average saving made by each exhibitor came to over £400!",
+        "vi": "Trên thực tế, mức tiết kiệm trung bình của mỗi đơn vị triển lãm lên tới hơn 400 bảng Anh!",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "discount-learn",
+    "meaningVi": "giảm giá",
+    "translation": "Mức giảm giá hiện có dao động từ 3,5% đến 15% đáng kinh ngạc, nên bạn có thể tiết kiệm được rất nhiều tiền.",
+    "breakdown": [
+      {
+        "text": "Discounts available range from 3.5% up to an amazing 15%, so you can save a lot of money.",
+        "vi": "Mức giảm giá hiện có dao động từ 3,5% đến 15% đáng kinh ngạc, nên bạn có thể tiết kiệm được rất nhiều tiền.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "rapid-expansion-learn",
+    "meaningVi": "sự mở rộng nhanh",
+    "translation": "C Những tác động của một sự mở rộng nhanh đến bất ngờ",
+    "breakdown": [
+      {
+        "text": "C Effects of an unexpectedly rapid expansion",
+        "vi": "C Những tác động của một sự mở rộng nhanh đến bất ngờ",
+        "role": "heading"
+      }
+    ]
+  },
+  {
+    "id": "financial-set-back-learn",
+    "meaningVi": "khó khăn tài chính; thất bại về tài chính",
+    "translation": "E Đối phó với những khó khăn về tài chính",
+    "breakdown": [
+      {
+        "text": "E Coping with financial set-backs",
+        "vi": "E Đối phó với những khó khăn về tài chính",
+        "role": "heading"
+      }
+    ]
+  },
+  {
+    "id": "deadline-learn",
+    "meaningVi": "hạn chót",
+    "translation": "Các sinh viên lo lắng về việc hoàn thành đúng hạn.",
+    "breakdown": [
+      {
+        "text": "The students are worried about meeting the deadline.",
+        "vi": "Các sinh viên lo lắng về việc hoàn thành đúng hạn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "repurpose-learn",
+    "meaningVi": "tái sử dụng cho mục đích khác",
+    "translation": "Nhu cầu về chỗ ở nên được đáp ứng bằng việc chuyển đổi văn phòng và nhà xưởng sang mục đích sử dụng khác.",
+    "breakdown": [
+      {
+        "text": "Demand for accommodation should be met by repurposing offices and factories.",
+        "vi": "Nhu cầu về chỗ ở nên được đáp ứng bằng việc chuyển đổi văn phòng và nhà xưởng sang mục đích sử dụng khác.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "communal-learn",
+    "meaningVi": "chung; cộng đồng",
+    "translation": "Tôi đã thấy một đề án về những mảnh vườn rau chung, nơi hàng xóm có thể cùng nhau quyết định trồng gì.",
+    "breakdown": [
+      {
+        "text": "I saw a scheme for communal vegetable plots, where neighbours could decide what to grow together.",
+        "vi": "Tôi đã thấy một đề án về những mảnh vườn rau chung, nơi hàng xóm có thể cùng nhau quyết định trồng gì.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "moveable-learn",
+    "meaningVi": "có thể di chuyển",
+    "translation": "Tôi đọc về một kiểu thiết kế mà ở đó những bức tường bên trong căn hộ có thể di chuyển được, nhờ vậy không gian có thể được điều chỉnh theo thời gian khi nhu cầu của con người thay đổi.",
+    "breakdown": [
+      {
+        "text": "I read about a type of design where the internal walls of an apartment",
+        "vi": "Tôi đọc về một kiểu thiết kế mà ở đó những bức tường bên trong căn hộ",
+        "role": "main idea"
+      },
+      {
+        "text": "are moveable, so the space can be adapted over time as people's needs change.",
+        "vi": "có thể di chuyển được, nhờ vậy không gian có thể được điều chỉnh theo thời gian khi nhu cầu của con người thay đổi.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "post-surgical-learn",
+    "meaningVi": "sau phẫu thuật",
+    "translation": "Nhưng âm nhạc vẫn chưa phải là một phần thường ngày trong giai đoạn sau phẫu thuật.",
+    "breakdown": [
+      {
+        "text": "But music is still not an everyday part of the post-surgical phase.",
+        "vi": "Nhưng âm nhạc vẫn chưa phải là một phần thường ngày trong giai đoạn sau phẫu thuật.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "wellbeing-learn",
+    "meaningVi": "sức khỏe tinh thần và thể chất; trạng thái khỏe khoắn",
+    "translation": "– cải thiện cảm giác khỏe khoắn của bệnh nhân trong bệnh viện.",
+    "breakdown": [
+      {
+        "text": "– improved hospital patients' sense of wellbeing.",
+        "vi": "– cải thiện cảm giác khỏe khoắn của bệnh nhân trong bệnh viện.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "pain-relief-learn",
+    "meaningVi": "giảm đau",
+    "translation": "Các chiến lược sau phẫu thuật hiện nay chủ yếu tập trung vào việc giảm đau.",
+    "breakdown": [
+      {
+        "text": "Current post-surgical strategies focus mainly on pain relief.",
+        "vi": "Các chiến lược sau phẫu thuật hiện nay chủ yếu tập trung vào việc giảm đau.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "medical-record-learn",
+    "meaningVi": "hồ sơ bệnh án",
+    "translation": "Hồ sơ bệnh án xác nhận rằng những bệnh nhân được cho nghe nhạc trong bệnh viện cần ít ______ hơn những người không được cho nghe nhạc.",
+    "breakdown": [
+      {
+        "text": "Medical records confirmed that patients who were played music in",
+        "vi": "Hồ sơ bệnh án xác nhận rằng những bệnh nhân được cho nghe nhạc trong",
+        "role": "main idea"
+      },
+      {
+        "text": "hospital needed less ______ than those who weren't played music.",
+        "vi": "bệnh viện cần ít ______ hơn những người không được cho nghe nhạc.",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "decorative-learn",
+    "meaningVi": "trang trí",
+    "translation": "Cây lục bình được du nhập vào Đông Phi với vai trò một loại cây cảnh.",
+    "breakdown": [
+      {
+        "text": "Water hyacinth was introduced as a decorative plant in east Africa.",
+        "vi": "Cây lục bình được du nhập vào Đông Phi với vai trò một loại cây cảnh.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "charcoal-learn",
+    "meaningVi": "than củi",
+    "translation": "Dự án đang thử nghiệm liệu khí sinh học có thể trở thành một giải pháp thay thế hiệu quả cho củi và than củi ở các cộng đồng nông thôn Kenya hay không.",
+    "breakdown": [
+      {
+        "text": "The project is testing whether biogas can provide an",
+        "vi": "Dự án đang thử nghiệm liệu khí sinh học có thể trở thành một",
+        "role": "main idea"
+      },
+      {
+        "text": "effective alternative to firewood and charcoal in rural Kenyan communities.",
+        "vi": "giải pháp thay thế hiệu quả cho củi và than củi ở các cộng đồng nông thôn Kenya hay không.",
+        "role": "complement"
+      }
+    ]
+  },
+  {
+    "id": "biogas-learn",
+    "meaningVi": "khí sinh học",
+    "translation": "Nếu khí sinh học có thể trở nên có giá cả phải chăng trên quy mô lớn, bà nói, 'nó sẽ làm thay đổi cuộc sống của hàng triệu người trên lục địa châu Phi và xa hơn nữa'.",
+    "breakdown": [
+      {
+        "text": "If biogas could become affordable on a large scale, she says",
+        "vi": "Nếu khí sinh học có thể trở nên có giá cả phải chăng trên quy mô lớn, bà nói",
+        "role": "condition"
+      },
+      {
+        "text": "it 'would be life-changing for millions on the African continent and beyond'.",
+        "vi": "'nó sẽ làm thay đổi cuộc sống của hàng triệu người trên lục địa châu Phi và xa hơn nữa'.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "investigate-learn",
+    "meaningVi": "điều tra; nghiên cứu",
+    "translation": "Một nghiên cứu trong tương lai sẽ điều tra ______ tốt nhất cho âm nhạc.",
+    "breakdown": [
+      {
+        "text": "A future study will investigate the best ______ for the music.",
+        "vi": "Một nghiên cứu trong tương lai sẽ điều tra ______ tốt nhất cho âm nhạc.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "hyacinth-learn",
+    "meaningVi": "cây dạ lan hương; cây lục bình",
+    "translation": "Cây lục bình (Eichhornia crassipes), một loài thực vật thủy sinh có nguồn gốc từ Nam Mỹ, xuất hiện lần đầu ở các nước châu Phi vào đầu những năm 1900.",
+    "breakdown": [
+      {
+        "text": "Water hyacinth (Eichhornia crassipes), an aquatic plant native to South",
+        "vi": "Cây lục bình (Eichhornia crassipes), một loài thực vật thủy sinh có nguồn gốc từ Nam",
+        "role": "main idea"
+      },
+      {
+        "text": "America, first appeared in countries in Africa in the early 1900s.",
+        "vi": "Mỹ, xuất hiện lần đầu ở các nước châu Phi vào đầu những năm 1900.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "literacy-learn",
+    "meaningVi": "khả năng đọc viết",
+    "translation": "Chúng tôi hy vọng sẽ ... chỉ ra rằng khả năng giải quyết vấn đề, khả năng tính toán và khả năng đọc viết có thể và thực sự được cải thiện ở những trẻ được giáo dục bằng một ngôn ngữ giảng dạy mà chúng biết.",
+    "breakdown": [
+      {
+        "text": "We hope to ... show",
+        "vi": "Chúng tôi hy vọng sẽ ... chỉ ra",
+        "role": "main idea"
+      },
+      {
+        "text": "that problem solving, numeracy and literacy can and do improve in children who are educated in a language of instruction they know.",
+        "vi": "rằng khả năng giải quyết vấn đề, khả năng tính toán và khả năng đọc viết có thể và thực sự được cải thiện ở những trẻ được giáo dục bằng một ngôn ngữ giảng dạy mà chúng biết.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "numeracy-learn",
+    "meaningVi": "khả năng tính toán",
+    "translation": "Chúng có khả năng trưởng thành nhanh hơn và tiếp xúc gần gũi hơn với những kỹ năng tính toán thiết yếu cho sự sống còn hằng ngày.",
+    "breakdown": [
+      {
+        "text": "They are likely to mature faster and come into",
+        "vi": "Chúng có khả năng trưởng thành nhanh hơn và tiếp xúc",
+        "role": "main idea"
+      },
+      {
+        "text": "closer contact with the numeracy skills essential for day-to-day survival.",
+        "vi": "gần gũi hơn với những kỹ năng tính toán thiết yếu cho sự sống còn hằng ngày.",
+        "role": "complement"
+      }
+    ]
+  },
+  {
+    "id": "socio-economic-learn",
+    "meaningVi": "thuộc kinh tế xã hội",
+    "translation": "Theo Tsimpli, phần lớn bằng chứng từ dự án này và các dự án khác cho thấy rằng việc giảng dạy bằng tiếng Anh cho trẻ em từ các khu vực có điều kiện kinh tế xã hội thấp có thể không phải là cách tốt nhất để chúng học, ít nhất là trong ba năm đầu của giáo dục tiểu học.",
+    "breakdown": [
+      {
+        "text": "According to Tsimpli, most of the evidence from this and other projects shows",
+        "vi": "Theo Tsimpli, phần lớn bằng chứng từ dự án này và các dự án khác cho thấy",
+        "role": "main idea"
+      },
+      {
+        "text": "that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.",
+        "vi": "rằng việc giảng dạy bằng tiếng Anh cho trẻ em từ các khu vực có điều kiện kinh tế xã hội thấp có thể không phải là cách tốt nhất để chúng học, ít nhất là trong ba năm đầu của giáo dục tiểu học.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "medium-of-instruction-learn",
+    "meaningVi": "ngôn ngữ giảng dạy",
+    "translation": "'Ngôn ngữ là trung tâm của cách thức tri thức được truyền đạt - vì vậy ngôn ngữ giảng dạy rõ ràng có ảnh hưởng vô cùng lớn.",
+    "breakdown": [
+      {
+        "text": "'Language is central to the way knowledge is transferred",
+        "vi": "'Ngôn ngữ là trung tâm của cách thức tri thức được truyền đạt",
+        "role": "main idea"
+      },
+      {
+        "text": "- so the medium of instruction is obviously hugely influential.",
+        "vi": "- vì vậy ngôn ngữ giảng dạy rõ ràng có ảnh hưởng vô cùng lớn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "multilingualism-learn",
+    "meaningVi": "chủ nghĩa đa ngôn ngữ; sự đa ngôn ngữ",
+    "translation": "Mục tiêu bao trùm của dự án bốn năm mang tên 'Đa ngôn ngữ và Đa năng lực đọc viết' là tìm hiểu lý do vì sao ở một đất nước nơi đa ngôn ngữ rất phổ biến (hơn 255 triệu người ở Ấn Độ nói ít nhất hai ngôn ngữ, và gần 90 triệu người nói từ ba ngôn ngữ trở lên), những lợi ích to lớn của việc nói nhiều hơn một ngôn ngữ, chẳng hạn được quan sát thấy ở các trường học ở châu Âu, lại không áp dụng cho nhiều trẻ em Ấn Độ đang đi học.",
+    "breakdown": [
+      {
+        "text": "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least",
+        "vi": "Mục tiêu bao trùm của dự án bốn năm mang tên 'Đa ngôn ngữ và Đa năng lực đọc viết' là tìm hiểu lý do vì sao ở một đất nước nơi đa ngôn ngữ rất phổ biến (hơn 255 triệu người ở Ấn Độ nói ít nhất",
+        "role": "main idea"
+      },
+      {
+        "text": "two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.",
+        "vi": "hai ngôn ngữ, và gần 90 triệu người nói từ ba ngôn ngữ trở lên), những lợi ích to lớn của việc nói nhiều hơn một ngôn ngữ, chẳng hạn được quan sát thấy ở các trường học ở châu Âu, lại không áp dụng cho nhiều trẻ em Ấn Độ đang đi học.",
+        "role": "embedded clause"
+      }
+    ]
+  },
+  {
+    "id": "globe-learn",
+    "meaningVi": "quả địa cầu",
+    "translation": "Chuỗi thí nghiệm thất bại này đã dạy Bellerby rất nhiều về những thách thức của việc làm quả địa cầu, điều mà ông truyền đạt tới người đọc ở đây.",
+    "breakdown": [
+      {
+        "text": "This series of abortive experiments taught Bellerby a lot about the",
+        "vi": "Chuỗi thí nghiệm thất bại này đã dạy Bellerby rất nhiều về",
+        "role": "main idea"
+      },
+      {
+        "text": "challenges of making globes, which he communicates here to the reader.",
+        "vi": "những thách thức của việc làm quả địa cầu, điều mà ông truyền đạt tới người đọc ở đây.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "gore-learn",
+    "meaningVi": "mảnh ghép hình múi cầu",
+    "translation": "Sự thất vọng của Bellerby trước quá trình tỉ mẩn gắn các mảnh ghép hình múi cầu lên bề mặt quả địa cầu - sau khi ông đã tìm được một loại keo có đúng những tính chất kết dính phù hợp - là điều có thể cảm nhận rõ ràng.",
+    "breakdown": [
+      {
+        "text": "Bellerby's frustration at the painstaking process of attaching the gores to the globe surface",
+        "vi": "Sự thất vọng của Bellerby trước quá trình tỉ mẩn gắn các mảnh ghép hình múi cầu lên bề mặt quả địa cầu",
+        "role": "main idea"
+      },
+      {
+        "text": "- after having found a glue with precisely the right adhesive qualities - is palpable.",
+        "vi": "- sau khi ông đã tìm được một loại keo có đúng những tính chất kết dính phù hợp - là điều có thể cảm nhận rõ ràng.",
+        "role": "parenthetical"
+      }
+    ]
+  },
+  {
+    "id": "accurate-learn",
+    "meaningVi": "chính xác",
+    "translation": "Quả địa cầu do Crates xứ Mallus làm ra là một mô hình chính xác của thế giới được biết đến lúc bấy giờ.",
+    "breakdown": [
+      {
+        "text": "The globe made by Crates of Mallus was an accurate representation of the known world.",
+        "vi": "Quả địa cầu do Crates xứ Mallus làm ra là một mô hình chính xác của thế giới được biết đến lúc bấy giờ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "profitable-learn",
+    "meaningVi": "có lợi nhuận",
+    "translation": "Nó không cho bạn biết cách tạo dựng một doanh nghiệp sinh lời.",
+    "breakdown": [
+      {
+        "text": "It does not tell you how to create a profitable business.",
+        "vi": "Nó không cho bạn biết cách tạo dựng một doanh nghiệp sinh lời.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "craftsmanship-learn",
+    "meaningVi": "tay nghề thủ công; sự khéo léo",
+    "translation": "Nhưng thế là quá đủ để khơi dậy sự ngưỡng mộ đối với tay nghề thủ công của những nhà vẽ bản đồ vĩ đại thời quá khứ và sự quyết tâm đến ám ảnh của một người kế tục hiện đại, người đã hồi sinh môn nghệ thuật gần như đã lụi tàn của họ.",
+    "breakdown": [
+      {
+        "text": "But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers",
+        "vi": "Nhưng thế là quá đủ để khơi dậy sự ngưỡng mộ đối với tay nghề thủ công của những nhà vẽ bản đồ vĩ đại",
+        "role": "main idea"
+      },
+      {
+        "text": "of the past and the obsessive determination of a modern successor who revived their almost moribund art.",
+        "vi": "thời quá khứ và sự quyết tâm đến ám ảnh của một người kế tục hiện đại, người đã hồi sinh môn nghệ thuật gần như đã lụi tàn của họ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "schoolchildren-sentence",
+    "meaningVi": "trẻ em trong độ tuổi đi học",
+    "translation": "Mục tiêu bao trùm của dự án bốn năm mang tên 'Đa ngôn ngữ và Đa năng lực đọc viết' là tìm hiểu lý do vì sao ở một đất nước nơi đa ngôn ngữ rất phổ biến (hơn 255 triệu người ở Ấn Độ nói ít nhất hai ngôn ngữ, và gần 90 triệu người nói từ ba ngôn ngữ trở lên), những lợi ích to lớn của việc nói nhiều hơn một ngôn ngữ, chẳng hạn được quan sát thấy ở các trường học ở châu Âu, lại không áp dụng cho nhiều trẻ em Ấn Độ đang đi học.",
+    "breakdown": [
+      {
+        "text": "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least",
+        "vi": "Mục tiêu bao trùm của dự án bốn năm mang tên 'Đa ngôn ngữ và Đa năng lực đọc viết' là tìm hiểu lý do vì sao ở một đất nước nơi đa ngôn ngữ rất phổ biến (hơn 255 triệu người ở Ấn Độ nói ít nhất",
+        "role": "main idea"
+      },
+      {
+        "text": "two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.",
+        "vi": "hai ngôn ngữ, và gần 90 triệu người nói từ ba ngôn ngữ trở lên), những lợi ích to lớn của việc nói nhiều hơn một ngôn ngữ, chẳng hạn được quan sát thấy ở các trường học ở châu Âu, lại không áp dụng cho nhiều trẻ em Ấn Độ đang đi học.",
+        "role": "embedded clause"
+      }
+    ]
+  },
+  {
+    "id": "surgical-sentence",
+    "meaningVi": "thuộc về phẫu thuật; liên quan đến phẫu thuật",
+    "translation": "Khi được đề nghị kể lại trải nghiệm nghe nhạc của mình, các bệnh nhân phẫu thuật cho biết rằng hoặc họ không hề có cảm giác lo âu ở bất kỳ thời điểm nào, hoặc những cảm giác đó chỉ ở mức nhẹ.",
+    "breakdown": [
+      {
+        "text": "When asked to report their experience of listening to music, surgical patients said",
+        "vi": "Khi được đề nghị kể lại trải nghiệm nghe nhạc của mình, các bệnh nhân phẫu thuật cho biết",
+        "role": "main idea"
+      },
+      {
+        "text": "that either they had no feelings of anxiety at any point, or those feelings were only slight.",
+        "vi": "rằng hoặc họ không hề có cảm giác lo âu ở bất kỳ thời điểm nào, hoặc những cảm giác đó chỉ ở mức nhẹ.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "instruction-sentence",
+    "meaningVi": "sự giảng dạy; lời hướng dẫn",
+    "translation": "Mặc dù các phát hiện còn ở giai đoạn sơ bộ, Tsimpli và nhóm của bà đã phát hiện ra rằng ngôn ngữ giảng dạy được sử dụng trong trường học, đặc biệt là tiếng Anh, có thể kìm hãm những trẻ ít quen thuộc với ngôn ngữ đó, hoặc ít được tiếp xúc với nó, trước khi đi học và ngoài đời sống học đường.",
+    "breakdown": [
+      {
+        "text": "Although the findings are at a preliminary stage, Tsimpli and her team have found",
+        "vi": "Mặc dù các phát hiện còn ở giai đoạn sơ bộ, Tsimpli và nhóm của bà đã phát hiện ra",
+        "role": "concession"
+      },
+      {
+        "text": "that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.",
+        "vi": "rằng ngôn ngữ giảng dạy được sử dụng trong trường học, đặc biệt là tiếng Anh, có thể kìm hãm những trẻ ít quen thuộc với ngôn ngữ đó, hoặc ít được tiếp xúc với nó, trước khi đi học và ngoài đời sống học đường.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "slum-sentence",
+    "meaningVi": "khu ổ chuột",
+    "translation": "Dự án nghiên cứu, tập trung vào trẻ em đi học từ 8 đến 11 tuổi ở cả khu vực nông thôn và thành thị, thu thập dữ liệu về việc những trẻ này sống ở khu ổ chuột* hay khu không phải ổ chuột.",
+    "breakdown": [
+      {
+        "text": "The research project",
+        "vi": "Dự án nghiên cứu",
+        "role": "subject"
+      },
+      {
+        "text": "which focuses on 8 to 11-year- old schoolchildren in rural and urban areas, collects data on whether the schoolchildren live in slum* or non-slum areas.",
+        "vi": "tập trung vào trẻ em đi học từ 8 đến 11 tuổi ở cả khu vực nông thôn và thành thị, thu thập dữ liệu về việc những trẻ này sống ở khu ổ chuột* hay khu không phải ổ chuột.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "exhibit-sentence",
+    "meaningVi": "triển lãm; trưng bày",
+    "translation": "Ngoài cơ hội độc đáo để quảng bá công ty của bạn, các doanh nghiệp triển lãm cùng chúng tôi còn có thể được hưởng giảm giá cho một số thương hiệu phổ biến, bao gồm những cửa hàng thời trang và trang sức lớn trên phố mua sắm chính.",
+    "breakdown": [
+      {
+        "text": "As well as a unique chance to publicise your company, businesses who exhibit with us can",
+        "vi": "Ngoài cơ hội độc đáo để quảng bá công ty của bạn, các doanh nghiệp triển lãm cùng chúng tôi còn có thể",
+        "role": "main idea"
+      },
+      {
+        "text": "claim discounts on a number of popular brands, including major high street fashion and jewellery outlets.",
+        "vi": "được hưởng giảm giá cho một số thương hiệu phổ biến, bao gồm những cửa hàng thời trang và trang sức lớn trên phố mua sắm chính.",
+        "role": "predicate"
+      }
+    ]
+  },
+  {
+    "id": "unfamiliar-sentence",
+    "meaningVi": "không quen thuộc; xa lạ",
+    "translation": "Có thể những kết quả học tập thấp này là do cách thức giáo dục được cung cấp ở Ấn Độ, với sự tập trung rất lớn vào tiếng Hindi và tiếng Anh như những ngôn ngữ giảng dạy, có thể gây bất lợi cho những trẻ không quen với các ngôn ngữ đó,' Tsimpli giải thích.",
+    "breakdown": [
+      {
+        "text": "It may be that these low learning outcomes are because of the way education is provided in India, with a huge",
+        "vi": "Có thể những kết quả học tập thấp này là do cách thức giáo dục được cung cấp ở Ấn Độ, với sự",
+        "role": "main idea"
+      },
+      {
+        "text": "focus on Hindi and English as the mediums of instruction, to the potential detriment of children unfamiliar with those languages,' explains Tsimpli.",
+        "vi": "tập trung rất lớn vào tiếng Hindi và tiếng Anh như những ngôn ngữ giảng dạy, có thể gây bất lợi cho những trẻ không quen với các ngôn ngữ đó,' Tsimpli giải thích.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "specially-sentence",
+    "meaningVi": "một cách đặc biệt; riêng cho",
+    "translation": "được thiết kế đặc biệt cho nhu cầu của họ.",
+    "breakdown": [
+      {
+        "text": "specially designed for their needs.",
+        "vi": "được thiết kế đặc biệt cho nhu cầu của họ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "attach-sentence",
+    "meaningVi": "gắn; đính vào",
+    "translation": "Sự thất vọng của Bellerby trước quá trình tỉ mẩn gắn các mảnh ghép hình múi cầu lên bề mặt quả địa cầu - sau khi ông đã tìm được một loại keo có đúng những tính chất kết dính phù hợp - là điều có thể cảm nhận rõ ràng.",
+    "breakdown": [
+      {
+        "text": "Bellerby's frustration at the painstaking process of attaching the gores to the globe surface",
+        "vi": "Sự thất vọng của Bellerby trước quá trình tỉ mẩn gắn các mảnh ghép hình múi cầu lên bề mặt quả địa cầu",
+        "role": "main idea"
+      },
+      {
+        "text": "- after having found a glue with precisely the right adhesive qualities - is palpable.",
+        "vi": "- sau khi ông đã tìm được một loại keo có đúng những tính chất kết dính phù hợp - là điều có thể cảm nhận rõ ràng.",
+        "role": "parenthetical"
+      }
+    ]
+  },
+  {
+    "id": "broadcaster-sentence",
+    "meaningVi": "người dẫn chương trình phát thanh/truyền hình",
+    "translation": "Francesca Heptonstall là một người dẫn chương trình và là nữ doanh nhân nổi tiếng với thái độ giản dị, thực tế.",
+    "breakdown": [
+      {
+        "text": "Francesca Heptonstall is a broadcaster and businesswoman who's known for her down- to-earth attitude.",
+        "vi": "Francesca Heptonstall là một người dẫn chương trình và là nữ doanh nhân nổi tiếng với thái độ giản dị, thực tế.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "cooking-sentence",
+    "meaningVi": "việc nấu ăn",
+    "translation": "Cộng đồng đã nhận được một cặp hầm ủ khí sinh học được quyên tặng - những cỗ máy sẽ biến hỗn hợp cây lục bình và phân bò thành khí sinh học để nấu ăn.",
+    "breakdown": [
+      {
+        "text": "The community received a pair of donated biogas digesters - machines",
+        "vi": "Cộng đồng đã nhận được một cặp hầm ủ khí sinh học được quyên tặng - những cỗ máy",
+        "role": "main idea"
+      },
+      {
+        "text": "that would transform a mix of water hyacinth and cow dung into biogas for cooking.",
+        "vi": "sẽ biến hỗn hợp cây lục bình và phân bò thành khí sinh học để nấu ăn.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "exposure-sentence",
+    "meaningVi": "sự tiếp xúc; sự trải nghiệm",
+    "translation": "Mặc dù các phát hiện còn ở giai đoạn sơ bộ, Tsimpli và nhóm của bà đã phát hiện ra rằng ngôn ngữ giảng dạy được sử dụng trong trường học, đặc biệt là tiếng Anh, có thể kìm hãm những trẻ ít quen thuộc với ngôn ngữ đó, hoặc ít được tiếp xúc với nó, trước khi đi học và ngoài đời sống học đường.",
+    "breakdown": [
+      {
+        "text": "Although the findings are at a preliminary stage, Tsimpli and her team have found",
+        "vi": "Mặc dù các phát hiện còn ở giai đoạn sơ bộ, Tsimpli và nhóm của bà đã phát hiện ra",
+        "role": "concession"
+      },
+      {
+        "text": "that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.",
+        "vi": "rằng ngôn ngữ giảng dạy được sử dụng trong trường học, đặc biệt là tiếng Anh, có thể kìm hãm những trẻ ít quen thuộc với ngôn ngữ đó, hoặc ít được tiếp xúc với nó, trước khi đi học và ngoài đời sống học đường.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "tradition-sentence",
+    "meaningVi": "truyền thống",
+    "translation": "Mặc dù là một sự ca ngợi việc hồi sinh một nghề thủ công cổ xưa, cuốn sách của Bellerby cũng là một lời tiếc thương cho sự phai tàn của những truyền thống đã tồn tại hàng thế kỷ.",
+    "breakdown": [
+      {
+        "text": "Although a celebration of the revival of an ancient craft, Bellerby's",
+        "vi": "Mặc dù là một sự ca ngợi việc hồi sinh một nghề thủ công cổ xưa, cuốn sách của Bellerby",
+        "role": "concession"
+      },
+      {
+        "text": "book is also a lament for the fading away of centuries-old traditions.",
+        "vi": "cũng là một lời tiếc thương cho sự phai tàn của những truyền thống đã tồn tại hàng thế kỷ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "outcome-sentence",
+    "meaningVi": "kết quả",
+    "translation": "Tsimpli và các đồng nghiệp của bà đang điều tra liệu những kết quả học tập thấp này có thể do một hệ thống trường học Ấn Độ, nơi ngôn ngữ mà trẻ em được dạy thường khác với ngôn ngữ được dùng ở nhà, hay không.",
+    "breakdown": [
+      {
+        "text": "Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language",
+        "vi": "Tsimpli và các đồng nghiệp của bà đang điều tra liệu những kết quả học tập thấp này có thể do một hệ thống trường học Ấn Độ, nơi ngôn ngữ",
+        "role": "main idea"
+      },
+      {
+        "text": "that children are taught in often differs from the language used at home.",
+        "vi": "mà trẻ em được dạy thường khác với ngôn ngữ được dùng ở nhà, hay không.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "thick-sentence",
+    "meaningVi": "dày; đặc",
+    "translation": "Và mỗi ngày khi nấu ăn, họ hít vào làn khói dày đặc, xám xịt.",
+    "breakdown": [
+      {
+        "text": "And each day as they cook, they breathe in the thick, grey smoke.",
+        "vi": "Và mỗi ngày khi nấu ăn, họ hít vào làn khói dày đặc, xám xịt.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "organisation-sentence",
+    "meaningVi": "tổ chức",
+    "translation": "Công ty của David ngày càng phát triển mạnh mẽ nhưng ông không chỉ quan tâm đến việc kiếm tiền - ông còn thường xuyên quyên góp cho các tổ chức giúp đỡ những người cần được giúp đỡ ở Vương quốc Anh và những nơi khác trên thế giới.",
+    "breakdown": [
+      {
+        "text": "David's company has gone from strength to strength",
+        "vi": "Công ty của David ngày càng phát triển mạnh mẽ",
+        "role": "main idea"
+      },
+      {
+        "text": "but he isn't just interested in making money - he also makes regular donations to organisations helping those in need both in the UK and elsewhere in the world.",
+        "vi": "nhưng ông không chỉ quan tâm đến việc kiếm tiền - ông còn thường xuyên quyên góp cho các tổ chức giúp đỡ những người cần được giúp đỡ ở Vương quốc Anh và những nơi khác trên thế giới.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "clothing-sentence",
+    "meaningVi": "quần áo; trang phục",
+    "translation": "À, tôi nghĩ chúng ta có đủ cửa hàng quần áo rồi.",
+    "breakdown": [
+      {
+        "text": "Well, I think we have enough clothing shops.",
+        "vi": "À, tôi nghĩ chúng ta có đủ cửa hàng quần áo rồi.",
+        "role": "main idea"
+      }
+    ]
+  }
+]

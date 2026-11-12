@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "herb-learn",
+    "term": "herb",
+    "ipa": "/hɜːb/",
+    "pos": "n",
+    "meaningEn": "a plant used to flavour food or as medicine",
+    "meaningVi": "cây thảo mộc; rau thơm",
+    "synonyms": [
+      "seasoning plant",
+      "aromatic plant",
+      "culinary herb"
+    ],
+    "sentenceText": "It's a very popular class, and among other things the teacher explains how Vietnamese food includes lots of different herbs.",
+    "sentenceChunks": [
+      "It's a very popular class, and among other things the",
+      "teacher explains how Vietnamese food includes lots of different herbs."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "One-day classes at Steynford College",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "The Vietnamese food class includes information on the use of herbs. The word means flavour-giving plants, so it helps you listen for a specific ingredient rather than a dish.",
+    "riskHint": "n"
+  },
+  {
+    "id": "sourdough-learn",
+    "term": "sourdough",
+    "ipa": "/ˈsaʊədəʊ/",
+    "pos": "n",
+    "meaningEn": "bread made to rise by natural fermentation",
+    "meaningVi": "bánh mì men chua",
+    "synonyms": [
+      "fermented bread",
+      "naturally leavened bread",
+      "artisan bread"
+    ],
+    "sentenceText": "Oh, various types of bread; I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good.",
+    "sentenceChunks": [
+      "Oh, various types of bread;",
+      "I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "One-day classes at Steynford College",
+    "questions": [
+      3
+    ],
+    "source": "exam",
+    "why": "Q3 asks what participants make besides white bread and sourdough. The word names a type of bread, so it helps you recognise a specific baked item in the list.",
+    "riskHint": "n"
+  },
+  {
+    "id": "ingredient-learn",
+    "term": "ingredient",
+    "ipa": "/ˌɪnˈgridiənt/",
+    "pos": "n",
+    "meaningEn": "one of the foods used to make a dish",
+    "meaningVi": "nguyên liệu",
+    "synonyms": [
+      "component",
+      "item in a recipe",
+      "foodstuff"
+    ],
+    "sentenceText": "The actual cost is £48 but then there's an extra charge as well as that for the ingredients - I'm not sure how much that is, no more than twenty pounds I think.",
+    "sentenceChunks": [
+      "The actual cost is £48",
+      "but then there's an extra charge as well as that for the ingredients - I'm not sure how much that is, no more than twenty pounds I think."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "One-day classes at Steynford College",
+    "questions": [
+      2,
+      3
+    ],
+    "source": "exam",
+    "why": "The bread-making row mentions an extra charge for ingredients. The word means the foods used to make the bread, so it helps you understand what costs extra.",
+    "riskHint": "n"
+  },
+  {
+    "id": "ruins-learn",
+    "term": "ruins",
+    "ipa": "/ˈruːɪnz/",
+    "pos": "n",
+    "meaningEn": "the remaining parts of an old building",
+    "meaningVi": "tàn tích; phế tích",
+    "synonyms": [
+      "remains",
+      "ruins",
+      "ancient site"
+    ],
+    "sentenceText": "Don't miss the ruins of a certain building.",
+    "sentenceChunks": [
+      "Don't miss the ruins of a certain building."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Walks and Melby Coal Mine",
+    "questions": [
+      11,
+      12
+    ],
+    "source": "exam",
+    "why": "Q11–12 give advice about the Marsden Coastal Walk. “Don’t miss the ruins” means the remains of an old building, so it helps you identify a historical sight rather than a natural feature.",
+    "riskHint": "n"
+  },
+  {
+    "id": "steep-learn",
+    "term": "steep",
+    "ipa": "/stip/",
+    "pos": "adj",
+    "meaningEn": "rising or falling sharply",
+    "meaningVi": "dốc",
+    "synonyms": [
+      "sharp",
+      "precipitous",
+      "sloping sharply"
+    ],
+    "sentenceText": "Be careful of the steep and rocky paths.",
+    "sentenceChunks": [
+      "Be careful of the steep and rocky paths."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Walks and Melby Coal Mine",
+    "questions": [
+      11,
+      12
+    ],
+    "source": "exam",
+    "why": "Q11–12 warn about steep and rocky paths. The word means the path rises or falls sharply, so it helps you understand a safety warning rather than a scenery description.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "circular-learn",
+    "term": "circular",
+    "ipa": "/ˈsɜːkjələ/",
+    "pos": "adj",
+    "meaningEn": "shaped like a circle; returning to the starting point",
+    "meaningVi": "vòng tròn; khép kín",
+    "synonyms": [
+      "round",
+      "looped",
+      "returning to the start"
+    ],
+    "sentenceText": "This is a circular walk.",
+    "sentenceChunks": [
+      "This is a circular walk."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Walks and Melby Coal Mine",
+    "questions": [
+      13,
+      14
+    ],
+    "source": "exam",
+    "why": "Q13–14 describe the Melby Heritage Walk as circular. The word means the route ends where it began, so it helps you distinguish it from a one-way walk.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "far-reaching-learn",
+    "term": "far-reaching",
+    "ipa": "/ˌfɑː ˈriːtʃɪŋ/",
+    "pos": "adj",
+    "meaningEn": "extending over a large area or having a wide effect",
+    "meaningVi": "mở rộng; có ảnh hưởng sâu rộng",
+    "synonyms": [
+      "extensive",
+      "wide-ranging",
+      "sweeping"
+    ],
+    "sentenceText": "There are far-reaching views the whole way.",
+    "sentenceChunks": [
+      "There are far-reaching views the whole way."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Walks and Melby Coal Mine",
+    "questions": [
+      13,
+      14
+    ],
+    "source": "exam",
+    "why": "Q13–14 mention far-reaching views. The word means the views extend a long way, so it helps you identify a positive feature of the walk rather than a difficulty.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "contaminated-learn",
+    "term": "contaminated",
+    "ipa": "/kənˈtæməˌneɪtɪd/",
+    "pos": "adj",
+    "meaningEn": "made dirty or harmful by an unwanted substance",
+    "meaningVi": "bị ô nhiễm; bị nhiễm khuẩn",
+    "synonyms": [
+      "polluted",
+      "infected",
+      "tainted"
+    ],
+    "sentenceText": "the number of diseases caused by contaminated food",
+    "sentenceChunks": [
+      "the number of diseases caused by contaminated food"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food safety and a student project",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "Q21–22 mention diseases caused by contaminated food. The word means food carrying harmful bacteria or substances, so it helps you link food safety to illness.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "antibiotic-learn",
+    "term": "antibiotic",
+    "ipa": "/ˌæntibaɪˈɑtɪk/",
+    "pos": "n",
+    "meaningEn": "a medicine that kills or stops bacteria",
+    "meaningVi": "kháng sinh",
+    "synonyms": [
+      "antibacterial drug",
+      "antimicrobial",
+      "medicine for bacteria"
+    ],
+    "sentenceText": "And speaking of diseases, I knew resistance to antibiotics is on the increase, but I didn't know why ...",
+    "sentenceChunks": [
+      "And speaking of diseases, I knew resistance to antibiotics",
+      "is on the increase, but I didn't know why ..."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food safety and a student project",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "Q21–22 mention the result of treating animals with antibiotics. The word helps you understand a food-safety issue involving drug-resistant bacteria.",
+    "riskHint": "n"
+  },
+  {
+    "id": "fraud-learn",
+    "term": "fraud",
+    "ipa": "/frɔd/",
+    "pos": "n",
+    "meaningEn": "the crime of deceiving people for money or advantage",
+    "meaningVi": "gian lận; lừa đảo",
+    "synonyms": [
+      "deception",
+      "cheating",
+      "scam"
+    ],
+    "sentenceText": "Ah, food fraud, yes.",
+    "sentenceChunks": [
+      "Ah, food fraud, yes."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food safety and a student project",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "Q23–24 ask about a project aiming to prevent food fraud. The word means deliberately mislabelling or selling food dishonestly, so it helps you identify the project’s purpose.",
+    "riskHint": "n"
+  },
+  {
+    "id": "dietary-learn",
+    "term": "dietary",
+    "ipa": "/ˈdaɪəˌteri/",
+    "pos": "adj",
+    "meaningEn": "relating to the food a person eats",
+    "meaningVi": "thuộc chế độ ăn",
+    "synonyms": [
+      "food-related",
+      "nutritional",
+      "eating"
+    ],
+    "sentenceText": "the variety of dietary requirements included",
+    "sentenceChunks": [
+      "the variety of dietary requirements included"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food safety and a student project",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "Q23–24 mention a variety of dietary requirements. The word means needs such as vegetarian, vegan or allergy-related diets, so it helps you understand inclusivity in food testing.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "overtourism-learn",
+    "term": "overtourism",
+    "ipa": "/ˌəʊvəˈtʊərɪzəm/",
+    "pos": "n",
+    "meaningEn": "the situation where too many tourists damage a place",
+    "meaningVi": "du lịch quá tải",
+    "synonyms": [
+      "mass tourism",
+      "tourism overcrowding",
+      "excessive tourism"
+    ],
+    "sentenceText": "The cruise ship industry has partly been responsible for the effects of overtourism in recent decades.",
+    "sentenceChunks": [
+      "The cruise ship industry has partly been responsible for the effects of overtourism in recent decades."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Challenges facing the cruise ship industry",
+    "questions": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "source": "exam",
+    "why": "The notes begin with problems with overtourism. The word means tourism has exceeded what a place can handle, so it helps you understand the negative effects on cities.",
+    "riskHint": "n"
+  },
+  {
+    "id": "perception-learn",
+    "term": "perception",
+    "ipa": "/pəˈsepʃən/",
+    "pos": "n",
+    "meaningEn": "the way something is understood or viewed",
+    "meaningVi": "nhận thức; cách nhìn",
+    "synonyms": [
+      "view",
+      "impression",
+      "image"
+    ],
+    "sentenceText": "And another perception is that cruises have lots of rules about what to wear and how to behave.",
+    "sentenceChunks": [
+      "And another perception is that cruises have lots of rules about what to wear and how to behave."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Challenges facing the cruise ship industry",
+    "questions": [
+      35,
+      36
+    ],
+    "source": "exam",
+    "why": "The notes include problems of perception. The word means the way people think about cruises, which may be inaccurate, so it helps you separate image from reality.",
+    "riskHint": "n"
+  },
+  {
+    "id": "assumption-learn",
+    "term": "assumption",
+    "ipa": "/əˈsəmpʃən/",
+    "pos": "n",
+    "meaningEn": "something believed to be true without proof",
+    "meaningVi": "giả định",
+    "synonyms": [
+      "belief",
+      "presumption",
+      "supposition"
+    ],
+    "sentenceText": "There is an assumption about the ______ of cruises.",
+    "sentenceChunks": [
+      "There is an assumption about the ______ of cruises."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Challenges facing the cruise ship industry",
+    "questions": [
+      35
+    ],
+    "source": "exam",
+    "why": "The notes mention an assumption about the cost of cruises. The word signals an untested belief, so you look for a claim that may or may not be true.",
+    "riskHint": "n"
+  },
+  {
+    "id": "hybrid-learn",
+    "term": "hybrid",
+    "ipa": "/ˈhaɪbrɪd/",
+    "pos": "adj",
+    "meaningEn": "using two or more sources of power",
+    "meaningVi": "lai; kết hợp hai nguồn năng lượng",
+    "synonyms": [
+      "combined",
+      "dual-power",
+      "mixed"
+    ],
+    "sentenceText": "New ships are built with hybrid engines with large batteries which means ships do not have to keep their engines running while docked.",
+    "sentenceChunks": [
+      "New ships are built with hybrid engines with large batteries which",
+      "means ships do not have to keep their engines running while docked."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Challenges facing the cruise ship industry",
+    "questions": [
+      39
+    ],
+    "source": "exam",
+    "why": "The notes say cruise lines are using hybrid engines. The word means the engine uses more than one power source, so it helps you understand the sustainability solution.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "lasting-learn",
+    "term": "lasting",
+    "ipa": "/ˈlæstɪŋ/",
+    "pos": "adj",
+    "meaningEn": "continuing for a long time",
+    "meaningVi": "lâu dài; bền vững",
+    "synonyms": [
+      "enduring",
+      "long-term",
+      "permanent"
+    ],
+    "sentenceText": "Dreaming about past experiences helps us to create lasting memories of them.",
+    "sentenceChunks": [
+      "Dreaming about past experiences helps us to create lasting memories of them."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [
+      6
+    ],
+    "source": "exam",
+    "why": "Q6 asks whether dreaming helps create lasting memories. The word means memories that endure, so it helps you distinguish a temporary effect from a long-term one.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "influential-learn",
+    "term": "influential",
+    "ipa": "/ˌɪnfluˈenʃəl/",
+    "pos": "adj",
+    "meaningEn": "having a strong effect on something",
+    "meaningVi": "có ảnh hưởng",
+    "synonyms": [
+      "important",
+      "impactful",
+      "persuasive"
+    ],
+    "sentenceText": "David Scheel's documentary was influential on other research into the sleeping patterns of octopuses.",
+    "sentenceChunks": [
+      "David Scheel's documentary was influential on other research into the sleeping patterns of octopuses."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [
+      8
+    ],
+    "source": "exam",
+    "why": "Q8 asks whether David Scheel’s documentary influenced other research. The word means it had an effect on later work, so you look for evidence of impact rather than popularity.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "hunting-learn",
+    "term": "hunting",
+    "ipa": "/ˈhʌntɪŋ/",
+    "pos": "n",
+    "meaningEn": "the activity of chasing and killing animals for food",
+    "meaningVi": "săn bắt",
+    "synonyms": [
+      "prey pursuit",
+      "predation",
+      "chasing prey"
+    ],
+    "sentenceText": "While it was asleep, the octopus called Costello reacted as if it was hunting.",
+    "sentenceChunks": [
+      "While it was asleep, the octopus called Costello reacted as if it was hunting."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [
+      9
+    ],
+    "source": "exam",
+    "why": "Q9 says the sleeping octopus reacted as if it was hunting. The word means chasing prey, so it helps you interpret the octopus’s movements as a dream-related behaviour.",
+    "riskHint": "n"
+  },
+  {
+    "id": "hearing-learn",
+    "term": "hearing",
+    "ipa": "/ˈhɪərɪŋ/",
+    "pos": "n",
+    "meaningEn": "the ability to perceive sound",
+    "meaningVi": "thính giác; sự nghe",
+    "synonyms": [
+      "sense of hearing",
+      "auditory perception",
+      "sound perception"
+    ],
+    "sentenceText": "Hearing may be an important part of the dreams of some animals.",
+    "sentenceChunks": [
+      "Hearing may be an important part of the dreams of some animals."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [
+      12
+    ],
+    "source": "exam",
+    "why": "Q12 says hearing may be important in some animals’ dreams. The word refers to sound perception, so it helps you identify a sensory channel rather than vision.",
+    "riskHint": "n"
+  },
+  {
+    "id": "rem-sleep-learn",
+    "term": "REM sleep",
+    "ipa": "/ˌɑːr iː ˈem sliːp/",
+    "pos": "n",
+    "meaningEn": "a stage of sleep with rapid eye movements and vivid dreams",
+    "meaningVi": "giấc ngủ REM",
+    "synonyms": [
+      "rapid eye movement sleep",
+      "active sleep",
+      "dreaming sleep"
+    ],
+    "sentenceText": "For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep.",
+    "sentenceChunks": [
+      "For example, researchers compared the brain patterns of rats running through",
+      "a maze when awake with their brain patterns during REM sleep."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "source": "exam",
+    "why": "The passage contrasts REM and non-REM sleep. The term names the stage linked to vivid dreams, so it helps you follow which sleep state is being discussed.",
+    "riskHint": "n"
+  },
+  {
+    "id": "flourish-learn",
+    "term": "flourish",
+    "ipa": "/ˈflʌrɪʃ/",
+    "pos": "v",
+    "meaningEn": "to grow or develop successfully",
+    "meaningVi": "phát triển thịnh vượng",
+    "synonyms": [
+      "thrive",
+      "prosper",
+      "boom"
+    ],
+    "sentenceText": "The kingdom of Mapungubwe flourished for several centuries.",
+    "sentenceChunks": [
+      "The kingdom of Mapungubwe flourished for several centuries."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [
+      14,
+      18
+    ],
+    "source": "exam",
+    "why": "The subtitle says Mapungubwe flourished between the 11th and 13th centuries. The word means it grew and prospered, so it helps you understand the kingdom’s success before its decline.",
+    "riskHint": "v"
+  },
+  {
+    "id": "uncertainty-learn",
+    "term": "uncertainty",
+    "ipa": "/ʌnˈsɜːtnti/",
+    "pos": "n",
+    "meaningEn": "a state of not knowing something for certain",
+    "meaningVi": "sự không chắc chắn",
+    "synonyms": [
+      "doubt",
+      "ambiguity",
+      "lack of certainty"
+    ],
+    "sentenceText": "a mention of the uncertainty regarding the purpose of certain objects",
+    "sentenceChunks": [
+      "a mention of the uncertainty regarding the purpose of certain objects"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [
+      14
+    ],
+    "source": "exam",
+    "why": "Q14 asks for a mention of uncertainty about the purpose of certain objects. The word signals that archaeologists do not know what the objects were used for.",
+    "riskHint": "n"
+  },
+  {
+    "id": "climatic-learn",
+    "term": "climatic",
+    "ipa": "/klaɪˈmætɪk/",
+    "pos": "adj",
+    "meaningEn": "relating to climate",
+    "meaningVi": "thuộc khí hậu",
+    "synonyms": [
+      "weather-related",
+      "environmental",
+      "climate-related"
+    ],
+    "sentenceText": "the likelihood that a climatic factor increased the problems Mapungubwe faced",
+    "sentenceChunks": [
+      "the likelihood that a climatic factor increased the problems Mapungubwe faced"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "Q15 asks for a climatic factor that increased Mapungubwe’s problems. The word means a condition such as drought or rainfall, so it helps you separate climate from political or economic causes.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "sceptre-learn",
+    "term": "sceptre",
+    "ipa": "/ˈseptə(r)/",
+    "pos": "n",
+    "meaningEn": "a decorated rod carried as a symbol of royal power",
+    "meaningVi": "vương trượng",
+    "synonyms": [
+      "royal staff",
+      "ceremonial rod",
+      "symbol of authority"
+    ],
+    "sentenceText": "One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads.",
+    "sentenceChunks": [
+      "One such object",
+      "that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "Q20–21 mention a sceptre made of gold. The word means a royal staff, so it helps you identify a symbol of power rather than an everyday object.",
+    "riskHint": "n"
+  },
+  {
+    "id": "archaeology-learn",
+    "term": "archaeology",
+    "ipa": "/ˌɑːkiˈɑlədʒi/",
+    "pos": "n",
+    "meaningEn": "the study of past societies through their physical remains",
+    "meaningVi": "khảo cổ học",
+    "synonyms": [
+      "archaeological study",
+      "study of remains",
+      "excavation science"
+    ],
+    "sentenceText": "Archaeology has revealed extensive layers of bones and manure, which indicate that from the 9th century CE there were large cattle herds, the traditional source of political power in southern African communities.",
+    "sentenceChunks": [
+      "Archaeology has revealed extensive layers of bones and manure",
+      "which indicate that from the 9th century CE there were large cattle herds, the traditional source of political power in southern African communities."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [
+      14,
+      18,
+      20,
+      22
+    ],
+    "source": "exam",
+    "why": "The passage describes archaeological evidence at Mapungubwe. The word helps you understand that the claims come from objects and structures, not written records.",
+    "riskHint": "n"
+  },
+  {
+    "id": "framework-learn",
+    "term": "framework",
+    "ipa": "/ˈfreɪmwɜːk/",
+    "pos": "n",
+    "meaningEn": "a set of rules or ideas used to organise something",
+    "meaningVi": "khuôn khổ; hệ thống quy tắc",
+    "synonyms": [
+      "structure",
+      "system",
+      "set of guidelines"
+    ],
+    "sentenceText": "The summary refers to a framework for AI.",
+    "sentenceChunks": [
+      "The summary refers to a framework for AI."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "source": "exam",
+    "why": "Q30–35 include “framework” in the summary options. The word means an organised set of rules or principles, so it helps you understand what AI systems need in order to be governed.",
+    "riskHint": "n"
+  },
+  {
+    "id": "implement-learn",
+    "term": "implement",
+    "ipa": "/ˈɪmplɪment/",
+    "pos": "v",
+    "meaningEn": "to put a plan or system into action",
+    "meaningVi": "triển khai; thực hiện",
+    "synonyms": [
+      "carry out",
+      "put into practice",
+      "execute"
+    ],
+    "sentenceText": "be unaware of the challenges of implementing national AI initiatives.",
+    "sentenceChunks": [
+      "be unaware of the challenges of implementing national AI initiatives."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [
+      29
+    ],
+    "source": "exam",
+    "why": "Q29 discusses politicians implementing national AI initiatives. The word means putting plans into practice, so it helps you distinguish a proposal from actual delivery.",
+    "riskHint": "v"
+  },
+  {
+    "id": "impractical-learn",
+    "term": "impractical",
+    "ipa": "/ˌɪmˈpræktɪkəl/",
+    "pos": "adj",
+    "meaningEn": "not sensible or possible to do in practice",
+    "meaningVi": "không thực tế; khó thực hiện",
+    "synonyms": [
+      "unworkable",
+      "unrealistic",
+      "not feasible"
+    ],
+    "sentenceText": "Stuart Russell's proposals regarding the use of AI are impractical.",
+    "sentenceChunks": [
+      "Stuart Russell's proposals regarding the use of AI are impractical."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [
+      36
+    ],
+    "source": "exam",
+    "why": "Q36 asks whether Stuart Russell’s proposals are impractical. The word means they would be difficult to carry out, so you look for a criticism of feasibility rather than morality.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "prejudice-learn",
+    "term": "prejudice",
+    "ipa": "/ˈpredʒʊdɪs/",
+    "pos": "n",
+    "meaningEn": "an unfair opinion formed without enough knowledge",
+    "meaningVi": "thành kiến",
+    "synonyms": [
+      "bias",
+      "discrimination",
+      "preconception"
+    ],
+    "sentenceText": "AI systems can reproduce social prejudice.",
+    "sentenceChunks": [
+      "AI systems can reproduce social prejudice."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "source": "exam",
+    "why": "Q30–35 include “prejudices” as a possible AI problem. The word means unfair biases, so it helps you understand how AI can reproduce social inequality.",
+    "riskHint": "n"
+  },
+  {
+    "id": "solutionism-learn",
+    "term": "solutionism",
+    "ipa": "/səˈluːʃənɪzəm/",
+    "pos": "n",
+    "meaningEn": "the belief that technology can solve every problem",
+    "meaningVi": "chủ nghĩa giải pháp công nghệ",
+    "synonyms": [
+      "tech-solutionism",
+      "technological fix",
+      "AI optimism"
+    ],
+    "sentenceText": "While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'.",
+    "sentenceChunks": [
+      "While it is undeniable",
+      "that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "Q28 discusses AI solutionism. The word means an overconfident belief that AI can solve all problems, so it helps you identify the risk the writer points out.",
+    "riskHint": "n"
+  },
+  {
+    "id": "politician-sentence",
+    "term": "politician",
+    "ipa": "/ˌpɑləˈtɪʃən/",
+    "pos": "noun",
+    "meaningEn": "a leader engaged in civil administration",
+    "meaningVi": "",
+    "synonyms": [
+      "politico",
+      "pol",
+      "political leader"
+    ],
+    "sentenceText": "While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.",
+    "sentenceChunks": [
+      "While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail",
+      "to realise the complexity around deploying advanced machine learning systems in the real world."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "minimise-sentence",
+    "term": "minimise",
+    "ipa": "",
+    "pos": "verb",
+    "meaningEn": "represent as less significant or important",
+    "meaningVi": "",
+    "synonyms": [
+      "understate",
+      "minimize",
+      "downplay"
+    ],
+    "sentenceText": "If we are to reap the benefits and minimise the potential harms of AI, wemust start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning.",
+    "sentenceChunks": [
+      "If we are to reap the benefits and minimise the potential harms of AI, wemust start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.This means we need to have a discussion about AI ethics and the distrust",
+      "that many people have towards machine learning."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "dominate-sentence",
+    "term": "dominate",
+    "ipa": "/ˈdɑməˌneɪt/",
+    "pos": "verb",
+    "meaningEn": "be larger in number, quantity, power, status or importance",
+    "meaningVi": "",
+    "synonyms": [
+      "predominate",
+      "rule",
+      "reign",
+      "prevail"
+    ],
+    "sentenceText": "Weare now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector.",
+    "sentenceChunks": [
+      "Weare now seeing governments pledge support to national AI initiatives and",
+      "compete in a technological race to dominate the burgeoning machine-learning sector."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Artificial Intelligence",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "dreaming-sentence",
+    "term": "dreaming",
+    "ipa": "/ˈdrimɪŋ/",
+    "pos": "noun",
+    "meaningEn": "imaginative thoughts indulged in while awake",
+    "meaningVi": "",
+    "synonyms": [
+      "dream"
+    ],
+    "sentenceText": "Growing evidence from birds and mammals suggests that REM sleep and dreaming are important for forming memories and learning.",
+    "sentenceChunks": [
+      "Growing evidence from birds and mammals suggests that REM",
+      "sleep and dreaming are important for forming memories and learning."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "occupation-sentence",
+    "term": "occupation",
+    "ipa": "/ˌɑkjəˈpeɪʃən/",
+    "pos": "noun",
+    "meaningEn": "the principal activity in your life that you do to earn money",
+    "meaningVi": "",
+    "synonyms": [
+      "business",
+      "job",
+      "line of work",
+      "line"
+    ],
+    "sentenceText": "Occupation on the hill dates from the 11th century and the entire complex was surrounded by a wooden palisade*, as indicated by postholes made in the rock.",
+    "sentenceChunks": [
+      "Occupation on the hill dates from the 11th century and the entire complex",
+      "was surrounded by a wooden palisade*, as indicated by postholes made in the rock."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "disc-sentence",
+    "term": "disc",
+    "ipa": "/dɪsk/",
+    "pos": "noun",
+    "meaningEn": "sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove",
+    "meaningVi": "",
+    "synonyms": [
+      "phonograph record",
+      "phonograph recording",
+      "record",
+      "disk"
+    ],
+    "sentenceText": "There are also ceramic discs, and whistles.",
+    "sentenceChunks": [
+      "There are also ceramic discs, and whistles."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "lifestyle-sentence",
+    "term": "lifestyle",
+    "ipa": "/ˈlaɪfˌstaɪl/",
+    "pos": "noun",
+    "meaningEn": "a manner of living that reflects the person's values and attitudes",
+    "meaningVi": "",
+    "synonyms": [
+      "life style",
+      "life-style",
+      "modus vivendi"
+    ],
+    "sentenceText": "As soon as animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles.",
+    "sentenceChunks": [
+      "As soon as animals evolved moderately complex lifestyles, they would",
+      "have needed to dream in order to manage these lifestyles."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "topic-sentence",
+    "term": "topic",
+    "ipa": "/ˈtɑpɪk/",
+    "pos": "noun",
+    "meaningEn": "the subject matter of a conversation or discussion",
+    "meaningVi": "",
+    "synonyms": [
+      "subject",
+      "theme",
+      "issue",
+      "matter"
+    ],
+    "sentenceText": "OK. And do you have any recommendations for new topics that we could include in the course?",
+    "sentenceChunks": [
+      "OK. And do you have any recommendations for new topics that we could include in the course?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food safety and a student project",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "bread-sentence",
+    "term": "bread",
+    "ipa": "/bred/",
+    "pos": "noun",
+    "meaningEn": "food made from dough of flour or meal and usually raised with yeast or baking powder and then baked",
+    "meaningVi": "",
+    "synonyms": [
+      "breadstuff",
+      "staff of life",
+      "boodle",
+      "cabbage"
+    ],
+    "sentenceText": "Oh, various types of bread; I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good.",
+    "sentenceChunks": [
+      "Oh, various types of bread;",
+      "I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "One-day classes at Steynford College",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "bath-sentence",
+    "term": "bath",
+    "ipa": "/bæθ/",
+    "pos": "noun",
+    "meaningEn": "a vessel containing liquid in which something is immersed (as to process it or to maintain it at a constant temperature or to lubricate it)",
+    "meaningVi": "",
+    "synonyms": [
+      "bath"
+    ],
+    "sentenceText": "The boiler has gone from there now, but there are lines of tin baths on the stone floor.",
+    "sentenceChunks": [
+      "The boiler has gone from there now, but there are lines of tin baths on the stone floor."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Walks and Melby Coal Mine",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "tower-sentence",
+    "term": "tower",
+    "ipa": "/taʊə/",
+    "pos": "noun",
+    "meaningEn": "a structure taller than its diameter; can stand alone or be attached to a larger building",
+    "meaningVi": "",
+    "synonyms": [
+      "column",
+      "pillar"
+    ],
+    "sentenceText": "At the highest point, you can stop to take in the views, and those with lots of energy can climb the tower that's situated where there was once a seventeenth century hunting lodge.",
+    "sentenceChunks": [
+      "At the highest point, you can stop to take in the views, and those with lots",
+      "of energy can climb the tower that's situated where there was once a seventeenth century hunting lodge."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Walks and Melby Coal Mine",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "object-sentence",
+    "term": "object",
+    "ipa": "/ˈɑbdʒekt/",
+    "pos": "noun",
+    "meaningEn": "a tangible and visible entity; an entity that can cast a shadow",
+    "meaningVi": "",
+    "synonyms": [
+      "physical object",
+      "aim",
+      "objective",
+      "target"
+    ],
+    "sentenceText": "One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads.",
+    "sentenceChunks": [
+      "One such object",
+      "that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "pattern-sentence",
+    "term": "pattern",
+    "ipa": "/ˈpætən/",
+    "pos": "noun",
+    "meaningEn": "a perceptual structure",
+    "meaningVi": "",
+    "synonyms": [
+      "form",
+      "shape",
+      "practice"
+    ],
+    "sentenceText": "For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep.",
+    "sentenceChunks": [
+      "For example, researchers compared the brain patterns of rats running through",
+      "a maze when awake with their brain patterns during REM sleep."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Do animals dream?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "kingdom-sentence",
+    "term": "kingdom",
+    "ipa": "/ˈkɪŋdəm/",
+    "pos": "noun",
+    "meaningEn": "a domain in which something is dominant",
+    "meaningVi": "",
+    "synonyms": [
+      "land",
+      "realm"
+    ],
+    "sentenceText": "Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala.",
+    "sentenceChunks": [
+      "Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom",
+      "of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Mapungubwe",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "literature-sentence",
+    "term": "literature",
+    "ipa": "/ˈlɪtəətʃə/",
+    "pos": "noun",
+    "meaningEn": "creative writing of recognized artistic value",
+    "meaningVi": "",
+    "synonyms": [
+      "lit"
+    ],
+    "sentenceText": "Then we had to do the literature review.",
+    "sentenceChunks": [
+      "Then we had to do the literature review."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food safety and a student project",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "diet-sentence",
+    "term": "diet",
+    "ipa": "/daɪət/",
+    "pos": "verb",
+    "meaningEn": "follow a regimen or a diet, as for health reasons",
+    "meaningVi": "",
+    "synonyms": [
+      "diet"
+    ],
+    "sentenceText": "And I'm interested in the idea of a personalised approach to diet, now we have the technology to analyse exactly what individuals need.",
+    "sentenceChunks": [
+      "And I'm interested in the idea of a personalised approach to",
+      "diet, now we have the technology to analyse exactly what individuals need."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food safety and a student project",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  }
+]

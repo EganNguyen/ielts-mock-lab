@@ -1,0 +1,200 @@
+{
+  "tag": "ielts20-t3",
+  "links": {
+    "rental-learn|l1|q1": {
+      "support": "It says the monthly price per room. starts at $105 and goes up to $239.",
+      "connection": "The note's 'prices range from $105 to $______ per room per month' is answered here: the monthly price 'starts at $105 and goes up to $239'.",
+      "paraphrasing": "'prices range from $105 to $239 per room per month' -> 'the monthly price per room ... starts at $105 and goes up to $239'"
+    },
+    "rental-learn|l1|q2": {
+      "support": "People have mentioned that the furniture from Peak Rentals is more modern than any of the other companies.",
+      "connection": "'the furniture is very ______' is completed by 'more modern'; the answer is 'modern'.",
+      "paraphrasing": "'the furniture is very modern' -> 'the furniture from Peak Rentals is more modern than any of the other companies'"
+    },
+    "rental-learn|l1|q10": {
+      "support": "One good thing about that company is that if you don't like the furniture once it's delivered, you can request exchanges as long as you do that within a week of receiving it.",
+      "connection": "'______ are allowed within 7 days of delivery' matches 'you can request exchanges ... within a week of receiving it'.",
+      "paraphrasing": "'exchanges are allowed within 7 days of delivery' -> 'request exchanges ... within a week of receiving it'"
+    },
+    "mid-range-learn|l1|q5": {
+      "support": "I'd say they're a mid-price company, but if you chose them, you need to be aware that they charge an extra 12% every month in case of damage.",
+      "connection": "The row's '12% monthly fee for ______' matches 'they charge an extra 12% every month in case of damage'.",
+      "paraphrasing": "'12% monthly fee' -> 'an extra 12% every month'; 'for damage' -> 'in case of damage'"
+    },
+    "contract-learn|l1|q7": {
+      "support": "First of all, you have to take out insurance on the furniture, and you need to organize that yourself.",
+      "connection": "'must have own ______' asks what must be arranged; the sentence says 'you have to take out insurance ... and you need to organize that yourself'.",
+      "paraphrasing": "'must have own insurance' -> 'take out insurance on the furniture ... organize that yourself'"
+    },
+    "up-to-date-learn|l1|q9": {
+      "support": "I don't have any information about their charges, so it's best to use their app to find out what it would cost you to use them.",
+      "connection": "'see the ______ for the most up-to-date prices' is answered by 'use their app to find out what it would cost you'.",
+      "paraphrasing": "'see the app for prices' -> 'use their app to find out what it would cost you'"
+    },
+    "archaeological-learn|l2|q11": {
+      "support": "I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country.",
+      "connection": "'Who was responsible for starting the community project?' is answered by 'I was asked to join the project by NHA, a charity which sets up projects like this'; 'up and down the country' supports 'a national charity'.",
+      "paraphrasing": "'a national charity' -> 'a charity which sets up projects like this up and down the country'"
+    },
+    "archaeological-learn|l2|q12": {
+      "support": "Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand.",
+      "connection": "'How was the gold coin found?' matches 'a walker found it on the ground after a rainstorm washed away some of the earth and sand'.",
+      "paraphrasing": "'Heavy rain had removed some of the soil' -> 'a rainstorm washed away some of the earth and sand'"
+    },
+    "metal-detector-learn|l2|q12": {
+      "support": "Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand.",
+      "connection": "The question asks how the coin was found; the sentence says 'a walker found it on the ground after a rainstorm washed away some of the earth and sand'.",
+      "paraphrasing": "'Heavy rain had removed some of the soil' -> 'a rainstorm washed away some of the earth and sand'"
+    },
+    "archaeological-learn|l2|q13": {
+      "support": "Just by chance, the team found some old maps and documents in our library, which showed 500-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.",
+      "connection": "'the lucky discovery of old records' matches 'Just by chance, the team found some old maps and documents', which showed '500-year-old drawings of ruined buildings'.",
+      "paraphrasing": "'the lucky discovery of old records' -> 'Just by chance, the team found some old maps and documents'"
+    },
+    "archaeological-learn|l2|q14": {
+      "support": "Normally, you'd expect to find brooches and other jewelry, but we're still waiting to uncover any such items.",
+      "connection": "'What are the team still hoping to find?' matches 'we're still waiting to uncover any such items'; those items are 'brooches and other jewelry'.",
+      "paraphrasing": "'pieces of jewellery' -> 'brooches and other jewelry'"
+    },
+    "archaeological-learn|l2|q16": {
+      "support": "In the meantime, we're putting on a series of guided tours for school groups this autumn.",
+      "connection": "'What do the team plan to do after work ends this summer?' matches 'In the meantime, we're putting on a series of guided tours for school groups this autumn'.",
+      "paraphrasing": "'start to organise school visits' -> 'putting on a series of guided tours for school groups'"
+    },
+    "mistaken-belief-learn|l3|q22": {
+      "support": "Contrary to what many people think, theaters don't hire people to do the programs.",
+      "connection": "'a mistaken belief about theatre programmes' matches 'Contrary to what many people think'; that belief is denied by 'theaters don't hire people to do the programs'.",
+      "paraphrasing": "'theatres pay companies to produce them' -> 'theaters don't hire people to do the programs'"
+    },
+    "informative-learn|l3|q25": {
+      "support": "But personally, I think 18th century programs were superior because they told theatergoers so many things, including about the actors.",
+      "connection": "'those from the eighteenth century ... were more informative' matches '18th century programs were superior because they told theatergoers so many things'.",
+      "paraphrasing": "'were more informative' -> 'told theatergoers so many things'"
+    },
+    "inclusive-design-learn|l4|q31": {
+      "support": "It means making sure products are accessible so that as many different types of people as possible can use them without any type of adaptation having to be made to the original design.",
+      "connection": "'Designing products that can be accessed by a diverse range of people without the need for any ______' mirrors 'products are accessible so that as many different types of people as possible can use them without any type of adaptation'; the blank is 'adaptation'.",
+      "paraphrasing": "'without the need for any adaptation' -> 'without any type of adaptation having to be made to the original design'"
+    },
+    "inclusive-design-learn|l4|q32": {
+      "support": "Universal design aims to make products that work for everyone and that includes considering the needs of people who have cognitive difficulties which can present quite a challenge.",
+      "connection": "'that is design for everyone, including catering for people with ______ problems' matches 'Universal design aims to make products that work for everyone and that includes considering the needs of people who have cognitive difficulties'.",
+      "paraphrasing": "'people with cognitive problems' -> 'people who have cognitive difficulties'"
+    },
+    "adjustable-learn|l4|q33": {
+      "support": "In workplaces, it is common to see desks which can be adjusted to suit people of different heights or for wheelchair users.",
+      "connection": "'______ which are adjustable' is answered by 'desks which can be adjusted'.",
+      "paraphrasing": "'desks which are adjustable' -> 'desks which can be adjusted'"
+    },
+    "interface-learn|l4|q35": {
+      "support": "For example, it's well known that vision declines with age and that we also become worse at distinguishing between similar colors, in particular shades of blue, which is why software designers rarely create interfaces with this color.",
+      "connection": "'designers avoid using ______ in interfaces' matches 'software designers rarely create interfaces with this color'; 'this color' is 'shades of blue'.",
+      "paraphrasing": "'avoid using blue in interfaces' -> 'rarely create interfaces with this color' ('shades of blue')"
+    },
+    "interface-learn|l4|q36": {
+      "support": "So, voice access is now a routine way of making commands.",
+      "connection": "'people can make commands using a mouse, keyboard or their ______' matches 'voice access is now a routine way of making commands'.",
+      "paraphrasing": "'make commands using ... their voice' -> 'voice access is now a routine way of making commands'"
+    },
+    "problematic-learn|l4|q37": {
+      "support": "This has safety implications for all women, particularly those who are pregnant, as the seat belts worn by the dummy are not adapted to accommodate them.",
+      "connection": "'seatbelts are especially problematic for ______ women' matches 'This has safety implications for all women, particularly those who are pregnant'.",
+      "paraphrasing": "'problematic for pregnant women' -> 'safety implications for all women, particularly those who are pregnant'"
+    },
+    "problematic-learn|l4|q38": {
+      "support": "The problem with this is that women can be tall and still have much smaller shoulders than the average man.",
+      "connection": "'PPE jackets are often unsuitable because of the size of women's ______' matches 'women can be tall and still have much smaller shoulders than the average man'.",
+      "paraphrasing": "'the size of women's shoulders' -> 'much smaller shoulders than the average man'"
+    },
+    "problematic-learn|l4|q39": {
+      "support": "The report found that 95% of women said that their PPE often hampered their work and that this problem was worst in the emergency services, particularly the police.",
+      "connection": "'PPE for female ______ officers dealing with emergencies is the worst' matches 'this problem was worst in the emergency services, particularly the police'.",
+      "paraphrasing": "'female police officers dealing with emergencies' -> 'the emergency services, particularly the police'"
+    },
+    "disadvantage-learn|r1|q9": {
+      "support": "During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, this spoilt the flavor and texture of the food.",
+      "connection": "'A disadvantage ... was that it affected the taste of food' matches 'this spoilt the flavor and texture of the food'.",
+      "paraphrasing": "'affected the taste of food' -> 'spoilt the flavor and texture of the food'"
+    },
+    "promotion-learn|r1|q11": {
+      "support": "In 1954, the company adapted some of Birdseye's freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first 'TV Dinner'.",
+      "connection": "'invested a great deal of money in the promotion of the TV Dinner' matches 'a huge advertising budget' used to launch the first 'TV Dinner'.",
+      "paraphrasing": "'invested a great deal of money in the promotion' -> 'a huge advertising budget'"
+    },
+    "container-learn|r1|q12": {
+      "support": "This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that was used by airlines.",
+      "connection": "'developed a new style of container' is contradicted by 'served in the same segmented aluminum tray that was used by airlines'.",
+      "paraphrasing": "'a new style of container' -> 'the same segmented aluminum tray that was used by airlines'"
+    },
+    "refrigeration-learn|r1|q2": {
+      "support": "In 1851, railroads first began putting blocks of ice insulated rail cars to send butter from Ogdensburg, New York, to Boston.",
+      "connection": "'kept cool by ice during transportation in specially adapted trains' matches 'blocks of ice insulated rail cars to send butter'; the blank is 'butter'.",
+      "paraphrasing": "'specially adapted trains' -> 'insulated rail cars'; 'kept cool by ice' -> 'putting blocks of ice'"
+    },
+    "refrigeration-learn|r1|q3": {
+      "support": "In 1880, a shipment of Australian beef and mutton was sent, frozen, to England.",
+      "connection": "'Two kinds of ______ ... shipped to England' matches 'beef and mutton was sent, frozen, to England'; the two kinds are 'beef and mutton'.",
+      "paraphrasing": "'two kinds of meat' -> 'beef and mutton'"
+    },
+    "contamination-learn|r2|q20": {
+      "support": "Other menaces include ocean acidification, sea level increase, pollution by humans, deoxygenation and ocean current changes, while the climate crisis is also increasing habitat destruction.",
+      "connection": "'the contamination of the sea from waste' matches 'pollution by humans', one of the 'other menaces' listed.",
+      "paraphrasing": "'the contamination of the sea from waste' -> 'pollution by humans'"
+    },
+    "contamination-learn|r2|q21": {
+      "support": "Other menaces include ocean acidification, sea level increase, pollution by humans, deoxygenation and ocean current changes, while the climate crisis is also increasing habitat destruction.",
+      "connection": "'alterations in the usual flow of water in the seas' matches 'ocean current changes', one of the 'other menaces' listed.",
+      "paraphrasing": "'alterations in the usual flow of water in the seas' -> 'ocean current changes'"
+    },
+    "alteration-learn|r2|q20": {
+      "support": "Other menaces include ocean acidification, sea level increase, pollution by humans, deoxygenation and ocean current changes, while the climate crisis is also increasing habitat destruction.",
+      "connection": "'the contamination of the sea from waste' matches 'pollution by humans' in the sentence's list of 'other menaces'.",
+      "paraphrasing": "'the contamination of the sea from waste' -> 'pollution by humans'"
+    },
+    "alteration-learn|r2|q21": {
+      "support": "Other menaces include ocean acidification, sea level increase, pollution by humans, deoxygenation and ocean current changes, while the climate crisis is also increasing habitat destruction.",
+      "connection": "'alterations in the usual flow of water in the seas' matches 'ocean current changes' in the sentence's list of 'other menaces'.",
+      "paraphrasing": "'alterations in the usual flow of water in the seas' -> 'ocean current changes'"
+    },
+    "cope-with-learn|r2|q22": {
+      "support": "One aim will be to carry out research on species to find those that can survive best in warm, acidic waters.",
+      "connection": "'They want to identify corals that can cope well with the changed sea conditions' matches 'research on species to find those that can survive best in warm, acidic waters'.",
+      "paraphrasing": "'identify corals that can cope well with the changed sea conditions' -> 'find those that can survive best in warm, acidic waters'"
+    },
+    "cope-with-learn|r2|q23": {
+      "support": "Another will be to try to increase coral breeding rates.",
+      "connection": "'They are trying out methods that would speed up reproduction in some corals' matches 'try to increase coral breeding rates'.",
+      "paraphrasing": "'speed up reproduction' -> 'increase coral breeding rates'"
+    },
+    "reproduction-learn|r2|q22": {
+      "support": "One aim will be to carry out research on species to find those that can survive best in warm, acidic waters.",
+      "connection": "'They want to identify corals that can cope well with the changed sea conditions' matches 'research on species to find those that can survive best in warm, acidic waters'.",
+      "paraphrasing": "'identify corals that can cope well with the changed sea conditions' -> 'find those that can survive best in warm, acidic waters'"
+    },
+    "reproduction-learn|r2|q23": {
+      "support": "Another will be to try to increase coral breeding rates.",
+      "connection": "'They are trying out methods that would speed up reproduction in some corals' matches 'try to increase coral breeding rates'.",
+      "paraphrasing": "'speed up reproduction' -> 'increase coral breeding rates'"
+    },
+    "restrict-learn|r3|q27": {
+      "support": "I think we should ensure that robots remain as no more than \"idiot savants\" lacking the capacity to outwit us, even though they may greatly surpass us in the ability to calculate and process information.",
+      "connection": "'humans will need to restrict the abilities of robots' matches 'we should ensure that robots remain as no more than \"idiot savants\" lacking the capacity to outwit us'.",
+      "paraphrasing": "'restrict the abilities of robots' -> 'ensure that robots remain ... lacking the capacity to outwit us'"
+    },
+    "inclination-learn|r3|q37": {
+      "support": "In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat.",
+      "connection": "'fear of machines' is the 'it' that 'stems from humans' tendency to personify inanimate objects'; 'inclination' matches 'tendency'.",
+      "paraphrasing": "'our inclination to attribute human characteristics to non-human entities' -> 'humans' tendency to personify inanimate objects ... imagine that machines think and behave as we do'"
+    },
+    "inanimate-learn|r3|q37": {
+      "support": "In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat.",
+      "connection": "'non-human entities' matches 'inanimate objects'; the sentence says the tendency is to 'personify inanimate objects'.",
+      "paraphrasing": "'non-human entities' -> 'inanimate objects'"
+    },
+    "personify-learn|r3|q37": {
+      "support": "In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat.",
+      "connection": "'attribute human characteristics' matches 'personify'; the things being personified are 'inanimate objects'.",
+      "paraphrasing": "'attribute human characteristics to non-human entities' -> 'personify inanimate objects ... imagine that machines think and behave as we do'"
+    }
+  }
+}

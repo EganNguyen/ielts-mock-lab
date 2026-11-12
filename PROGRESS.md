@@ -18,11 +18,13 @@ M6 — local end-to-end verification
 - 4/4/2/3 content structure for all four tests plus writing/map figures.
 - Kokoro-82M audio assets for listening and speaking examiner.
 - Share showcase link: local Share dialog + `scripts/share.sh`, Cloudflare quick tunnel lifecycle, copy/native share, local-only controls, shutdown cleanup.
+- Vocabulary learning pack: 446 sentence-first entries from all 32 Listening parts and 24 Reading passages (IELTS 20 / Cambridge 21). Every entry has sentence, direct Vietnamese translation, chunk breakdown, why/risk and importance; 145 entries carry 196 verbatim-evidenced answer links, locked until an attempt is confirmed. Interactive `/vocabulary/` page with skill/test/sentence/answer/relationship filters, search and cross-references; validator at `content/vocabulary/tools/verify_learning_vocabulary.py`.
 - Go unit tests (including the share manager) and Playwright E2E suite.
 
 ## Tests
 - Backend: `go test ./...` — pass.
 - Frontend build: `pnpm --dir apps/web build` — pass.
+- Vocabulary learning pack: `python3 content/vocabulary/tools/verify_learning_vocabulary.py` — pass (446 items, 56 sections, 196 verbatim answer links).
 - E2E: `pnpm --dir apps/web exec playwright test --trace=off` — 7/7 pass.
 - Browser full-flow: pass (listening → reading → writing → speaking → results → refresh).
 - Production demo guard: pass (`APP_ENV=production` + demo mode exits 1).

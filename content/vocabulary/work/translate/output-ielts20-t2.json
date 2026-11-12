@@ -1,0 +1,875 @@
+[
+  {
+    "id": "carer-learn",
+    "meaningVi": "người chăm sóc",
+    "translation": "Họ nhận ra rằng những người chăm sóc đôi khi cần có thời gian cho tất cả những trách nhiệm khác mà họ có.",
+    "breakdown": [
+      {
+        "text": "They realize that carers sometimes need time for all the other responsibilities they have.",
+        "vi": "Họ nhận ra rằng những người chăm sóc đôi khi cần có thời gian cho tất cả những trách nhiệm khác mà họ có.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "assessment-learn",
+    "meaningVi": "sự đánh giá",
+    "translation": "Vậy, khi họ đã hoàn thành cuộc đánh giá này, nếu tôi đủ điều kiện thì điều gì xảy ra tiếp theo?",
+    "breakdown": [
+      {
+        "text": "So, once they've done this assessment, if I'm eligible, what happens next?",
+        "vi": "Vậy, khi họ đã hoàn thành cuộc đánh giá này, nếu tôi đủ điều kiện thì điều gì xảy ra tiếp theo?",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "responsibilities-learn",
+    "meaningVi": "trách nhiệm; nghĩa vụ",
+    "translation": "Họ nhận ra rằng những người chăm sóc đôi khi cần có thời gian cho tất cả những trách nhiệm khác mà họ có.",
+    "breakdown": [
+      {
+        "text": "They realize that carers sometimes need time for all the other responsibilities they have.",
+        "vi": "Họ nhận ra rằng những người chăm sóc đôi khi cần có thời gian cho tất cả những trách nhiệm khác mà họ có.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "fuel-learn",
+    "meaningVi": "nhiên liệu",
+    "translation": "chi phí liên quan đến ô tô, ví dụ nhiên liệu và ______",
+    "breakdown": [
+      {
+        "text": "car-related costs, e.g. fuel and ______",
+        "vi": "chi phí liên quan đến ô tô, ví dụ nhiên liệu và ______",
+        "role": "examples"
+      }
+    ]
+  },
+  {
+    "id": "publicity-learn",
+    "meaningVi": "sự quảng bá; sự chú ý của công chúng",
+    "translation": "chiến dịch truyền thông của một thương hiệu Thụy Điển đã được công chúng chú ý nhờ chọc giận các đối thủ cạnh tranh; việc quảng bá tại Mỹ thông qua các cửa hàng ______ đã làm giảm nhu cầu quảng cáo; sản phẩm thu hút những người tiêu dùng quan tâm đến ______.",
+    "breakdown": [
+      {
+        "text": "a Swedish brand's media campaign received publicity by upsetting competitors;",
+        "vi": "chiến dịch truyền thông của một thương hiệu Thụy Điển đã được công chúng chú ý nhờ chọc giận các đối thủ cạnh tranh;",
+        "role": "main idea"
+      },
+      {
+        "text": "promotion in the USA through ______ shops reduced the need for advertising;",
+        "vi": "việc quảng bá tại Mỹ thông qua các cửa hàng ______ đã làm giảm nhu cầu quảng cáo;",
+        "role": "detail"
+      },
+      {
+        "text": "it appealed to consumers concerned about the ______.",
+        "vi": "sản phẩm thu hút những người tiêu dùng quan tâm đến ______.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "interpersonal-skills-learn",
+    "meaningVi": "kỹ năng giao tiếp",
+    "translation": "Tình nguyện viên cần có kỹ năng giao tiếp tốt.",
+    "breakdown": [
+      {
+        "text": "Volunteers need strong interpersonal skills.",
+        "vi": "Tình nguyện viên cần có kỹ năng giao tiếp tốt.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "flexibility-learn",
+    "meaningVi": "sự linh hoạt",
+    "translation": "Sự linh hoạt là một trong những yêu cầu đối với tình nguyện viên của lễ hội.",
+    "breakdown": [
+      {
+        "text": "Flexibility is one of the requirements for festival volunteers.",
+        "vi": "Sự linh hoạt là một trong những yêu cầu đối với tình nguyện viên của lễ hội.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "cooperation-learn",
+    "meaningVi": "sự hợp tác",
+    "translation": "H khuyến khích sự hợp tác giữa các tổ chức địa phương",
+    "breakdown": [
+      {
+        "text": "H encouraging cooperation between local organisations",
+        "vi": "H khuyến khích sự hợp tác giữa các tổ chức địa phương",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "vague-learn",
+    "meaningVi": "mơ hồ; không rõ ràng",
+    "translation": "A Thông tin được đưa ra về vấn đề này quá mơ hồ.",
+    "breakdown": [
+      {
+        "text": "A The information given about this was too vague.",
+        "vi": "A Thông tin được đưa ra về vấn đề này quá mơ hồ.",
+        "role": "opinion"
+      }
+    ]
+  },
+  {
+    "id": "reliable-learn",
+    "meaningVi": "đáng tin cậy",
+    "translation": "E Những dữ kiện về vấn đề này có thể không đáng tin cậy.",
+    "breakdown": [
+      {
+        "text": "E The facts about this may not be reliable.",
+        "vi": "E Những dữ kiện về vấn đề này có thể không đáng tin cậy.",
+        "role": "opinion"
+      }
+    ]
+  },
+  {
+    "id": "disused-learn",
+    "meaningVi": "không còn sử dụng",
+    "translation": "Chúng ta có thể đưa vào một phần về việc phát triển các khu công nghiệp không còn sử dụng.",
+    "breakdown": [
+      {
+        "text": "We could include something about developing disused industrial sites.",
+        "vi": "Chúng ta có thể đưa vào một phần về việc phát triển các khu công nghiệp không còn sử dụng.",
+        "role": "suggestion"
+      }
+    ]
+  },
+  {
+    "id": "outskirts-learn",
+    "meaningVi": "vùng ngoại vi; rìa thành phố",
+    "translation": "Sẽ rất hay nếu nói về một số phát triển tích cực, như một số công trình mới ở vùng ngoại vi các thành phố.",
+    "breakdown": [
+      {
+        "text": "It would be nice to talk about some positive developments",
+        "vi": "Sẽ rất hay nếu nói về một số phát triển tích cực",
+        "role": "main idea"
+      },
+      {
+        "text": "like some of the new developments on the outskirts of cities.",
+        "vi": "như một số công trình mới ở vùng ngoại vi các thành phố.",
+        "role": "example"
+      }
+    ]
+  },
+  {
+    "id": "influencer-learn",
+    "meaningVi": "người có ảnh hưởng trên mạng",
+    "translation": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+    "breakdown": [
+      {
+        "text": "One of the most effective ways of promoting a new food product is",
+        "vi": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là",
+        "role": "main idea"
+      },
+      {
+        "text": "by using social media influencers as brand ambassadors in return for free samples.",
+        "vi": "sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+        "role": "method"
+      }
+    ]
+  },
+  {
+    "id": "brand-ambassador-learn",
+    "meaningVi": "đại sứ thương hiệu",
+    "translation": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+    "breakdown": [
+      {
+        "text": "One of the most effective ways of promoting a new food product is",
+        "vi": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là",
+        "role": "main idea"
+      },
+      {
+        "text": "by using social media influencers as brand ambassadors in return for free samples.",
+        "vi": "sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+        "role": "method"
+      }
+    ]
+  },
+  {
+    "id": "overuse-learn",
+    "meaningVi": "sự sử dụng quá mức",
+    "translation": "Quinoa: thành công của nó đã khiến ______ của nó tăng lên; việc sử dụng quá mức các nguồn tài nguyên đã dẫn đến ______ chất lượng kém.",
+    "breakdown": [
+      {
+        "text": "its success led to an increase in its ______;",
+        "vi": "thành công của nó đã khiến ______ của nó tăng lên;",
+        "role": "main idea"
+      },
+      {
+        "text": "overuse of resources resulted in poor quality ______.",
+        "vi": "việc sử dụng quá mức các nguồn tài nguyên đã dẫn đến ______ chất lượng kém.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "demand-learn",
+    "meaningVi": "nhu cầu",
+    "translation": "Nhu cầu về cá skrei đã được một công ty tiếp thị thực phẩm tận dụng để xây dựng danh tiếng chung của ngành đánh cá Na Uy.",
+    "breakdown": [
+      {
+        "text": "The demand for skrei has been used by a food",
+        "vi": "Nhu cầu về cá skrei đã được một",
+        "role": "main idea"
+      },
+      {
+        "text": "marketing agency to build the reputation of Norway's fisheries in general.",
+        "vi": "công ty tiếp thị thực phẩm tận dụng để xây dựng danh tiếng chung của ngành đánh cá Na Uy.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "aquatic-learn",
+    "meaningVi": "dưới nước; thủy sinh",
+    "translation": "Tuy nhiên, chúng thực sự có xương chậu - một di tích còn lại từ quá trình tiến hóa từ loài bốn chân thành loài động vật hoàn toàn sống dưới nước.",
+    "breakdown": [
+      {
+        "text": "They do have pelvic bones, however - a leftover from",
+        "vi": "Tuy nhiên, chúng thực sự có xương chậu - một di tích còn lại từ",
+        "role": "main idea"
+      },
+      {
+        "text": "their evolution from a four-legged to a fully aquatic animal.",
+        "vi": "quá trình tiến hóa từ loài bốn chân thành loài động vật hoàn toàn sống dưới nước.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "entanglement-learn",
+    "meaningVi": "sự mắc vào; sự vướng",
+    "translation": "Một nghiên cứu xem xét gần 1.800 trường hợp mắc vào lưới đánh cá và trường hợp tiêu thụ nhựa ở các loài thú biển tại vùng biển Hoa Kỳ từ năm 2009 đến 2020 đã phát hiện rằng ít nhất 700 trường hợp liên quan đến lợn biển.",
+    "breakdown": [
+      {
+        "text": "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found",
+        "vi": "Một nghiên cứu xem xét gần 1.800 trường hợp mắc vào lưới đánh cá và trường hợp tiêu thụ nhựa ở các loài thú biển tại vùng biển Hoa Kỳ từ năm 2009 đến 2020 đã phát hiện",
+        "role": "evidence"
+      },
+      {
+        "text": "that at least 700 cases involved manatees.",
+        "vi": "rằng ít nhất 700 trường hợp liên quan đến lợn biển.",
+        "role": "finding"
+      }
+    ]
+  },
+  {
+    "id": "legislation-learn",
+    "meaningVi": "pháp luật; đạo luật",
+    "translation": "Có một số đạo luật đang được áp dụng nhằm giảm khả năng tàu thuyền đâm vào lợn biển ở Florida.",
+    "breakdown": [
+      {
+        "text": "There is some legislation in place which aims to",
+        "vi": "Có một số đạo luật đang được áp dụng nhằm",
+        "role": "main idea"
+      },
+      {
+        "text": "reduce the likelihood of boat strikes on manatees in Florida.",
+        "vi": "giảm khả năng tàu thuyền đâm vào lợn biển ở Florida.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "likelihood-learn",
+    "meaningVi": "khả năng xảy ra",
+    "translation": "Có một số đạo luật đang được áp dụng nhằm giảm khả năng tàu thuyền đâm vào lợn biển ở Florida.",
+    "breakdown": [
+      {
+        "text": "There is some legislation in place which aims to",
+        "vi": "Có một số đạo luật đang được áp dụng nhằm",
+        "role": "main idea"
+      },
+      {
+        "text": "reduce the likelihood of boat strikes on manatees in Florida.",
+        "vi": "giảm khả năng tàu thuyền đâm vào lợn biển ở Florida.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "habitat-learn",
+    "meaningVi": "môi trường sống",
+    "translation": "Lợn biển Tây Ấn có thể được tìm thấy ở nhiều môi trường sống dưới nước khác nhau.",
+    "breakdown": [
+      {
+        "text": "West Indian manatees can be found in a variety of different aquatic habitats.",
+        "vi": "Lợn biển Tây Ấn có thể được tìm thấy ở nhiều môi trường sống dưới nước khác nhau.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "procrastination-learn",
+    "meaningVi": "sự trì hoãn",
+    "translation": "Sự trì hoãn là thói quen trì hoãn một nhiệm vụ cần thiết, thường là bằng cách thay vào đó tập trung vào những hoạt động ít khẩn cấp hơn, thú vị hơn và dễ hơn.",
+    "breakdown": [
+      {
+        "text": "Procrastination is the habit of delaying a necessary task, usually",
+        "vi": "Sự trì hoãn là thói quen trì hoãn một nhiệm vụ cần thiết, thường là",
+        "role": "definition"
+      },
+      {
+        "text": "by focusing on less urgent, more enjoyable, and easier activities instead.",
+        "vi": "bằng cách thay vào đó tập trung vào những hoạt động ít khẩn cấp hơn, thú vị hơn và dễ hơn.",
+        "role": "manner"
+      }
+    ]
+  },
+  {
+    "id": "false-assumption-learn",
+    "meaningVi": "giả định sai",
+    "translation": "đề cập đến những giả định sai về lý do người ta trì hoãn",
+    "breakdown": [
+      {
+        "text": "mention of false assumptions about why people procrastinate",
+        "vi": "đề cập đến những giả định sai về lý do người ta trì hoãn",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "neurological-learn",
+    "meaningVi": "thuộc thần kinh",
+    "translation": "bằng chứng thần kinh về mối liên hệ giữa sự trì hoãn và cảm xúc",
+    "breakdown": [
+      {
+        "text": "neurological evidence of a link between procrastination and emotion",
+        "vi": "bằng chứng thần kinh về mối liên hệ giữa sự trì hoãn và cảm xúc",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "manageable-learn",
+    "meaningVi": "có thể xử lý được",
+    "translation": "Tác giả khuyến nghị đặt ra những mục tiêu có thể xử lý được.",
+    "breakdown": [
+      {
+        "text": "The writer recommends setting manageable aims.",
+        "vi": "Tác giả khuyến nghị đặt ra những mục tiêu có thể xử lý được.",
+        "role": "recommendation"
+      }
+    ]
+  },
+  {
+    "id": "emotion-learn",
+    "meaningVi": "cảm xúc",
+    "translation": "Tìm ra những cách tốt hơn để quản lý cảm xúc của mình là một lối thoát khỏi vòng luẩn quẩn của sự trì hoãn.",
+    "breakdown": [
+      {
+        "text": "Finding better ways of managing our emotions is one route out of the vicious cycle of procrastination.",
+        "vi": "Tìm ra những cách tốt hơn để quản lý cảm xúc của mình là một lối thoát khỏi vòng luẩn quẩn của sự trì hoãn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "amend-learn",
+    "meaningVi": "sửa đổi",
+    "translation": "MLB cho rằng cần phải sửa đổi kích thước vùng strike khi nhận được những lời chỉ trích từ các cầu thủ.",
+    "breakdown": [
+      {
+        "text": "MLB considered it necessary to amend the size of the strike zone when criticisms were received from players.",
+        "vi": "MLB cho rằng cần phải sửa đổi kích thước vùng strike khi nhận được những lời chỉ trích từ các cầu thủ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "feasible-learn",
+    "meaningVi": "khả thi",
+    "translation": "ABS khiến cho những thay đổi về hình dạng vùng strike trở nên khả thi.",
+    "breakdown": [
+      {
+        "text": "ABS makes changes to the shape of the strike zone feasible.",
+        "vi": "ABS khiến cho những thay đổi về hình dạng vùng strike trở nên khả thi.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "subjective-learn",
+    "meaningVi": "chủ quan",
+    "translation": "Các trọng tài đưa ra một đánh giá chủ quan về vùng strike.",
+    "breakdown": [
+      {
+        "text": "Umpires make a subjective assessment of the strike zone.",
+        "vi": "Các trọng tài đưa ra một đánh giá chủ quan về vùng strike.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "perceived-learn",
+    "meaningVi": "được nhận thức; được cảm nhận",
+    "translation": "Diện tích được cảm nhận có thể khác với kích thước đo được của nó.",
+    "breakdown": [
+      {
+        "text": "The perceived area may differ from its measured size.",
+        "vi": "Diện tích được cảm nhận có thể khác với kích thước đo được của nó.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "accuracy-learn",
+    "meaningVi": "độ chính xác",
+    "translation": "Một số cầu thủ tôi đã gặp cũng có quan điểm phản đối đối với những chú robot, tin rằng độ chính xác không phải là câu trả lời.",
+    "breakdown": [
+      {
+        "text": "Some players I have met take a dissenting stance toward",
+        "vi": "Một số cầu thủ tôi đã gặp cũng có quan điểm phản đối đối với",
+        "role": "main idea"
+      },
+      {
+        "text": "the robots too, believing that accuracy is not the answer.",
+        "vi": "những chú robot, tin rằng độ chính xác không phải là câu trả lời.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "procrastinate-sentence",
+    "meaningVi": "trì hoãn",
+    "translation": "Nghiên cứu sử dụng hình ảnh não đã phát hiện rằng những vùng não liên quan đến việc phát hiện mối đe dọa và điều hòa cảm xúc thực sự khác biệt ở những người trì hoãn kinh niên so với những người không thường xuyên trì hoãn.",
+    "breakdown": [
+      {
+        "text": "Research involving brain imaging has found",
+        "vi": "Nghiên cứu sử dụng hình ảnh não đã phát hiện",
+        "role": "evidence"
+      },
+      {
+        "text": "that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate compared to those who don't procrastinate frequently.",
+        "vi": "rằng những vùng não liên quan đến việc phát hiện mối đe dọa và điều hòa cảm xúc thực sự khác biệt ở những người trì hoãn kinh niên so với những người không thường xuyên trì hoãn.",
+        "role": "finding"
+      }
+    ]
+  },
+  {
+    "id": "influencers-sentence",
+    "meaningVi": "những người có ảnh hưởng trên mạng xã hội",
+    "translation": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+    "breakdown": [
+      {
+        "text": "One of the most effective ways of promoting a new food product is",
+        "vi": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là",
+        "role": "main idea"
+      },
+      {
+        "text": "by using social media influencers as brand ambassadors in return for free samples.",
+        "vi": "sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+        "role": "method"
+      }
+    ]
+  },
+  {
+    "id": "volunteer-sentence",
+    "meaningVi": "tình nguyện viên",
+    "translation": "Tuy nhiên, chúng tôi cố gắng sử dụng những tình nguyện viên linh hoạt, vì một số sự kiện của lễ hội được tổ chức ngoài trời và thời tiết có thể ảnh hưởng đến số lượng khán giả, thậm chí đến việc sự kiện có thể diễn ra hay không.",
+    "breakdown": [
+      {
+        "text": "We try to use volunteers who are flexible though",
+        "vi": "Tuy nhiên, chúng tôi cố gắng sử dụng những tình nguyện viên linh hoạt",
+        "role": "main idea"
+      },
+      {
+        "text": "because some festival events are held outdoors and the weather may affect the size of the audience and even whether the event can take place.",
+        "vi": "vì một số sự kiện của lễ hội được tổ chức ngoài trời và thời tiết có thể ảnh hưởng đến số lượng khán giả, thậm chí đến việc sự kiện có thể diễn ra hay không.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "boundary-sentence",
+    "meaningVi": "ranh giới",
+    "translation": "Trong khoảng một trăm năm mươi năm, vùng strike đã là động lực sống còn của trò chơi - vô số cuộc tranh cãi giữa huấn luyện viên của một đội và trọng tài đã diễn ra về ranh giới của nó và về việc liệu bóng có đi qua nó hay không.",
+    "breakdown": [
+      {
+        "text": "For a hundred and fifty years or so, the strike zone has been the game's animating force-countless arguments between",
+        "vi": "Trong khoảng một trăm năm mươi năm, vùng strike đã là động lực sống còn của trò chơi - vô số cuộc tranh cãi giữa",
+        "role": "main idea"
+      },
+      {
+        "text": "a team's manager and the umpire have taken place over its boundaries and whether a ball had crossed through it.",
+        "vi": "huấn luyện viên của một đội và trọng tài đã diễn ra về ranh giới của nó và về việc liệu bóng có đi qua nó hay không.",
+        "role": "elaboration"
+      }
+    ]
+  },
+  {
+    "id": "manatee-sentence",
+    "meaningVi": "lợn biển",
+    "translation": "Có hai phân loài lợn biển Tây Ấn: lợn biển Antille được tìm thấy ở vùng biển từ Bahamas đến Brazil, trong khi lợn biển Florida được tìm thấy ở vùng biển Hoa Kỳ, mặc dù một số cá thể đã được ghi nhận ở Bahamas.",
+    "breakdown": [
+      {
+        "text": "There are two subspecies of West Indian manatee:",
+        "vi": "Có hai phân loài lợn biển Tây Ấn:",
+        "role": "main idea"
+      },
+      {
+        "text": "The Antillean manatee is found in waters from the Bahamas to Brazil, whereas the Florida manatee is found in US waters, although some individuals have been recorded in the Bahamas.",
+        "vi": "lợn biển Antille được tìm thấy ở vùng biển từ Bahamas đến Brazil, trong khi lợn biển Florida được tìm thấy ở vùng biển Hoa Kỳ, mặc dù một số cá thể đã được ghi nhận ở Bahamas.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "umpire-sentence",
+    "meaningVi": "trọng tài",
+    "translation": "Vài năm trước, Fred DeJesus đến từ Brooklyn, New York đã trở thành trọng tài đầu tiên trong một trận bóng chày ở giải hạng nhỏ sử dụng một thứ gọi là Hệ thống Bóng-Strike Tự động (ABS), thường được gọi là 'trọng tài robot'.",
+    "breakdown": [
+      {
+        "text": "A few years ago, Fred DeJesus from Brooklyn, New York became the first umpire in a minor league",
+        "vi": "Vài năm trước, Fred DeJesus đến từ Brooklyn, New York đã trở thành trọng tài đầu tiên ở một giải bóng chày hạng nhỏ",
+        "role": "main idea"
+      },
+      {
+        "text": "baseball game to use something called the Automated Ball- Strike System (ABS), often referred to as the 'robo-umpire'.",
+        "vi": "sử dụng một thứ gọi là Hệ thống Bóng-Strike Tự động (ABS), thường được gọi là 'trọng tài robot'.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "fastball-sentence",
+    "meaningVi": "cú ném nhanh",
+    "translation": "Kiểu bóng chày này về cơ bản đã không còn tồn tại kể từ những năm 1960, khi cú ném nhanh 100 dặm một giờ, vốn khó đánh trúng và khó kiểm soát, xuất hiện trong trò chơi.",
+    "breakdown": [
+      {
+        "text": "This type of baseball essentially hasn't existed since the 1960s, when the",
+        "vi": "Kiểu bóng chày này về cơ bản đã không còn tồn tại kể từ những năm 1960, khi",
+        "role": "main idea"
+      },
+      {
+        "text": "hundred-mile-an-hour fastball, which is difficult to hit and control, entered the game.",
+        "vi": "cú ném nhanh 100 dặm một giờ, vốn khó đánh trúng và khó kiểm soát, xuất hiện trong trò chơi.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "statistic-sentence",
+    "meaningVi": "số liệu thống kê",
+    "translation": "Rất nhiều dữ kiện và số liệu thống kê.",
+    "breakdown": [
+      {
+        "text": "Lots of facts and statistics.",
+        "vi": "Rất nhiều dữ kiện và số liệu thống kê.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "barbecue-sentence",
+    "meaningVi": "bữa tiệc nướng",
+    "translation": "Trong những năm gần đây, chúng tôi đã tổ chức một buổi tiệc ở tòa thị chính và năm ngoái là một buổi tiệc nướng ở Công viên Chamber.",
+    "breakdown": [
+      {
+        "text": "In recent years, we've had a party in the",
+        "vi": "Trong những năm gần đây, chúng tôi đã tổ chức một buổi tiệc ở",
+        "role": "main idea"
+      },
+      {
+        "text": "town hall and last year a barbecue in Chamber Park.",
+        "vi": "tòa thị chính và năm ngoái là một buổi tiệc nướng ở Công viên Chamber.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "involve-sentence",
+    "meaningVi": "tham gia",
+    "translation": "Tình nguyện viên có thể tham gia vào các nhóm cộng đồng như câu lạc bộ thể thao hoặc hội những người làm vườn.",
+    "breakdown": [
+      {
+        "text": "Volunteers may get involved with community groups such as sports clubs or gardeners associations.",
+        "vi": "Tình nguyện viên có thể tham gia vào các nhóm cộng đồng như câu lạc bộ thể thao hoặc hội những người làm vườn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "carers-sentence",
+    "meaningVi": "những người chăm sóc",
+    "translation": "Họ nhận ra rằng những người chăm sóc đôi khi cần có thời gian cho tất cả những trách nhiệm khác mà họ có.",
+    "breakdown": [
+      {
+        "text": "They realize that carers sometimes need time for all the other responsibilities they have.",
+        "vi": "Họ nhận ra rằng những người chăm sóc đôi khi cần có thời gian cho tất cả những trách nhiệm khác mà họ có.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "harshly-sentence",
+    "meaningVi": "một cách khắt khe",
+    "translation": "Một nhóm người khác có xu hướng trì hoãn là những người theo chủ nghĩa hoàn hảo, những người lo lắng rằng công việc của mình sẽ bị người khác đánh giá một cách khắt khe.",
+    "breakdown": [
+      {
+        "text": "Another group of people who tend to procrastinate are perfectionists",
+        "vi": "Một nhóm người khác có xu hướng trì hoãn là những người theo chủ nghĩa hoàn hảo",
+        "role": "main idea"
+      },
+      {
+        "text": "who worry their work will be judged harshly by others.",
+        "vi": "những người lo lắng rằng công việc của mình sẽ bị người khác đánh giá một cách khắt khe.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "coastal-sentence",
+    "meaningVi": "ven biển",
+    "translation": "Nó di chuyển giữa nước ngọt và nước mặn, tận dụng các rừng ngập mặn ven biển và rạn san hô, sông, hồ và đầm phá nội địa.",
+    "breakdown": [
+      {
+        "text": "It moves between fresh water and salt water, taking advantage",
+        "vi": "Nó di chuyển giữa nước ngọt và nước mặn, tận dụng",
+        "role": "main idea"
+      },
+      {
+        "text": "of coastal mangroves and coral reefs, rivers, lakes and inland lagoons.",
+        "vi": "các rừng ngập mặn ven biển và rạn san hô, sông, hồ và đầm phá nội địa.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "employee-sentence",
+    "meaningVi": "nhân viên",
+    "translation": "Trên thực tế, trong một cuộc khảo sát ở Mỹ với hơn 22.000 nhân viên, những người tham gia cho biết họ thường xuyên trì hoãn có thu nhập hằng năm thấp hơn và ít ổn định về việc làm hơn.",
+    "breakdown": [
+      {
+        "text": "In fact, in one US survey of over 22,000 employees, participants who",
+        "vi": "Trên thực tế, trong một cuộc khảo sát ở Mỹ với hơn 22.000 nhân viên, những người tham gia",
+        "role": "evidence"
+      },
+      {
+        "text": "said they regularly procrastinated had less annual income and less employment stability.",
+        "vi": "cho biết họ thường xuyên trì hoãn có thu nhập hằng năm thấp hơn và ít ổn định về việc làm hơn.",
+        "role": "finding"
+      }
+    ]
+  },
+  {
+    "id": "pitch-sentence",
+    "meaningVi": "cú ném bóng",
+    "translation": "Khi quả bóng đầu tiên được ném đến, một giọng nói ghi sẵn đã báo cho DeJesus rằng đó là một cú strike.",
+    "breakdown": [
+      {
+        "text": "When the first pitch came in, a recorded voice told DeJesus it was a strike.",
+        "vi": "Khi quả bóng đầu tiên được ném đến, một giọng nói ghi sẵn đã báo cho DeJesus rằng đó là một cú strike.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "ambassador-sentence",
+    "meaningVi": "đại sứ",
+    "translation": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+    "breakdown": [
+      {
+        "text": "One of the most effective ways of promoting a new food product is",
+        "vi": "Một trong những cách hiệu quả nhất để quảng bá một sản phẩm thực phẩm mới là",
+        "role": "main idea"
+      },
+      {
+        "text": "by using social media influencers as brand ambassadors in return for free samples.",
+        "vi": "sử dụng những người có ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu để đổi lấy các mẫu miễn phí.",
+        "role": "method"
+      }
+    ]
+  },
+  {
+    "id": "consumption-sentence",
+    "meaningVi": "sự tiêu thụ",
+    "translation": "Một nghiên cứu xem xét gần 1.800 trường hợp mắc vào lưới đánh cá và trường hợp tiêu thụ nhựa ở các loài thú biển tại vùng biển Hoa Kỳ từ năm 2009 đến 2020 đã phát hiện rằng ít nhất 700 trường hợp liên quan đến lợn biển.",
+    "breakdown": [
+      {
+        "text": "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found",
+        "vi": "Một nghiên cứu xem xét gần 1.800 trường hợp mắc vào lưới đánh cá và trường hợp tiêu thụ nhựa ở các loài thú biển tại vùng biển Hoa Kỳ từ năm 2009 đến 2020 đã phát hiện",
+        "role": "evidence"
+      },
+      {
+        "text": "that at least 700 cases involved manatees.",
+        "vi": "rằng ít nhất 700 trường hợp liên quan đến lợn biển.",
+        "role": "finding"
+      }
+    ]
+  },
+  {
+    "id": "practical-sentence",
+    "meaningVi": "thiết thực",
+    "translation": "Đúng vậy, họ cung cấp nhiều loại hỗ trợ thiết thực khác nhau.",
+    "breakdown": [
+      {
+        "text": "Yes, they offer different kinds of practical support.",
+        "vi": "Đúng vậy, họ cung cấp nhiều loại hỗ trợ thiết thực khác nhau.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "poverty-sentence",
+    "meaningVi": "nghèo đói",
+    "translation": "Vấn đề là Tiến sĩ Lee đã nói rằng bạn phải cẩn thận với một số con số liên quan đến nghèo đói.",
+    "breakdown": [
+      {
+        "text": "The trouble is Dr. Lee was saying that you have",
+        "vi": "Vấn đề là Tiến sĩ Lee đã nói rằng bạn phải",
+        "role": "main idea"
+      },
+      {
+        "text": "to be careful with some of the figures relating to poverty.",
+        "vi": "cẩn thận với một số con số liên quan đến nghèo đói.",
+        "role": "caution"
+      }
+    ]
+  },
+  {
+    "id": "reward-sentence",
+    "meaningVi": "phần thưởng",
+    "translation": "Điều này mang lại cảm giác được thưởng, và nó khiến chúng ta có thói quen dùng sự trì hoãn để sửa chữa tâm trạng của mình.",
+    "breakdown": [
+      {
+        "text": "This is rewarding, and it conditions us to use procrastination to repair our mood.",
+        "vi": "Điều này mang lại cảm giác được thưởng, và nó khiến chúng ta có thói quen dùng sự trì hoãn để sửa chữa tâm trạng của mình.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "meal-sentence",
+    "meaningVi": "bữa ăn",
+    "translation": "Họ có thể sẽ hỏi bạn có đi mua sắm giúp bà ấy không, có giúp bà ấy vào các bữa ăn không và liệu bà ấy có thể tự xoay xở chuyện tiền bạc không.",
+    "breakdown": [
+      {
+        "text": "They'll probably ask you if you do the shopping for her and",
+        "vi": "Họ có thể sẽ hỏi bạn có đi mua sắm giúp bà ấy không và",
+        "role": "main idea"
+      },
+      {
+        "text": "help her at meal times and whether she can cope using money.",
+        "vi": "có giúp bà ấy vào các bữa ăn không và liệu bà ấy có thể tự xoay xở chuyện tiền bạc không.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "trend-sentence",
+    "meaningVi": "xu hướng",
+    "translation": "Họ có những nhóm chuyên trách theo dõi sát sao những sản phẩm hoặc nguyên liệu mới nào đang thịnh hành trên mạng xã hội và đặc biệt quan tâm đến những gì các đầu bếp nổi tiếng đang đưa vào thực đơn của họ.",
+    "breakdown": [
+      {
+        "text": "They have dedicated teams closely following",
+        "vi": "Họ có những nhóm chuyên trách theo dõi sát sao",
+        "role": "main idea"
+      },
+      {
+        "text": "which new products or ingredients are trending on social media and are particularly interested in what well-known chefs are putting on their menus.",
+        "vi": "những sản phẩm hoặc nguyên liệu mới nào đang thịnh hành trên mạng xã hội và đặc biệt quan tâm đến những gì các đầu bếp nổi tiếng đang đưa vào thực đơn của họ.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "manage-sentence",
+    "meaningVi": "quản lý",
+    "translation": "Họ ít có khả năng thực hành những hành vi lành mạnh, chẳng hạn như ăn uống lành mạnh và tập thể dục đều đặn, và sử dụng những chiến lược đối phó tiêu cực để quản lý căng thẳng của mình.",
+    "breakdown": [
+      {
+        "text": "They are less likely to practise healthy behaviours, such as eating a healthy",
+        "vi": "Họ ít có khả năng thực hành những hành vi lành mạnh, chẳng hạn như có một chế độ",
+        "role": "main idea"
+      },
+      {
+        "text": "diet and regularly exercising, and use destructive coping strategies to manage their stress.",
+        "vi": "ăn uống lành mạnh và tập thể dục đều đặn, và sử dụng những chiến lược đối phó tiêu cực để quản lý căng thẳng của mình.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "advertising-sentence",
+    "meaningVi": "quảng cáo",
+    "translation": "Tại Mỹ, thương hiệu đã quyết định không ra mắt bán lẻ quy mô lớn mà thay vào đó đưa sản phẩm vào các chuỗi quán cà phê, điều này đã loại bỏ nhu cầu về một ngân sách quảng cáo lớn.",
+    "breakdown": [
+      {
+        "text": "In the USA, the brand decided against a big retail launch in favor of getting the product into coffee chains",
+        "vi": "Tại Mỹ, thương hiệu đã quyết định không ra mắt bán lẻ quy mô lớn mà thay vào đó đưa sản phẩm vào các chuỗi quán cà phê",
+        "role": "main idea"
+      },
+      {
+        "text": "which removed the need for a big advertising budget.",
+        "vi": "điều này đã loại bỏ nhu cầu về một ngân sách quảng cáo lớn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "cycle-sentence",
+    "meaningVi": "vòng lặp",
+    "translation": "Tha thứ cho bản thân và cảm thấy từ bi khi chúng ta trì hoãn có thể giúp phá vỡ vòng luẩn quẩn của sự trì hoãn.",
+    "breakdown": [
+      {
+        "text": "Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle.",
+        "vi": "Tha thứ cho bản thân và cảm thấy từ bi khi chúng ta trì hoãn có thể giúp phá vỡ vòng luẩn quẩn của sự trì hoãn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "plastic-sentence",
+    "meaningVi": "nhựa; chất dẻo",
+    "translation": "Một nghiên cứu xem xét gần 1.800 trường hợp mắc vào lưới đánh cá và trường hợp tiêu thụ nhựa ở các loài thú biển tại vùng biển Hoa Kỳ từ năm 2009 đến 2020 đã phát hiện rằng ít nhất 700 trường hợp liên quan đến lợn biển.",
+    "breakdown": [
+      {
+        "text": "A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found",
+        "vi": "Một nghiên cứu xem xét gần 1.800 trường hợp mắc vào lưới đánh cá và trường hợp tiêu thụ nhựa ở các loài thú biển tại vùng biển Hoa Kỳ từ năm 2009 đến 2020 đã phát hiện",
+        "role": "evidence"
+      },
+      {
+        "text": "that at least 700 cases involved manatees.",
+        "vi": "rằng ít nhất 700 trường hợp liên quan đến lợn biển.",
+        "role": "finding"
+      }
+    ]
+  },
+  {
+    "id": "strike-sentence",
+    "meaningVi": "cú va chạm",
+    "translation": "Nguyên nhân chính gây tử vong ở lợn biển Florida là những cú va chạm của tàu thuyền.",
+    "breakdown": [
+      {
+        "text": "The chief cause of death in Florida manatees is boat strikes.",
+        "vi": "Nguyên nhân chính gây tử vong ở lợn biển Florida là những cú va chạm của tàu thuyền.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "limit-sentence",
+    "meaningVi": "giới hạn",
+    "translation": "Tuy nhiên, luật pháp ở một số khu vực của Florida hiện nay giới hạn tốc độ tàu thuyền vào mùa đông, cho phép những con lợn biển di chuyển chậm có thêm thời gian phản ứng.",
+    "breakdown": [
+      {
+        "text": "However, laws in certain parts of Florida now limit boat",
+        "vi": "Tuy nhiên, luật pháp ở một số khu vực của Florida hiện nay giới hạn",
+        "role": "contrast"
+      },
+      {
+        "text": "speeds during winter, allowing slow-moving manatees more time to respond.",
+        "vi": "tốc độ tàu thuyền vào mùa đông, cho phép những con lợn biển di chuyển chậm có thêm thời gian phản ứng.",
+        "role": "result"
+      }
+    ]
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "id": "herb-learn",
+    "meaningVi": "cây thảo mộc; rau thơm",
+    "translation": "Đây là một lớp học rất phổ biến, và trong số nhiều điều khác, giáo viên giải thích cách món ăn Việt Nam bao gồm rất nhiều loại thảo mộc khác nhau.",
+    "breakdown": [
+      {
+        "text": "It's a very popular class, and among other things the",
+        "vi": "Đây là một lớp học rất phổ biến, và trong số nhiều điều khác, ",
+        "role": "main idea"
+      },
+      {
+        "text": "teacher explains how Vietnamese food includes lots of different herbs.",
+        "vi": "giáo viên giải thích cách món ăn Việt Nam bao gồm rất nhiều loại thảo mộc khác nhau.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "sourdough-learn",
+    "meaningVi": "bánh mì men chua",
+    "translation": "Ồ, nhiều loại bánh mì khác nhau; tôi nghĩ họ làm bánh mì trắng và sau đó làm bánh mì men chua, món này có vẻ rất thời thượng hiện nay, và họ học cách làm pizza, món mà nghe nói thực sự rất ngon.",
+    "breakdown": [
+      {
+        "text": "Oh, various types of bread;",
+        "vi": "Ồ, nhiều loại bánh mì khác nhau;",
+        "role": "topic introduction"
+      },
+      {
+        "text": "I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good.",
+        "vi": "tôi nghĩ họ làm bánh mì trắng và sau đó làm bánh mì men chua, món này có vẻ rất thời thượng hiện nay, và họ học cách làm pizza, món mà nghe nói thực sự rất ngon.",
+        "role": "main detail"
+      }
+    ]
+  },
+  {
+    "id": "ingredient-learn",
+    "meaningVi": "nguyên liệu",
+    "translation": "Chi phí thực tế là 48 bảng, nhưng ngoài khoản đó còn có một khoản phụ phí cho nguyên liệu - tôi không chắc khoản đó là bao nhiêu, tôi nghĩ không quá hai mươi bảng.",
+    "breakdown": [
+      {
+        "text": "The actual cost is £48",
+        "vi": "Chi phí thực tế là 48 bảng",
+        "role": "cost statement"
+      },
+      {
+        "text": "but then there's an extra charge as well as that for the ingredients - I'm not sure how much that is, no more than twenty pounds I think.",
+        "vi": "nhưng ngoài khoản đó còn có một khoản phụ phí cho nguyên liệu - tôi không chắc khoản đó là bao nhiêu, tôi nghĩ không quá hai mươi bảng.",
+        "role": "additional detail"
+      }
+    ]
+  },
+  {
+    "id": "ruins-learn",
+    "meaningVi": "tàn tích; phế tích",
+    "translation": "Đừng bỏ lỡ tàn tích của một tòa nhà nào đó.",
+    "breakdown": [
+      {
+        "text": "Don't miss the ruins of a certain building.",
+        "vi": "Đừng bỏ lỡ tàn tích của một tòa nhà nào đó.",
+        "role": "advice"
+      }
+    ]
+  },
+  {
+    "id": "steep-learn",
+    "meaningVi": "dốc",
+    "translation": "Hãy cẩn thận với những con đường dốc và nhiều đá.",
+    "breakdown": [
+      {
+        "text": "Be careful of the steep and rocky paths.",
+        "vi": "Hãy cẩn thận với những con đường dốc và nhiều đá.",
+        "role": "warning"
+      }
+    ]
+  },
+  {
+    "id": "circular-learn",
+    "meaningVi": "vòng tròn; khép kín",
+    "translation": "Đây là một tuyến đi bộ vòng tròn.",
+    "breakdown": [
+      {
+        "text": "This is a circular walk.",
+        "vi": "Đây là một tuyến đi bộ vòng tròn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "far-reaching-learn",
+    "meaningVi": "mở rộng; có ảnh hưởng sâu rộng",
+    "translation": "Suốt cả chặng đường đều có những tầm nhìn xa rộng.",
+    "breakdown": [
+      {
+        "text": "There are far-reaching views the whole way.",
+        "vi": "Suốt cả chặng đường đều có những tầm nhìn xa rộng.",
+        "role": "scenery description"
+      }
+    ]
+  },
+  {
+    "id": "contaminated-learn",
+    "meaningVi": "bị ô nhiễm; bị nhiễm khuẩn",
+    "translation": "số ca bệnh do thực phẩm bị ô nhiễm gây ra",
+    "breakdown": [
+      {
+        "text": "the number of diseases caused by contaminated food",
+        "vi": "số ca bệnh do thực phẩm bị ô nhiễm gây ra",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "antibiotic-learn",
+    "meaningVi": "kháng sinh",
+    "translation": "Và nhân nói về bệnh tật, tôi biết tình trạng kháng kháng sinh đang gia tăng, nhưng tôi không biết vì sao ...",
+    "breakdown": [
+      {
+        "text": "And speaking of diseases, I knew resistance to antibiotics",
+        "vi": "Và nhân nói về bệnh tật, tôi biết tình trạng kháng kháng sinh",
+        "role": "topic shift"
+      },
+      {
+        "text": "is on the increase, but I didn't know why ...",
+        "vi": "đang gia tăng, nhưng tôi không biết vì sao ...",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "fraud-learn",
+    "meaningVi": "gian lận; lừa đảo",
+    "translation": "À, gian lận thực phẩm, đúng vậy.",
+    "breakdown": [
+      {
+        "text": "Ah, food fraud, yes.",
+        "vi": "À, gian lận thực phẩm, đúng vậy.",
+        "role": "acknowledgement"
+      }
+    ]
+  },
+  {
+    "id": "dietary-learn",
+    "meaningVi": "thuộc chế độ ăn",
+    "translation": "sự đa dạng của các yêu cầu về chế độ ăn được đưa vào",
+    "breakdown": [
+      {
+        "text": "the variety of dietary requirements included",
+        "vi": "sự đa dạng của các yêu cầu về chế độ ăn được đưa vào",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "overtourism-learn",
+    "meaningVi": "du lịch quá tải",
+    "translation": "Ngành công nghiệp tàu du lịch trong những thập kỷ gần đây một phần phải chịu trách nhiệm về những tác động của du lịch quá tải.",
+    "breakdown": [
+      {
+        "text": "The cruise ship industry has partly been responsible for the effects of overtourism in recent decades.",
+        "vi": "Ngành công nghiệp tàu du lịch trong những thập kỷ gần đây một phần phải chịu trách nhiệm về những tác động của du lịch quá tải.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "perception-learn",
+    "meaningVi": "nhận thức; cách nhìn",
+    "translation": "Và một cách nhìn khác là các chuyến du thuyền có rất nhiều quy định về việc mặc gì và cư xử thế nào.",
+    "breakdown": [
+      {
+        "text": "And another perception is that cruises have lots of rules about what to wear and how to behave.",
+        "vi": "Và một cách nhìn khác là các chuyến du thuyền có rất nhiều quy định về việc mặc gì và cư xử thế nào.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "assumption-learn",
+    "meaningVi": "giả định",
+    "translation": "Có một giả định về ______ của các chuyến du thuyền.",
+    "breakdown": [
+      {
+        "text": "There is an assumption about the ______ of cruises.",
+        "vi": "Có một giả định về ______ của các chuyến du thuyền.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "hybrid-learn",
+    "meaningVi": "lai; kết hợp hai nguồn năng lượng",
+    "translation": "Các con tàu mới được đóng với động cơ lai và pin lớn, điều này có nghĩa là tàu không phải tiếp tục chạy động cơ khi đang neo đậu.",
+    "breakdown": [
+      {
+        "text": "New ships are built with hybrid engines with large batteries which",
+        "vi": "Các con tàu mới được đóng với động cơ lai và pin lớn, điều này",
+        "role": "main idea"
+      },
+      {
+        "text": "means ships do not have to keep their engines running while docked.",
+        "vi": "có nghĩa là tàu không phải tiếp tục chạy động cơ khi đang neo đậu.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "lasting-learn",
+    "meaningVi": "lâu dài; bền vững",
+    "translation": "Mơ về những trải nghiệm trong quá khứ giúp chúng ta tạo ra những ký ức lâu dài về chúng.",
+    "breakdown": [
+      {
+        "text": "Dreaming about past experiences helps us to create lasting memories of them.",
+        "vi": "Mơ về những trải nghiệm trong quá khứ giúp chúng ta tạo ra những ký ức lâu dài về chúng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "influential-learn",
+    "meaningVi": "có ảnh hưởng",
+    "translation": "Bộ phim tài liệu của David Scheel có ảnh hưởng đến các nghiên cứu khác về mô hình giấc ngủ của bạch tuộc.",
+    "breakdown": [
+      {
+        "text": "David Scheel's documentary was influential on other research into the sleeping patterns of octopuses.",
+        "vi": "Bộ phim tài liệu của David Scheel có ảnh hưởng đến các nghiên cứu khác về mô hình giấc ngủ của bạch tuộc.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "hunting-learn",
+    "meaningVi": "săn bắt",
+    "translation": "Trong khi đang ngủ, con bạch tuộc tên Costello phản ứng như thể nó đang săn bắt.",
+    "breakdown": [
+      {
+        "text": "While it was asleep, the octopus called Costello reacted as if it was hunting.",
+        "vi": "Trong khi đang ngủ, con bạch tuộc tên Costello phản ứng như thể nó đang săn bắt.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "hearing-learn",
+    "meaningVi": "thính giác; sự nghe",
+    "translation": "Thính giác có thể là một phần quan trọng trong giấc mơ của một số loài động vật.",
+    "breakdown": [
+      {
+        "text": "Hearing may be an important part of the dreams of some animals.",
+        "vi": "Thính giác có thể là một phần quan trọng trong giấc mơ của một số loài động vật.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "rem-sleep-learn",
+    "meaningVi": "giấc ngủ REM",
+    "translation": "Ví dụ, các nhà nghiên cứu đã so sánh mô hình não của những con chuột chạy qua mê cung khi thức với mô hình não của chúng trong giấc ngủ REM.",
+    "breakdown": [
+      {
+        "text": "For example, researchers compared the brain patterns of rats running through",
+        "vi": "Ví dụ, các nhà nghiên cứu đã so sánh mô hình não của những con chuột chạy qua",
+        "role": "example"
+      },
+      {
+        "text": "a maze when awake with their brain patterns during REM sleep.",
+        "vi": "mê cung khi thức với mô hình não của chúng trong giấc ngủ REM.",
+        "role": "comparison detail"
+      }
+    ]
+  },
+  {
+    "id": "flourish-learn",
+    "meaningVi": "phát triển thịnh vượng",
+    "translation": "Vương quốc Mapungubwe hưng thịnh trong vài thế kỷ.",
+    "breakdown": [
+      {
+        "text": "The kingdom of Mapungubwe flourished for several centuries.",
+        "vi": "Vương quốc Mapungubwe hưng thịnh trong vài thế kỷ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "uncertainty-learn",
+    "meaningVi": "sự không chắc chắn",
+    "translation": "một đề cập đến sự không chắc chắn về mục đích của một số đồ vật nhất định",
+    "breakdown": [
+      {
+        "text": "a mention of the uncertainty regarding the purpose of certain objects",
+        "vi": "một đề cập đến sự không chắc chắn về mục đích của một số đồ vật nhất định",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "climatic-learn",
+    "meaningVi": "thuộc khí hậu",
+    "translation": "khả năng rằng một yếu tố khí hậu đã làm tăng thêm những vấn đề mà Mapungubwe phải đối mặt",
+    "breakdown": [
+      {
+        "text": "the likelihood that a climatic factor increased the problems Mapungubwe faced",
+        "vi": "khả năng rằng một yếu tố khí hậu đã làm tăng thêm những vấn đề mà Mapungubwe phải đối mặt",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "sceptre-learn",
+    "meaningVi": "vương trượng",
+    "translation": "Một đồ vật như vậy được phát hiện có thể là một vương trượng, trong khi bằng chứng bổ sung về việc chế tác vàng tại địa phương là một tượng tê giác nhỏ làm từ những tấm vàng mỏng được đập, cùng hàng nghìn hạt vàng nhỏ.",
+    "breakdown": [
+      {
+        "text": "One such object",
+        "vi": "Một đồ vật như vậy",
+        "role": "subject"
+      },
+      {
+        "text": "that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads.",
+        "vi": "được phát hiện có thể là một vương trượng, trong khi bằng chứng bổ sung về việc chế tác vàng tại địa phương là một tượng tê giác nhỏ làm từ những tấm vàng mỏng được đập, cùng hàng nghìn hạt vàng nhỏ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "archaeology-learn",
+    "meaningVi": "khảo cổ học",
+    "translation": "Khảo cổ học đã phát hiện ra những lớp xương và phân gia súc dày đặc, cho thấy rằng từ thế kỷ 9 sau Công nguyên đã có những đàn gia súc lớn, nguồn quyền lực chính trị truyền thống ở các cộng đồng Nam Phi.",
+    "breakdown": [
+      {
+        "text": "Archaeology has revealed extensive layers of bones and manure",
+        "vi": "Khảo cổ học đã phát hiện ra những lớp xương và phân gia súc dày đặc",
+        "role": "main idea"
+      },
+      {
+        "text": "which indicate that from the 9th century CE there were large cattle herds, the traditional source of political power in southern African communities.",
+        "vi": "cho thấy rằng từ thế kỷ 9 sau Công nguyên đã có những đàn gia súc lớn, nguồn quyền lực chính trị truyền thống ở các cộng đồng Nam Phi.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "framework-learn",
+    "meaningVi": "khuôn khổ; hệ thống quy tắc",
+    "translation": "Bản tóm tắt đề cập đến một khuôn khổ cho AI.",
+    "breakdown": [
+      {
+        "text": "The summary refers to a framework for AI.",
+        "vi": "Bản tóm tắt đề cập đến một khuôn khổ cho AI.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "implement-learn",
+    "meaningVi": "triển khai; thực hiện",
+    "translation": "không nhận thức được những thách thức của việc triển khai các sáng kiến AI quốc gia.",
+    "breakdown": [
+      {
+        "text": "be unaware of the challenges of implementing national AI initiatives.",
+        "vi": "không nhận thức được những thách thức của việc triển khai các sáng kiến AI quốc gia.",
+        "role": "answer option"
+      }
+    ]
+  },
+  {
+    "id": "impractical-learn",
+    "meaningVi": "không thực tế; khó thực hiện",
+    "translation": "Những đề xuất của Stuart Russell về việc sử dụng AI là không thực tế.",
+    "breakdown": [
+      {
+        "text": "Stuart Russell's proposals regarding the use of AI are impractical.",
+        "vi": "Những đề xuất của Stuart Russell về việc sử dụng AI là không thực tế.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "prejudice-learn",
+    "meaningVi": "thành kiến",
+    "translation": "Các hệ thống AI có thể tái tạo thành kiến xã hội.",
+    "breakdown": [
+      {
+        "text": "AI systems can reproduce social prejudice.",
+        "vi": "Các hệ thống AI có thể tái tạo thành kiến xã hội.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "solutionism-learn",
+    "meaningVi": "chủ nghĩa giải pháp công nghệ",
+    "translation": "Mặc dù không thể phủ nhận rằng AI đã mở ra nhiều cơ hội đầy hứa hẹn, nó cũng dẫn đến sự xuất hiện của một tư duy có thể được mô tả đúng nhất là 'chủ nghĩa giải pháp AI'.",
+    "breakdown": [
+      {
+        "text": "While it is undeniable",
+        "vi": "Mặc dù không thể phủ nhận",
+        "role": "concession"
+      },
+      {
+        "text": "that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'.",
+        "vi": "rằng AI đã mở ra nhiều cơ hội đầy hứa hẹn, nó cũng dẫn đến sự xuất hiện của một tư duy có thể được mô tả đúng nhất là 'chủ nghĩa giải pháp AI'.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "politician-sentence",
+    "meaningVi": "chính trị gia",
+    "translation": "Trong khi nhiều chính trị gia tuyên bố về những tác động mang tính chuyển đổi của 'cuộc cách mạng AI' sắp tới, họ lại không nhận ra sự phức tạp của việc triển khai các hệ thống học máy tiên tiến trong thế giới thực.",
+    "breakdown": [
+      {
+        "text": "While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail",
+        "vi": "Trong khi nhiều chính trị gia tuyên bố về những tác động mang tính chuyển đổi của 'cuộc cách mạng AI' sắp tới, họ lại không",
+        "role": "contrast"
+      },
+      {
+        "text": "to realise the complexity around deploying advanced machine learning systems in the real world.",
+        "vi": "nhận ra sự phức tạp của việc triển khai các hệ thống học máy tiên tiến trong thế giới thực.",
+        "role": "main clause continuation"
+      }
+    ]
+  },
+  {
+    "id": "minimise-sentence",
+    "meaningVi": "giảm thiểu",
+    "translation": "Nếu chúng ta muốn gặt hái những lợi ích và giảm thiểu những tác hại tiềm tàng của AI, chúng ta phải bắt đầu suy nghĩ về cách học máy có thể được áp dụng một cách có ý nghĩa vào các lĩnh vực cụ thể của chính phủ, doanh nghiệp và xã hội. Điều này có nghĩa là chúng ta cần có một cuộc thảo luận về đạo đức AI và sự ngờ vực mà nhiều người dành cho học máy.",
+    "breakdown": [
+      {
+        "text": "If we are to reap the benefits and minimise the potential harms of AI, wemust start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.This means we need to have a discussion about AI ethics and the distrust",
+        "vi": "Nếu chúng ta muốn gặt hái những lợi ích và giảm thiểu những tác hại tiềm tàng của AI, chúng ta phải bắt đầu suy nghĩ về cách học máy có thể được áp dụng một cách có ý nghĩa vào các lĩnh vực cụ thể của chính phủ, doanh nghiệp và xã hội. Điều này có nghĩa là chúng ta cần có một cuộc thảo luận về đạo đức AI và sự ngờ vực",
+        "role": "condition"
+      },
+      {
+        "text": "that many people have towards machine learning.",
+        "vi": "mà nhiều người dành cho học máy.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "dominate-sentence",
+    "meaningVi": "thống trị; chi phối",
+    "translation": "Hiện nay chúng ta đang thấy các chính phủ cam kết hỗ trợ các sáng kiến AI quốc gia và cạnh tranh trong một cuộc đua công nghệ để thống trị lĩnh vực học máy đang phát triển nhanh chóng.",
+    "breakdown": [
+      {
+        "text": "Weare now seeing governments pledge support to national AI initiatives and",
+        "vi": "Hiện nay chúng ta đang thấy các chính phủ cam kết hỗ trợ các sáng kiến AI quốc gia và",
+        "role": "main idea"
+      },
+      {
+        "text": "compete in a technological race to dominate the burgeoning machine-learning sector.",
+        "vi": "cạnh tranh trong một cuộc đua công nghệ để thống trị lĩnh vực học máy đang phát triển nhanh chóng.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "dreaming-sentence",
+    "meaningVi": "giấc mơ; sự mơ",
+    "translation": "Ngày càng nhiều bằng chứng từ chim và thú có vú cho thấy rằng giấc ngủ REM và giấc mơ rất quan trọng đối với việc hình thành ký ức và học tập.",
+    "breakdown": [
+      {
+        "text": "Growing evidence from birds and mammals suggests that REM",
+        "vi": "Ngày càng nhiều bằng chứng từ chim và thú có vú cho thấy rằng giấc ngủ REM",
+        "role": "main idea"
+      },
+      {
+        "text": "sleep and dreaming are important for forming memories and learning.",
+        "vi": "và giấc mơ rất quan trọng đối với việc hình thành ký ức và học tập.",
+        "role": "main clause continuation"
+      }
+    ]
+  },
+  {
+    "id": "occupation-sentence",
+    "meaningVi": "sự cư trú; sự chiếm đóng",
+    "translation": "Sự cư trú trên ngọn đồi có từ thế kỷ 11 và toàn bộ quần thể được bao quanh bởi một hàng rào gỗ*, như được chỉ ra bởi những lỗ cột đục trong đá.",
+    "breakdown": [
+      {
+        "text": "Occupation on the hill dates from the 11th century and the entire complex",
+        "vi": "Sự cư trú trên ngọn đồi có từ thế kỷ 11 và toàn bộ quần thể",
+        "role": "main idea"
+      },
+      {
+        "text": "was surrounded by a wooden palisade*, as indicated by postholes made in the rock.",
+        "vi": "được bao quanh bởi một hàng rào gỗ*, như được chỉ ra bởi những lỗ cột đục trong đá.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "disc-sentence",
+    "meaningVi": "đĩa",
+    "translation": "Ngoài ra còn có những chiếc đĩa gốm và những chiếc còi.",
+    "breakdown": [
+      {
+        "text": "There are also ceramic discs, and whistles.",
+        "vi": "Ngoài ra còn có những chiếc đĩa gốm và những chiếc còi.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "lifestyle-sentence",
+    "meaningVi": "lối sống",
+    "translation": "Ngay khi động vật tiến hóa với những lối sống phức tạp ở mức vừa phải, chúng sẽ cần phải mơ để quản lý những lối sống này.",
+    "breakdown": [
+      {
+        "text": "As soon as animals evolved moderately complex lifestyles, they would",
+        "vi": "Ngay khi động vật tiến hóa với những lối sống phức tạp ở mức vừa phải, chúng sẽ",
+        "role": "time clause"
+      },
+      {
+        "text": "have needed to dream in order to manage these lifestyles.",
+        "vi": "cần phải mơ để quản lý những lối sống này.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "topic-sentence",
+    "meaningVi": "chủ đề",
+    "translation": "Được. Và bạn có đề xuất nào về những chủ đề mới mà chúng ta có thể đưa vào khóa học không?",
+    "breakdown": [
+      {
+        "text": "OK. And do you have any recommendations for new topics that we could include in the course?",
+        "vi": "Được. Và bạn có đề xuất nào về những chủ đề mới mà chúng ta có thể đưa vào khóa học không?",
+        "role": "question"
+      }
+    ]
+  },
+  {
+    "id": "bread-sentence",
+    "meaningVi": "bánh mì",
+    "translation": "Ồ, nhiều loại bánh mì khác nhau; tôi nghĩ họ làm bánh mì trắng và sau đó làm bánh mì men chua, món này có vẻ rất thời thượng hiện nay, và họ học cách làm pizza, món mà nghe nói thực sự rất ngon.",
+    "breakdown": [
+      {
+        "text": "Oh, various types of bread;",
+        "vi": "Ồ, nhiều loại bánh mì khác nhau;",
+        "role": "topic introduction"
+      },
+      {
+        "text": "I think they make white bread and then they make sourdough, that seems to be very fashionable at present, and they learn how to make pizza, which is apparently really good.",
+        "vi": "tôi nghĩ họ làm bánh mì trắng và sau đó làm bánh mì men chua, món này có vẻ rất thời thượng hiện nay, và họ học cách làm pizza, món mà nghe nói thực sự rất ngon.",
+        "role": "main detail"
+      }
+    ]
+  },
+  {
+    "id": "bath-sentence",
+    "meaningVi": "bồn tắm",
+    "translation": "Cái nồi hơi đã được dỡ khỏi đó, nhưng trên nền đá vẫn còn những dãy bồn tắm bằng thiếc.",
+    "breakdown": [
+      {
+        "text": "The boiler has gone from there now, but there are lines of tin baths on the stone floor.",
+        "vi": "Cái nồi hơi đã được dỡ khỏi đó, nhưng trên nền đá vẫn còn những dãy bồn tắm bằng thiếc.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "tower-sentence",
+    "meaningVi": "tòa tháp",
+    "translation": "Ở điểm cao nhất, bạn có thể dừng lại để ngắm cảnh, và những ai có nhiều sức lực có thể leo lên tòa tháp nằm ở nơi từng có một nhà nghỉ săn bắn từ thế kỷ 17.",
+    "breakdown": [
+      {
+        "text": "At the highest point, you can stop to take in the views, and those with lots",
+        "vi": "Ở điểm cao nhất, bạn có thể dừng lại để ngắm cảnh, và những ai có nhiều",
+        "role": "main idea"
+      },
+      {
+        "text": "of energy can climb the tower that's situated where there was once a seventeenth century hunting lodge.",
+        "vi": "sức lực có thể leo lên tòa tháp nằm ở nơi từng có một nhà nghỉ săn bắn từ thế kỷ 17.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "object-sentence",
+    "meaningVi": "vật; đồ vật",
+    "translation": "Một đồ vật như vậy được phát hiện có thể là một vương trượng, trong khi bằng chứng bổ sung về việc chế tác vàng tại địa phương là một tượng tê giác nhỏ làm từ những tấm vàng mỏng được đập, cùng hàng nghìn hạt vàng nhỏ.",
+    "breakdown": [
+      {
+        "text": "One such object",
+        "vi": "Một đồ vật như vậy",
+        "role": "subject"
+      },
+      {
+        "text": "that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads.",
+        "vi": "được phát hiện có thể là một vương trượng, trong khi bằng chứng bổ sung về việc chế tác vàng tại địa phương là một tượng tê giác nhỏ làm từ những tấm vàng mỏng được đập, cùng hàng nghìn hạt vàng nhỏ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "pattern-sentence",
+    "meaningVi": "mô hình; kiểu mẫu",
+    "translation": "Ví dụ, các nhà nghiên cứu đã so sánh mô hình não của những con chuột chạy qua mê cung khi thức với mô hình não của chúng trong giấc ngủ REM.",
+    "breakdown": [
+      {
+        "text": "For example, researchers compared the brain patterns of rats running through",
+        "vi": "Ví dụ, các nhà nghiên cứu đã so sánh mô hình não của những con chuột chạy qua",
+        "role": "example"
+      },
+      {
+        "text": "a maze when awake with their brain patterns during REM sleep.",
+        "vi": "mê cung khi thức với mô hình não của chúng trong giấc ngủ REM.",
+        "role": "comparison detail"
+      }
+    ]
+  },
+  {
+    "id": "kingdom-sentence",
+    "meaningVi": "vương quốc",
+    "translation": "Mapungubwe cũng hưởng lợi từ đồng khai thác tại địa phương và từ thương mại vàng khi vàng đi qua vương quốc Great Zimbabwe (thế kỷ 12-15), nằm ở phía bắc Mapungubwe, đến thành phố ven biển Kosala.",
+    "breakdown": [
+      {
+        "text": "Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom",
+        "vi": "Mapungubwe cũng hưởng lợi từ đồng khai thác tại địa phương và từ thương mại vàng khi vàng đi qua vương quốc",
+        "role": "main idea"
+      },
+      {
+        "text": "of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala.",
+        "vi": "Great Zimbabwe (thế kỷ 12-15), nằm ở phía bắc Mapungubwe, đến thành phố ven biển Kosala.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "literature-sentence",
+    "meaningVi": "tài liệu nghiên cứu",
+    "translation": "Sau đó chúng tôi phải làm phần tổng quan tài liệu.",
+    "breakdown": [
+      {
+        "text": "Then we had to do the literature review.",
+        "vi": "Sau đó chúng tôi phải làm phần tổng quan tài liệu.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "diet-sentence",
+    "meaningVi": "chế độ ăn; ăn theo chế độ",
+    "translation": "Và tôi quan tâm đến ý tưởng về một cách tiếp cận được cá nhân hóa đối với chế độ ăn, giờ chúng ta đã có công nghệ để phân tích chính xác những gì mỗi cá nhân cần.",
+    "breakdown": [
+      {
+        "text": "And I'm interested in the idea of a personalised approach to",
+        "vi": "Và tôi quan tâm đến ý tưởng về một cách tiếp cận được cá nhân hóa đối với",
+        "role": "main idea"
+      },
+      {
+        "text": "diet, now we have the technology to analyse exactly what individuals need.",
+        "vi": "chế độ ăn, giờ chúng ta đã có công nghệ để phân tích chính xác những gì mỗi cá nhân cần.",
+        "role": "reason"
+      }
+    ]
+  }
+]

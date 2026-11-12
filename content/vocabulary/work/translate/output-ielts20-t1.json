@@ -1,0 +1,819 @@
+[
+  {
+    "id": "keen-on-learn",
+    "meaningVi": "say mê, rất thích",
+    "translation": "The Junction — phố Greyson, gần nhà ga — đặc biệt phù hợp với những người say mê ______ — khá đắt — ______ là một nơi thích hợp để uống một ly",
+    "breakdown": [
+      { "text": "Greyson Street, near the station", "vi": "Phố Greyson, gần nhà ga", "role": "location" },
+      {
+        "text": "especially good for people who are keen on ______",
+        "vi": "đặc biệt phù hợp với những người say mê ______",
+        "role": "main idea"
+      },
+      {
+        "text": "the ______ is a good place for a drink",
+        "vi": "______ là một nơi thích hợp để uống một ly",
+        "role": "additional detail"
+      }
+    ]
+  },
+  {
+    "id": "deposit-learn",
+    "meaningVi": "tiền đặt cọc",
+    "translation": "Chỉ có điều là bạn cần trả 50 bảng tiền đặt cọc để đặt bàn.",
+    "breakdown": [
+      {
+        "text": "The only thing is that you need to pay a £50 deposit to book a table.",
+        "vi": "Chỉ có điều là bạn cần trả 50 bảng tiền đặt cọc để đặt bàn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "set-lunch-learn",
+    "meaningVi": "suất ăn trưa giá cố định",
+    "translation": "À, bạn có thể chọn suất ăn trưa giá cố định.",
+    "breakdown": [
+      {
+        "text": "Well, you could go for the set lunch.",
+        "vi": "À, bạn có thể chọn suất ăn trưa giá cố định.",
+        "role": "suggestion"
+      }
+    ]
+  },
+  {
+    "id": "portions-learn",
+    "meaningVi": "khẩu phần",
+    "translation": "Với khẩu phần nhỏ xíu ấy à?",
+    "breakdown": [
+      {
+        "text": "With tiny portions?",
+        "vi": "Với khẩu phần nhỏ xíu ấy à?",
+        "role": "clarifying question"
+      }
+    ]
+  },
+  {
+    "id": "outlive-learn",
+    "meaningVi": "sống lâu hơn; tồn tại lâu hơn",
+    "translation": "làm ra một thứ sẽ tồn tại lâu hơn họ.",
+    "breakdown": [
+      {
+        "text": "make something that will outlive them.",
+        "vi": "làm ra một thứ sẽ tồn tại lâu hơn họ.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "calming-effect-learn",
+    "meaningVi": "tác dụng làm dịu",
+    "translation": "Heather coi trọng tác dụng làm dịu của việc làm gốm.",
+    "breakdown": [
+      {
+        "text": "Heather values pottery’s calming effect.",
+        "vi": "Heather coi trọng tác dụng làm dịu của việc làm gốm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "essential-learn",
+    "meaningVi": "thiết yếu, không thể thiếu",
+    "translation": "Một số dụng cụ là những vật thiết yếu đối với thợ gốm.",
+    "breakdown": [
+      {
+        "text": "Some tools are essential items for a potter.",
+        "vi": "Một số dụng cụ là những vật thiết yếu đối với thợ gốm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "apron-learn",
+    "meaningVi": "tạp dề",
+    "translation": "Chúng tôi sẽ phát tạp dề sau, nhưng tôi tin là quần áo của bạn cũ nhưng thoải mái, không phải chiếc áo phông hay quần jeans yêu thích của bạn.",
+    "breakdown": [
+      {
+        "text": "We'll provide aprons later, but I trust your clothes",
+        "vi": "Chúng tôi sẽ phát tạp dề sau, nhưng tôi tin là quần áo của bạn",
+        "role": "main idea"
+      },
+      {
+        "text": "are old, but comfortable, not your favorite t-shirt or jeans.",
+        "vi": "cũ nhưng thoải mái, không phải chiếc áo phông hay quần jeans yêu thích của bạn.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "dementia-learn",
+    "meaningVi": "chứng sa sút trí tuệ",
+    "translation": "Một số nghiên cứu không tìm thấy mối liên hệ nào giữa sự cô đơn và chứng sa sút trí tuệ, trong khi những nghiên cứu khác lại thấy điều ngược lại.",
+    "breakdown": [
+      {
+        "text": "Some found no association between loneliness and dementia and others found the opposite.",
+        "vi": "Một số nghiên cứu không tìm thấy mối liên hệ nào giữa sự cô đơn và chứng sa sút trí tuệ, trong khi những nghiên cứu khác lại thấy điều ngược lại.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "cardiovascular-learn",
+    "meaningVi": "liên quan đến tim mạch",
+    "translation": "Sau đó đã có rất nhiều nghiên cứu về bệnh tim mạch và liệu sự cô đơn có góp phần gây ra bệnh đó hay không.",
+    "breakdown": [
+      {
+        "text": "Then there's been a lot of research on cardiovascular disease and whether loneliness contributes to that.",
+        "vi": "Sau đó đã có rất nhiều nghiên cứu về bệnh tim mạch và liệu sự cô đơn có góp phần gây ra bệnh đó hay không.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "overstated-learn",
+    "meaningVi": "bị phóng đại",
+    "translation": "cho rằng mối liên hệ giữa sự cô đơn và sức khỏe tinh thần bị phóng đại.",
+    "breakdown": [
+      {
+        "text": "claim that the link between loneliness and mental health is overstated.",
+        "vi": "cho rằng mối liên hệ giữa sự cô đơn và sức khỏe tinh thần bị phóng đại.",
+        "role": "claim"
+      }
+    ]
+  },
+  {
+    "id": "solitude-learn",
+    "meaningVi": "sự ở một mình; sự cô độc",
+    "translation": "Vâng, nghiên cứu cho thấy một mức độ ở một mình nhất định có lợi cho sức khỏe tinh thần, điều mà tôi thấy hợp lý, nhưng ở một mình không phải là điều tôi thực sự thích.",
+    "breakdown": [
+      {
+        "text": "Yeah, the research shows a certain amount of solitude is beneficial for",
+        "vi": "Vâng, nghiên cứu cho thấy một mức độ ở một mình nhất định có lợi cho",
+        "role": "main idea"
+      },
+      {
+        "text": "well-being, which I appreciate, but being alone isn't something I actually like.",
+        "vi": "sức khỏe tinh thần, điều mà tôi thấy hợp lý, nhưng ở một mình không phải là điều tôi thực sự thích.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "sewage-learn",
+    "meaningVi": "nước thải; chất thải sinh hoạt",
+    "translation": "Số dân ngày càng tăng đồng nghĩa với việc có một sự gia tăng rất lớn về lượng nước thải xả ra các con sông.",
+    "breakdown": [
+      {
+        "text": "The rising number of people meant there was a huge",
+        "vi": "Số dân ngày càng tăng đồng nghĩa với việc có một sự gia tăng",
+        "role": "cause"
+      },
+      {
+        "text": "increase in the amount of sewage discharged into the rivers.",
+        "vi": "rất lớn về lượng nước thải xả ra các con sông.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "biologically-dead-learn",
+    "meaningVi": "chết về mặt sinh học",
+    "translation": "Năm 1957, sông Thames được tuyên bố là ______ về mặt sinh học.",
+    "breakdown": [
+      {
+        "text": "In 1957, the River Thames was declared biologically ______.",
+        "vi": "Năm 1957, sông Thames được tuyên bố là ______ về mặt sinh học.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "freight-barge-learn",
+    "meaningVi": "sà lan chở hàng",
+    "translation": "Một chiếc sà lan chở hàng có thể thay thế 44 chiếc xe tải lớn, dùng ít năng lượng hơn nhiều và gây ô nhiễm ít hơn.",
+    "breakdown": [
+      {
+        "text": "One freight barge can replace 44 large trucks, uses far less energy, and causes less pollution.",
+        "vi": "Một chiếc sà lan chở hàng có thể thay thế 44 chiếc xe tải lớn, dùng ít năng lượng hơn nhiều và gây ô nhiễm ít hơn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "warehouse-learn",
+    "meaningVi": "nhà kho",
+    "translation": "Những nhà kho từng được dùng để chứa hàng hóa nay đang được cải tạo thành những nhà hàng đắt đỏ, và cả thành những căn hộ nhìn ra sông, vốn rất được ưa chuộng và bán với giá trên trời.",
+    "breakdown": [
+      {
+        "text": "Warehouses that were once used for storing goods are now being converted into expensive restaurants",
+        "vi": "Những nhà kho từng được dùng để chứa hàng hóa nay đang được cải tạo thành những nhà hàng đắt đỏ",
+        "role": "main idea"
+      },
+      {
+        "text": "and also into apartments with river views which are in great demand sell for astronomical prices.",
+        "vi": "và cả thành những căn hộ nhìn ra sông, vốn rất được ưa chuộng và bán với giá trên trời.",
+        "role": "addition"
+      }
+    ]
+  },
+  {
+    "id": "inability-learn",
+    "meaningVi": "sự không có khả năng",
+    "translation": "Có những loài vẹt khác cũng không có khả năng bay giống như kākāpō.",
+    "breakdown": [
+      {
+        "text": "There are other parrots that share the kākāpō's inability to fly.",
+        "vi": "Có những loài vẹt khác cũng không có khả năng bay giống như kākāpō.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "feral-learn",
+    "meaningVi": "hoang dã; đã thoát khỏi nuôi nhốt",
+    "translation": "Đáng tiếc là việc mèo hoang săn bắt trên đảo Rakiura đã khiến số lượng kākāpō giảm nhanh chóng.",
+    "breakdown": [
+      {
+        "text": "Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kākāpō numbers.",
+        "vi": "Đáng tiếc là việc mèo hoang săn bắt trên đảo Rakiura đã khiến số lượng kākāpō giảm nhanh chóng.",
+        "role": "cause and result"
+      }
+    ]
+  },
+  {
+    "id": "critically-endangered-learn",
+    "meaningVi": "cực kỳ nguy cấp",
+    "translation": "Kākāpō là một loài vẹt hoạt động về đêm, không bay được và đang cực kỳ nguy cấp.",
+    "breakdown": [
+      {
+        "text": "The kākāpō is a nocturnal, flightless parrot that is critically endangered.",
+        "vi": "Kākāpō là một loài vẹt hoạt động về đêm, không bay được và đang cực kỳ nguy cấp.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "initiative-learn",
+    "meaningVi": "sáng kiến; chương trình hành động",
+    "translation": "Năm 1974, một sáng kiến mới được khởi động, và đến năm 1977, thêm 18 con kākāpō được tìm thấy ở Fiordland.",
+    "breakdown": [
+      {
+        "text": "In 1974, a new initiative was launched, and by 1977, 18 more kākāpō were found in Fiordland.",
+        "vi": "Năm 1974, một sáng kiến mới được khởi động, và đến năm 1977, thêm 18 con kākāpō được tìm thấy ở Fiordland.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "nocturnal-learn",
+    "meaningVi": "hoạt động về đêm",
+    "translation": "Kākāpō là một loài vẹt hoạt động về đêm và không bay được.",
+    "breakdown": [
+      {
+        "text": "The kākāpō is a nocturnal, flightless parrot.",
+        "vi": "Kākāpō là một loài vẹt hoạt động về đêm và không bay được.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "conservation-learn",
+    "meaningVi": "sự bảo tồn",
+    "translation": "Nhà bảo tồn học Richard Henry đã dẫn đầu nỗ lực di dời hàng trăm con chim này.",
+    "breakdown": [
+      {
+        "text": "Conservationist Richard Henry led an effort to relocate several hundred of the birds.",
+        "vi": "Nhà bảo tồn học Richard Henry đã dẫn đầu nỗ lực di dời hàng trăm con chim này.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "reintroduce-learn",
+    "meaningVi": "đưa trở lại; tái du nhập",
+    "translation": "Tuy nhiên, giờ đây có hy vọng rằng cây du có thể được đưa trở lại vùng nông thôn miền trung và miền nam nước Anh.",
+    "breakdown": [
+      {
+        "text": "However, there's now hope the elm may be reintroduced to the countryside of central and southern England.",
+        "vi": "Tuy nhiên, giờ đây có hy vọng rằng cây du có thể được đưa trở lại vùng nông thôn miền trung và miền nam nước Anh.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "resistant-learn",
+    "meaningVi": "có khả năng kháng bệnh",
+    "translation": "Điều này có nghĩa là việc tái du nhập trên diện rộng sẽ phải dùng đến các dòng lai hiện có hoặc mới, có nguồn gốc từ những loài du kháng bệnh, thường không phải loài bản địa.",
+    "breakdown": [
+      {
+        "text": "This means a widespread reintroduction would involve existing or new",
+        "vi": "Điều này có nghĩa là việc tái du nhập trên diện rộng sẽ phải dùng đến các dòng lai hiện có hoặc mới",
+        "role": "main idea"
+      },
+      {
+        "text": "hybrid strains derived from resistant, generally non- native elm species.",
+        "vi": "có nguồn gốc từ những loài du kháng bệnh, thường không phải loài bản địa.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "prominent-learn",
+    "meaningVi": "nổi bật; phổ biến; đáng chú ý",
+    "translation": "Trong nhiều thế kỷ, cây du chỉ đứng sau cây sồi với vị trí thứ hai sát nút trong số các loại cây gỗ cứng được ưa chuộng ở Anh, và trong nhiều trường hợp là loài cây nổi bật nhất trong cảnh quan.",
+    "breakdown": [
+      {
+        "text": "For centuries, elm ran a close second to oak as the hardwood tree of",
+        "vi": "Trong nhiều thế kỷ, cây du chỉ đứng sau cây sồi với vị trí thứ hai sát nút trong số các loại cây gỗ cứng được ưa chuộng",
+        "role": "main idea"
+      },
+      {
+        "text": "choice in Britain and was in many instances the most prominent tree in the landscape.",
+        "vi": "ở Anh, và trong nhiều trường hợp là loài cây nổi bật nhất trong cảnh quan.",
+        "role": "addition"
+      }
+    ]
+  },
+  {
+    "id": "vulnerable-learn",
+    "meaningVi": "dễ bị tổn thương",
+    "translation": "đề cập đến giai đoạn mà những cây du non trở nên dễ bị nhiễm bệnh du Hà Lan",
+    "breakdown": [
+      {
+        "text": "reference to the stage at which young elms become vulnerable to Dutch elm disease",
+        "vi": "đề cập đến giai đoạn mà những cây du non trở nên dễ bị nhiễm bệnh du Hà Lan",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "mature-learn",
+    "meaningVi": "trưởng thành; đã phát triển đầy đủ",
+    "translation": "Tuy vậy, người ta đã xác định được những cá thể trưởng thành, ở các hạt như Cambridgeshire, đã sống hàng trăm năm và một cách bí ẩn đã thoát khỏi dịch bệnh.",
+    "breakdown": [
+      {
+        "text": "Yet mature specimens have been identified, in counties such as Cambridgeshire",
+        "vi": "Tuy vậy, người ta đã xác định được những cá thể trưởng thành, ở các hạt như Cambridgeshire",
+        "role": "main idea"
+      },
+      {
+        "text": "that are hundreds of years old, and have mysteriously escaped the epidemic.",
+        "vi": "đã sống hàng trăm năm và một cách bí ẩn đã thoát khỏi dịch bệnh.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "widely-held-assumption-learn",
+    "meaningVi": "giả định được nhiều người tin",
+    "translation": "đặt câu hỏi về một giả định được nhiều người tin là đúng.",
+    "breakdown": [
+      {
+        "text": "questioning a widely held assumption.",
+        "vi": "đặt câu hỏi về một giả định được nhiều người tin là đúng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "methodology-learn",
+    "meaningVi": "phương pháp nghiên cứu",
+    "translation": "Tác giả mô tả phương pháp nghiên cứu của công trình này.",
+    "breakdown": [
+      {
+        "text": "The writer describes the study’s methodology.",
+        "vi": "Tác giả mô tả phương pháp nghiên cứu của công trình này.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "heightened-sensitivity-learn",
+    "meaningVi": "độ nhạy cảm tăng cao",
+    "translation": "tạo ra độ nhạy cảm tăng cao với những dấu hiệu đe dọa từ bên ngoài.",
+    "breakdown": [
+      {
+        "text": "produces heightened sensitivity to indications of external threats.",
+        "vi": "tạo ra độ nhạy cảm tăng cao với những dấu hiệu đe dọa từ bên ngoài.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "precaution-learn",
+    "meaningVi": "biện pháp phòng ngừa",
+    "translation": "Căng thẳng do các bài đăng trên mạng xã hội gây ra có thể khiến chúng ta áp dụng những biện pháp phòng ngừa không cần thiết.",
+    "breakdown": [
+      {
+        "text": "Stress created by social media posts can lead us to take unnecessary precautions.",
+        "vi": "Căng thẳng do các bài đăng trên mạng xã hội gây ra có thể khiến chúng ta áp dụng những biện pháp phòng ngừa không cần thiết.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "cortisol-learn",
+    "meaningVi": "hoóc-môn căng thẳng",
+    "translation": "Đúng như dự đoán, nồng độ cortisol của họ tăng vọt, nhịp tim tăng lên và họ đột nhiên trở nên giỏi hơn trong việc xử lý những thông tin không liên quan nhưng gây hoang mang về tỷ lệ bệnh tật và bạo lực.",
+    "breakdown": [
+      {
+        "text": "Sure enough, their cortisol levels spiked, their heart rates went up and they suddenly",
+        "vi": "Đúng như dự đoán, nồng độ cortisol của họ tăng vọt, nhịp tim tăng lên và họ đột nhiên",
+        "role": "main idea"
+      },
+      {
+        "text": "became better at processing unrelated, yet alarming, information about rates of disease and violence.",
+        "vi": "trở nên giỏi hơn trong việc xử lý những thông tin không liên quan nhưng gây hoang mang về tỷ lệ bệnh tật và bạo lực.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "firefighter-sentence",
+    "meaningVi": "lính cứu hỏa",
+    "translation": "Chúng tôi phát hiện ra rằng mối đe dọa được cảm nhận đóng vai trò là tác nhân khởi phát một phản ứng căng thẳng khiến cho việc xử lý thông tin trở nên dễ dàng hơn đối với các lính cứu hỏa — nhưng chỉ khi thông tin đó mang tin xấu.",
+    "breakdown": [
+      {
+        "text": "We found that perceived threat acted as a trigger for a stress reaction that made the task",
+        "vi": "Chúng tôi phát hiện ra rằng mối đe dọa được cảm nhận đóng vai trò là tác nhân khởi phát một phản ứng căng thẳng khiến cho nhiệm vụ",
+        "role": "main idea"
+      },
+      {
+        "text": "of processing information easier for the firefighters - but only as long as it conveyed bad news.",
+        "vi": "xử lý thông tin trở nên dễ dàng hơn đối với các lính cứu hỏa — nhưng chỉ khi thông tin đó mang tin xấu.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "loneliness-sentence",
+    "meaningVi": "sự cô đơn",
+    "translation": "Khi xem xét các nghiên cứu về rủi ro sức khỏe và sự cô đơn, có những tuyên bố rằng sự cô đơn có tác động lớn ngang với việc hút 15 điếu thuốc mỗi ngày, hoặc tương tự như những rủi ro do béo phì gây ra.",
+    "breakdown": [
+      {
+        "text": "Looking at the studies on health risks and loneliness, there are claims",
+        "vi": "Khi xem xét các nghiên cứu về rủi ro sức khỏe và sự cô đơn, có những tuyên bố",
+        "role": "context"
+      },
+      {
+        "text": "that loneliness has as much impact as smoking 15 cigarettes a day, or similar to the risks caused by obesity.",
+        "vi": "rằng sự cô đơn có tác động lớn ngang với việc hút 15 điếu thuốc mỗi ngày, hoặc tương tự như những rủi ro do béo phì gây ra.",
+        "role": "claim"
+      }
+    ]
+  },
+  {
+    "id": "riverside-sentence",
+    "meaningVi": "ven sông; bờ sông",
+    "translation": "Sau đó, trên khắp thế giới, các khu vực ven sông giờ đây được coi là những vị trí đắc địa.",
+    "breakdown": [
+      {
+        "text": "Then, all around the world, riverside areas are now seen as prime sites.",
+        "vi": "Sau đó, trên khắp thế giới, các khu vực ven sông giờ đây được coi là những vị trí đắc địa.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "stressful-sentence",
+    "meaningVi": "căng thẳng; gây căng thẳng",
+    "translation": "Sau một sự kiện công cộng gây căng thẳng, chẳng hạn như một thảm họa thiên nhiên hay một cuộc khủng hoảng tài chính lớn, thường có một làn sóng thông tin gây hoang mang trên truyền thông truyền thống và mạng xã hội, mà các cá nhân trở nên rất chú ý tới.",
+    "breakdown": [
+      {
+        "text": "After a stressful public event, such as a natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media",
+        "vi": "Sau một sự kiện công cộng gây căng thẳng, chẳng hạn như một thảm họa thiên nhiên hay một cuộc khủng hoảng tài chính lớn, thường có một làn sóng thông tin gây hoang mang trên truyền thông truyền thống và mạng xã hội",
+        "role": "time clause"
+      },
+      {
+        "text": "which individuals become very aware of.",
+        "vi": "mà các cá nhân trở nên rất chú ý tới.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "archaeologist-sentence",
+    "meaningVi": "nhà khảo cổ học",
+    "translation": "Nhưng các nhà khảo cổ học có thể biết được liệu những chiếc nồi đó dùng để, chẳng hạn, đựng đồ hay nấu nướng, bằng cách xem xét những vết in trên đất sét.",
+    "breakdown": [
+      {
+        "text": "But archaeologists can tell whether the pots were for, say",
+        "vi": "Nhưng các nhà khảo cổ học có thể biết được liệu những chiếc nồi đó dùng để, chẳng hạn,",
+        "role": "contrast"
+      },
+      {
+        "text": "storage or cooking by examining the impressions on the clay.",
+        "vi": "đựng đồ hay nấu nướng, bằng cách xem xét những vết in trên đất sét.",
+        "role": "method"
+      }
+    ]
+  },
+  {
+    "id": "pollution-sentence",
+    "meaningVi": "sự ô nhiễm",
+    "translation": "Một chiếc sà lan chở hàng có thể thay thế 44 chiếc xe tải lớn, dùng ít năng lượng hơn nhiều và gây ô nhiễm ít hơn.",
+    "breakdown": [
+      {
+        "text": "One freight barge can replace 44 large trucks, uses far less energy, and causes less pollution.",
+        "vi": "Một chiếc sà lan chở hàng có thể thay thế 44 chiếc xe tải lớn, dùng ít năng lượng hơn nhiều và gây ô nhiễm ít hơn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "kiln-sentence",
+    "meaningVi": "lò nung",
+    "translation": "Để làm ra đồ gốm bền, bạn cần một bàn xoay gốm, một lò nung — về cơ bản là một chiếc lò rất nóng để nung đồ gốm — và một số dụng cụ.",
+    "breakdown": [
+      {
+        "text": "To make pottery",
+        "vi": "Để làm ra đồ gốm",
+        "role": "purpose"
+      },
+      {
+        "text": "that will last, you need a potter's wheel, a kiln, which is basically a very hot oven where you fire the pottery, and some tools.",
+        "vi": "bền, bạn cần một bàn xoay gốm, một lò nung, về cơ bản là một chiếc lò rất nóng để nung đồ gốm, và một số dụng cụ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "pottery-sentence",
+    "meaningVi": "đồ gốm; xưởng gốm",
+    "translation": "Phần hai, bạn sẽ nghe một thợ gốm, Heather McCallum, nói chuyện với một nhóm người đang đến thăm một xưởng gốm, nơi người ta làm nồi và những đồ vật khác từ đất sét.",
+    "breakdown": [
+      {
+        "text": "Part two, you will hear a potter, Heather McCallum, speaking to a group of people",
+        "vi": "Phần hai, bạn sẽ nghe một thợ gốm, Heather McCallum, nói chuyện với một nhóm người",
+        "role": "introduction"
+      },
+      {
+        "text": "who are visiting a pottery, a place where people make pots and other objects from clay.",
+        "vi": "đang đến thăm một xưởng gốm, nơi người ta làm nồi và những đồ vật khác từ đất sét.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "lifespan-sentence",
+    "meaningVi": "tuổi thọ; vòng đời",
+    "translation": "Vậy nên thực ra không liên quan gì đến việc tuổi thọ dài hơn.",
+    "breakdown": [
+      {
+        "text": "So nothing really to do with longer lifespans.",
+        "vi": "Vậy nên thực ra không liên quan gì đến việc tuổi thọ dài hơn.",
+        "role": "conclusion"
+      }
+    ]
+  },
+  {
+    "id": "circumstance-sentence",
+    "meaningVi": "hoàn cảnh",
+    "translation": "Nhưng liệu trong những hoàn cảnh như vậy, chúng ta xử lý và sử dụng thông tin tốt hơn hay kém đi?",
+    "breakdown": [
+      {
+        "text": "But do we become better or worse at processing and using information under such circumstances?",
+        "vi": "Nhưng liệu trong những hoàn cảnh như vậy, chúng ta xử lý và sử dụng thông tin tốt hơn hay kém đi?",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "evolutionary-sentence",
+    "meaningVi": "thuộc về tiến hóa",
+    "translation": "bạn nghĩ gì về thuyết tiến hóa giải thích sự cô đơn?",
+    "breakdown": [
+      {
+        "text": "what did you think about the evolutionary theory of loneliness?",
+        "vi": "bạn nghĩ gì về thuyết tiến hóa giải thích sự cô đơn?",
+        "role": "question"
+      }
+    ]
+  },
+  {
+    "id": "stranger-sentence",
+    "meaningVi": "người lạ",
+    "translation": "Vâng, chúng ta cũng có thể thảo luận các cách đối phó với sự cô đơn, chẳng hạn như chỉ đơn giản là trò chuyện với người lạ.",
+    "breakdown": [
+      {
+        "text": "Yeah, we could discuss ways of dealing with loneliness as well, like just talking to strangers.",
+        "vi": "Vâng, chúng ta cũng có thể thảo luận các cách đối phó với sự cô đơn, chẳng hạn như chỉ đơn giản là trò chuyện với người lạ.",
+        "role": "suggestion"
+      }
+    ]
+  },
+  {
+    "id": "settler-sentence",
+    "meaningVi": "người định cư",
+    "translation": "Tuy nhiên, tất cả đã thay đổi khi những người định cư Polynesia đầu tiên đến đây khoảng 700 năm trước.",
+    "breakdown": [
+      {
+        "text": "However, this all changed with the arrival of the first Polynesian settlers about 700 years ago.",
+        "vi": "Tuy nhiên, tất cả đã thay đổi khi những người định cư Polynesia đầu tiên đến đây khoảng 700 năm trước.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "elms-sentence",
+    "meaningVi": "cây du",
+    "translation": "Ngày nay, thành phố Brighton có tổng cộng khoảng 17.000 cây du.",
+    "breakdown": [
+      {
+        "text": "Today, the city of Brighton's elms total about 17,000.",
+        "vi": "Ngày nay, thành phố Brighton có tổng cộng khoảng 17.000 cây du.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "survival-sentence",
+    "meaningVi": "sự sống sót",
+    "translation": "'Lý do nào khiến chúng sống sót?'",
+    "breakdown": [
+      {
+        "text": "'What are the reasons for their survival?'",
+        "vi": "'Lý do nào khiến chúng sống sót?'",
+        "role": "question"
+      }
+    ]
+  },
+  {
+    "id": "passenger-sentence",
+    "meaningVi": "hành khách",
+    "translation": "Hiện đã có hơn 2 tỷ lượt hành khách sử dụng phà để đi lại ở các thành phố trên khắp thế giới như Istanbul, San Francisco và New York.",
+    "breakdown": [
+      {
+        "text": "Already more than 2 billion passengers use the ferry to travel",
+        "vi": "Hiện đã có hơn 2 tỷ lượt hành khách sử dụng phà để đi lại",
+        "role": "main idea"
+      },
+      {
+        "text": "in cities around the world like Istanbul, San Francisco, and New York.",
+        "vi": "ở các thành phố trên khắp thế giới như Istanbul, San Francisco và New York.",
+        "role": "location"
+      }
+    ]
+  },
+  {
+    "id": "biological-sentence",
+    "meaningVi": "thuộc về sinh học",
+    "translation": "Mới chỉ cách đây không lâu, vào năm 1957, các nhà khoa học tại Bảo tàng Lịch sử Tự nhiên London đã tuyên bố rằng sông Thames đã chết về mặt sinh học, vì nước sông quá bẩn để có thể nuôi dưỡng bất kỳ hình thức sống nào.",
+    "breakdown": [
+      {
+        "text": "As recently as 1957, scientists at London's Natural History Museum declared",
+        "vi": "Mới chỉ cách đây không lâu, vào năm 1957, các nhà khoa học tại Bảo tàng Lịch sử Tự nhiên London đã tuyên bố",
+        "role": "time and subject"
+      },
+      {
+        "text": "that the river Thames was dead in biological terms, as the water was too filthy to support any kind of life.",
+        "vi": "rằng sông Thames đã chết về mặt sinh học, vì nước sông quá bẩn để có thể nuôi dưỡng bất kỳ hình thức sống nào.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "presentation-sentence",
+    "meaningVi": "bài thuyết trình",
+    "translation": "Tôi đang nghĩ là chúng ta nên bắt đầu bài thuyết trình bằng một ví dụ từ trải nghiệm của chính mình.",
+    "breakdown": [
+      {
+        "text": "I was thinking we should start our presentation with an example from our own experience.",
+        "vi": "Tôi đang nghĩ là chúng ta nên bắt đầu bài thuyết trình bằng một ví dụ từ trải nghiệm của chính mình.",
+        "role": "suggestion"
+      }
+    ]
+  },
+  {
+    "id": "experiment-sentence",
+    "meaningVi": "thí nghiệm",
+    "translation": "Những thăng trầm này tạo nên bối cảnh hoàn hảo cho một thí nghiệm về việc khả năng sử dụng thông tin của con người thay đổi như thế nào khi họ cảm thấy bị áp lực.",
+    "breakdown": [
+      {
+        "text": "These ups and downs presented the perfect setting for an experiment on",
+        "vi": "Những thăng trầm này tạo nên bối cảnh hoàn hảo cho một thí nghiệm về",
+        "role": "main idea"
+      },
+      {
+        "text": "how people's ability to use information changes when they feel under pressure.",
+        "vi": "việc khả năng sử dụng thông tin của con người thay đổi như thế nào khi họ cảm thấy bị áp lực.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "technique-sentence",
+    "meaningVi": "kỹ thuật",
+    "translation": "Tại xưởng gốm Edelman, chúng tôi hướng dẫn bạn một số kỹ thuật làm gốm cơ bản để bạn có thể dùng chúng để tạo ra bất cứ thứ gì bạn muốn.",
+    "breakdown": [
+      {
+        "text": "Here at Edelman Pottery, we show you some of the basic pottery",
+        "vi": "Tại xưởng gốm Edelman, chúng tôi hướng dẫn bạn một số kỹ thuật làm gốm",
+        "role": "main idea"
+      },
+      {
+        "text": "techniques so that you can use these to create whatever you wish.",
+        "vi": "cơ bản để bạn có thể dùng chúng để tạo ra bất cứ thứ gì bạn muốn.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "depression-sentence",
+    "meaningVi": "chứng trầm cảm",
+    "translation": "Vậy nên sự cô đơn và chứng trầm cảm rõ ràng có liên quan với nhau.",
+    "breakdown": [
+      {
+        "text": "So loneliness and depression are clearly related.",
+        "vi": "Vậy nên sự cô đơn và chứng trầm cảm rõ ràng có liên quan với nhau.",
+        "role": "conclusion"
+      }
+    ]
+  },
+  {
+    "id": "facility-sentence",
+    "meaningVi": "cơ sở vật chất; tiện ích",
+    "translation": "Ở Los Angeles, trên bờ biển phía tây nước Mỹ, một kiến trúc sư đang có kế hoạch hồi sinh hai bờ sông và tạo ra một công viên ở đó, nơi có thể cung cấp cơ sở vật chất cho thể thao cũng như một môi trường tự nhiên để thư giãn.",
+    "breakdown": [
+      {
+        "text": "In Los Angeles on the west coast of the USA, an architect has plans to revitalize the banks of the river and to make a park there",
+        "vi": "Ở Los Angeles, trên bờ biển phía tây nước Mỹ, một kiến trúc sư đang có kế hoạch hồi sinh hai bờ sông và tạo ra một công viên ở đó",
+        "role": "main idea"
+      },
+      {
+        "text": "which can provide facilities for sports as well as a natural environment for relaxing in.",
+        "vi": "nơi có thể cung cấp cơ sở vật chất cho thể thao cũng như một môi trường tự nhiên để thư giãn.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "transport-sentence",
+    "meaningVi": "giao thông; phương tiện vận chuyển",
+    "translation": "Nhưng để tận dụng tối đa các con sông trong những thành phố ngày càng đông đúc của chúng ta, chúng ta cần để chúng lấy lại mục đích ban đầu và được sử dụng như một phương tiện giao thông, giành lại đường phố từ xe hơi và xe tải.",
+    "breakdown": [
+      {
+        "text": "But to make the most of our rivers in our increasingly crowded cities, we need to allow them to",
+        "vi": "Nhưng để tận dụng tối đa các con sông trong những thành phố ngày càng đông đúc của chúng ta, chúng ta cần để chúng",
+        "role": "purpose"
+      },
+      {
+        "text": "regain their original purpose and be used as a means of transport, reclaiming our streets from cars and lorries.",
+        "vi": "lấy lại mục đích ban đầu và được sử dụng như một phương tiện giao thông, giành lại đường phố từ xe hơi và xe tải.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "survive-sentence",
+    "meaningVi": "sống sót; tồn tại",
+    "translation": "Theo Russell, mấu chốt là xác định và nghiên cứu những cây đã sống sót, rồi tìm ra lý do vì sao chúng vẫn đứng vững khi hàng triệu cây khác đã gục ngã.",
+    "breakdown": [
+      {
+        "text": "The key, Russell says, is to identify and study those trees",
+        "vi": "Theo Russell, mấu chốt là xác định và nghiên cứu những cây",
+        "role": "main idea"
+      },
+      {
+        "text": "that have survived and work out why they stood tall when millions of others succumbed.",
+        "vi": "đã sống sót, rồi tìm ra lý do vì sao chúng vẫn đứng vững khi hàng triệu cây khác đã gục ngã.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "danger-sentence",
+    "meaningVi": "mối nguy hiểm",
+    "translation": "Theo một số khía cạnh, nhiều người trong chúng ta hiện nay sống như thể đang gặp nguy hiểm, luôn sẵn sàng đối phó với những email và tin nhắn đòi hỏi sự chú ý, cũng như phản hồi các thông báo và bình luận trên mạng xã hội.",
+    "breakdown": [
+      {
+        "text": "In some ways, many of us now live as",
+        "vi": "Theo một số khía cạnh, nhiều người trong chúng ta hiện nay sống như",
+        "role": "main idea"
+      },
+      {
+        "text": "if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media.",
+        "vi": "thể đang gặp nguy hiểm, luôn sẵn sàng đối phó với những email và tin nhắn đòi hỏi sự chú ý, và phản hồi các thông báo và bình luận trên mạng xã hội.",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "escape-sentence",
+    "meaningVi": "thoát khỏi",
+    "translation": "Tuy vậy, người ta đã xác định được những cá thể trưởng thành, ở các hạt như Cambridgeshire, đã sống hàng trăm năm và một cách bí ẩn đã thoát khỏi dịch bệnh.",
+    "breakdown": [
+      {
+        "text": "Yet mature specimens have been identified, in counties such as Cambridgeshire",
+        "vi": "Tuy vậy, người ta đã xác định được những cá thể trưởng thành, ở các hạt như Cambridgeshire",
+        "role": "main idea"
+      },
+      {
+        "text": "that are hundreds of years old, and have mysteriously escaped the epidemic.",
+        "vi": "đã sống hàng trăm năm và một cách bí ẩn đã thoát khỏi dịch bệnh.",
+        "role": "relative clause"
+      }
+    ]
+  }
+]

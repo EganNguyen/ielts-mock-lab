@@ -1,0 +1,1396 @@
+[
+  {
+    "id": "survey-learn",
+    "term": "survey",
+    "ipa": "/ˈsɜːveɪ/",
+    "pos": "n",
+    "meaningEn": "a set of questions used to collect information",
+    "meaningVi": "bài khảo sát",
+    "synonyms": [
+      "questionnaire",
+      "poll",
+      "study"
+    ],
+    "sentenceText": "I'm doing a survey of shoppers in Broadbeach.",
+    "sentenceChunks": [
+      "I'm doing a survey of shoppers in Broadbeach."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A shopping survey in Broadbeach",
+    "questions": [
+      1,
+      2,
+      7,
+      8
+    ],
+    "source": "exam",
+    "why": "The form is a survey about shopping in Broadbeach. The word means a structured set of questions, so it helps you understand that the speaker is a respondent giving opinions.",
+    "riskHint": "n"
+  },
+  {
+    "id": "repair-learn",
+    "term": "repair",
+    "ipa": "/rɪˈper/",
+    "pos": "n",
+    "meaningEn": "work done to fix something damaged",
+    "meaningVi": "sự sửa chữa",
+    "synonyms": [
+      "fix",
+      "mend",
+      "restoration"
+    ],
+    "sentenceText": "The item is being collected after repair.",
+    "sentenceChunks": [
+      "The item is being collected after repair."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A shopping survey in Broadbeach",
+    "questions": [
+      5
+    ],
+    "source": "exam",
+    "why": "Q5 says the item is being collected after repair. The word means it has been fixed, so it helps you understand why the item is ready now rather than newly bought.",
+    "riskHint": "n"
+  },
+  {
+    "id": "unnecessary-learn",
+    "term": "unnecessary",
+    "ipa": "/ənˈnesəˌseri/",
+    "pos": "adj",
+    "meaningEn": "not needed",
+    "meaningVi": "không cần thiết",
+    "synonyms": [
+      "needless",
+      "not required",
+      "superfluous"
+    ],
+    "sentenceText": "Believes the ______ is unnecessary",
+    "sentenceChunks": [
+      "Believes the ______ is unnecessary"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A shopping survey in Broadbeach",
+    "questions": [
+      10
+    ],
+    "source": "exam",
+    "why": "Q10 asks what the speaker believes is unnecessary. The word signals a negative opinion, so you listen for a facility or feature the speaker thinks should not exist.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "out-of-town-learn",
+    "term": "out-of-town",
+    "ipa": "/ˌaʊt əv ˈtaʊn/",
+    "pos": "adj",
+    "meaningEn": "located outside the city centre",
+    "meaningVi": "ngoại thành; ngoài trung tâm",
+    "synonyms": [
+      "edge-of-town",
+      "suburban",
+      "outside the centre"
+    ],
+    "sentenceText": "## Opinions about new out-of-town Shopping Centre",
+    "sentenceChunks": [
+      "## Opinions about new out-of-town Shopping Centre"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A shopping survey in Broadbeach",
+    "questions": [
+      9,
+      10
+    ],
+    "source": "exam",
+    "why": "The form asks about a new out-of-town shopping centre. The phrase means it is outside the town centre, so it helps you compare it with the town-centre shops.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "exhibitor-learn",
+    "term": "exhibitor",
+    "ipa": "/ɪɡˈzɪbɪtə/",
+    "pos": "n",
+    "meaningEn": "a company or person showing goods at an exhibition",
+    "meaningVi": "đơn vị triển lãm",
+    "synonyms": [
+      "participant",
+      "company at a show",
+      "stand holder"
+    ],
+    "sentenceText": "In fact, the average saving made by each exhibitor came to over £400!",
+    "sentenceChunks": [
+      "In fact, the average saving made by each exhibitor came to over £400!"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A business exhibition",
+    "questions": [
+      13,
+      14
+    ],
+    "source": "exam",
+    "why": "Q13–14 discuss discounts available to exhibitors. The word means businesses taking part in the exhibition, so it helps you understand who can use the offers.",
+    "riskHint": "n"
+  },
+  {
+    "id": "discount-learn",
+    "term": "discount",
+    "ipa": "/ˈdɪskaʊnt/",
+    "pos": "n",
+    "meaningEn": "a reduction in the usual price",
+    "meaningVi": "giảm giá",
+    "synonyms": [
+      "price reduction",
+      "money off",
+      "special offer"
+    ],
+    "sentenceText": "Discounts available range from 3.5% up to an amazing 15%, so you can save a lot of money.",
+    "sentenceChunks": [
+      "Discounts available range from 3.5% up to an amazing 15%, so you can save a lot of money."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A business exhibition",
+    "questions": [
+      13,
+      14
+    ],
+    "source": "exam",
+    "why": "Q13–14 ask about discounts on popular brands. The word means a lower price, so it helps you distinguish a percentage saving from a minimum spend or a free item.",
+    "riskHint": "n"
+  },
+  {
+    "id": "rapid-expansion-learn",
+    "term": "rapid expansion",
+    "ipa": "/ˈræpɪd ɪkˈspænʃn/",
+    "pos": "n",
+    "meaningEn": "fast growth in size or scale",
+    "meaningVi": "sự mở rộng nhanh",
+    "synonyms": [
+      "quick growth",
+      "fast enlargement",
+      "sudden scale-up"
+    ],
+    "sentenceText": "C Effects of an unexpectedly rapid expansion",
+    "sentenceChunks": [
+      "C Effects of an unexpectedly rapid expansion"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A business exhibition",
+    "questions": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "Q15–20 include the effects of an unexpectedly rapid expansion. The phrase means the business grew very quickly, which can create problems as well as success.",
+    "riskHint": "n"
+  },
+  {
+    "id": "financial-set-back-learn",
+    "term": "financial set-back",
+    "ipa": "/faɪˈnænʃl ˈsetbæk/",
+    "pos": "n",
+    "meaningEn": "a problem that delays progress or causes loss of money",
+    "meaningVi": "khó khăn tài chính; thất bại về tài chính",
+    "synonyms": [
+      "money problem",
+      "financial blow",
+      "economic setback"
+    ],
+    "sentenceText": "E Coping with financial set-backs",
+    "sentenceChunks": [
+      "E Coping with financial set-backs"
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A business exhibition",
+    "questions": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "Q15–20 include coping with financial set-backs. The phrase means a problem that damages progress, so it helps you identify a speaker’s topic rather than a general business success.",
+    "riskHint": "n"
+  },
+  {
+    "id": "deadline-learn",
+    "term": "deadline",
+    "ipa": "/ˈdedlaɪn/",
+    "pos": "n",
+    "meaningEn": "the time by which work must be finished",
+    "meaningVi": "hạn chót",
+    "synonyms": [
+      "time limit",
+      "due date",
+      "cut-off"
+    ],
+    "sentenceText": "The students are worried about meeting the deadline.",
+    "sentenceChunks": [
+      "The students are worried about meeting the deadline."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A presentation on houses of the future",
+    "questions": [
+      21
+    ],
+    "source": "exam",
+    "why": "Q21 asks what Mia and Leo are both concerned about. Meeting the deadline means finishing on time, so it helps you distinguish time pressure from a lack of examples or ideas.",
+    "riskHint": "n"
+  },
+  {
+    "id": "repurpose-learn",
+    "term": "repurpose",
+    "ipa": "/ˌriːˈpɜːpəs/",
+    "pos": "v",
+    "meaningEn": "to change something so it can be used for a different purpose",
+    "meaningVi": "tái sử dụng cho mục đích khác",
+    "synonyms": [
+      "convert",
+      "adapt",
+      "reuse for a new purpose"
+    ],
+    "sentenceText": "Demand for accommodation should be met by repurposing offices and factories.",
+    "sentenceChunks": [
+      "Demand for accommodation should be met by repurposing offices and factories."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A presentation on houses of the future",
+    "questions": [
+      23
+    ],
+    "source": "exam",
+    "why": "Q23 suggests repurposing offices and factories. The word means turning old buildings into housing, so it helps you understand a solution that avoids new construction.",
+    "riskHint": "v"
+  },
+  {
+    "id": "communal-learn",
+    "term": "communal",
+    "ipa": "/kəˈmjuːnl/",
+    "pos": "adj",
+    "meaningEn": "shared by a group of people",
+    "meaningVi": "chung; cộng đồng",
+    "synonyms": [
+      "shared",
+      "collective",
+      "community"
+    ],
+    "sentenceText": "I saw a scheme for communal vegetable plots, where neighbours could decide what to grow together.",
+    "sentenceChunks": [
+      "I saw a scheme for communal vegetable plots, where neighbours could decide what to grow together."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A presentation on houses of the future",
+    "questions": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "source": "exam",
+    "why": "Q30 discusses communal vegetable plots. The word means shared by residents, so it helps you understand a design feature that builds community rather than private ownership.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "moveable-learn",
+    "term": "moveable",
+    "ipa": "/ˈmuːvəbl/",
+    "pos": "adj",
+    "meaningEn": "able to be moved or changed in position",
+    "meaningVi": "có thể di chuyển",
+    "synonyms": [
+      "adjustable",
+      "mobile",
+      "not fixed"
+    ],
+    "sentenceText": "I read about a type of design where the internal walls of an apartment are moveable, so the space can be adapted over time as people's needs change.",
+    "sentenceChunks": [
+      "I read about a type of design where the internal walls of an apartment",
+      "are moveable, so the space can be adapted over time as people's needs change."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A presentation on houses of the future",
+    "questions": [
+      26
+    ],
+    "source": "exam",
+    "why": "Q26 asks about moveable internal walls. The word means the walls can be moved, so it helps you understand a flexible housing design.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "post-surgical-learn",
+    "term": "post-surgical",
+    "ipa": "/ˌpəʊst ˈsɜːdʒɪkl/",
+    "pos": "adj",
+    "meaningEn": "following surgery",
+    "meaningVi": "sau phẫu thuật",
+    "synonyms": [
+      "after surgery",
+      "postoperative",
+      "post-operation"
+    ],
+    "sentenceText": "But music is still not an everyday part of the post-surgical phase.",
+    "sentenceChunks": [
+      "But music is still not an everyday part of the post-surgical phase."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Music therapy for surgical patients",
+    "questions": [
+      31,
+      32
+    ],
+    "source": "exam",
+    "why": "The notes discuss post-surgical strategies. The word means care after an operation, so it helps you understand the period and problems being discussed.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "wellbeing-learn",
+    "term": "wellbeing",
+    "ipa": "/ˌwelˈbiːɪŋ/",
+    "pos": "n",
+    "meaningEn": "the state of being healthy, comfortable, and happy",
+    "meaningVi": "sức khỏe tinh thần và thể chất; trạng thái khỏe khoắn",
+    "synonyms": [
+      "health and happiness",
+      "welfare",
+      "quality of life"
+    ],
+    "sentenceText": "– improved hospital patients' sense of wellbeing.",
+    "sentenceChunks": [
+      "– improved hospital patients' sense of wellbeing."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Music therapy for surgical patients",
+    "questions": [
+      33,
+      34,
+      35
+    ],
+    "source": "exam",
+    "why": "The notes say music improved patients’ sense of wellbeing. The word covers physical and emotional health, so it helps you understand a broader benefit than pain relief alone.",
+    "riskHint": "n"
+  },
+  {
+    "id": "pain-relief-learn",
+    "term": "pain relief",
+    "ipa": "/peɪn rɪˈliːf/",
+    "pos": "n",
+    "meaningEn": "the reduction of pain",
+    "meaningVi": "giảm đau",
+    "synonyms": [
+      "analgesia",
+      "easing pain",
+      "pain control"
+    ],
+    "sentenceText": "Current post-surgical strategies focus mainly on pain relief.",
+    "sentenceChunks": [
+      "Current post-surgical strategies focus mainly on pain relief."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Music therapy for surgical patients",
+    "questions": [
+      31,
+      32,
+      36
+    ],
+    "source": "exam",
+    "why": "The notes say current strategies focus mainly on pain relief. The phrase means making pain less severe, so it helps you understand what music therapy may add beyond drugs.",
+    "riskHint": "n"
+  },
+  {
+    "id": "medical-record-learn",
+    "term": "medical record",
+    "ipa": "/ˈmedɪkl ˈrekɔːd/",
+    "pos": "n",
+    "meaningEn": "a written record of a patient’s treatment and health",
+    "meaningVi": "hồ sơ bệnh án",
+    "synonyms": [
+      "patient record",
+      "health record",
+      "clinical notes"
+    ],
+    "sentenceText": "Medical records confirmed that patients who were played music in hospital needed less ______ than those who weren't played music.",
+    "sentenceChunks": [
+      "Medical records confirmed that patients who were played music in",
+      "hospital needed less ______ than those who weren't played music."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Music therapy for surgical patients",
+    "questions": [
+      36
+    ],
+    "source": "exam",
+    "why": "The notes say medical records confirmed that patients needed less medication. The phrase means official patient records, so it helps you distinguish measured evidence from patients’ opinions.",
+    "riskHint": "n"
+  },
+  {
+    "id": "decorative-learn",
+    "term": "decorative",
+    "ipa": "/ˈdekərətɪv/",
+    "pos": "adj",
+    "meaningEn": "intended to look attractive rather than be useful",
+    "meaningVi": "trang trí",
+    "synonyms": [
+      "ornamental",
+      "attractive",
+      "cosmetic"
+    ],
+    "sentenceText": "Water hyacinth was introduced as a decorative plant in east Africa.",
+    "sentenceChunks": [
+      "Water hyacinth was introduced as a decorative plant in east Africa."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The problems and benefits created by the spread of the water hyacinth in Kenya",
+    "questions": [
+      1
+    ],
+    "source": "exam",
+    "why": "Q1 asks whether water hyacinth was introduced as a decorative plant. The word means it was valued for its appearance, so it helps you distinguish an ornamental use from a practical one.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "charcoal-learn",
+    "term": "charcoal",
+    "ipa": "/ˈtʃɑːkəʊl/",
+    "pos": "n",
+    "meaningEn": "a black fuel made by burning wood without air",
+    "meaningVi": "than củi",
+    "synonyms": [
+      "charcoal fuel",
+      "wood charcoal",
+      "carbon fuel"
+    ],
+    "sentenceText": "The project is testing whether biogas can provide an effective alternative to firewood and charcoal in rural Kenyan communities.",
+    "sentenceChunks": [
+      "The project is testing whether biogas can provide an",
+      "effective alternative to firewood and charcoal in rural Kenyan communities."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The problems and benefits created by the spread of the water hyacinth in Kenya",
+    "questions": [
+      5
+    ],
+    "source": "exam",
+    "why": "Q5 compares cooking with charcoal and wood. The word means a solid fuel made from wood, so it helps you understand the health and environmental comparison.",
+    "riskHint": "n"
+  },
+  {
+    "id": "biogas-learn",
+    "term": "biogas",
+    "ipa": "/ˈbaɪəʊɡæs/",
+    "pos": "n",
+    "meaningEn": "gas produced from organic waste and used as fuel",
+    "meaningVi": "khí sinh học",
+    "synonyms": [
+      "methane from waste",
+      "renewable gas",
+      "digester gas"
+    ],
+    "sentenceText": "If biogas could become affordable on a large scale, she says it 'would be life-changing for millions on the African continent and beyond'.",
+    "sentenceChunks": [
+      "If biogas could become affordable on a large scale, she says",
+      "it 'would be life-changing for millions on the African continent and beyond'."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The problems and benefits created by the spread of the water hyacinth in Kenya",
+    "questions": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "source": "exam",
+    "why": "The flow-chart and notes concern generating biogas from water hyacinth. The word means fuel gas produced from plant or animal waste, a renewable alternative to firewood.",
+    "riskHint": "n"
+  },
+  {
+    "id": "investigate-learn",
+    "term": "investigate",
+    "ipa": "/ɪnˈvestɪɡeɪt/",
+    "pos": "v",
+    "meaningEn": "to examine something carefully to discover the facts",
+    "meaningVi": "điều tra; nghiên cứu",
+    "synonyms": [
+      "examine",
+      "research",
+      "look into"
+    ],
+    "sentenceText": "A future study will investigate the best ______ for the music.",
+    "sentenceChunks": [
+      "A future study will investigate the best ______ for the music."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The problems and benefits created by the spread of the water hyacinth in Kenya",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "Q7 asks whether scientists started investigating the possibility of using water hyacinth for biogas. The word means they began researching it, so it helps you locate the start of the project.",
+    "riskHint": "v"
+  },
+  {
+    "id": "hyacinth-learn",
+    "term": "hyacinth",
+    "ipa": "/ˈhaɪəsɪnθ/",
+    "pos": "n",
+    "meaningEn": "a plant with a thick stem and clusters of flowers",
+    "meaningVi": "cây dạ lan hương; cây lục bình",
+    "synonyms": [
+      "water hyacinth",
+      "aquatic plant",
+      "floating plant"
+    ],
+    "sentenceText": "Water hyacinth (Eichhornia crassipes), an aquatic plant native to South America, first appeared in countries in Africa in the early 1900s.",
+    "sentenceChunks": [
+      "Water hyacinth (Eichhornia crassipes), an aquatic plant native to South",
+      "America, first appeared in countries in Africa in the early 1900s."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The problems and benefits created by the spread of the water hyacinth in Kenya",
+    "questions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "source": "exam",
+    "why": "The passage is about the water hyacinth. The word names the plant, so it helps you follow its spread, effects and possible uses.",
+    "riskHint": "n"
+  },
+  {
+    "id": "literacy-learn",
+    "term": "literacy",
+    "ipa": "/ˈlɪtərəsi/",
+    "pos": "n",
+    "meaningEn": "the ability to read and write",
+    "meaningVi": "khả năng đọc viết",
+    "synonyms": [
+      "reading and writing ability",
+      "basic education",
+      "literacy skills"
+    ],
+    "sentenceText": "We hope to ... show that problem solving, numeracy and literacy can and do improve in children who are educated in a language of instruction they know.",
+    "sentenceChunks": [
+      "We hope to ... show",
+      "that problem solving, numeracy and literacy can and do improve in children who are educated in a language of instruction they know."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [
+      20
+    ],
+    "source": "exam",
+    "why": "Q20 compares literacy and numeracy tests. The word means reading and writing ability, so it helps you distinguish it from numeracy, which is about numbers.",
+    "riskHint": "n"
+  },
+  {
+    "id": "numeracy-learn",
+    "term": "numeracy",
+    "ipa": "/ˈnjuːmərəsi/",
+    "pos": "n",
+    "meaningEn": "the ability to understand and work with numbers",
+    "meaningVi": "khả năng tính toán",
+    "synonyms": [
+      "mathematical ability",
+      "number skills",
+      "arithmetic"
+    ],
+    "sentenceText": "They are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.",
+    "sentenceChunks": [
+      "They are likely to mature faster and come into",
+      "closer contact with the numeracy skills essential for day-to-day survival."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [
+      20
+    ],
+    "source": "exam",
+    "why": "Q20 compares literacy tests with numeracy tests. The word means basic mathematical ability, so it helps you keep the two test types separate.",
+    "riskHint": "n"
+  },
+  {
+    "id": "socio-economic-learn",
+    "term": "socio-economic",
+    "ipa": "/ˌsəʊsiəʊ ˌiːkəˈnɒmɪk/",
+    "pos": "adj",
+    "meaningEn": "relating to social and economic conditions",
+    "meaningVi": "thuộc kinh tế xã hội",
+    "synonyms": [
+      "social and economic",
+      "class-related",
+      "income-related"
+    ],
+    "sentenceText": "According to Tsimpli, most of the evidence from this and other projects shows that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.",
+    "sentenceChunks": [
+      "According to Tsimpli, most of the evidence from this and other projects shows",
+      "that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [
+      26
+    ],
+    "source": "exam",
+    "why": "Q26 refers to children from low socio-economic groups. The word means their family’s social and financial position, so it helps you understand which children may be disadvantaged.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "medium-of-instruction-learn",
+    "term": "medium of instruction",
+    "ipa": "/ˈmiːdiəm əv ɪnˈstrʌkʃn/",
+    "pos": "n",
+    "meaningEn": "the language used for teaching in a school",
+    "meaningVi": "ngôn ngữ giảng dạy",
+    "synonyms": [
+      "teaching language",
+      "language of instruction",
+      "classroom language"
+    ],
+    "sentenceText": "'Language is central to the way knowledge is transferred - so the medium of instruction is obviously hugely influential.",
+    "sentenceChunks": [
+      "'Language is central to the way knowledge is transferred",
+      "- so the medium of instruction is obviously hugely influential."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [
+      22,
+      24,
+      25,
+      26
+    ],
+    "source": "exam",
+    "why": "Q22–26 discuss the medium of instruction. The phrase means the language teachers use to teach subjects, not the language studied as a separate subject.",
+    "riskHint": "n"
+  },
+  {
+    "id": "multilingualism-learn",
+    "term": "multilingualism",
+    "ipa": "/ˌmʌltiˈlɪŋɡwəlɪzəm/",
+    "pos": "n",
+    "meaningEn": "the use of several languages in a society or by a person",
+    "meaningVi": "chủ nghĩa đa ngôn ngữ; sự đa ngôn ngữ",
+    "synonyms": [
+      "use of multiple languages",
+      "bilingualism",
+      "linguistic diversity"
+    ],
+    "sentenceText": "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.",
+    "sentenceChunks": [
+      "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least",
+      "two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "source": "exam",
+    "why": "The passage asks how multilingualism could benefit schoolchildren. The word means using more than one language, so it helps you understand the education debate.",
+    "riskHint": "n"
+  },
+  {
+    "id": "globe-learn",
+    "term": "globe",
+    "ipa": "/gləʊb/",
+    "pos": "n",
+    "meaningEn": "a spherical model of the Earth",
+    "meaningVi": "quả địa cầu",
+    "synonyms": [
+      "world map on a sphere",
+      "terrestrial globe",
+      "model Earth"
+    ],
+    "sentenceText": "This series of abortive experiments taught Bellerby a lot about the challenges of making globes, which he communicates here to the reader.",
+    "sentenceChunks": [
+      "This series of abortive experiments taught Bellerby a lot about the",
+      "challenges of making globes, which he communicates here to the reader."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Globemakers: The Curious Story of an Ancient Craft",
+    "questions": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "source": "exam",
+    "why": "The passage is about globe-making. The word means a spherical model of the Earth, so it helps you understand the craft and the object being reviewed.",
+    "riskHint": "n"
+  },
+  {
+    "id": "gore-learn",
+    "term": "gore",
+    "ipa": "/ɡɔː(r)/",
+    "pos": "n",
+    "meaningEn": "one of the curved strips used to cover a globe",
+    "meaningVi": "mảnh ghép hình múi cầu",
+    "synonyms": [
+      "curved globe strip",
+      "map segment",
+      "spherical panel"
+    ],
+    "sentenceText": "Bellerby's frustration at the painstaking process of attaching the gores to the globe surface - after having found a glue with precisely the right adhesive qualities - is palpable.",
+    "sentenceChunks": [
+      "Bellerby's frustration at the painstaking process of attaching the gores to the globe surface",
+      "- after having found a glue with precisely the right adhesive qualities - is palpable."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Globemakers: The Curious Story of an Ancient Craft",
+    "questions": [
+      37
+    ],
+    "source": "exam",
+    "why": "Q37 mentions attaching the gores to the globe surface. The word means the curved strips that form the map, a technical term needed to understand the production process.",
+    "riskHint": "n"
+  },
+  {
+    "id": "accurate-learn",
+    "term": "accurate",
+    "ipa": "/ˈækjərət/",
+    "pos": "adj",
+    "meaningEn": "correct and exact",
+    "meaningVi": "chính xác",
+    "synonyms": [
+      "precise",
+      "correct",
+      "exact"
+    ],
+    "sentenceText": "The globe made by Crates of Mallus was an accurate representation of the known world.",
+    "sentenceChunks": [
+      "The globe made by Crates of Mallus was an accurate representation of the known world."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Globemakers: The Curious Story of an Ancient Craft",
+    "questions": [
+      35
+    ],
+    "source": "exam",
+    "why": "Q35 asks whether Crates’s globe was an accurate representation. The word means it correctly showed the known world, so it helps you judge the claim rather than assume all old maps were wrong.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "profitable-learn",
+    "term": "profitable",
+    "ipa": "/ˈprɒfɪtəbl/",
+    "pos": "adj",
+    "meaningEn": "making a financial profit",
+    "meaningVi": "có lợi nhuận",
+    "synonyms": [
+      "money-making",
+      "lucrative",
+      "commercially successful"
+    ],
+    "sentenceText": "It does not tell you how to create a profitable business.",
+    "sentenceChunks": [
+      "It does not tell you how to create a profitable business."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Globemakers: The Curious Story of an Ancient Craft",
+    "questions": [
+      40
+    ],
+    "source": "exam",
+    "why": "Q40 asks whether the book explains how to create a profitable business. The word means making money, so it helps you distinguish a craft story from a business guide.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "craftsmanship-learn",
+    "term": "craftsmanship",
+    "ipa": "/ˈkrɑːftsmənʃɪp/",
+    "pos": "n",
+    "meaningEn": "the skill and quality of work involved in making something",
+    "meaningVi": "tay nghề thủ công; sự khéo léo",
+    "synonyms": [
+      "workmanship",
+      "skill",
+      "artisanal quality"
+    ],
+    "sentenceText": "But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers of the past and the obsessive determination of a modern successor who revived their almost moribund art.",
+    "sentenceChunks": [
+      "But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers",
+      "of the past and the obsessive determination of a modern successor who revived their almost moribund art."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Globemakers: The Curious Story of an Ancient Craft",
+    "questions": [
+      33,
+      37,
+      39
+    ],
+    "source": "exam",
+    "why": "The review praises the craftsmanship of globe makers. The word means high-quality manual skill, so it helps you understand why the craft is valued.",
+    "riskHint": "n"
+  },
+  {
+    "id": "schoolchildren-sentence",
+    "term": "schoolchildren",
+    "ipa": "/ˈskuˌltʃɪldrən/",
+    "pos": "noun",
+    "meaningEn": "a key term used in this section",
+    "meaningVi": "",
+    "synonyms": [
+      "schoolchildren"
+    ],
+    "sentenceText": "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.",
+    "sentenceChunks": [
+      "The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least",
+      "two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "surgical-sentence",
+    "term": "surgical",
+    "ipa": "/ˈsədʒɪkəl/",
+    "pos": "adjective",
+    "meaningEn": "of or relating to or involving or used in surgery",
+    "meaningVi": "",
+    "synonyms": [
+      "operative"
+    ],
+    "sentenceText": "When asked to report their experience of listening to music, surgical patients said that either they had no feelings of anxiety at any point, or those feelings were only slight.",
+    "sentenceChunks": [
+      "When asked to report their experience of listening to music, surgical patients said",
+      "that either they had no feelings of anxiety at any point, or those feelings were only slight."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Music therapy for surgical patients",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "instruction-sentence",
+    "term": "instruction",
+    "ipa": "/ˌɪnˈstrəkʃən/",
+    "pos": "noun",
+    "meaningEn": "a message describing how something is to be done",
+    "meaningVi": "",
+    "synonyms": [
+      "direction",
+      "education",
+      "teaching",
+      "pedagogy"
+    ],
+    "sentenceText": "Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.",
+    "sentenceChunks": [
+      "Although the findings are at a preliminary stage, Tsimpli and her team have found",
+      "that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "slum-sentence",
+    "term": "slum",
+    "ipa": "/sləm/",
+    "pos": "noun",
+    "meaningEn": "a district of a city marked by poverty and inferior living conditions",
+    "meaningVi": "",
+    "synonyms": [
+      "slum area"
+    ],
+    "sentenceText": "The research project, which focuses on 8 to 11-year- old schoolchildren in rural and urban areas, collects data on whether the schoolchildren live in slum* or non-slum areas.",
+    "sentenceChunks": [
+      "The research project",
+      "which focuses on 8 to 11-year- old schoolchildren in rural and urban areas, collects data on whether the schoolchildren live in slum* or non-slum areas."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "exhibit-sentence",
+    "term": "exhibit",
+    "ipa": "/ɪgˈzɪbɪt/",
+    "pos": "verb",
+    "meaningEn": "show an attribute, property, knowledge, or skill",
+    "meaningVi": "",
+    "synonyms": [
+      "expose",
+      "display"
+    ],
+    "sentenceText": "As well as a unique chance to publicise your company, businesses who exhibit with us can claim discounts on a number of popular brands, including major high street fashion and jewellery outlets.",
+    "sentenceChunks": [
+      "As well as a unique chance to publicise your company, businesses who exhibit with us can",
+      "claim discounts on a number of popular brands, including major high street fashion and jewellery outlets."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A business exhibition",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "unfamiliar-sentence",
+    "term": "unfamiliar",
+    "ipa": "/ˌənfəˈmɪljə/",
+    "pos": "adjective",
+    "meaningEn": "not known or well known",
+    "meaningVi": "",
+    "synonyms": [
+      "unfamiliar"
+    ],
+    "sentenceText": "It may be that these low learning outcomes are because of the way education is provided in India, with a huge focus on Hindi and English as the mediums of instruction, to the potential detriment of children unfamiliar with those languages,' explains Tsimpli.",
+    "sentenceChunks": [
+      "It may be that these low learning outcomes are because of the way education is provided in India, with a huge",
+      "focus on Hindi and English as the mediums of instruction, to the potential detriment of children unfamiliar with those languages,' explains Tsimpli."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "specially-sentence",
+    "term": "specially",
+    "ipa": "/ˈspeʃəli/",
+    "pos": "adverb",
+    "meaningEn": "in a special manner",
+    "meaningVi": "",
+    "synonyms": [
+      "especially",
+      "particularly",
+      "peculiarly"
+    ],
+    "sentenceText": "specially designed for their needs.",
+    "sentenceChunks": [
+      "specially designed for their needs."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A presentation on houses of the future",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adverb"
+  },
+  {
+    "id": "attach-sentence",
+    "term": "attach",
+    "ipa": "/əˈtætʃ/",
+    "pos": "noun",
+    "meaningEn": "cause to be attached",
+    "meaningVi": "",
+    "synonyms": [
+      "attach"
+    ],
+    "sentenceText": "Bellerby's frustration at the painstaking process of attaching the gores to the globe surface - after having found a glue with precisely the right adhesive qualities - is palpable.",
+    "sentenceChunks": [
+      "Bellerby's frustration at the painstaking process of attaching the gores to the globe surface",
+      "- after having found a glue with precisely the right adhesive qualities - is palpable."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Globemakers: The Curious Story of an Ancient Craft",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "broadcaster-sentence",
+    "term": "broadcaster",
+    "ipa": "/ˈbrɔdˌkæstə/",
+    "pos": "noun",
+    "meaningEn": "someone who broadcasts on radio or television",
+    "meaningVi": "",
+    "synonyms": [
+      "spreader"
+    ],
+    "sentenceText": "Francesca Heptonstall is a broadcaster and businesswoman who's known for her down- to-earth attitude.",
+    "sentenceChunks": [
+      "Francesca Heptonstall is a broadcaster and businesswoman who's known for her down- to-earth attitude."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A business exhibition",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "cooking-sentence",
+    "term": "cooking",
+    "ipa": "/ˈkʊkɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the act of preparing something (as food) by the application of heat",
+    "meaningVi": "",
+    "synonyms": [
+      "cookery",
+      "preparation"
+    ],
+    "sentenceText": "The community received a pair of donated biogas digesters - machines that would transform a mix of water hyacinth and cow dung into biogas for cooking.",
+    "sentenceChunks": [
+      "The community received a pair of donated biogas digesters - machines",
+      "that would transform a mix of water hyacinth and cow dung into biogas for cooking."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The problems and benefits created by the spread of the water hyacinth in Kenya",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "exposure-sentence",
+    "term": "exposure",
+    "ipa": "/ɪkˈspəʊʒə/",
+    "pos": "noun",
+    "meaningEn": "vulnerability to the elements; to the action of heat or cold or wind or rain;  or",
+    "meaningVi": "",
+    "synonyms": [
+      "exposure"
+    ],
+    "sentenceText": "Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.",
+    "sentenceChunks": [
+      "Although the findings are at a preliminary stage, Tsimpli and her team have found",
+      "that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "tradition-sentence",
+    "term": "tradition",
+    "ipa": "/trəˈdɪʃən/",
+    "pos": "noun",
+    "meaningEn": "an inherited pattern of thought or action",
+    "meaningVi": "",
+    "synonyms": [
+      "custom"
+    ],
+    "sentenceText": "Although a celebration of the revival of an ancient craft, Bellerby's book is also a lament for the fading away of centuries-old traditions.",
+    "sentenceChunks": [
+      "Although a celebration of the revival of an ancient craft, Bellerby's",
+      "book is also a lament for the fading away of centuries-old traditions."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Globemakers: The Curious Story of an Ancient Craft",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "outcome-sentence",
+    "term": "outcome",
+    "ipa": "/ˈaʊtˌkəm/",
+    "pos": "noun",
+    "meaningEn": "something that results",
+    "meaningVi": "",
+    "synonyms": [
+      "result",
+      "resultant",
+      "final result",
+      "termination"
+    ],
+    "sentenceText": "Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home.",
+    "sentenceChunks": [
+      "Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language",
+      "that children are taught in often differs from the language used at home."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "How could multilingualism benefit India's poorest schoolchildren?",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "thick-sentence",
+    "term": "thick",
+    "ipa": "/θɪk/",
+    "pos": "noun",
+    "meaningEn": "the location of something surrounded by other things",
+    "meaningVi": "",
+    "synonyms": [
+      "midst"
+    ],
+    "sentenceText": "And each day as they cook, they breathe in the thick, grey smoke.",
+    "sentenceChunks": [
+      "And each day as they cook, they breathe in the thick, grey smoke."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The problems and benefits created by the spread of the water hyacinth in Kenya",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "organisation-sentence",
+    "term": "organisation",
+    "ipa": "/ˌɔːgənɪˈzeɪʃən/",
+    "pos": "noun",
+    "meaningEn": "the persons (or committees or departments etc.) who make up a body for the purpose of administering something",
+    "meaningVi": "",
+    "synonyms": [
+      "administration",
+      "governance",
+      "governing body",
+      "establishment"
+    ],
+    "sentenceText": "David's company has gone from strength to strength but he isn't just interested in making money - he also makes regular donations to organisations helping those in need both in the UK and elsewhere in the world.",
+    "sentenceChunks": [
+      "David's company has gone from strength to strength",
+      "but he isn't just interested in making money - he also makes regular donations to organisations helping those in need both in the UK and elsewhere in the world."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "A business exhibition",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "clothing-sentence",
+    "term": "clothing",
+    "ipa": "/ˈkləʊðɪŋ/",
+    "pos": "noun",
+    "meaningEn": "a covering designed to be worn on a person's body",
+    "meaningVi": "",
+    "synonyms": [
+      "article of clothing",
+      "vesture",
+      "wear",
+      "wearable"
+    ],
+    "sentenceText": "Well, I think we have enough clothing shops.",
+    "sentenceChunks": [
+      "Well, I think we have enough clothing shops."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A shopping survey in Broadbeach",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  }
+]

@@ -1,0 +1,58 @@
+{
+ "ielts20-t1": {
+  "book": "IELTS 20",
+  "test": 1,
+  "file": "content/vocabulary/work/answers/request-ielts20-t1.json",
+  "items": 32,
+  "refs": 40
+ },
+ "ielts20-t2": {
+  "book": "IELTS 20",
+  "test": 2,
+  "file": "content/vocabulary/work/answers/request-ielts20-t2.json",
+  "items": 31,
+  "refs": 56
+ },
+ "ielts20-t3": {
+  "book": "IELTS 20",
+  "test": 3,
+  "file": "content/vocabulary/work/answers/request-ielts20-t3.json",
+  "items": 31,
+  "refs": 52
+ },
+ "ielts20-t4": {
+  "book": "IELTS 20",
+  "test": 4,
+  "file": "content/vocabulary/work/answers/request-ielts20-t4.json",
+  "items": 32,
+  "refs": 51
+ },
+ "ielts21-t1": {
+  "book": "IELTS 21",
+  "test": 1,
+  "file": "content/vocabulary/work/answers/request-ielts21-t1.json",
+  "items": 33,
+  "refs": 48
+ },
+ "ielts21-t2": {
+  "book": "IELTS 21",
+  "test": 2,
+  "file": "content/vocabulary/work/answers/request-ielts21-t2.json",
+  "items": 31,
+  "refs": 63
+ },
+ "ielts21-t3": {
+  "book": "IELTS 21",
+  "test": 3,
+  "file": "content/vocabulary/work/answers/request-ielts21-t3.json",
+  "items": 33,
+  "refs": 67
+ },
+ "ielts21-t4": {
+  "book": "IELTS 21",
+  "test": 4,
+  "file": "content/vocabulary/work/answers/request-ielts21-t4.json",
+  "items": 32,
+  "refs": 86
+ }
+}

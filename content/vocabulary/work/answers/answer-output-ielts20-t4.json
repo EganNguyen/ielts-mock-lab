@@ -1,0 +1,195 @@
+{
+  "tag": "ielts20-t4",
+  "links": {
+    "accommodation-learn|l1|q1": {
+      "support": "Actually, I always recommend people stay at the King's Hotel.",
+      "connection": "The note asks which hotel is on George Street; the sentence names 'the King's Hotel' as the hotel recommended for accommodation.",
+      "paraphrasing": "'______ Hotel' -> 'the King's Hotel'"
+    },
+    "accommodation-learn|l1|q2": {
+      "support": "If you book a family room, it's about £125 per night.",
+      "connection": "The note asks the approximate cost of a family room per night, and the sentence gives it directly.",
+      "paraphrasing": "'cost of family room per night: £______ (approx.)' -> 'a family room ... about £125 per night'"
+    },
+    "exhibition-learn|l1|q6": {
+      "support": "There's another one starting soon on space, which looks really good, too.",
+      "connection": "The note asks what the exhibition opening soon is about; 'another one' is the exhibition, and it is 'on space'.",
+      "paraphrasing": "'the exhibition about ______, which opens soon' -> 'another one starting soon on space'"
+    },
+    "bargain-learn|l1|q9": {
+      "support": "On some seats, there's a 75% discount.",
+      "connection": "The note asks the percentage saved on ticket prices; the sentence gives 'a 75% discount' on 'some seats'.",
+      "paraphrasing": "'save up to ______% on ticket prices' -> 'a 75% discount' on 'some seats'"
+    },
+    "view-learn|l1|q10": {
+      "support": "You'll be able to look right down on the port.",
+      "connection": "The note asks what view can be seen from Telegraph Hill; 'look right down on' describes that view.",
+      "paraphrasing": "'see a view of the ______' -> 'look right down on the port'"
+    },
+    "spectator-learn|l2|q20": {
+      "support": "In 1880, clubs began to charge fans for admission to games, even though players were still amateurs and had other proper jobs.",
+      "connection": "The question asks which event happened in 1880; the sentence opens 'In 1880' and describes clubs charging fans for admission.",
+      "paraphrasing": "'the introduction of a fee for spectators' -> 'clubs began to charge fans for admission to games'"
+    },
+    "fee-learn|l2|q20": {
+      "support": "In 1880, clubs began to charge fans for admission to games, even though players were still amateurs and had other proper jobs.",
+      "connection": "The question asks which event happened in 1880; the sentence opens 'In 1880' and describes clubs charging fans for admission.",
+      "paraphrasing": "'the introduction of a fee for spectators' -> 'clubs began to charge fans for admission to games'"
+    },
+    "competition-learn|l2|q12": {
+      "support": "Please don't let your children wander off on their own, even for a minute.",
+      "connection": "The question asks what the speaker says about visiting with children; parents are told not to let children 'wander off on their own, even for a minute'.",
+      "paraphrasing": "'Parents must stay with their children at all times' -> 'don't let your children wander off on their own, even for a minute'"
+    },
+    "fine-motor-skills-learn|l3|q21": {
+      "support": "What's less obvious is how it helps develop their concentration.",
+      "connection": "The question asks which benefit the students found surprising; 'What's less obvious' marks the surprise, and the benefit named is 'develop their concentration'.",
+      "paraphrasing": "'improved concentration' -> 'how it helps develop their concentration'"
+    },
+    "spatial-awareness-learn|l3|q21": {
+      "support": "What's less obvious is how it helps develop their concentration.",
+      "connection": "The question asks which benefit the students found surprising; 'What's less obvious' marks the surprise, and the benefit named is 'develop their concentration'.",
+      "paraphrasing": "'improved concentration' -> 'how it helps develop their concentration'"
+    },
+    "dyspraxia-learn|l3|q23": {
+      "support": "One quite simple thing you can do is to use grid paper so they write each letter in a box and that trains them to space the letters correctly.",
+      "connection": "The question asks which handwriting problem is easiest to correct; 'One quite simple thing you can do' introduces the fix that trains children to 'space the letters correctly'.",
+      "paraphrasing": "'not spacing letters correctly' -> 'trains them to space the letters correctly'"
+    },
+    "cursive-learn|l3|q26": {
+      "support": "Teachers' attitudes have changed because it's been proved that cursive is more difficult to learn, especially for children with learning difficulties who find joining up letters is really challenging.",
+      "connection": "The question asks what the woman thinks about teaching cursive; the sentence says cursive is 'more difficult to learn, especially for children with learning difficulties'.",
+      "paraphrasing": "'cursive writing disadvantages a certain group of children' -> 'cursive is more difficult to learn, especially for children with learning difficulties'"
+    },
+    "birds-of-prey-learn|l4|q31": {
+      "support": "For example, a lot of damage can be caused to farmers crops by rodents such as rats, which would consume the crops as they grow in the fields as well as after harvesting if they weren't hunted and killed by the birds.",
+      "connection": "The note asks which rodents the birds destroy; the sentence names 'rodents such as rats' and says they are 'hunted and killed by the birds'.",
+      "paraphrasing": "'They destroy ______ and other rodents' -> 'rodents such as rats ... hunted and killed by the birds'"
+    },
+    "rodent-learn|l4|q31": {
+      "support": "For example, a lot of damage can be caused to farmers crops by rodents such as rats, which would consume the crops as they grow in the fields as well as after harvesting if they weren't hunted and killed by the birds.",
+      "connection": "The note asks which rodents the birds destroy; the sentence names 'rodents such as rats' and says they are 'hunted and killed by the birds'.",
+      "paraphrasing": "'They destroy ______ and other rodents' -> 'rodents such as rats ... hunted and killed by the birds'"
+    },
+    "birds-of-prey-learn|l4|q32": {
+      "support": "For example, a major danger to rural workers is snakes whose bite may be dangerous or even fatal.",
+      "connection": "The note asks what farmers are protected from being bitten by; the sentence names 'snakes whose bite may be dangerous or even fatal'.",
+      "paraphrasing": "'prevent farmers from being bitten by ______' -> 'snakes whose bite may be dangerous or even fatal'"
+    },
+    "birds-of-prey-learn|l4|q33": {
+      "support": "However, more recently, the sanctuary and its birds have also become increasingly important to the community in economic terms because at present, after a relatively slow start, tourism has become an important source of revenue for them.",
+      "connection": "The note asks what the birds encourage in order to support the economy; the sentence links 'economic terms' with 'tourism has become an important source of revenue'.",
+      "paraphrasing": "'support the economy by encouraging ______' -> 'important to the community in economic terms because ... tourism has become an important source of revenue'"
+    },
+    "electrocute-learn|l4|q35": {
+      "support": "This is a particular danger in the heavy rain which can occur in the region in the months from December to April.",
+      "connection": "The note asks what condition makes electrocution especially likely; the sentence says the danger is 'in the heavy rain'.",
+      "paraphrasing": "'especially when there is a lot of ______' -> 'a particular danger in the heavy rain'"
+    },
+    "vegetation-learn|l4|q37": {
+      "support": "Another possibility would be to prevent the chickens from going outside at all and to keep them safe from predators inside a building, but this would cost far too much to be a practical solution.",
+      "connection": "The note asks about providing a building for chickens and notes that it is expensive; the sentence says keeping them 'inside a building ... would cost far too much'.",
+      "paraphrasing": "'providing a ______ for chickens (expensive)' -> 'inside a building, but this would cost far too much'"
+    },
+    "influence-learn|r1|q8": {
+      "support": "Remarkably, she remained independent from shifting art trends and her work stayed true to her own vision, which was based on finding the essential, abstract forms in nature.",
+      "connection": "The statement says O'Keeffe's style was influenced by changing art fashions; the passage says she 'remained independent from shifting art trends'.",
+      "paraphrasing": "'greatly influenced by the changing fashions in art' -> 'remained independent from shifting art trends'"
+    },
+    "career-learn|r1|q9": {
+      "support": "By the time she graduated from high school in 1905, she had determined to make her way as an artist.",
+      "connection": "The statement says she had decided on her career when she finished high school; the passage says 'By the time she graduated from high school ... she had determined to make her way as an artist'.",
+      "paraphrasing": "'had already made her mind up about the career that she wanted' -> 'had determined to make her way as an artist'"
+    },
+    "abstract-learn|r1|q10": {
+      "support": "She sent some of these drawings to a friend in New York, who showed them to art collector and photographer Alfred Stieglitz in January 1916.",
+      "connection": "The statement says she sent the drawings to Stieglitz's gallery; the passage says she sent them to 'a friend in New York, who showed them to ... Alfred Stieglitz'.",
+      "paraphrasing": "'sent some abstract drawings to his gallery in New York City' -> 'sent some of these drawings to a friend in New York, who showed them to ... Alfred Stieglitz'"
+    },
+    "subject-learn|r1|q11": {
+      "support": "The ups and downs of their personal and professional relationship were recorded in Stieglitz's celebrated black-and-white portraits of O'Keeffe, taken over the course of twenty years (1917-37).",
+      "connection": "The statement says O'Keeffe was the subject of Stieglitz's photographic work for many years; the passage cites 'portraits of O'Keeffe, taken over the course of twenty years'.",
+      "paraphrasing": "'the subject of Stieglitz's photographic work for many years' -> 'Stieglitz's celebrated black-and-white portraits of O'Keeffe, taken over the course of twenty years'"
+    },
+    "cost-effective-learn|r2|q16": {
+      "support": "It's much cheaper than permanently elevating houses, English explains - about a third of what it would cost to completely replace a building's foundations.",
+      "connection": "The question asks for a reference to a particularly cost-effective solution; the sentence says the method is 'much cheaper'.",
+      "paraphrasing": "'particularly cost-effective' -> 'much cheaper ... about a third of what it would cost'"
+    },
+    "intervention-learn|r2|q17": {
+      "support": "Using a Geographic Information System data mapping tool, the programme identified streets with low tree canopy cover in three of the city's neighbourhoods and covered them with a light-grey, light-reflecting coating, which had already been shown to lower road surface temperature in Los Angeles by 6°C.",
+      "connection": "The question asks for a technology used to locate areas most in need of intervention; the sentence names a 'Geographic Information System data mapping tool' used to identify streets.",
+      "paraphrasing": "'a technology used to locate areas most in need of intervention' -> 'Using a Geographic Information System data mapping tool, the programme identified streets with low tree canopy cover'"
+    },
+    "resident-learn|r2|q24": {
+      "support": "'Urban cooling is literally a matter of life and death for our future in LA,' says Spotts.",
+      "connection": "The statement says heat-reducing interventions are vital for survival in this location; Spotts says 'Urban cooling is literally a matter of life and death for our future in LA'.",
+      "paraphrasing": "'Interventions which reduce heat are absolutely vital for our survival in this location' -> 'Urban cooling is literally a matter of life and death for our future in LA'"
+    },
+    "adapt-learn|r2|q14": {
+      "support": "There have been many attempts to restore the island's coastal mangroves: ecosystems of trees and shrubs that help defend coastal areas by trapping sediment in their net-like root systems, elevating the sea bed and dampening the energy of waves and tidal currents.",
+      "connection": "The question asks how a type of plant protects coastlines; the sentence describes mangroves, which 'help defend coastal areas'.",
+      "paraphrasing": "'a type of plant functions as a natural protection for coastlines' -> 'coastal mangroves ... help defend coastal areas'"
+    },
+    "mangrove-learn|r2|q14": {
+      "support": "There have been many attempts to restore the island's coastal mangroves: ecosystems of trees and shrubs that help defend coastal areas by trapping sediment in their net-like root systems, elevating the sea bed and dampening the energy of waves and tidal currents.",
+      "connection": "The question asks how a type of plant protects coastlines; the sentence describes mangroves, which 'help defend coastal areas'.",
+      "paraphrasing": "'a type of plant functions as a natural protection for coastlines' -> 'coastal mangroves ... help defend coastal areas'"
+    },
+    "adapt-learn|r2|q15": {
+      "support": "Even if we stopped all CO2 emissions tomorrow, we would continue to see the impact of the CO2 already released since industrial times, with scientists forecasting that global warming would continue for around 40 years.",
+      "connection": "The question asks for a prediction about how long the effects of climate change would last; the sentence says scientists forecast warming 'would continue for around 40 years'.",
+      "paraphrasing": "'how long it could take to stop noticing the effects of climate change' -> 'global warming would continue for around 40 years'"
+    },
+    "adapt-learn|r2|q18": {
+      "support": "In addition to the road adaptations, the city has set up new pumps that can remove up to 75,000 litres of water per minute.",
+      "connection": "The sentence says the city 'set up new pumps' in the stormwater programme, matching the note's 'installation of efficient ______'.",
+      "paraphrasing": "'installation of efficient ______' -> 'set up new pumps that can remove up to 75,000 litres of water per minute'"
+    },
+    "livestock-learn|r3|q27": {
+      "support": "When guard dogs were introduced, more than 90 per cent of farmers reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators.",
+      "connection": "The question asks for an example of a predator protected by introducing guard dogs; the sentence says that after the dogs were introduced farmers were 'less likely to kill predators'.",
+      "paraphrasing": "'one predator has been protected by the introduction of livestock guard dogs' -> 'less likely to kill predators' after 'guard dogs were introduced'"
+    },
+    "predator-learn|r3|q27": {
+      "support": "When guard dogs were introduced, more than 90 per cent of farmers reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators.",
+      "connection": "The question asks for an example of a predator protected by introducing guard dogs; the sentence says that after the dogs were introduced farmers were 'less likely to kill predators'.",
+      "paraphrasing": "'one predator has been protected by the introduction of livestock guard dogs' -> 'less likely to kill predators' after 'guard dogs were introduced'"
+    },
+    "livestock-learn|r3|q28": {
+      "support": "So if we can get this right, there may be a bright future for guard dogs in promoting harmonious coexistence between humans and wildlife.",
+      "connection": "The question asks for an optimistic suggestion about possible positive developments; the sentence looks forward to 'a bright future for guard dogs'.",
+      "paraphrasing": "'an optimistic suggestion about the possible positive developments' -> 'there may be a bright future for guard dogs'"
+    },
+    "predator-learn|r3|q28": {
+      "support": "So if we can get this right, there may be a bright future for guard dogs in promoting harmonious coexistence between humans and wildlife.",
+      "connection": "The question asks for an optimistic suggestion about possible positive developments; the sentence looks forward to 'a bright future for guard dogs'.",
+      "paraphrasing": "'an optimistic suggestion about the possible positive developments' -> 'there may be a bright future for guard dogs'"
+    },
+    "optimistic-learn|r3|q28": {
+      "support": "So if we can get this right, there may be a bright future for guard dogs in promoting harmonious coexistence between humans and wildlife.",
+      "connection": "The question asks for an optimistic suggestion about possible positive developments; the sentence looks forward to 'a bright future for guard dogs'.",
+      "paraphrasing": "'an optimistic suggestion about the possible positive developments' -> 'there may be a bright future for guard dogs'"
+    },
+    "livestock-learn|r3|q29": {
+      "support": "If necessary, they will chase away predators, but often their mere presence is sufficient.",
+      "connection": "The question asks how guard dogs keep predators away; the sentence says they 'chase away predators' and that their 'mere presence is sufficient'.",
+      "paraphrasing": "'methods used by livestock guard dogs help to keep predators away' -> 'they will chase away predators ... their mere presence is sufficient'"
+    },
+    "predator-learn|r3|q29": {
+      "support": "If necessary, they will chase away predators, but often their mere presence is sufficient.",
+      "connection": "The question asks how guard dogs keep predators away; the sentence says they 'chase away predators' and that their 'mere presence is sufficient'.",
+      "paraphrasing": "'methods used by livestock guard dogs help to keep predators away' -> 'they will chase away predators ... their mere presence is sufficient'"
+    },
+    "livestock-learn|r3|q30": {
+      "support": "For example, in Portugal, biologist Silvia Ribeiro has found that more than 90 per cent of the farmers participating in a programme to train and use guard dogs to protect their herds against attack from wolves rate the performance of the dogs as very good or excellent.",
+      "connection": "The question asks for academics' claims that guard dogs successfully protect herds; the sentence cites biologist Silvia Ribeiro's finding that farmers 'rate the performance of the dogs as very good or excellent'.",
+      "paraphrasing": "'a successful way of protecting farmers' herds' -> 'to protect their herds ... rate the performance of the dogs as very good or excellent'"
+    },
+    "herd-learn|r3|q30": {
+      "support": "For example, in Portugal, biologist Silvia Ribeiro has found that more than 90 per cent of the farmers participating in a programme to train and use guard dogs to protect their herds against attack from wolves rate the performance of the dogs as very good or excellent.",
+      "connection": "The question asks for academics' claims that guard dogs successfully protect herds; the sentence cites biologist Silvia Ribeiro's finding that farmers 'rate the performance of the dogs as very good or excellent'.",
+      "paraphrasing": "'a successful way of protecting farmers' herds' -> 'to protect their herds ... rate the performance of the dogs as very good or excellent'"
+    }
+  }
+}

@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "ferry-learn",
+    "term": "ferry",
+    "ipa": "/ˈferi/",
+    "pos": "n",
+    "meaningEn": "a boat that carries people or vehicles across water",
+    "meaningVi": "phà",
+    "synonyms": [
+      "passenger boat",
+      "car ferry",
+      "shuttle boat"
+    ],
+    "sentenceText": "The service is pretty limited - there's only one ferry leaving every evening in summer anyway, seven days a week - I'm not sure about the winter months.",
+    "sentenceChunks": [
+      "The service is pretty limited - there's only one ferry leaving every evening in",
+      "summer anyway, seven days a week - I'm not sure about the winter months."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A ferry booking to the Shetland Islands",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "source": "exam",
+    "why": "The whole booking is for a ferry to the Shetland Islands. The word means a boat carrying passengers and vehicles, so it helps you understand the travel context and booking details.",
+    "riskHint": "n"
+  },
+  {
+    "id": "cancellation-learn",
+    "term": "cancellation",
+    "ipa": "/ˌkænsəˈleɪʃən/",
+    "pos": "n",
+    "meaningEn": "the act of cancelling a booking or arrangement",
+    "meaningVi": "sự hủy bỏ",
+    "synonyms": [
+      "calling off",
+      "cancellation",
+      "withdrawal"
+    ],
+    "sentenceText": "Cancellation policy: receive a ______ (if cancelled a month in advance)",
+    "sentenceChunks": [
+      "receive a ______ (if cancelled a month in advance)"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A ferry booking to the Shetland Islands",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "Q4 asks what you receive if you cancel a month in advance. The word signals the conditions for calling off the booking, so you listen for a refund or charge.",
+    "riskHint": "n"
+  },
+  {
+    "id": "refund-learn",
+    "term": "refund",
+    "ipa": "/ˈriːfʌnd/",
+    "pos": "n",
+    "meaningEn": "money returned when you cancel or return something",
+    "meaningVi": "tiền hoàn lại",
+    "synonyms": [
+      "money back",
+      "reimbursement",
+      "repayment"
+    ],
+    "sentenceText": "I don't think it's their policy to give refunds - just a voucher - which you can use at a later date.",
+    "sentenceChunks": [
+      "I don't think it's their policy to give refunds - just",
+      "a voucher - which you can use at a later date."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A ferry booking to the Shetland Islands",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "Q4 asks what you receive after cancelling. A refund is money returned, so it helps you distinguish it from a fee or a credit note.",
+    "riskHint": "n"
+  },
+  {
+    "id": "kennel-learn",
+    "term": "kennel",
+    "ipa": "/ˈkenəl/",
+    "pos": "n",
+    "meaningEn": "a shelter where dogs are kept",
+    "meaningVi": "chuồng chó; nơi trông giữ chó",
+    "synonyms": [
+      "dog shelter",
+      "dog boarding",
+      "dog house"
+    ],
+    "sentenceText": "The kennels on board are OK - they're quite big - you just need to provide a blanket.",
+    "sentenceChunks": [
+      "The kennels on board are OK - they're quite big - you just need to provide a blanket."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A ferry booking to the Shetland Islands",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "Q7 mentions a requirement for the dog kennels. The word means a place where dogs are housed, so it helps you understand a travel rule for pets.",
+    "riskHint": "n"
+  },
+  {
+    "id": "locally-sourced-learn",
+    "term": "locally sourced",
+    "ipa": "/ˈləʊkəli sɔːst/",
+    "pos": "adj",
+    "meaningEn": "obtained from nearby producers",
+    "meaningVi": "có nguồn gốc địa phương",
+    "synonyms": [
+      "locally produced",
+      "sourced nearby",
+      "regional"
+    ],
+    "sentenceText": "Street food is popular partly because it is locally sourced.",
+    "sentenceChunks": [
+      "Street food is popular partly because it is locally sourced."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Street food businesses",
+    "questions": [
+      11,
+      12
+    ],
+    "source": "exam",
+    "why": "Q11–12 give explanations for street food’s popularity. “Locally sourced” means the ingredients come from nearby, so it helps you distinguish this from low price or convenience.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "permit-learn",
+    "term": "permit",
+    "ipa": "/ˈpɜːmɪt/",
+    "pos": "n",
+    "meaningEn": "an official document allowing you to do something",
+    "meaningVi": "giấy phép",
+    "synonyms": [
+      "licence",
+      "authorization",
+      "official permission"
+    ],
+    "sentenceText": "D It was difficult to get a permit to sell food.",
+    "sentenceChunks": [
+      "D It was difficult to get a permit to sell food."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Street food businesses",
+    "questions": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "Q17–20 include difficulty getting a permit to sell food. The word means official permission, so it helps you identify a legal obstacle rather than a financial one.",
+    "riskHint": "n"
+  },
+  {
+    "id": "competitor-learn",
+    "term": "competitor",
+    "ipa": "/kəmˈpetɪtə/",
+    "pos": "n",
+    "meaningEn": "another business or person trying to succeed in the same market",
+    "meaningVi": "đối thủ cạnh tranh",
+    "synonyms": [
+      "rival",
+      "competing business",
+      "competitor"
+    ],
+    "sentenceText": "E A competitor was selling similar food in their area.",
+    "sentenceChunks": [
+      "E A competitor was selling similar food in their area."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Street food businesses",
+    "questions": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "Q17–20 include a competitor selling similar food nearby. The word means a rival business, so it helps you understand a market pressure rather than an ingredient problem.",
+    "riskHint": "n"
+  },
+  {
+    "id": "second-hand-learn",
+    "term": "second-hand",
+    "ipa": "/ˌsekənd ˈhænd/",
+    "pos": "adj",
+    "meaningEn": "previously owned or used by someone else",
+    "meaningVi": "đã qua sử dụng; cũ",
+    "synonyms": [
+      "used",
+      "pre-owned",
+      "not new"
+    ],
+    "sentenceText": "It's best to buy second-hand equipment.",
+    "sentenceChunks": [
+      "It's best to buy second-hand equipment."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Street food businesses",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "Q15 discusses buying equipment. “Second-hand” means used equipment, so it helps you compare buying new, renting and buying used.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "sustainable-learn",
+    "term": "sustainable",
+    "ipa": "/səˈsteɪnəbəl/",
+    "pos": "adj",
+    "meaningEn": "able to continue without damaging the environment or resources",
+    "meaningVi": "bền vững",
+    "synonyms": [
+      "environmentally sustainable",
+      "viable long-term",
+      "responsible"
+    ],
+    "sentenceText": "But I'm not sure how sustainable this really is as there are so many reports of pollution caused by the manufacturing process.",
+    "sentenceChunks": [
+      "But I'm not sure how sustainable this really is as there",
+      "are so many reports of pollution caused by the manufacturing process."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Ethical and sustainable fashion",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "The lecture distinguishes sustainable from ethical fashion. The word is about avoiding long-term environmental harm, so it helps you separate environmental from moral concerns.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "imprecisely-learn",
+    "term": "imprecisely",
+    "ipa": "/ˌɪmprɪˈsaɪsli/",
+    "pos": "adv",
+    "meaningEn": "not in an exact or clear way",
+    "meaningVi": "một cách không chính xác",
+    "synonyms": [
+      "vaguely",
+      "loosely",
+      "inexactly"
+    ],
+    "sentenceText": "They are often used imprecisely.",
+    "sentenceChunks": [
+      "They are often used imprecisely."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Ethical and sustainable fashion",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "Q21–22 say the terms are often used imprecisely. The word means people use them without exact definitions, which explains why the speakers want clearer distinctions.",
+    "riskHint": "adv"
+  },
+  {
+    "id": "durable-learn",
+    "term": "durable",
+    "ipa": "/ˈdjʊərəbl/",
+    "pos": "adj",
+    "meaningEn": "able to last a long time without damage",
+    "meaningVi": "bền; lâu bền",
+    "synonyms": [
+      "long-lasting",
+      "hard-wearing",
+      "sturdy"
+    ],
+    "sentenceText": "E It is not durable in the long-term.",
+    "sentenceChunks": [
+      "E It is not durable in the long-term."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Ethical and sustainable fashion",
+    "questions": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "source": "exam",
+    "why": "Q25–30 discuss whether fabrics are durable. The word means they last well, so it helps you evaluate a claimed environmental benefit rather than accept it automatically.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "semi-synthetic-learn",
+    "term": "semi-synthetic",
+    "ipa": "/ˈsemi sɪnˈθetɪk/",
+    "pos": "adj",
+    "meaningEn": "made from natural materials but chemically altered",
+    "meaningVi": "bán tổng hợp",
+    "synonyms": [
+      "partly natural and partly artificial",
+      "chemically modified natural fibre"
+    ],
+    "sentenceText": "EcoVero is an example of a semi-synthetic fabric which is becoming really popular.",
+    "sentenceChunks": [
+      "EcoVero is an example of a semi-synthetic fabric which is becoming really popular."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Ethical and sustainable fashion",
+    "questions": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "source": "exam",
+    "why": "Q25–30 ask about semi-synthetic fabrics. The word means fabrics made from natural materials but processed chemically, so it helps you distinguish them from natural and fully synthetic fibres.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "native-learn",
+    "term": "native",
+    "ipa": "/ˈneɪtɪv/",
+    "pos": "adj",
+    "meaningEn": "belonging naturally to a place",
+    "meaningVi": "bản địa",
+    "synonyms": [
+      "indigenous",
+      "local",
+      "naturally occurring"
+    ],
+    "sentenceText": "Often the invasive species breed very quickly - which further adds to the problem of native species losing their sources of food.",
+    "sentenceChunks": [
+      "Often the invasive species breed very quickly - which further adds",
+      "to the problem of native species losing their sources of food."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [
+      31,
+      32
+    ],
+    "source": "exam",
+    "why": "The notes say invasive species eat native species. The word means plants or animals that naturally belong there, so it helps you understand the harm to the original ecosystem.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "cargo-learn",
+    "term": "cargo",
+    "ipa": "/ˈkɑːˌgəʊ/",
+    "pos": "n",
+    "meaningEn": "goods carried by ship, train, or aircraft",
+    "meaningVi": "hàng hóa",
+    "synonyms": [
+      "freight",
+      "goods",
+      "shipment"
+    ],
+    "sentenceText": "Plants and animals, especially insects, arrive in or on the cargo of ships, and then escape into their new 'home'.",
+    "sentenceChunks": [
+      "Plants and animals, especially insects, arrive in or on the",
+      "cargo of ships, and then escape into their new 'home'."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [
+      33
+    ],
+    "source": "exam",
+    "why": "The notes say species spread on cargo ships. The word means goods being transported, so it helps you understand one route by which species travel between countries.",
+    "riskHint": "n"
+  },
+  {
+    "id": "monitoring-learn",
+    "term": "monitoring",
+    "ipa": "/ˈmɒnɪtərɪŋ/",
+    "pos": "n",
+    "meaningEn": "the process of watching and checking something over time",
+    "meaningVi": "sự giám sát; theo dõi",
+    "synonyms": [
+      "tracking",
+      "surveillance",
+      "observation"
+    ],
+    "sentenceText": "Monitoring is an important part of this, so that we can know if the new species begins to have a negative impact in its new environment.",
+    "sentenceChunks": [
+      "Monitoring is an important part of this",
+      "so that we can know if the new species begins to have a negative impact in its new environment."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [
+      38,
+      39,
+      40
+    ],
+    "source": "exam",
+    "why": "The notes say monitoring helps us understand the spread of invasive species. The word means regular observation, so it helps you identify the practical response to the problem.",
+    "riskHint": "n"
+  },
+  {
+    "id": "pest-control-learn",
+    "term": "pest control",
+    "ipa": "/pest kənˈtrəʊl/",
+    "pos": "n",
+    "meaningEn": "the process of controlling animals or insects that damage crops",
+    "meaningVi": "kiểm soát dịch hại",
+    "synonyms": [
+      "pest management",
+      "insect control",
+      "crop protection"
+    ],
+    "sentenceText": "intentionally e.g. for pest control, or as ______",
+    "sentenceChunks": [
+      "intentionally e.g. for pest control, or as ______"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [
+      33,
+      34
+    ],
+    "source": "exam",
+    "why": "The notes say invasive species were introduced for pest control. The phrase means managing harmful insects or animals, so it helps you understand the intended benefit that went wrong.",
+    "riskHint": "n"
+  },
+  {
+    "id": "distribute-learn",
+    "term": "distribute",
+    "ipa": "/dɪˈstrɪbjut/",
+    "pos": "v",
+    "meaningEn": "to spread or share something across an area",
+    "meaningVi": "phân bố; phân phối",
+    "synonyms": [
+      "spread",
+      "disperse",
+      "scatter"
+    ],
+    "sentenceText": "Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.",
+    "sentenceChunks": [
+      "Today, numbers of saiga are distributed evenly across four nations in Central Asia:",
+      "Kazakhstan, Russia, Mongolia and Uzbekistan."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [
+      8
+    ],
+    "source": "exam",
+    "why": "Q8 asks whether saiga are distributed evenly across four nations. The word means spread across an area, so it helps you check whether numbers are equal or uneven.",
+    "riskHint": "v"
+  },
+  {
+    "id": "fluctuation-learn",
+    "term": "fluctuation",
+    "ipa": "/ˌflʌktʃuˈeɪʃn/",
+    "pos": "n",
+    "meaningEn": "a change that goes up and down irregularly",
+    "meaningVi": "sự dao động; biến động",
+    "synonyms": [
+      "variation",
+      "instability",
+      "rise and fall"
+    ],
+    "sentenceText": "Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate.",
+    "sentenceChunks": [
+      "Although well adapted to cold winters and hot summers, saiga",
+      "struggle to cope with temperature extremes and unpredictable fluctuations in climate."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [
+      11
+    ],
+    "source": "exam",
+    "why": "Q11 mentions unpredictable fluctuations in climate. The word means irregular changes, so it helps you understand why wildlife faces unstable conditions.",
+    "riskHint": "n"
+  },
+  {
+    "id": "recognition-learn",
+    "term": "recognition",
+    "ipa": "/ˌrekɪgˈnɪʃən/",
+    "pos": "n",
+    "meaningEn": "official acknowledgement of an achievement or status",
+    "meaningVi": "sự công nhận",
+    "synonyms": [
+      "acknowledgement",
+      "official status",
+      "accreditation"
+    ],
+    "sentenceText": "The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.",
+    "sentenceChunks": [
+      "The Altyn Dala Conservation Initiative's recognition as a World",
+      "Restoration Flagship project attracted additional international funding for the scheme."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "Q13 asks about recognition as a World Restoration Flagship project. The word means official acknowledgement, so it helps you understand why the project may attract funding or attention.",
+    "riskHint": "n"
+  },
+  {
+    "id": "flagship-learn",
+    "term": "flagship",
+    "ipa": "/ˈflægˌʃɪp/",
+    "pos": "n",
+    "meaningEn": "the most important or representative project in a programme",
+    "meaningVi": "dự án trọng điểm; dự án tiêu biểu",
+    "synonyms": [
+      "leading project",
+      "showcase project",
+      "flagship scheme"
+    ],
+    "sentenceText": "In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.",
+    "sentenceChunks": [
+      "In 2022 the United Nations recognised the initiative as a World Restoration Flagship project",
+      "an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "Q13 mentions recognition as a World Restoration Flagship project. The word means a leading, showcase project, so it helps you understand why the status matters.",
+    "riskHint": "n"
+  },
+  {
+    "id": "high-rise-learn",
+    "term": "high-rise",
+    "ipa": "/haɪ raɪz/",
+    "pos": "adj",
+    "meaningEn": "tall, with many floors",
+    "meaningVi": "cao tầng",
+    "synonyms": [
+      "tower block",
+      "multi-storey",
+      "tall building"
+    ],
+    "sentenceText": "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.",
+    "sentenceChunks": [
+      "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "Q15 asks whether most residents live in high-rise blocks. The word describes tall apartment buildings, so it helps you check a claim about housing type.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "consult-learn",
+    "term": "consult",
+    "ipa": "/kənˈsəlt/",
+    "pos": "v",
+    "meaningEn": "to ask people for their opinion before deciding",
+    "meaningVi": "tham vấn; hỏi ý kiến",
+    "synonyms": [
+      "ask",
+      "seek views",
+      "involve in discussion"
+    ],
+    "sentenceText": "Residents have been consulted about their views on the suburban rail line in Dar es Salaam.",
+    "sentenceChunks": [
+      "Residents have been consulted about their views on the suburban rail line in Dar es Salaam."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "Q16 asks whether residents were consulted about the rail line. The word means their views were sought, so you look for evidence of public involvement rather than a decision imposed on them.",
+    "riskHint": "v"
+  },
+  {
+    "id": "unplanned-learn",
+    "term": "unplanned",
+    "ipa": "/ənˈplænd/",
+    "pos": "adj",
+    "meaningEn": "not designed or organised in advance",
+    "meaningVi": "không có quy hoạch; tự phát",
+    "synonyms": [
+      "unregulated",
+      "spontaneous",
+      "haphazard"
+    ],
+    "sentenceText": "The majority of the present residential development in Dar es Salaam is unplanned.",
+    "sentenceChunks": [
+      "The majority of the present residential development in Dar es Salaam is unplanned."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [
+      17
+    ],
+    "source": "exam",
+    "why": "Q17 asks whether residential development is unplanned. The word means it grew without an official plan, so it helps you understand the city’s rapid, informal expansion.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "adopt-learn",
+    "term": "adopt",
+    "ipa": "/əˈdɑpt/",
+    "pos": "v",
+    "meaningEn": "to formally accept or start using a plan or method",
+    "meaningVi": "áp dụng; thông qua",
+    "synonyms": [
+      "take up",
+      "implement",
+      "accept"
+    ],
+    "sentenceText": "Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.",
+    "sentenceChunks": [
+      "Dar es Salaam's authorities have decided to follow the public",
+      "transport plan adopted by a large number of African cities."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [
+      18
+    ],
+    "source": "exam",
+    "why": "Q18 asks whether authorities adopted a transport plan used by many African cities. The word means they formally chose and used it, so it helps you distinguish a proposal from an actual policy.",
+    "riskHint": "v"
+  },
+  {
+    "id": "periphery-learn",
+    "term": "periphery",
+    "ipa": "/pəˈrɪfəri/",
+    "pos": "n",
+    "meaningEn": "the outer edge of an area or city",
+    "meaningVi": "vùng ngoại vi; rìa",
+    "synonyms": [
+      "outskirts",
+      "edge",
+      "outer area"
+    ],
+    "sentenceText": "Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.",
+    "sentenceChunks": [
+      "Nearly all the expansion is happening on the periphery",
+      "and nearly all takes place informally without any agreed strategy."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [
+      17,
+      19
+    ],
+    "source": "exam",
+    "why": "The passage says expansion is happening on the periphery. The word means the outer edge of the city, so it helps you understand where new housing is being built.",
+    "riskHint": "n"
+  },
+  {
+    "id": "pinpoint-learn",
+    "term": "pinpoint",
+    "ipa": "/ˈpɪnˌpɔɪnt/",
+    "pos": "v",
+    "meaningEn": "to identify something exactly",
+    "meaningVi": "xác định chính xác",
+    "synonyms": [
+      "identify precisely",
+      "locate",
+      "specify"
+    ],
+    "sentenceText": "pinpointing some key changes in our understanding of prehistory",
+    "sentenceChunks": [
+      "pinpointing some key changes in our understanding of prehistory"
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "Q27 asks what the writer is doing in the second paragraph. “Pinpointing key changes” means identifying them precisely, so it helps you recognise a summary of specific shifts in understanding.",
+    "riskHint": "v"
+  },
+  {
+    "id": "revelation-learn",
+    "term": "revelation",
+    "ipa": "/ˌrevəˈleɪʃən/",
+    "pos": "n",
+    "meaningEn": "a surprising fact that becomes known",
+    "meaningVi": "phát hiện; điều mới được tiết lộ",
+    "synonyms": [
+      "discovery",
+      "disclosure",
+      "surprising finding"
+    ],
+    "sentenceText": "summarising some attitudes towards recent archaeological revelations",
+    "sentenceChunks": [
+      "summarising some attitudes towards recent archaeological revelations"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "Q27 mentions recent archaeological revelations. The word means surprising new discoveries, so it helps you understand why accepted ideas about prehistory are changing.",
+    "riskHint": "n"
+  },
+  {
+    "id": "gradual-learn",
+    "term": "gradual",
+    "ipa": "/ˈgrædʒuəl/",
+    "pos": "adj",
+    "meaningEn": "happening slowly over time",
+    "meaningVi": "dần dần; từ từ",
+    "synonyms": [
+      "slow",
+      "incremental",
+      "step-by-step"
+    ],
+    "sentenceText": "most developments happen in a gradual way.",
+    "sentenceChunks": [
+      "most developments happen in a gradual way."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "Q28 uses mobile phones to make a point about change. “Gradual” means happening in small stages, so it helps you contrast slow development with sudden innovation.",
+    "riskHint": "adj"
+  },
+  {
+    "id": "authenticity-learn",
+    "term": "authenticity",
+    "ipa": "/ˌɔːθenˈtɪsəti/",
+    "pos": "n",
+    "meaningEn": "the quality of being genuine or true",
+    "meaningVi": "tính xác thực; tính chân thật",
+    "synonyms": [
+      "genuineness",
+      "legitimacy",
+      "reliability"
+    ],
+    "sentenceText": "questioning the authenticity of evidence used in earlier research.",
+    "sentenceChunks": [
+      "questioning the authenticity of evidence used in earlier research."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [
+      29
+    ],
+    "source": "exam",
+    "why": "Q29 asks what “unpick this stuff” refers to. The task may involve questioning the authenticity of evidence, so the word helps you recognise a challenge to whether findings are genuine.",
+    "riskHint": "n"
+  },
+  {
+    "id": "hominin-learn",
+    "term": "hominin",
+    "ipa": "/ˈhɒmɪnɪn/",
+    "pos": "n",
+    "meaningEn": "a member of the human family, including extinct species",
+    "meaningVi": "người tối cổ; họ người",
+    "synonyms": [
+      "early human",
+      "human ancestor",
+      "hominid"
+    ],
+    "sentenceText": "However, it had quite a small brain, typical of older hominins - and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours.",
+    "sentenceChunks": [
+      "However, it had quite a small brain, typical of older hominins",
+      "- and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [
+      27,
+      31,
+      34
+    ],
+    "source": "exam",
+    "why": "The passage discusses extinct hominins such as Neanderthals. The word means early human relatives, so it helps you follow claims about who produced prehistoric art.",
+    "riskHint": "n"
+  },
+  {
+    "id": "researcher-sentence",
+    "term": "researcher",
+    "ipa": "/ˈrisətʃə/",
+    "pos": "noun",
+    "meaningEn": "a scientist who devotes himself to doing research",
+    "meaningVi": "",
+    "synonyms": [
+      "research worker",
+      "investigator"
+    ],
+    "sentenceText": "At Kalambo Falls in Zambia, researchers found buried logs that had been shaped with stone tools so that they interlocked.",
+    "sentenceChunks": [
+      "At Kalambo Falls in Zambia, researchers found buried logs that",
+      "had been shaped with stone tools so that they interlocked."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "prehistory-sentence",
+    "term": "prehistory",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "the time during the development of human culture before the appearance of the written word",
+    "meaningVi": "",
+    "synonyms": [
+      "prehistoric culture"
+    ],
+    "sentenceText": "The same is true for our ideas about gender in prehistory.",
+    "sentenceChunks": [
+      "The same is true for our ideas about gender in prehistory."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "prehistoric-sentence",
+    "term": "prehistoric",
+    "ipa": "/ˌprihɪˈstɔːɪk/",
+    "pos": "adjective",
+    "meaningEn": "belonging to or existing in times before recorded history",
+    "meaningVi": "",
+    "synonyms": [
+      "prehistorical"
+    ],
+    "sentenceText": "And the other is that we have badly misunderstood gender roles in prehistoric societies, imposing patriarchal values onto cultures that had very different ideas about how women should behave.",
+    "sentenceChunks": [
+      "And the other is",
+      "that we have badly misunderstood gender roles in prehistoric societies, imposing patriarchal values onto cultures that had very different ideas about how women should behave."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "unpredictable-sentence",
+    "term": "unpredictable",
+    "ipa": "/ˌənprɪˈdɪktəbəl/",
+    "pos": "adjective",
+    "meaningEn": "not capable of being foretold",
+    "meaningVi": "",
+    "synonyms": [
+      "unpredictable"
+    ],
+    "sentenceText": "Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate.",
+    "sentenceChunks": [
+      "Although well adapted to cold winters and hot summers, saiga",
+      "struggle to cope with temperature extremes and unpredictable fluctuations in climate."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "saiga-sentence",
+    "term": "saiga",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "goat-like antelope of central Eurasia having a stubby nose like a proboscis",
+    "meaningVi": "",
+    "synonyms": [
+      "Saiga tatarica"
+    ],
+    "sentenceText": "Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos.",
+    "sentenceChunks": [
+      "Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by",
+      "actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "extinct-sentence",
+    "term": "extinct",
+    "ipa": "/ɪkˈstɪŋkt/",
+    "pos": "adjective",
+    "meaningEn": "no longer in existence; lost or especially having died out leaving no living representatives",
+    "meaningVi": "",
+    "synonyms": [
+      "nonextant"
+    ],
+    "sentenceText": "Discoveries have come thick and fast over the last decade or so, and these have forced us to rethink many crucial points, such as how old our species is - about 300,000 years old as opposed to 200,000 - and what extinct hominins, such as our cousins the Neanderthals, were really like.",
+    "sentenceChunks": [
+      "Discoveries have come thick and fast over the last decade or so, and these have forced us to rethink many crucial points, such as how old",
+      "our species is - about 300,000 years old as opposed to 200,000 - and what extinct hominins, such as our cousins the Neanderthals, were really like."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "knotweed-sentence",
+    "term": "knotweed",
+    "ipa": "",
+    "pos": "noun",
+    "meaningEn": "a key term used in this section",
+    "meaningVi": "",
+    "synonyms": [
+      "knotweed"
+    ],
+    "sentenceText": "Some invasive plants, such as Japanese knotweed, have had a devastating impact on parts of the UK.",
+    "sentenceChunks": [
+      "Some invasive plants, such as Japanese knotweed, have had a devastating impact on parts of the UK."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "poisonous-sentence",
+    "term": "poisonous",
+    "ipa": "/ˈpɔɪzənəs/",
+    "pos": "adjective",
+    "meaningEn": "having the qualities or effects of a poison",
+    "meaningVi": "",
+    "synonyms": [
+      "toxicant"
+    ],
+    "sentenceText": "The toads are poisonous at every stage of their life cycle, and anything that eats them will die.",
+    "sentenceChunks": [
+      "The toads are poisonous at every stage of their life cycle, and anything that eats them will die."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "intentional-sentence",
+    "term": "intentional",
+    "ipa": "/ˌɪnˈtenʃənəl/",
+    "pos": "adjective",
+    "meaningEn": "characterized by conscious design or purpose",
+    "meaningVi": "",
+    "synonyms": [
+      "knowing",
+      "designed"
+    ],
+    "sentenceText": "This could be intentional, or it could be accidental, such as when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes.",
+    "sentenceChunks": [
+      "This could be intentional, or it could be accidental, such as",
+      "when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "suburban-sentence",
+    "term": "suburban",
+    "ipa": "/səˈbəbən/",
+    "pos": "adjective",
+    "meaningEn": "relating to or characteristic of or situated in suburbs",
+    "meaningVi": "",
+    "synonyms": [
+      "suburban"
+    ],
+    "sentenceText": "A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city.",
+    "sentenceChunks": [
+      "A single suburban rail line serves residents in a few areas to",
+      "the south but is tiny in the context of the wider city."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "controversy-sentence",
+    "term": "controversy",
+    "ipa": "/ˈkɑntrəˌvəsi/",
+    "pos": "noun",
+    "meaningEn": "a contentious speech act; a dispute where there is strong disagreement",
+    "meaningVi": "",
+    "synonyms": [
+      "contention",
+      "contestation",
+      "disputation",
+      "disceptation"
+    ],
+    "sentenceText": "My views on the H. naledi controversy are complicated.",
+    "sentenceChunks": [
+      "My views on the H. naledi controversy are complicated."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "rhino-sentence",
+    "term": "rhino",
+    "ipa": "/ˈraɪˌnəʊ/",
+    "pos": "noun",
+    "meaningEn": "massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two horns on the snout",
+    "meaningVi": "",
+    "synonyms": [
+      "rhinoceros"
+    ],
+    "sentenceText": "Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos.",
+    "sentenceChunks": [
+      "Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by",
+      "actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "cancel-sentence",
+    "term": "cancel",
+    "ipa": "/ˈkænsəl/",
+    "pos": "verb",
+    "meaningEn": "postpone indefinitely or annul something that was scheduled",
+    "meaningVi": "",
+    "synonyms": [
+      "call off",
+      "scratch",
+      "scrub",
+      "offset"
+    ],
+    "sentenceText": "But you have to cancel a month in advance to get that.",
+    "sentenceChunks": [
+      "But you have to cancel a month in advance to get that."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A ferry booking to the Shetland Islands",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb"
+  },
+  {
+    "id": "mortality-sentence",
+    "term": "mortality",
+    "ipa": "/mɔːˈtæləti/",
+    "pos": "noun",
+    "meaningEn": "the quality or state of being mortal",
+    "meaningVi": "",
+    "synonyms": [
+      "deathrate",
+      "death rate",
+      "mortality rate",
+      "fatality rate"
+    ],
+    "sentenceText": "There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species.",
+    "sentenceChunks": [
+      "There was some recovery in the first decade of the new millennium",
+      "but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Saving the saiga",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "metro-sentence",
+    "term": "metro",
+    "ipa": "/ˈmeˌtrəʊ/",
+    "pos": "noun",
+    "meaningEn": "an electric railway operating below the surface of the ground (usually in a city)",
+    "meaningVi": "",
+    "synonyms": [
+      "tube",
+      "underground",
+      "subway system",
+      "subway"
+    ],
+    "sentenceText": "'With a metro, an international firm will often just parachute in its own system,' says Kost.",
+    "sentenceChunks": [
+      "'With a metro, an international firm will often just parachute in its own system,' says Kost."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "introduce-sentence",
+    "term": "introduce",
+    "ipa": "/ˌɪntrəˈdus/",
+    "pos": "noun",
+    "meaningEn": "cause to come to know personally",
+    "meaningVi": "",
+    "synonyms": [
+      "present",
+      "acquaint",
+      "innovate"
+    ],
+    "sentenceText": "Let's now look at an example of an invasive species here in Australia: Rhinella marina is a species of toad that was deliberately introduced from Hawaii in 1935 as a form of biological control.",
+    "sentenceChunks": [
+      "Let's now look at an example of an invasive species here in Australia:",
+      "Rhinella marina is a species of toad that was deliberately introduced from Hawaii in 1935 as a form of biological control."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Invasive species",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "evolution-sentence",
+    "term": "evolution",
+    "ipa": "/ˌevəˈluʃən/",
+    "pos": "noun",
+    "meaningEn": "a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)",
+    "meaningVi": "",
+    "synonyms": [
+      "development",
+      "organic evolution",
+      "phylogeny",
+      "phylogenesis"
+    ],
+    "sentenceText": "The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change.",
+    "sentenceChunks": [
+      "The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous:",
+      "sometimes a system hits a tipping point and undergoes runaway change."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Rethinking the Past",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "rapid-sentence",
+    "term": "rapid",
+    "ipa": "/ˈræpɪd/",
+    "pos": "adjective",
+    "meaningEn": "done or occurring in a brief period of time",
+    "meaningVi": "",
+    "synonyms": [
+      "speedy"
+    ],
+    "sentenceText": "The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages.",
+    "sentenceChunks": [
+      "The DART bus rapid transit (BRT) system runs on bus lanes separated",
+      "from other traffic, mostly in the middle of the road to reduce stoppages."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective"
+  },
+  {
+    "id": "luxury-sentence",
+    "term": "luxury",
+    "ipa": "/ˈləgʒəi/",
+    "pos": "noun",
+    "meaningEn": "something that is an indulgence rather than a necessity",
+    "meaningVi": "",
+    "synonyms": [
+      "lavishness",
+      "sumptuosity",
+      "sumptuousness"
+    ],
+    "sentenceText": "They also have luxury cabins, which are only for two people and have a TV - but I wouldn't bother with those.",
+    "sentenceChunks": [
+      "They also have luxury cabins, which are only for two people",
+      "and have a TV - but I wouldn't bother with those."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "A ferry booking to the Shetland Islands",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  },
+  {
+    "id": "rail-sentence",
+    "term": "rail",
+    "ipa": "/reɪl/",
+    "pos": "noun",
+    "meaningEn": "a barrier consisting of a horizontal bar and supports",
+    "meaningVi": "",
+    "synonyms": [
+      "railing"
+    ],
+    "sentenceText": "A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city.",
+    "sentenceChunks": [
+      "A single suburban rail line serves residents in a few areas to",
+      "the south but is tiny in the context of the wider city."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 21",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The problems of getting around the city of Dar es Salaam",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun"
+  }
+]

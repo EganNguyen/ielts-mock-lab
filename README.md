@@ -8,6 +8,7 @@ A local-first IELTS Academic computer-delivered simulation with all four skills.
 |---|---|
 | Listening | 8 tests × 4 parts × 40 questions · one-play Kokoro audio |
 | Reading | 8 tests × 3 passages × 40 questions · split-screen reader |
+| Vocabulary | 446 sentence-first entries from 32 Listening parts + 24 Reading passages; 196 verified question links |
 | Writing | 8 tests × Task 1 figure + Task 2 essay · word counts |
 | Speaking | 8 tests × examiner-led Parts 1–3 · Kokoro voice · recording |
 | Timing | Server-owned deadlines, refresh recovery, auto-close |
@@ -112,6 +113,20 @@ node --experimental-strip-types scripts/export-content.mjs
 ```
 
 The API validates the 4/3/2/3 section structure at startup. To import another book or add a test, follow the step-by-step [Extraction & Import Guide](docs/EXTRACTION_GUIDE.md). All three packs have been audited against their books — see the [Content Fidelity Report](docs/FIDELITY_REPORT.md), the [IELTS 20 pack notes](docs/IELTS20.md) and the [IELTS 19 static-pack notes](docs/IELTS19.md).
+
+### Exam-focused vocabulary
+
+The `/vocabulary/` page is a 446-entry learning pack built from all 32 Listening parts and 24
+Reading passages in the eight tests. Every entry has a mandatory **Sentence comprehension**
+block: original sentence, direct Vietnamese translation, chunk-by-chunk breakdown, why the word
+matters, misunderstanding risk, synonyms and an Essential/Helpful/Optional label. Entries with
+real evidence also get an **Answer selection** block: exact question, verbatim supporting
+sentence, vocabulary connection, paraphrase, why it matters, potential mistake, a
+Critical/Helpful/Not relevant label and independent relationship tags (Correct Answer, Answer
+Evidence, Paraphrase, Distractor). Supporting sentences and correct answers stay locked until
+the learner confirms an attempt for that test. Filters cover skill, test, sentence importance,
+answer importance, answer relationship and free-text search; repeated items are cross-referenced rather than
+duplicated. See the [vocabulary guide](docs/VOCABULARY.md).
 
 ### Kokoro voice assets
 

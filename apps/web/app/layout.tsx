@@ -1,6 +1,7 @@
 import './globals.css'
 import './exam.css'
 import './results.css'
+import './vocabulary.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {

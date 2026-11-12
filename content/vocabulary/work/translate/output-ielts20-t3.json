@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "rental-learn",
+    "meaningVi": "sự thuê; dịch vụ cho thuê",
+    "translation": "Mọi người đã nói rằng đồ nội thất của Peak Rentals hiện đại hơn bất kỳ công ty nào khác.",
+    "breakdown": [
+      {
+        "text": "People have mentioned that the furniture from Peak Rentals is more modern than any of the other companies.",
+        "vi": "Mọi người đã nói rằng đồ nội thất của Peak Rentals hiện đại hơn bất kỳ công ty nào khác.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "mid-range-learn",
+    "meaningVi": "tầm trung",
+    "translation": "______ và Oliver — giá tầm trung — phí hàng tháng 12% cho ______ — cũng cung cấp dịch vụ dọn dẹp",
+    "breakdown": [
+      {
+        "text": "______ and Oliver",
+        "vi": "______ và Oliver",
+        "role": "table entry"
+      },
+      {
+        "text": "12% monthly fee for ______",
+        "vi": "phí hàng tháng 12% cho ______",
+        "role": "fee detail"
+      },
+      {
+        "text": "also offers a cleaning service",
+        "vi": "cũng cung cấp dịch vụ dọn dẹp",
+        "role": "added service"
+      }
+    ]
+  },
+  {
+    "id": "contract-learn",
+    "meaningVi": "hợp đồng",
+    "translation": "Ngoài ra, bạn không thể ký hợp đồng dưới 6 tháng, nhưng tôi nghĩ điều đó có thể không thành vấn đề với bạn.",
+    "breakdown": [
+      {
+        "text": "Also, you can't take out a contract for less than 6",
+        "vi": "Ngoài ra, bạn không thể ký hợp đồng dưới 6",
+        "role": "main clause"
+      },
+      {
+        "text": "months, but I figure that might not be a problem for you.",
+        "vi": "tháng, nhưng tôi nghĩ điều đó có thể không thành vấn đề với bạn.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "up-to-date-learn",
+    "meaningVi": "cập nhật; mới nhất",
+    "translation": "______ Rentals — xem ______ để biết giá mới nhất — ______ được phép trong vòng 7 ngày kể từ khi giao hàng",
+    "breakdown": [
+      {
+        "text": "see the ______ for the most up-to-date prices",
+        "vi": "xem ______ để biết giá cập nhật mới nhất",
+        "role": "detail"
+      },
+      {
+        "text": "______ are allowed within 7 days of delivery",
+        "vi": "______ được phép trong vòng 7 ngày kể từ khi giao hàng",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "archaeological-learn",
+    "meaningVi": "thuộc khảo cổ học",
+    "translation": "Bài nói mô tả một cuộc khai quật khảo cổ tại Bidcaster.",
+    "breakdown": [
+      {
+        "text": "The talk describes an archaeological dig at Bidcaster.",
+        "vi": "Bài nói mô tả một cuộc khai quật khảo cổ tại Bidcaster.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "remains-learn",
+    "meaningVi": "di tích; phần còn lại",
+    "translation": "Trong ba mùa hè mà nhóm đã ở đây, chúng tôi đã tìm thấy phần còn lại của một số tòa nhà và nhiều mảnh vỡ nồi nhiều đến mức không đếm xuể.",
+    "breakdown": [
+      {
+        "text": "Over the three summers the team has been here, we found the",
+        "vi": "Trong ba mùa hè mà nhóm đã ở đây, chúng tôi đã tìm thấy",
+        "role": "time clause"
+      },
+      {
+        "text": "remains of several buildings and more broken pots than you can count.",
+        "vi": "phần còn lại của một số tòa nhà và nhiều mảnh vỡ nồi nhiều đến mức không đếm xuể.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "outline-learn",
+    "meaningVi": "đường viền; phác thảo",
+    "translation": "Đường viền của những cánh đồng hiện rõ ở bờ bên kia sông.",
+    "breakdown": [
+      {
+        "text": "The outline of fields was visible on the other side of the river.",
+        "vi": "Đường viền của những cánh đồng hiện rõ ở bờ bên kia sông.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "metal-detector-learn",
+    "meaningVi": "máy dò kim loại",
+    "translation": "Tiền xu thường được tìm thấy bởi những người dùng máy dò kim loại để tìm những thứ bị chôn dưới đất.",
+    "breakdown": [
+      {
+        "text": "Coins are often found by people using metal detectors to look for things buried in the ground.",
+        "vi": "Tiền xu thường được tìm thấy bởi những người dùng máy dò kim loại để tìm những thứ bị chôn dưới đất.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "mistaken-belief-learn",
+    "meaningVi": "niềm tin sai lầm",
+    "translation": "Maya nói rằng một niềm tin sai lầm về các tờ chương trình sân khấu là",
+    "breakdown": [
+      {
+        "text": "Maya says a mistaken belief about theatre programmes is that",
+        "vi": "Maya nói rằng một niềm tin sai lầm về các tờ chương trình sân khấu là",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "free-of-charge-learn",
+    "meaningVi": "miễn phí",
+    "translation": "được phát miễn phí.",
+    "breakdown": [
+      {
+        "text": "were given out free of charge.",
+        "vi": "được phát miễn phí.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "informative-learn",
+    "meaningVi": "cung cấp nhiều thông tin; bổ ích",
+    "translation": "Các tờ chương trình của thế kỷ mười tám cung cấp nhiều thông tin hơn.",
+    "breakdown": [
+      {
+        "text": "Eighteenth-century programmes were more informative.",
+        "vi": "Các tờ chương trình của thế kỷ mười tám cung cấp nhiều thông tin hơn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "audience-learn",
+    "meaningVi": "khán giả; thính giả",
+    "translation": "Đúng vậy, khán giả rất quen với các diễn viên chính và những tên tuổi lớn thu hút rất đông người.",
+    "breakdown": [
+      {
+        "text": "Yeah, audiences were very familiar with leading actors and big names would draw huge crowds.",
+        "vi": "Đúng vậy, khán giả rất quen với các diễn viên chính và những tên tuổi lớn thu hút rất đông người.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "inclusive-design-learn",
+    "meaningVi": "thiết kế bao trùm",
+    "translation": "Thiết kế bao trùm thường được gắn với thiết kế phổ quát mặc dù chúng không hoàn toàn giống nhau.",
+    "breakdown": [
+      {
+        "text": "Inclusive design is often linked with universal design although they are not quite the same thing.",
+        "vi": "Thiết kế bao trùm thường được gắn với thiết kế phổ quát mặc dù chúng không hoàn toàn giống nhau.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "adjustable-learn",
+    "meaningVi": "có thể điều chỉnh",
+    "translation": "______ có thể điều chỉnh được, giúp tránh các vấn đề về lưng hoặc cổ",
+    "breakdown": [
+      {
+        "text": "______ which are adjustable, avoiding back or neck problems",
+        "vi": "______ có thể điều chỉnh được, giúp tránh các vấn đề về lưng hoặc cổ",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "problematic-learn",
+    "meaningVi": "có vấn đề; gây khó khăn",
+    "translation": "An toàn: dây an toàn đặc biệt gây khó khăn cho phụ nữ ______; áo bảo hộ PPE thường không phù hợp vì kích cỡ ______ của phụ nữ; PPE cho nữ ______ xử lý tình huống khẩn cấp là tệ nhất.",
+    "breakdown": [
+      {
+        "text": "seatbelts are especially problematic for ______ women;",
+        "vi": "dây an toàn đặc biệt gây khó khăn cho phụ nữ ______;",
+        "role": "problem detail"
+      },
+      {
+        "text": "PPE jackets are often unsuitable because of the size of women's ______;",
+        "vi": "áo bảo hộ PPE thường không phù hợp vì kích cỡ ______ của phụ nữ;",
+        "role": "reason"
+      },
+      {
+        "text": "PPE for female ______ officers dealing with emergencies is the worst.",
+        "vi": "PPE cho nữ ______ xử lý tình huống khẩn cấp là tệ nhất.",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "interface-learn",
+    "meaningVi": "giao diện",
+    "translation": "Ví dụ, ai cũng biết rằng thị lực giảm dần theo tuổi và chúng ta cũng trở nên kém hơn trong việc phân biệt các màu tương tự, đặc biệt là các sắc độ xanh lam, đó là lý do các nhà thiết kế phần mềm hiếm khi tạo giao diện với màu này.",
+    "breakdown": [
+      {
+        "text": "For example, it's well known",
+        "vi": "Ví dụ, ai cũng biết",
+        "role": "introductory phrase"
+      },
+      {
+        "text": "that vision declines with age and that we also become worse at distinguishing between similar colors, in particular shades of blue, which is why software designers rarely create interfaces with this color.",
+        "vi": "rằng thị lực giảm dần theo tuổi và chúng ta cũng trở nên kém hơn trong việc phân biệt các màu tương tự, đặc biệt là các sắc độ xanh lam, đó là lý do các nhà thiết kế phần mềm hiếm khi tạo giao diện với màu này.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "transportation-learn",
+    "meaningVi": "sự vận chuyển",
+    "translation": "Ngành kinh doanh vận chuyển băng đã khiến một số chủ tàu ở Boston trở nên rất giàu có vào đầu những năm 1800.",
+    "breakdown": [
+      {
+        "text": "The ice transportation business made some Boston ship owners very wealthy in the early 1800s.",
+        "vi": "Ngành kinh doanh vận chuyển băng đã khiến một số chủ tàu ở Boston trở nên rất giàu có vào đầu những năm 1800.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "disadvantage-learn",
+    "meaningVi": "nhược điểm; bất lợi",
+    "translation": "Một nhược điểm của quy trình đông lạnh được phát minh ở Úc là nó ảnh hưởng đến hương vị của thực phẩm.",
+    "breakdown": [
+      {
+        "text": "A disadvantage of the freezing process invented in Australia was that it affected the taste of food.",
+        "vi": "Một nhược điểm của quy trình đông lạnh được phát minh ở Úc là nó ảnh hưởng đến hương vị của thực phẩm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "promotion-learn",
+    "meaningVi": "sự quảng bá; khuyến mãi",
+    "translation": "Swanson Foods đã đầu tư rất nhiều tiền vào việc quảng bá TV Dinner.",
+    "breakdown": [
+      {
+        "text": "Swanson Foods invested a great deal of money in the promotion of the TV Dinner.",
+        "vi": "Swanson Foods đã đầu tư rất nhiều tiền vào việc quảng bá TV Dinner.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "container-learn",
+    "meaningVi": "vật chứa; hộp đựng",
+    "translation": "Swanson Foods đã phát triển một kiểu hộp đựng mới cho việc ra mắt TV Dinner.",
+    "breakdown": [
+      {
+        "text": "Swanson Foods developed a new style of container for the launch of the TV Dinner.",
+        "vi": "Swanson Foods đã phát triển một kiểu hộp đựng mới cho việc ra mắt TV Dinner.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "refrigeration-learn",
+    "meaningVi": "sự làm lạnh; bảo quản lạnh",
+    "translation": "Nước đá tự nhiên vẫn là hình thức bảo quản lạnh chính cho đến cuối thế kỷ 19.",
+    "breakdown": [
+      {
+        "text": "Natural ice remained the main form of refrigeration until late in the 19th century.",
+        "vi": "Nước đá tự nhiên vẫn là hình thức bảo quản lạnh chính cho đến cuối thế kỷ 19.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "contamination-learn",
+    "meaningVi": "sự ô nhiễm; sự nhiễm bẩn",
+    "translation": "sự ô nhiễm biển do chất thải",
+    "breakdown": [
+      {
+        "text": "the contamination of the sea from waste",
+        "vi": "sự ô nhiễm biển do chất thải",
+        "role": "noun phrase"
+      }
+    ]
+  },
+  {
+    "id": "alteration-learn",
+    "meaningVi": "sự thay đổi; sự chỉnh sửa",
+    "translation": "những thay đổi trong dòng chảy thông thường của nước ở các vùng biển",
+    "breakdown": [
+      {
+        "text": "alterations in the usual flow of water in the seas",
+        "vi": "những thay đổi trong dòng chảy thông thường của nước ở các vùng biển",
+        "role": "noun phrase"
+      }
+    ]
+  },
+  {
+    "id": "cope-with-learn",
+    "meaningVi": "đối phó với; xử lý được",
+    "translation": "Họ đang nghiên cứu những loài san hô có thể chịu đựng tốt điều kiện biển đã thay đổi.",
+    "breakdown": [
+      {
+        "text": "They are looking at corals that can cope well with the changed sea conditions.",
+        "vi": "Họ đang nghiên cứu những loài san hô có thể chịu đựng tốt điều kiện biển đã thay đổi.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "reproduction-learn",
+    "meaningVi": "sự sinh sản",
+    "translation": "Họ đang thử nghiệm các phương pháp có thể đẩy nhanh quá trình sinh sản ở một số loài san hô.",
+    "breakdown": [
+      {
+        "text": "They are trying out methods that would speed up reproduction in some corals.",
+        "vi": "Họ đang thử nghiệm các phương pháp có thể đẩy nhanh quá trình sinh sản ở một số loài san hô.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "restoration-learn",
+    "meaningVi": "sự phục hồi; sự khôi phục",
+    "translation": "Tuy nhiên, nghiên cứu trong bể thủy sinh đã giúp một số loài san hô sinh sản nhân tạo, điều này có thể hỗ trợ các nỗ lực phục hồi rạn san hô.",
+    "breakdown": [
+      {
+        "text": "'However, aquarium-based research has enabled some corals to spawn artificially, which can assist coral reef restoration efforts.",
+        "vi": "Tuy nhiên, nghiên cứu trong bể thủy sinh đã giúp một số loài san hô sinh sản nhân tạo, điều này có thể hỗ trợ các nỗ lực phục hồi rạn san hô.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "restrict-learn",
+    "meaningVi": "hạn chế",
+    "translation": "Vì an toàn của chính chúng ta, con người sẽ cần hạn chế khả năng của robot.",
+    "breakdown": [
+      {
+        "text": "For our own safety, humans will need to restrict the abilities of robots.",
+        "vi": "Vì an toàn của chính chúng ta, con người sẽ cần hạn chế khả năng của robot.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "ethical-learn",
+    "meaningVi": "thuộc đạo đức",
+    "translation": "Richardson và Rees có quan điểm tương tự nhau về khía cạnh đạo đức của",
+    "breakdown": [
+      {
+        "text": "Richardson and Rees express similar views regarding the ethical aspect of",
+        "vi": "Richardson và Rees có quan điểm tương tự nhau về khía cạnh đạo đức của",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "inclination-learn",
+    "meaningVi": "khuynh hướng; xu hướng",
+    "translation": "Đó là kết quả của khuynh hướng gán các đặc điểm của con người cho những thực thể không phải con người.",
+    "breakdown": [
+      {
+        "text": "It is the result of our inclination to attribute human characteristics to non-human entities.",
+        "vi": "Đó là kết quả của khuynh hướng gán các đặc điểm của con người cho những thực thể không phải con người.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "inanimate-learn",
+    "meaningVi": "vô sinh; không có sự sống",
+    "translation": "Theo quan điểm của bà, nó bắt nguồn từ xu hướng nhân cách hóa đồ vật vô tri của con người: chúng ta tạo ra máy móc dựa trên hình ảnh của chính mình, tưởng tượng rằng máy móc suy nghĩ và hành xử như chúng ta, và do đó coi chúng là một mối đe dọa tự chủ.",
+    "breakdown": [
+      {
+        "text": "In her view, it stems from humans' tendency to personify inanimate objects:",
+        "vi": "Theo quan điểm của bà, nó bắt nguồn từ xu hướng nhân cách hóa đồ vật vô tri của con người:",
+        "role": "cause"
+      },
+      {
+        "text": "we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat.",
+        "vi": "chúng ta tạo ra máy móc dựa trên hình ảnh của chính mình, tưởng tượng rằng máy móc suy nghĩ và hành xử như chúng ta, và do đó coi chúng là một mối đe dọa tự chủ.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "personify-learn",
+    "meaningVi": "nhân cách hóa",
+    "translation": "Theo quan điểm của bà, nó bắt nguồn từ xu hướng nhân cách hóa đồ vật vô tri của con người: chúng ta tạo ra máy móc dựa trên hình ảnh của chính mình, tưởng tượng rằng máy móc suy nghĩ và hành xử như chúng ta, và do đó coi chúng là một mối đe dọa tự chủ.",
+    "breakdown": [
+      {
+        "text": "In her view, it stems from humans' tendency to personify inanimate objects:",
+        "vi": "Theo quan điểm của bà, nó bắt nguồn từ xu hướng nhân cách hóa đồ vật vô tri của con người:",
+        "role": "cause"
+      },
+      {
+        "text": "we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat.",
+        "vi": "chúng ta tạo ra máy móc dựa trên hình ảnh của chính mình, tưởng tượng rằng máy móc suy nghĩ và hành xử như chúng ta, và do đó coi chúng là một mối đe dọa tự chủ.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "inclusive-sentence",
+    "meaningVi": "mang tính bao trùm; bao quát",
+    "translation": "Chỉ trong thời gian tương đối gần đây, các nhà thiết kế mới nhận thức được sự cần thiết phải bao trùm khi thiết kế sản phẩm.",
+    "breakdown": [
+      {
+        "text": "It's only relatively recently that designers have become aware of the need to be inclusive when designing products.",
+        "vi": "Chỉ trong thời gian tương đối gần đây, các nhà thiết kế mới nhận thức được sự cần thiết phải bao trùm khi thiết kế sản phẩm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "workplace-sentence",
+    "meaningVi": "nơi làm việc",
+    "translation": "Ở nơi làm việc, thường thấy những chiếc bàn có thể điều chỉnh để phù hợp với người có chiều cao khác nhau hoặc cho người dùng xe lăn.",
+    "breakdown": [
+      {
+        "text": "In workplaces, it is common to see desks which can be",
+        "vi": "Ở nơi làm việc, thường thấy những chiếc bàn có thể",
+        "role": "location"
+      },
+      {
+        "text": "adjusted to suit people of different heights or for wheelchair users.",
+        "vi": "điều chỉnh để phù hợp với người có chiều cao khác nhau hoặc cho người dùng xe lăn.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "freezing-sentence",
+    "meaningVi": "sự đông lạnh; quá trình đông lạnh",
+    "translation": "Trong quá trình đông lạnh, các tinh thể hình thành bên trong tế bào thực phẩm, và khi nước đá giãn nở làm các tế bào vỡ ra, điều này làm hỏng hương vị và kết cấu của thực phẩm.",
+    "breakdown": [
+      {
+        "text": "During the freezing process, crystals formed within the cells of the food, and",
+        "vi": "Trong quá trình đông lạnh, các tinh thể hình thành bên trong tế bào thực phẩm, và",
+        "role": "process stage"
+      },
+      {
+        "text": "when the ice expanded and the cells burst, this spoilt the flavor and texture of the food.",
+        "vi": "khi nước đá giãn nở làm các tế bào vỡ ra, điều này làm hỏng hương vị và kết cấu của thực phẩm.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "disabled-sentence",
+    "meaningVi": "khuyết tật; bị tàn tật",
+    "translation": "Việc không thể tiếp cận giao thông công cộng vì xe buýt hoặc tàu hỏa không thân thiện với xe lăn khiến nhiều người khuyết tật không thể ra ngoài trừ khi có ai đó đi cùng.",
+    "breakdown": [
+      {
+        "text": "Not being able to access public transport",
+        "vi": "Việc không thể tiếp cận giao thông công cộng",
+        "role": "cause"
+      },
+      {
+        "text": "because buses or trains are not wheelchair friendly means many disabled people can't go out unless someone goes with them.",
+        "vi": "vì xe buýt hoặc tàu hỏa không thân thiện với xe lăn khiến nhiều người khuyết tật không thể ra ngoài trừ khi có ai đó đi cùng.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "specie-sentence",
+    "meaningVi": "loài",
+    "translation": "Các mẫu san hô ngoạn mục nhất hành tinh - san hô phân nhánh màu xanh lá rực rỡ, san hô cuộn vàng, san hô rặng xanh và nhiều loài khác - đã được thêm vào bể khổng lồ cùng với những loài cá phát triển tốt khi có chúng: cá tang xanh, cá hề và nhiều loài khác.",
+    "breakdown": [
+      {
+        "text": "Samples of the planet's most spectacular corals - vivid green branching coral, yellow scroll, blue ridge and many more species - have been added to the giant tank along with fish that thrive in their presence:",
+        "vi": "Các mẫu san hô ngoạn mục nhất hành tinh - san hô phân nhánh màu xanh lá rực rỡ, san hô cuộn vàng, san hô rặng xanh và nhiều loài khác - đã được thêm vào bể khổng lồ cùng với những loài cá phát triển tốt khi có chúng:",
+        "role": "main idea"
+      },
+      {
+        "text": "blue tang, clownfish and many others.",
+        "vi": "cá tang xanh, cá hề và nhiều loài khác.",
+        "role": "examples"
+      }
+    ]
+  },
+  {
+    "id": "reef-sentence",
+    "meaningVi": "rạn (san hô)",
+    "translation": "Mối quan hệ cộng sinh thoải mái này đã dẫn đến sự phát triển của các rạn san hô bao phủ 0,1% đáy đại dương của hành tinh trong khi cung cấp nơi ở cho hơn 25% các loài sinh vật biển, bao gồm cá, động vật thân mềm, bọt biển và động vật có vỏ.",
+    "breakdown": [
+      {
+        "text": "This comfortable symbiotic relationship has led to the growth of coral reefs",
+        "vi": "Mối quan hệ cộng sinh thoải mái này đã dẫn đến sự phát triển của các rạn san hô",
+        "role": "result"
+      },
+      {
+        "text": "that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish.",
+        "vi": "bao phủ 0,1% đáy đại dương của hành tinh trong khi cung cấp nơi ở cho hơn 25% các loài sinh vật biển, bao gồm cá, động vật thân mềm, bọt biển và động vật có vỏ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "coral-sentence",
+    "meaningVi": "san hô",
+    "translation": "Các mẫu san hô ngoạn mục nhất hành tinh - san hô phân nhánh màu xanh lá rực rỡ, san hô cuộn vàng, san hô rặng xanh và nhiều loài khác - đã được thêm vào bể khổng lồ cùng với những loài cá phát triển tốt khi có chúng: cá tang xanh, cá hề và nhiều loài khác.",
+    "breakdown": [
+      {
+        "text": "Samples of the planet's most spectacular corals - vivid green branching coral, yellow scroll, blue ridge and many more species - have been added to the giant tank along with fish that thrive in their presence:",
+        "vi": "Các mẫu san hô ngoạn mục nhất hành tinh - san hô phân nhánh màu xanh lá rực rỡ, san hô cuộn vàng, san hô rặng xanh và nhiều loài khác - đã được thêm vào bể khổng lồ cùng với những loài cá phát triển tốt khi có chúng:",
+        "role": "main idea"
+      },
+      {
+        "text": "blue tang, clownfish and many others.",
+        "vi": "cá tang xanh, cá hề và nhiều loài khác.",
+        "role": "examples"
+      }
+    ]
+  },
+  {
+    "id": "resemble-sentence",
+    "meaningVi": "giống với; tương tự",
+    "translation": "Chẳng phải là vào thế kỷ 19 khi các tờ chương trình sân khấu bắt đầu giống với chương trình ngày nay sao?",
+    "breakdown": [
+      {
+        "text": "Wasn't it in the 19th century that theater programs started to resemble programs today?",
+        "vi": "Chẳng phải là vào thế kỷ 19 khi các tờ chương trình sân khấu bắt đầu giống với chương trình ngày nay sao?",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "non-inclusive-sentence",
+    "meaningVi": "không bao trùm; loại trừ",
+    "translation": "Đáng để xem xét những vấn đề mà các thiết kế không bao trùm gây ra khi không có đủ sự quan tâm đến nhiều nhóm người dùng khác nhau, vì nó có thể ảnh hưởng nghiêm trọng đến cuộc sống của con người.",
+    "breakdown": [
+      {
+        "text": "It's worth looking at the problems non-inclusive designs cause",
+        "vi": "Đáng để xem xét những vấn đề mà các thiết kế không bao trùm gây ra",
+        "role": "main idea"
+      },
+      {
+        "text": "when not enough consideration is given to a range of users as it can have a serious impact on people's lives.",
+        "vi": "khi không có đủ sự quan tâm đến nhiều nhóm người dùng khác nhau, vì nó có thể ảnh hưởng nghiêm trọng đến cuộc sống của con người.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "nowadays-sentence",
+    "meaningVi": "ngày nay",
+    "translation": "Đúng vậy, chúng khá phổ biến ngày nay.",
+    "breakdown": [
+      {
+        "text": "Yes, they're quite common nowadays.",
+        "vi": "Đúng vậy, chúng khá phổ biến ngày nay.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "artificial-sentence",
+    "meaningVi": "nhân tạo",
+    "translation": "Các nhà bảo tồn đã hoàn thiện những chi tiết cuối cùng của một rạn san hô nhân tạo khổng lồ mà họ đã lắp ghép tại Hiệp hội Động vật học London nổi tiếng thế giới (Sở thú London).",
+    "breakdown": [
+      {
+        "text": "Conservationists have put the final touches to a giant artificial reef they",
+        "vi": "Các nhà bảo tồn đã hoàn thiện những chi tiết cuối cùng của một rạn san hô nhân tạo khổng lồ mà họ",
+        "role": "main idea"
+      },
+      {
+        "text": "have been assembling at the world-renowned Zoological Society of London (London Zoo).",
+        "vi": "đã lắp ghép tại Hiệp hội Động vật học London nổi tiếng thế giới (Sở thú London).",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "dependent-sentence",
+    "meaningVi": "phụ thuộc",
+    "translation": "Và một lo ngại khác là chúng ta ngày càng phụ thuộc vào mạng máy tính, và rằng những mạng này có thể hành xử như một “bộ não” duy nhất có ý chí riêng, với những mục tiêu có thể trái với lợi ích của con người.",
+    "breakdown": [
+      {
+        "text": "And another worry is",
+        "vi": "Và một lo ngại khác là",
+        "role": "addition"
+      },
+      {
+        "text": "that we are increasingly dependent on computer networks, and that these could behave like a single \"brain\" with a mind of its own, and with goals that may be contrary to human welfare.",
+        "vi": "chúng ta ngày càng phụ thuộc vào mạng máy tính, và rằng những mạng này có thể hành xử như một “bộ não” duy nhất có ý chí riêng, với những mục tiêu có thể trái với lợi ích của con người.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "invent-sentence",
+    "meaningVi": "phát minh",
+    "translation": "Birdseye đều đặn tiếp tục phát minh ra những chiếc tủ đông tốt hơn và dần dần xây dựng một doanh nghiệp bán cá đông lạnh từ Gloucester, Massachusetts.",
+    "breakdown": [
+      {
+        "text": "Birdseye methodically kept inventing better freezers and gradually built a business selling frozen fish from Gloucester, Massachusetts.",
+        "vi": "Birdseye đều đặn tiếp tục phát minh ra những chiếc tủ đông tốt hơn và dần dần xây dựng một doanh nghiệp bán cá đông lạnh từ Gloucester, Massachusetts.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "module-sentence",
+    "meaningVi": "mô-đun; học phần",
+    "translation": "Mặc dù nó là một trong những lĩnh vực nghiên cứu của người phụ trách mô-đun.",
+    "breakdown": [
+      {
+        "text": "Although it is one of the research areas of the module convenor.",
+        "vi": "Mặc dù nó là một trong những lĩnh vực nghiên cứu của người phụ trách mô-đun.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "designer-sentence",
+    "meaningVi": "nhà thiết kế",
+    "translation": "Ví dụ, ai cũng biết rằng thị lực giảm dần theo tuổi và chúng ta cũng trở nên kém hơn trong việc phân biệt các màu tương tự, đặc biệt là các sắc độ xanh lam, đó là lý do các nhà thiết kế phần mềm hiếm khi tạo giao diện với màu này.",
+    "breakdown": [
+      {
+        "text": "For example, it's well known",
+        "vi": "Ví dụ, ai cũng biết",
+        "role": "introductory phrase"
+      },
+      {
+        "text": "that vision declines with age and that we also become worse at distinguishing between similar colors, in particular shades of blue, which is why software designers rarely create interfaces with this color.",
+        "vi": "rằng thị lực giảm dần theo tuổi và chúng ta cũng trở nên kém hơn trong việc phân biệt các màu tương tự, đặc biệt là các sắc độ xanh lam, đó là lý do các nhà thiết kế phần mềm hiếm khi tạo giao diện với màu này.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "fiction-sentence",
+    "meaningVi": "hư cấu; thể loại hư cấu",
+    "translation": "Đáp lại, Wolpert bình luận: “Khoa học viễn tưởng thường rất đáng chú ý trong việc dự đoán tương lai; khoa học viễn tưởng đã vẽ nên một phổ sống động về những tương lai có thể, từ những robot dễ thương và hữu ích đến những xã hội robot phản địa đàng.”",
+    "breakdown": [
+      {
+        "text": "As his response, Wolpert commented, 'Science fiction has often been remarkable at predicting the future Science fiction",
+        "vi": "Đáp lại, Wolpert bình luận: “Khoa học viễn tưởng thường rất đáng chú ý trong việc dự đoán tương lai; khoa học viễn tưởng",
+        "role": "quotation"
+      },
+      {
+        "text": "has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies.",
+        "vi": "đã vẽ nên một phổ sống động về những tương lai có thể, từ những robot dễ thương và hữu ích đến những xã hội robot phản địa đàng.”",
+        "role": "quotation"
+      }
+    ]
+  },
+  {
+    "id": "castle-sentence",
+    "meaningVi": "lâu đài",
+    "translation": "Thật tình cờ, nhóm đã tìm thấy một số bản đồ và tài liệu cũ trong thư viện của chúng tôi, những thứ cho thấy các bản vẽ 500 năm tuổi về những tòa nhà đổ nát trên bãi cỏ giữa những bức tường đá bên ngoài của lâu đài và con sông.",
+    "breakdown": [
+      {
+        "text": "Just by chance, the team found some old maps and documents in our library",
+        "vi": "Thật tình cờ, nhóm đã tìm thấy một số bản đồ và tài liệu cũ trong thư viện của chúng tôi",
+        "role": "circumstance"
+      },
+      {
+        "text": "which showed 500-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.",
+        "vi": "cho thấy những bản vẽ 500 năm tuổi về các tòa nhà đổ nát trên bãi cỏ giữa những bức tường đá bên ngoài của lâu đài và con sông.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "discover-sentence",
+    "meaningVi": "phát hiện; khám phá",
+    "translation": "Năm ngoái, chúng tôi đã phát hiện một ao cá trong ngôi làng cổ.",
+    "breakdown": [
+      {
+        "text": "Last year, we discovered a fish pond in the ancient village.",
+        "vi": "Năm ngoái, chúng tôi đã phát hiện một ao cá trong ngôi làng cổ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "discovery-sentence",
+    "meaningVi": "sự phát hiện; khám phá",
+    "translation": "Ngoài việc phát hiện ra ngôi làng, chúng tôi cũng đã tìm thấy bằng chứng về hoạt động của con người ở bờ bên kia sông.",
+    "breakdown": [
+      {
+        "text": "Besides the discovery of the village, we've also found evidence",
+        "vi": "Ngoài việc phát hiện ra ngôi làng, chúng tôi cũng đã tìm thấy bằng chứng",
+        "role": "addition"
+      },
+      {
+        "text": "of human activity on the other side of the river.",
+        "vi": "về hoạt động của con người ở bờ bên kia sông.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "universal-sentence",
+    "meaningVi": "phổ quát; phổ dụng",
+    "translation": "Thiết kế bao trùm thường được gắn với thiết kế phổ quát mặc dù chúng không hoàn toàn giống nhau.",
+    "breakdown": [
+      {
+        "text": "Inclusive design is often linked with universal design although they are not quite the same thing.",
+        "vi": "Thiết kế bao trùm thường được gắn với thiết kế phổ quát mặc dù chúng không hoàn toàn giống nhau.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "format-sentence",
+    "meaningVi": "định dạng; hình thức trình bày",
+    "translation": "Ở Hoa Kỳ, các chương trình, hay đúng hơn là các tờ chương trình, tiếp tục được xuất bản theo cùng một định dạng, trong khi ở Vương quốc Anh, chương trình chỉ còn là một tờ giấy duy nhất gấp lại thành bốn trang để chứa chữ.",
+    "breakdown": [
+      {
+        "text": "In the USA, programs, or rather playbills, continued to be published in the same format",
+        "vi": "Ở Hoa Kỳ, các chương trình, hay đúng hơn là các tờ chương trình, tiếp tục được xuất bản theo cùng một định dạng",
+        "role": "contrast"
+      },
+      {
+        "text": "while here in the UK, programs became merely a single sheet of paper folded to create four pages for text.",
+        "vi": "trong khi ở Vương quốc Anh, chương trình chỉ còn là một tờ giấy gấp lại thành bốn trang để chứa chữ.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "contain-sentence",
+    "meaningVi": "chứa; bao gồm",
+    "translation": "Tôi nghĩ đây là một tờ chương trình hay để giới thiệu, không phải vì hình ảnh, mà vì nó chứa các bài viết của thành viên đoàn kịch, nên chúng ta có thể biết vở diễn được tạo ra thế nào và những suy nghĩ, cảm xúc của dàn diễn viên.",
+    "breakdown": [
+      {
+        "text": "I thought this was a good program to show, not",
+        "vi": "Tôi nghĩ đây là một tờ chương trình hay để giới thiệu, không",
+        "role": "opinion"
+      },
+      {
+        "text": "because of the pictures, but because it contains articles written by members of theater company, so we can learn how the production was created and the thoughts and feelings of the cast.",
+        "vi": "phải vì hình ảnh, mà vì nó chứa các bài viết của thành viên đoàn kịch, nên chúng ta có thể biết vở diễn được tạo ra thế nào và những suy nghĩ, cảm xúc của dàn diễn viên.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "monthly-sentence",
+    "meaningVi": "hàng tháng",
+    "translation": "Nó ghi giá hàng tháng cho mỗi phòng.",
+    "breakdown": [
+      {
+        "text": "It says the monthly price per room.",
+        "vi": "Nó ghi giá hàng tháng cho mỗi phòng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "intelligence-sentence",
+    "meaningVi": "trí tuệ; trí thông minh",
+    "translation": "Phản hồi của Richardson cho câu hỏi này là: “Chúng ta cần hỏi tại sao nỗi sợ về trí tuệ nhân tạo và robot vẫn tồn tại; trên thực tế không có máy nào nổi dậy và thách thức sự thống trị của con người.”",
+    "breakdown": [
+      {
+        "text": "Richardson's response to this question was this:",
+        "vi": "Phản hồi của Richardson cho câu hỏi này là:",
+        "role": "introduction"
+      },
+      {
+        "text": "'We need to ask why fears of artificial intelligence and robots persist;",
+        "vi": "“Chúng ta cần hỏi tại sao nỗi sợ về trí tuệ nhân tạo và robot vẫn tồn tại;",
+        "role": "quotation"
+      },
+      {
+        "text": "none have in fact risen up and challenged human supremacy.'",
+        "vi": "trên thực tế không có máy nào nổi dậy và thách thức sự thống trị của con người.”",
+        "role": "quotation"
+      }
+    ]
+  },
+  {
+    "id": "rent-sentence",
+    "meaningVi": "thuê",
+    "translation": "Khi tôi xem nhà, tôi đã nói với bạn rằng tôi rất có thể sẽ cần thuê một số đồ nội thất.",
+    "breakdown": [
+      {
+        "text": "When I viewed the house, I told you I'll most probably need to rent some furniture.",
+        "vi": "Khi tôi xem nhà, tôi đã nói với bạn rằng tôi rất có thể sẽ cần thuê một số đồ nội thất.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "actor-sentence",
+    "meaningVi": "diễn viên",
+    "translation": "Khi một đoàn diễn viên đến một thị trấn, họ thường diễu hành quanh các con phố trong trang phục của mình, đánh trống và thông báo về các buổi biểu diễn sắp tới.",
+    "breakdown": [
+      {
+        "text": "When a company of actors arrived in a town, they'd parade around",
+        "vi": "Khi một đoàn diễn viên đến một thị trấn, họ thường diễu hành quanh",
+        "role": "time clause"
+      },
+      {
+        "text": "the streets in their costumes, beating drums and announcing their upcoming performances.",
+        "vi": "các con phố trong trang phục của mình, đánh trống và thông báo về các buổi biểu diễn sắp tới.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "ancient-sentence",
+    "meaningVi": "cổ; cổ xưa",
+    "translation": "Có lúc, chúng tôi tìm thấy một bức tường dài và nghĩ rằng đó là một cung điện cổ, nhưng hóa ra đó là một bức tường hiện đại.",
+    "breakdown": [
+      {
+        "text": "At one point, we found a long wall and thought it was",
+        "vi": "Có lúc, chúng tôi tìm thấy một bức tường dài và nghĩ rằng đó là",
+        "role": "main clause"
+      },
+      {
+        "text": "an ancient palace, but it turned out to be a modern wall.",
+        "vi": "một cung điện cổ, nhưng hóa ra đó là một bức tường hiện đại.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "planet-sentence",
+    "meaningVi": "hành tinh",
+    "translation": "Về câu hỏi sử dụng robot để thuộc địa hóa các hành tinh khác và khai thác tài nguyên khoáng sản, giáo sư kỹ thuật Daniel Wolpert trả lời: “Tôi không thấy nhu cầu cấp bách phải thuộc địa hóa các hành tinh khác trừ khi chúng ta có thể mang [những] tài nguyên này trở lại Trái Đất.”",
+    "breakdown": [
+      {
+        "text": "On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied",
+        "vi": "Về câu hỏi sử dụng robot để thuộc địa hóa các hành tinh khác và khai thác tài nguyên khoáng sản, giáo sư kỹ thuật Daniel Wolpert trả lời",
+        "role": "topic"
+      },
+      {
+        "text": "'I don't see a pressing need to colonise other planets unless we can bring [these] resources back to Earth.",
+        "vi": "“Tôi không thấy nhu cầu cấp bách phải thuộc địa hóa các hành tinh khác trừ khi chúng ta có thể mang [những] tài nguyên này trở lại Trái Đất.”",
+        "role": "quotation"
+      }
+    ]
+  },
+  {
+    "id": "perspective-sentence",
+    "meaningVi": "góc nhìn; quan điểm",
+    "translation": "Trong một số trường hợp, chúng ta cần tập hợp những hiểu biết khác nhau này lại để có được một góc nhìn toàn diện.",
+    "breakdown": [
+      {
+        "text": "'In some cases, we need to bring these different understandings together to get a whole perspective.",
+        "vi": "Trong một số trường hợp, chúng ta cần tập hợp những hiểu biết khác nhau này lại để có được một góc nhìn toàn diện.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "independence-sentence",
+    "meaningVi": "sự độc lập",
+    "translation": "Tiếp cận là một ví dụ rõ ràng vì nó có ảnh hưởng rất lớn đến sự độc lập của người khuyết tật.",
+    "breakdown": [
+      {
+        "text": "Access is one obvious example because it has such a huge impact on disabled people's independence.",
+        "vi": "Tiếp cận là một ví dụ rõ ràng vì nó có ảnh hưởng rất lớn đến sự độc lập của người khuyết tật.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "customer-sentence",
+    "meaningVi": "khách hàng",
+    "translation": "Nhưng một điều hữu ích là họ cũng dọn dẹp cho khách hàng.",
+    "breakdown": [
+      {
+        "text": "But one helpful thing is that they also do cleaning for customers.",
+        "vi": "Nhưng một điều hữu ích là họ cũng dọn dẹp cho khách hàng.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "familiar-sentence",
+    "meaningVi": "quen thuộc",
+    "translation": "Đúng vậy, khán giả rất quen với các diễn viên chính và những tên tuổi lớn thu hút rất đông người.",
+    "breakdown": [
+      {
+        "text": "Yeah, audiences were very familiar with leading actors and big names would draw huge crowds.",
+        "vi": "Đúng vậy, khán giả rất quen với các diễn viên chính và những tên tuổi lớn thu hút rất đông người.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "temperature-sentence",
+    "meaningVi": "nhiệt độ",
+    "translation": "Nhiệt độ đại dương tăng cao đang gây ra các hiện tượng tẩy trắng khiến các rạn san hô mất màu và cuối cùng chết.",
+    "breakdown": [
+      {
+        "text": "Rising ocean temperatures are triggering bleaching events that strip reefs of their colour and eventually kill them.",
+        "vi": "Nhiệt độ đại dương tăng cao đang gây ra các hiện tượng tẩy trắng khiến các rạn san hô mất màu và cuối cùng chết.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "marine-sentence",
+    "meaningVi": "thuộc biển; sinh vật biển",
+    "translation": "Mối quan hệ cộng sinh thoải mái này đã dẫn đến sự phát triển của các rạn san hô bao phủ 0,1% đáy đại dương của hành tinh trong khi cung cấp nơi ở cho hơn 25% các loài sinh vật biển, bao gồm cá, động vật thân mềm, bọt biển và động vật có vỏ.",
+    "breakdown": [
+      {
+        "text": "This comfortable symbiotic relationship has led to the growth of coral reefs",
+        "vi": "Mối quan hệ cộng sinh thoải mái này đã dẫn đến sự phát triển của các rạn san hô",
+        "role": "result"
+      },
+      {
+        "text": "that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish.",
+        "vi": "bao phủ 0,1% đáy đại dương của hành tinh trong khi cung cấp nơi ở cho hơn 25% các loài sinh vật biển, bao gồm cá, động vật thân mềm, bọt biển và động vật có vỏ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "deliver-sentence",
+    "meaningVi": "giao (hàng)",
+    "translation": "Một điểm hay của công ty đó là nếu bạn không thích đồ nội thất sau khi được giao, bạn có thể yêu cầu đổi miễn là làm việc đó trong vòng một tuần kể từ khi nhận.",
+    "breakdown": [
+      {
+        "text": "One good thing about",
+        "vi": "Một điểm hay của",
+        "role": "introductory phrase"
+      },
+      {
+        "text": "that company is that if you don't like the furniture once it's delivered, you can request exchanges as long as you do that within a week of receiving it.",
+        "vi": "công ty đó là nếu bạn không thích đồ nội thất sau khi được giao, bạn có thể yêu cầu đổi miễn là làm việc đó trong vòng một tuần kể từ khi nhận.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "wave-sentence",
+    "meaningVi": "sóng",
+    "translation": "Pearce-Kelly nói rằng các rạn san hô phải chịu đựng những điều kiện thực sự khắc nghiệt - xói mòn do sóng và các yếu tố khác.",
+    "breakdown": [
+      {
+        "text": "Pearce-Kelly says that coral reefs have to survive really harsh conditions - wave erosion and other factors.",
+        "vi": "Pearce-Kelly nói rằng các rạn san hô phải chịu đựng những điều kiện thực sự khắc nghiệt - xói mòn do sóng và các yếu tố khác.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "perform-sentence",
+    "meaningVi": "biểu diễn; thực hiện",
+    "translation": "Nhưng tôi chưa nhận ra rằng nếu tờ chương trình ghi tên một diễn viên nổi tiếng, thì đó chính là người mà công chúng mong đợi sẽ biểu diễn.",
+    "breakdown": [
+      {
+        "text": "But I hadn't realized that If the program named",
+        "vi": "Nhưng tôi chưa nhận ra rằng nếu tờ chương trình ghi tên",
+        "role": "main clause"
+      },
+      {
+        "text": "a famous actor, that's who the public expected to perform.",
+        "vi": "một diễn viên nổi tiếng, thì đó chính là người mà công chúng mong đợi sẽ biểu diễn.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "launch-sentence",
+    "meaningVi": "ra mắt; tung ra",
+    "translation": "Năm 1954, công ty đã điều chỉnh một số kỹ thuật đông lạnh của Birdseye, và với sự giúp đỡ của một cái tên thông minh cùng ngân sách quảng cáo khổng lồ, nó đã tung ra “TV Dinner” đầu tiên.",
+    "breakdown": [
+      {
+        "text": "In 1954, the company adapted some of Birdseye's freezing techniques, and with the help",
+        "vi": "Năm 1954, công ty đã điều chỉnh một số kỹ thuật đông lạnh của Birdseye, và với sự giúp",
+        "role": "time clause"
+      },
+      {
+        "text": "of a clever name and a huge advertising budget, it launched the first 'TV Dinner'.",
+        "vi": "đỡ của một cái tên thông minh và ngân sách quảng cáo khổng lồ, nó đã tung ra “TV Dinner” đầu tiên.",
+        "role": "result"
+      }
+    ]
+  }
+]

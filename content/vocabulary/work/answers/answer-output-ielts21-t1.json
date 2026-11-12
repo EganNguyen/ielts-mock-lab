@@ -1,0 +1,220 @@
+{
+  "tag": "ielts21-t1",
+  "links": {
+    "taster-learn|l1|q1": {
+      "support": "You'd be in a small group, usually about eight people but no more than ten - and everyone's always very friendly.",
+      "connection": "The Taster Day note asks for the number in 'small groups (max ______ people)'; the reply says the group is 'usually about eight people but no more than ten'.",
+      "paraphrasing": "'small groups (max ______ people)' -> 'a small group ... no more than ten'."
+    },
+    "taster-learn|l1|q2": {
+      "support": "So you learn about things like the weather, which is obviously really important and also the tides, as well as learning basic sailing skills.",
+      "connection": "The Level 1 note asks what students understand besides 'the tides'; the reply says they 'learn about things like the weather' and 'also the tides'.",
+      "paraphrasing": "'understanding the ______ and tides' -> 'learn about things like the weather ... and also the tides'."
+    },
+    "tide-learn|l1|q2": {
+      "support": "So you learn about things like the weather, which is obviously really important and also the tides, as well as learning basic sailing skills.",
+      "connection": "The note's blank sits next to 'tides', and the reply names 'the weather' and 'also the tides' as what students learn.",
+      "paraphrasing": "'the ______ and tides' -> 'the weather ... and also the tides'."
+    },
+    "all-inclusive-learn|l1|q4": {
+      "support": "There's a discount for members.",
+      "connection": "The note asks what is available to club members on the £200 Level 1 course; the reply says 'There's a discount for members'.",
+      "paraphrasing": "'a ______ is available for club members' -> 'There's a discount for members'."
+    },
+    "all-inclusive-learn|l1|q5": {
+      "support": "Yes, everything's included and you also get a really good dictionary explaining all the sailing terminology.",
+      "connection": "The note says the Level 1 price is 'all inclusive' and asks for 'a useful ______'; the reply says 'everything's included' and names 'a really good dictionary'.",
+      "paraphrasing": "'all inclusive, plus a useful ______' -> 'everything's included and you also get a really good dictionary'."
+    },
+    "minimum-wage-learn|l2|q11": {
+      "support": "Make sure your transport costs are covered - and remember, there's very unlikely to be any catering provided, so bring plenty of food.",
+      "connection": "The question asks what trainees should expect on low budget short films; the advice is to make sure 'transport costs are covered' and warns there is very unlikely to be 'any catering'.",
+      "paraphrasing": "'travel expenses' -> 'transport costs are covered'; 'meals' -> 'any catering'."
+    },
+    "budget-learn|l2|q11": {
+      "support": "Make sure your transport costs are covered - and remember, there's very unlikely to be any catering provided, so bring plenty of food.",
+      "connection": "The question is about low budget short films; the answer line says 'Make sure your transport costs are covered' and that 'catering' is very unlikely.",
+      "paraphrasing": "'travel expenses' -> 'transport costs are covered'."
+    },
+    "special-effects-learn|l2|q12": {
+      "support": "But you're likely to get the opportunity to work with a range of age groups, as well as different ethnicities.",
+      "connection": "The question asks what experience big budget films may offer; the reply says trainees are 'likely to get the opportunity to work with ... different ethnicities'.",
+      "paraphrasing": "'may get experience of' -> 'likely to get the opportunity to work with'; 'working with different ethnicities' -> 'work with ... different ethnicities'."
+    },
+    "portfolio-learn|l2|q16": {
+      "support": "But remember you'll need to get approval from the makeup designer in charge of the department.",
+      "connection": "The question asks for advice on creating a portfolio; the answer line says 'you'll need to get approval from the makeup designer in charge of the department'.",
+      "paraphrasing": "'Get permission to use photos' -> 'get approval from the makeup designer'."
+    },
+    "continuity-learn|l2|q18": {
+      "support": "This information needs to be kept in good order as a reshoot can mean replicating makeup months later.",
+      "connection": "The question asks what ability 'Continuity' requires; the line says the records 'need to be kept in good order', matching 'being well-organised'.",
+      "paraphrasing": "'being well-organised' -> 'kept in good order'."
+    },
+    "biodiversity-learn|l3|q21": {
+      "support": "The examples she gave were at a more global level, and they really made it clear to me just how wide-ranging the threats to ocean biodiversity are.",
+      "connection": "The question asks which feature made the greatest impact; the student says the examples were 'at a more global level' and 'really made it clear' how 'wide-ranging' the threats are.",
+      "paraphrasing": "'the broad focus of the examples' -> 'The examples ... were at a more global level'; 'wide-ranging threats'."
+    },
+    "biodiversity-learn|l3|q25": {
+      "support": "Well, the writer went on about how dangerous they were in environmental terms, which is probably true, but he didn't really provide much information to explain why.",
+      "connection": "The question asks the students' opinion of the article on invasive lionfish; the reply says the writer 'didn't really provide much information to explain why', matching 'insufficient evidence'.",
+      "paraphrasing": "'This gives insufficient evidence for its claims' -> 'didn't really provide much information to explain why'."
+    },
+    "invasive-learn|l3|q25": {
+      "support": "Well, the writer went on about how dangerous they were in environmental terms, which is probably true, but he didn't really provide much information to explain why.",
+      "connection": "The 'article on invasive lionfish' is judged to give 'insufficient evidence' because the writer 'didn't really provide much information to explain why'.",
+      "paraphrasing": "'insufficient evidence for its claims' -> 'didn't really provide much information to explain why'."
+    },
+    "microplastic-learn|l3|q26": {
+      "support": "I watched the documentary on microplastics, at least I started to, but then I found it was made ten years ago so I gave up.",
+      "connection": "The question asks about the 'documentary on microplastics'; the student says it 'was made ten years ago', which is why it is 'now rather outdated'.",
+      "paraphrasing": "'Documentary on microplastics' -> 'the documentary on microplastics ... made ten years ago'; 'now rather outdated' -> 'made ten years ago'."
+    },
+    "toxicity-learn|l3|q29": {
+      "support": "The article on metal toxicity was way above my head.",
+      "connection": "The question asks about the 'article on metal toxicity'; the student says it 'was way above my head', indicating a very specialist audience.",
+      "paraphrasing": "'This is aimed at a very specialist audience' -> 'way above my head'."
+    },
+    "cultivate-learn|l4|q32": {
+      "support": "It can take eight to ten years for a tree to start producing rubber, so cultivating them's a slow process.",
+      "connection": "The note asks about the growth of the tree; the line says it takes 'eight to ten years' and that 'cultivating them's a slow process'.",
+      "paraphrasing": "'the growth of the tree is ______' -> 'cultivating them's a slow process'."
+    },
+    "labour-intensive-learn|l4|q34": {
+      "support": "The result is that it can't be grown in the northern or southern parts of the globe, only around the equator.",
+      "connection": "The note asks where the tree can grow; the line says it can be grown 'only around the equator'.",
+      "paraphrasing": "'the tree only grows near the ______' -> 'only around the equator'."
+    },
+    "labour-intensive-learn|l4|q35": {
+      "support": "With other resources such as water and glass, when we've finished using them we can recycle them, but although this is also possible with rubber, it's very difficult, so that also reduces the amount we have available.",
+      "connection": "The note says it is very difficult to ___ rubber after production; the line says recycling is 'also possible with rubber' but 'very difficult'.",
+      "paraphrasing": "'it is very difficult to ______ rubber after production' -> 'although this is also possible with rubber, it's very difficult'."
+    },
+    "synthetic-learn|l4|q38": {
+      "support": "But compared with natural rubber, it's not anything like as strong, and this means it can't replace natural rubber in other products.",
+      "connection": "The note compares synthetic rubber with natural rubber; the line says 'compared with natural rubber, it's not anything like as strong'.",
+      "paraphrasing": "'is less ______ than natural rubber' -> 'compared with natural rubber, it's not anything like as strong'."
+    },
+    "amass-learn|r1|q1": {
+      "support": "Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries.",
+      "connection": "The note asks where the grandfather's wealth came from; the line says he 'amassed a fortune in the shipping and mining industries', and 'transportation' matches 'shipping'.",
+      "paraphrasing": "'wealth came from ______ and transportation businesses' -> 'amassed a fortune in the shipping and mining industries'."
+    },
+    "amass-learn|r1|q2": {
+      "support": "While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits.",
+      "connection": "The note says their education 'was designed to give them an interest in activities such as collecting art'; the line says their 'education was rigorously geared toward such pursuits'.",
+      "paraphrasing": "'was designed to give them an interest in activities such as collecting art' -> 'education was rigorously geared toward such pursuits'."
+    },
+    "amass-learn|r1|q3": {
+      "support": "Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.",
+      "connection": "The note asks what they took about things seen in art galleries; the line says they visited 'art galleries' and were 'making extensive notes on the collections there'.",
+      "paraphrasing": "'lengthy ______' -> 'extensive notes'; 'the things they saw in art galleries' -> 'the collections there'."
+    },
+    "philanthropic-learn|r1|q1": {
+      "support": "Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries.",
+      "connection": "The note asks where the grandfather's wealth came from; the line says he 'amassed a fortune in the shipping and mining industries'.",
+      "paraphrasing": "'wealth came from ______ and transportation businesses' -> 'amassed a fortune in the shipping and mining industries'."
+    },
+    "philanthropic-learn|r1|q2": {
+      "support": "While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits.",
+      "connection": "The note says their education 'was designed to give them an interest in activities such as collecting art'; the line says their 'education was rigorously geared toward such pursuits'.",
+      "paraphrasing": "'was designed to give them an interest in activities such as collecting art' -> 'education was rigorously geared toward such pursuits'."
+    },
+    "philanthropic-learn|r1|q3": {
+      "support": "Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.",
+      "connection": "The note asks what they took about things seen in art galleries; the line says they were 'making extensive notes on the collections there'.",
+      "paraphrasing": "'lengthy ______' -> 'extensive notes'."
+    },
+    "contemporary-learn|r1|q8": {
+      "support": "Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.",
+      "connection": "The statement says their childhood influenced how they used their wealth; the line says their 'upbringing' gave them 'a deep sense of social responsibility' and they 'chose to use their inheritance'.",
+      "paraphrasing": "'childhood influenced' -> 'upbringing ... gave them'; 'use their wealth' -> 'use their inheritance'."
+    },
+    "contemporary-learn|r1|q10": {
+      "support": "We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris.",
+      "connection": "The statement says Hugh Blaker 'opposed' buying French Impressionist art; the line calls him 'a champion of contemporary French art' who 'had a hand in the decision'.",
+      "paraphrasing": "'opposed' -> 'a champion of ... had a hand in the decision'."
+    },
+    "contemporary-learn|r1|q13": {
+      "support": "The sisters collected French Impressionist paintings at a time when such art was routinely ignored by individuals and institutions alike.",
+      "connection": "The statement says very few people were buying this art then; the line says 'such art was routinely ignored by individuals and institutions alike'.",
+      "paraphrasing": "'very few people were doing so' -> 'routinely ignored by individuals and institutions alike'."
+    },
+    "oppose-learn|r1|q10": {
+      "support": "We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris.",
+      "connection": "The statement says Blaker 'opposed' the purchase; the line calls him 'a champion' who 'had a hand in the decision', contradicting 'opposed'.",
+      "paraphrasing": "'opposed' -> 'a champion ... had a hand in the decision'."
+    },
+    "inheritance-learn|r1|q1": {
+      "support": "Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries.",
+      "connection": "The note asks where the grandfather's wealth came from; the line says he 'amassed a fortune in the shipping and mining industries'.",
+      "paraphrasing": "'wealth came from ______ and transportation businesses' -> 'amassed a fortune in the shipping and mining industries'."
+    },
+    "excessive-learn|r2|q15": {
+      "support": "A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health.",
+      "connection": "The question asks which section gives 'data indicating the extent' of excessive noise; the line reports 'at least 1 in 5 people consistently exposed to levels considered harmful to health'.",
+      "paraphrasing": "'data indicating the extent' -> 'at least 1 in 5 people consistently exposed'; 'excessive noise' -> 'levels considered harmful to health'."
+    },
+    "physiological-learn|r2|q16": {
+      "support": "To help ensure loud or unexpected noises get the attention they deserve, our internal chemistry alters in response to them.",
+      "connection": "The question asks for 'physiological changes' caused by 'sudden noises'; the line says 'our internal chemistry alters in response to' 'loud or unexpected noises'.",
+      "paraphrasing": "'sudden noises' -> 'loud or unexpected noises'; 'physiological changes' -> 'internal chemistry alters'."
+    },
+    "sensory-deprivation-learn|r2|q24": {
+      "support": "'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains.",
+      "connection": "The Feinstein statement says the senses are 'completely deprived of input' and the mind 'compensate' with images and sounds; his explanation ('he explains') says that without 'external sensory stimuli', 'the brain tries to fill the void'.",
+      "paraphrasing": "'senses are completely deprived of input' -> 'don't have external sensory stimuli coming in'; 'compensate ... by creating the illusion of images and sounds' -> 'the brain tries to fill the void'."
+    },
+    "compensate-learn|r2|q24": {
+      "support": "'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains.",
+      "connection": "The statement describes the mind compensating when the senses lack input; the line says 'the brain tries to fill the void' when there are no 'external sensory stimuli'.",
+      "paraphrasing": "'compensate for this' -> 'tries to fill the void'; 'senses are completely deprived of input' -> 'don't have external sensory stimuli coming in'."
+    },
+    "stimulus-learn|r2|q18": {
+      "support": "'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'",
+      "connection": "The summary says tanks let people 'concentrate on their own ______', helping them 'relax' and 'meditate'; the line says 'the ability to focus on the breath' helps people 'reach a relaxed or meditative state'.",
+      "paraphrasing": "'concentrate on their own ______' -> 'focus on the breath'; 'helps them relax and enables them to meditate' -> 'helps people reach a relaxed or meditative state'."
+    },
+    "stimulus-learn|r2|q21": {
+      "support": "Float sessions uniquely decreased activity in the default mode network (DMN), a collection of brain regions commonly linked with depression.",
+      "connection": "The summary asks what the affected brain regions are associated with; the line says the DMN is 'a collection of brain regions commonly linked with depression'.",
+      "paraphrasing": "'parts of the brain associated with ______' -> 'brain regions commonly linked with depression'."
+    },
+    "beneficial-learn|r2|q17": {
+      "support": "In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room.",
+      "connection": "The question asks for evidence that a 'relatively quiet environment' is 'more beneficial' than a 'totally silent one'; the line compares sitting 'quietly in an outdoor garden' with 'a completely silent room' and reports 'more relaxation and less boredom'.",
+      "paraphrasing": "'relatively quiet environment' -> 'sat quietly in an outdoor garden'; 'totally silent one' -> 'a completely silent room'; 'more beneficial' -> 'more relaxation and less boredom'."
+    },
+    "ethical-learn|r3|q30": {
+      "support": "He shows that we could always have done without sugar and that today we have many alternative sources of sweetness.",
+      "connection": "The question asks for the book's overall message; the reviewer says Bosma shows 'we could always have done without sugar' and that there are 'many alternative sources of sweetness', supporting the 'unnecessary' element of option A.",
+      "paraphrasing": "'Sugar is ... unnecessary' -> 'we could always have done without sugar'."
+    },
+    "cultivation-learn|r3|q27": {
+      "support": "It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.",
+      "connection": "The question asks about sugar cultivation and trading in the first paragraph; 'It' is beet sugar, which is 'massively subsidised and sold at artificially low prices on world markets'.",
+      "paraphrasing": "'Beet sugar has been made more internationally competitive' -> 'massively subsidised and sold at artificially low prices on world markets'."
+    },
+    "cultivation-learn|r3|q29": {
+      "support": "Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men.",
+      "connection": "The question asks what the reviewer does in the third paragraph; 'Contrary to popular belief' marks a misconception, and the point is about 'cane sugar production' and 'large, dedicated plantations'.",
+      "paraphrasing": "'addressing a misconception about the growing of sugar cane' -> 'Contrary to popular belief, cane sugar production was never just restricted to ... plantations'."
+    },
+    "misconception-learn|r3|q29": {
+      "support": "Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men.",
+      "connection": "'Contrary to popular belief' directly signals a misconception about 'cane sugar production', the focus of the third paragraph.",
+      "paraphrasing": "'misconception' -> 'Contrary to popular belief'."
+    },
+    "plantation-learn|r3|q29": {
+      "support": "Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men.",
+      "connection": "The paragraph challenges the belief that cane sugar production was 'just restricted to large, dedicated plantations owned by rich men'.",
+      "paraphrasing": "'sugar plantations' -> 'large, dedicated plantations'."
+    },
+    "processed-learn|r3|q40": {
+      "support": "It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity.",
+      "connection": "The statement says high-fructose corn syrup is an ingredient in many processed foods; the line says it has been 'adopted in the making of soft drinks and a large number of processed foods'.",
+      "paraphrasing": "'is an ingredient in many processed foods' -> 'adopted in the making of ... a large number of processed foods'."
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "tag": "ielts20-t2",
+  "links": {
+    "carer-learn|l1|q1": {
+      "support": "They realize that carers sometimes need time for all the other responsibilities they have. apart from the person they're caring for and also that they sometimes need a break.",
+      "connection": "The question asks for 'time for other responsibilities' and the answer 'break'; the sentence says carers 'need time for all the other responsibilities they have' and 'sometimes need a break'.",
+      "paraphrasing": "'time for other responsibilities — a break' -> 'time for all the other responsibilities they have' and 'sometimes need a break'"
+    },
+    "carer-learn|l1|q2": {
+      "support": "So, for a start, they'd want to know the amount of time you spend looking after your mother every day.",
+      "connection": "The question asks 'how much ______ the caring involves'; the sentence says 'the amount of time you spend looking after your mother every day'.",
+      "paraphrasing": "'how much time the caring involves' -> 'the amount of time you spend looking after your mother every day'"
+    },
+    "assessment-learn|l1|q2": {
+      "support": "So, for a start, they'd want to know the amount of time you spend looking after your mother every day.",
+      "connection": "The question asks 'how much ______ the caring involves'; the sentence says 'the amount of time you spend looking after your mother every day'.",
+      "paraphrasing": "'how much time the caring involves' -> 'the amount of time you spend looking after your mother every day'"
+    },
+    "assessment-learn|l1|q3": {
+      "support": "And also, I help her get into the shower in the morning.",
+      "connection": "The question lists 'helping her have a ______' among the tasks; the sentence says 'I help her get into the shower in the morning'.",
+      "paraphrasing": "'helping her have a shower' -> 'help her get into the shower'"
+    },
+    "assessment-learn|l1|q4": {
+      "support": "They'll probably ask you if you do the shopping for her and help her at meal times and whether she can cope using money.",
+      "connection": "The question says 'dealing with ______' after 'shopping' and 'helping with meals'; the sentence says 'do the shopping', 'help her at meal times' and 'cope using money'.",
+      "paraphrasing": "'dealing with money' -> 'cope using money'"
+    },
+    "responsibilities-learn|l1|q1": {
+      "support": "They realize that carers sometimes need time for all the other responsibilities they have. apart from the person they're caring for and also that they sometimes need a break.",
+      "connection": "The question asks for 'time for other responsibilities' and the answer 'break'; the sentence says carers 'need time for all the other responsibilities they have' and 'sometimes need a break'.",
+      "paraphrasing": "'time for other responsibilities — a break' -> 'time for all the other responsibilities they have' and 'sometimes need a break'"
+    },
+    "fuel-learn|l1|q9": {
+      "support": "And you can claim for the insurance, too.",
+      "connection": "The question asks for the car-related cost besides 'fuel'; the sentence says 'you can claim for the insurance, too'.",
+      "paraphrasing": "'fuel and insurance' -> 'claim for the insurance, too'"
+    },
+    "publicity-learn|l2|q14": {
+      "support": "We depend on volunteers though to find out what people think of events they've attended and any suggestions they have for the future.",
+      "connection": "The question says 'helping with a magazine'; the sentence says 'We depend on volunteers ... to find out what people think of events they've attended'.",
+      "paraphrasing": "'collecting feedback on events' -> 'find out what people think of events they've attended and any suggestions they have'"
+    },
+    "interpersonal-skills-learn|l2|q18": {
+      "support": "What's essential though is being able to get on well with other people and also to deal with someone who's behaving badly, as occasionally happens.",
+      "connection": "The question asks for the 'most important requirement'; the sentence says 'What's essential' is 'being able to get on well with other people'.",
+      "paraphrasing": "'most important requirement' -> 'essential'; 'interpersonal skills' -> 'get on well with other people'"
+    },
+    "flexibility-learn|l2|q18": {
+      "support": "What's essential though is being able to get on well with other people and also to deal with someone who's behaving badly, as occasionally happens.",
+      "connection": "The question asks for the 'most important requirement'; the sentence says 'What's essential' is 'being able to get on well with other people'.",
+      "paraphrasing": "'most important requirement' -> 'essential'; 'interpersonal skills' -> 'get on well with other people'"
+    },
+    "vague-learn|l3|q24": {
+      "support": "It was also general and the lecturer didn't give any useful examples.",
+      "connection": "The question says 'Culture'; the sentence says 'It was also general and the lecturer didn't give any useful examples'.",
+      "paraphrasing": "'The information given about this was too vague' -> 'general and the lecturer didn't give any useful examples'"
+    },
+    "reliable-learn|l3|q24": {
+      "support": "It was also general and the lecturer didn't give any useful examples.",
+      "connection": "The question says 'Culture'; the sentence says 'It was also general and the lecturer didn't give any useful examples'.",
+      "paraphrasing": "'The information given about this was too vague' -> 'general and the lecturer didn't give any useful examples'"
+    },
+    "disused-learn|l3|q28": {
+      "support": "And I bet it's often not budgeted for.",
+      "connection": "The question says 'developing disused industrial sites may'; the sentence says 'it's often not budgeted for'.",
+      "paraphrasing": "'have unexpected costs' -> 'often not budgeted for'"
+    },
+    "influencer-learn|l4|q32": {
+      "support": "Companies which sell vegan produce were pioneers in being able to increase sales really quickly in this way.",
+      "connection": "The question asks which food brands' sales 'have grown this way'; the sentence says 'Companies which sell vegan produce ... increase sales really quickly in this way'.",
+      "paraphrasing": "'Sales of vegan food brands have grown' -> 'Companies which sell vegan produce ... increase sales really quickly'"
+    },
+    "brand-ambassador-learn|l4|q32": {
+      "support": "Companies which sell vegan produce were pioneers in being able to increase sales really quickly in this way.",
+      "connection": "The question asks which food brands' sales 'have grown this way'; the sentence says 'Companies which sell vegan produce ... increase sales really quickly in this way'.",
+      "paraphrasing": "'Sales of vegan food brands have grown' -> 'Companies which sell vegan produce ... increase sales really quickly'"
+    },
+    "demand-learn|l4|q32": {
+      "support": "Companies which sell vegan produce were pioneers in being able to increase sales really quickly in this way.",
+      "connection": "The question asks which food brands' sales 'have grown this way'; the sentence says 'Companies which sell vegan produce ... increase sales really quickly in this way'.",
+      "paraphrasing": "'Sales of vegan food brands have grown' -> 'Companies which sell vegan produce ... increase sales really quickly'"
+    },
+    "demand-learn|l4|q31": {
+      "support": "Interest in food fashions has risen rapidly since the birth of the smartphone when people first began taking photos of their food and instantly sharing them with their friends.",
+      "connection": "The question says 'The growth in interest in food fashions started with ______ of food being shared'; the sentence says 'Interest in food fashions has risen rapidly' and people began 'taking photos of their food and instantly sharing them'.",
+      "paraphrasing": "'growth in interest' -> 'risen rapidly'; 'photos of food being shared' -> 'taking photos of their food and instantly sharing them'"
+    },
+    "overuse-learn|l4|q39": {
+      "support": "And when demand peaked some years ago, the price soared, making it unaffordable for local people.",
+      "connection": "The question says quinoa's success 'led to an increase in its ______'; the sentence says 'when demand peaked ... the price soared'.",
+      "paraphrasing": "'increase in its price' -> 'the price soared'"
+    },
+    "overuse-learn|l4|q40": {
+      "support": "One issue has been that the fertility of the soil decreased dramatically which could potentially lead to desertification in some areas.",
+      "connection": "The question says 'overuse of resources resulted in poor quality ______'; the sentence says 'the fertility of the soil decreased dramatically'.",
+      "paraphrasing": "'poor quality soil' -> 'the fertility of the soil decreased dramatically'"
+    },
+    "aquatic-learn|r1|q7": {
+      "support": "It moves between fresh water and salt water, taking advantage of coastal mangroves and coral reefs, rivers, lakes and inland lagoons.",
+      "connection": "The question says West Indian manatees 'can be found in a variety of different aquatic habitats'; the sentence lists 'fresh water and salt water' and 'rivers, lakes and inland lagoons'.",
+      "paraphrasing": "'a variety of different aquatic habitats' -> 'fresh water and salt water ... rivers, lakes and inland lagoons'"
+    },
+    "habitat-learn|r1|q7": {
+      "support": "It moves between fresh water and salt water, taking advantage of coastal mangroves and coral reefs, rivers, lakes and inland lagoons.",
+      "connection": "The question says West Indian manatees 'can be found in a variety of different aquatic habitats'; the sentence lists 'fresh water and salt water' and 'rivers, lakes and inland lagoons'.",
+      "paraphrasing": "'a variety of different aquatic habitats' -> 'fresh water and salt water ... rivers, lakes and inland lagoons'"
+    },
+    "likelihood-learn|r1|q11": {
+      "support": "Both are also expected to undergo a decline of 20% over the next 40 years.",
+      "connection": "The question says 'It is predicted that West Indian manatee populations will fall in the coming decades'; the sentence says 'Both are also expected to undergo a decline of 20% over the next 40 years'.",
+      "paraphrasing": "'predicted ... will fall' -> 'expected to undergo a decline'; 'coming decades' -> 'next 40 years'"
+    },
+    "legislation-learn|r1|q13": {
+      "support": "However, laws in certain parts of Florida now limit boat speeds during winter, allowing slow-moving manatees more time to respond.",
+      "connection": "The question says 'There is some legislation in place' in Florida; the sentence says 'laws in certain parts of Florida ... limit boat speeds ... allowing slow-moving manatees more time to respond'.",
+      "paraphrasing": "'legislation ... reduce the likelihood of boat strikes' -> 'laws ... limit boat speeds ... more time to respond'"
+    },
+    "likelihood-learn|r1|q13": {
+      "support": "However, laws in certain parts of Florida now limit boat speeds during winter, allowing slow-moving manatees more time to respond.",
+      "connection": "The question says 'There is some legislation in place' in Florida; the sentence says 'laws in certain parts of Florida ... limit boat speeds ... allowing slow-moving manatees more time to respond'.",
+      "paraphrasing": "'legislation ... reduce the likelihood of boat strikes' -> 'laws ... limit boat speeds ... more time to respond'"
+    },
+    "procrastination-learn|r2|q14": {
+      "support": "Contrary to popular belief, procrastination is not due to laziness or poor time management.",
+      "connection": "The question asks for a 'mention of false assumptions about why people procrastinate'; the sentence says 'Contrary to popular belief, procrastination is not due to laziness or poor time management'.",
+      "paraphrasing": "'false assumptions about why people procrastinate' -> 'popular belief ... not due to laziness or poor time management'"
+    },
+    "false-assumption-learn|r2|q14": {
+      "support": "Contrary to popular belief, procrastination is not due to laziness or poor time management.",
+      "connection": "The question asks for a 'mention of false assumptions about why people procrastinate'; the sentence says 'Contrary to popular belief, procrastination is not due to laziness or poor time management'.",
+      "paraphrasing": "'false assumptions about why people procrastinate' -> 'popular belief ... not due to laziness or poor time management'"
+    },
+    "procrastination-learn|r2|q17": {
+      "support": "Contrary to popular belief, procrastination is not due to laziness or poor time management.",
+      "connection": "The summary says 'Many people think that procrastination is the result of ______'; the sentence says 'Contrary to popular belief, procrastination is not due to laziness'.",
+      "paraphrasing": "'Many people think ... result of' -> 'popular belief ... due to'; answer 'laziness'"
+    },
+    "neurological-learn|r2|q16": {
+      "support": "Research involving brain imaging has found that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate compared to those who don't procrastinate frequently.",
+      "connection": "The question asks for 'neurological evidence of a link between procrastination and emotion'; the sentence cites 'brain imaging' and 'areas of the brain linked to ... emotion regulation' in people who 'chronically procrastinate'.",
+      "paraphrasing": "'neurological evidence' -> 'brain imaging'; 'link between procrastination and emotion' -> 'areas of the brain linked to ... emotion regulation'"
+    },
+    "emotion-learn|r2|q16": {
+      "support": "Research involving brain imaging has found that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate compared to those who don't procrastinate frequently.",
+      "connection": "The question asks for 'neurological evidence of a link between procrastination and emotion'; the sentence cites 'brain imaging' and 'areas of the brain linked to ... emotion regulation' in people who 'chronically procrastinate'.",
+      "paraphrasing": "'neurological evidence' -> 'brain imaging'; 'link between procrastination and emotion' -> 'areas of the brain linked to ... emotion regulation'"
+    },
+    "procrastination-learn|r2|q23": {
+      "support": "In fact, in one US survey of over 22,000 employees, participants who said they regularly procrastinated had less annual income and less employment stability.",
+      "connection": "The question asks for a 'comparison between employees who procrastinate'; the sentence says they 'had less annual income and less employment stability'.",
+      "paraphrasing": "'Their salaries are lower' -> 'had less annual income'"
+    },
+    "procrastination-learn|r2|q25": {
+      "support": "Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle.",
+      "connection": "The question asks for a 'recommendation for breaking the cycle'; the sentence says 'Forgiving ourselves and feeling compassion ... can help break the procrastination cycle'.",
+      "paraphrasing": "'not judging ourselves harshly' -> 'Forgiving ourselves and feeling compassion'"
+    },
+    "manageable-learn|r2|q25": {
+      "support": "Forgiving ourselves and feeling compassion when we procrastinate can help break the procrastination cycle.",
+      "connection": "The question asks for a 'recommendation for breaking the cycle'; the sentence says 'Forgiving ourselves and feeling compassion ... can help break the procrastination cycle'.",
+      "paraphrasing": "'not judging ourselves harshly' -> 'Forgiving ourselves and feeling compassion'"
+    },
+    "manageable-learn|r2|q26": {
+      "support": "There are a number of evidence-based strategies that can help us fend off distractions that can occupy our minds when we should be focusing on the thing we should be getting on with.",
+      "connection": "The question asks for a 'recommendation for breaking the cycle'; the sentence says 'evidence-based strategies that can help us fend off distractions' when we should be 'focusing'.",
+      "paraphrasing": "'avoiding things that stop us concentrating on our tasks' -> 'fend off distractions ... when we should be focusing'"
+    },
+    "feasible-learn|r3|q32": {
+      "support": "According to Sword, once you get the technology right, you can load any strike zone you want into the system.",
+      "connection": "The question says 'ABS makes changes to the shape of the strike zone feasible'; the sentence says 'you can load any strike zone you want into the system'.",
+      "paraphrasing": "'makes changes ... feasible' -> 'you can load any strike zone you want'"
+    },
+    "subjective-learn|r3|q33": {
+      "support": "Major League Baseball (MLB), who had commissioned the system, wanted human umpires to announce the calls, just as they would have done in the past.",
+      "connection": "The summary says MLB 'wanted human umpires to shout out decisions as they had in their ______'; the sentence says MLB 'wanted human umpires to announce the calls, just as they would have done in the past'.",
+      "paraphrasing": "'shout out decisions' -> 'announce the calls'; 'as they had in their former roles' -> 'as they would have done in the past'"
+    },
+    "perceived-learn|r3|q33": {
+      "support": "Major League Baseball (MLB), who had commissioned the system, wanted human umpires to announce the calls, just as they would have done in the past.",
+      "connection": "The summary says MLB 'wanted human umpires to shout out decisions as they had in their ______'; the sentence says MLB 'wanted human umpires to announce the calls, just as they would have done in the past'.",
+      "paraphrasing": "'shout out decisions' -> 'announce the calls'; 'as they had in their former roles' -> 'as they would have done in the past'"
+    },
+    "subjective-learn|r3|q34": {
+      "support": "Previously, calling a strike was a judgment call on the part of the umpire.",
+      "connection": "The summary says the umpire's job 'had, at one time, required a ______ about whether a ball was a strike'; the sentence says 'Previously, calling a strike was a judgment call on the part of the umpire'.",
+      "paraphrasing": "'subjective assessment' -> 'a judgment call'; 'at one time' -> 'Previously'"
+    },
+    "perceived-learn|r3|q34": {
+      "support": "Previously, calling a strike was a judgment call on the part of the umpire.",
+      "connection": "The summary says the umpire's job 'had, at one time, required a ______ about whether a ball was a strike'; the sentence says 'Previously, calling a strike was a judgment call on the part of the umpire'.",
+      "paraphrasing": "'subjective assessment' -> 'a judgment call'; 'at one time' -> 'Previously'"
+    },
+    "subjective-learn|r3|q35": {
+      "support": "Even if the batter does not hit the ball, a pitch that passes through the 'strike zone' (an imaginary zone about seventeen inches wide, stretching from the batter's knees to the middle of his chest) is considered a strike.",
+      "connection": "The summary asks for 'a ______ extending approximately from the batter's knee to his chest'; the sentence says 'an imaginary zone ... stretching from the batter's knees to the middle of his chest'.",
+      "paraphrasing": "'perceived area ... extending from the batter's knee to his chest' -> 'an imaginary zone ... stretching from the batter's knees to the middle of his chest'"
+    },
+    "perceived-learn|r3|q35": {
+      "support": "Even if the batter does not hit the ball, a pitch that passes through the 'strike zone' (an imaginary zone about seventeen inches wide, stretching from the batter's knees to the middle of his chest) is considered a strike.",
+      "connection": "The summary asks for 'a ______ extending approximately from the batter's knee to his chest'; the sentence says 'an imaginary zone ... stretching from the batter's knees to the middle of his chest'.",
+      "paraphrasing": "'perceived area ... extending from the batter's knee to his chest' -> 'an imaginary zone ... stretching from the batter's knees to the middle of his chest'"
+    },
+    "subjective-learn|r3|q36": {
+      "support": "For a hundred and fifty years or so, the strike zone has been the game's animating force-countless arguments between a team's manager and the umpire have taken place over its boundaries and whether a ball had crossed through it.",
+      "connection": "The summary says 'In the past, ______ over strike calls were not uncommon'; the sentence says 'countless arguments ... have taken place over its boundaries'.",
+      "paraphrasing": "'numerous disputes ... were not uncommon' -> 'countless arguments'; 'over strike calls' -> 'over its boundaries and whether a ball had crossed through it'"
+    },
+    "perceived-learn|r3|q36": {
+      "support": "For a hundred and fifty years or so, the strike zone has been the game's animating force-countless arguments between a team's manager and the umpire have taken place over its boundaries and whether a ball had crossed through it.",
+      "connection": "The summary says 'In the past, ______ over strike calls were not uncommon'; the sentence says 'countless arguments ... have taken place over its boundaries'.",
+      "paraphrasing": "'numerous disputes ... were not uncommon' -> 'countless arguments'; 'over strike calls' -> 'over its boundaries and whether a ball had crossed through it'"
+    },
+    "subjective-learn|r3|q37": {
+      "support": "During that first game, when DeJesus announced calls, there was no heckling and no shouted disagreement.",
+      "connection": "The summary says 'during the first game DeJesus used ABS, strike calls were met with ______'; the sentence says 'During that first game, when DeJesus announced calls, there was no heckling and no shouted disagreement'.",
+      "paraphrasing": "'total silence' -> 'no heckling and no shouted disagreement'"
+    },
+    "perceived-learn|r3|q37": {
+      "support": "During that first game, when DeJesus announced calls, there was no heckling and no shouted disagreement.",
+      "connection": "The summary says 'during the first game DeJesus used ABS, strike calls were met with ______'; the sentence says 'During that first game, when DeJesus announced calls, there was no heckling and no shouted disagreement'.",
+      "paraphrasing": "'total silence' -> 'no heckling and no shouted disagreement'"
+    },
+    "accuracy-learn|r3|q39": {
+      "support": "According to Sword, ABS was part of a larger project to make baseball more exciting since executives are terrified of losing younger fans, as has been the case with horse racing and boxing.",
+      "connection": "The question asks what Morgan Sword says the introduction of ABS was; the sentence says ABS 'was part of a larger project ... since executives are terrified of losing younger fans'.",
+      "paraphrasing": "'an attempt to ensure baseball retained a young audience' -> 'terrified of losing younger fans'"
+    }
+  }
+}

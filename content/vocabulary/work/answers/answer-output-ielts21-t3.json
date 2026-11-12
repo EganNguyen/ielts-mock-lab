@@ -1,0 +1,230 @@
+{
+  "tag": "ielts21-t3",
+  "links": {
+    "conservation-learn|r1|q12": {
+      "support": "Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga.",
+      "connection": "The question's 'for the benefit of a number of different animals' matches 'the many species they support'. The initiative's stated 'purpose' is to protect them.",
+      "paraphrasing": "'for the benefit of a number of different animals' -> 'the many species they support, including the critically endangered saiga'"
+    },
+    "invasive-learn|l4|q31": {
+      "support": "First of all, invasive species may eat native species, or sometimes they may bring a disease with them, which native species have never faced before and therefore have no defences against.",
+      "connection": "'introduces a new ______' matches 'may bring a disease with them'. The sentence describes what 'invasive species' do.",
+      "paraphrasing": "'introduces a new disease' -> 'bring a disease with them'"
+    },
+    "invasive-learn|l4|q32": {
+      "support": "Species invasions are one of the biggest causes of damage in an ecosystem, actually putting its survival at risk.",
+      "connection": "'threatens an entire ______' matches 'putting its survival at risk' in 'an ecosystem'.",
+      "paraphrasing": "'threatens an entire ecosystem' -> 'damage in an ecosystem ... putting its survival at risk'"
+    },
+    "invasive-learn|l4|q33": {
+      "support": "This could be intentional, or it could be accidental, such as when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes.",
+      "connection": "'accidentally e.g. via people returning from their ______' matches 'accidental ... people who've been on holiday in another country come back'.",
+      "paraphrasing": "'returning from their holiday' -> 'come back' from 'holiday in another country'"
+    },
+    "invasive-learn|l4|q34": {
+      "support": "But sometimes humans deliberately move animals and plants around the world, for example to use them to control pests on farms, or to be pets.",
+      "connection": "'intentionally e.g. for pest control, or as ______' matches 'deliberately ... to control pests on farms, or to be pets'.",
+      "paraphrasing": "'intentionally' -> 'deliberately'; 'for pest control' -> 'control pests'; 'as pets' -> 'to be pets'"
+    },
+    "ferry-learn|l1|q1": {
+      "support": "There's only one - it's called Northern Ferries.",
+      "connection": "'Name of ferry company: ______ Ferries' matches 'it's called Northern Ferries'.",
+      "paraphrasing": "'______ Ferries' -> 'Northern Ferries'"
+    },
+    "ferry-learn|l1|q2": {
+      "support": "The service is pretty limited - there's only one ferry leaving every evening in summer anyway, seven days a week - I'm not sure about the winter months.",
+      "connection": "'in summer' matches 'in summer'; 'seven times per ______' matches 'seven days a week'.",
+      "paraphrasing": "'seven times per week' -> 'seven days a week'"
+    },
+    "ferry-learn|l1|q3": {
+      "support": "They were really cheap and four people and a car worked out at just under £250.",
+      "connection": "'Cost for four people with car' matches 'four people and a car'; 'a little less than £______' matches 'just under £250'.",
+      "paraphrasing": "'a little less than £250' -> 'just under £250'"
+    },
+    "ferry-learn|l1|q4": {
+      "support": "I don't think it's their policy to give refunds - just a voucher - which you can use at a later date.",
+      "connection": "'Cancellation policy: receive a ______' matches 'their policy ... just a voucher'.",
+      "paraphrasing": "'receive a voucher' -> 'just a voucher - which you can use at a later date'"
+    },
+    "cancellation-learn|l1|q4": {
+      "support": "I don't think it's their policy to give refunds - just a voucher - which you can use at a later date.",
+      "connection": "'Cancellation policy: receive a ______' matches 'their policy ... just a voucher'.",
+      "paraphrasing": "'receive a voucher' -> 'just a voucher - which you can use at a later date'"
+    },
+    "refund-learn|l1|q4": {
+      "support": "I don't think it's their policy to give refunds - just a voucher - which you can use at a later date.",
+      "connection": "'Cancellation policy: receive a ______' matches 'their policy ... just a voucher'.",
+      "paraphrasing": "'receive a voucher' -> 'just a voucher - which you can use at a later date'"
+    },
+    "kennel-learn|l1|q7": {
+      "support": "The kennels on board are OK - they're quite big - you just need to provide a blanket.",
+      "connection": "'dog kennels' matches 'The kennels on board'; 'A ______ is required' matches 'you just need to provide a blanket'.",
+      "paraphrasing": "'A blanket is required' -> 'provide a blanket'"
+    },
+    "permit-learn|l2|q17": {
+      "support": "Their work-life balance was non-existent as they were working til midnight in the restaurant all week and then took their food truck to markets on their days off.",
+      "connection": "The question's 'Thai Basil' is the business whose owners 'Their' refers to. 'They worked very long hours' matches 'working til midnight in the restaurant all week'.",
+      "paraphrasing": "'worked very long hours' -> 'working til midnight in the restaurant all week'"
+    },
+    "permit-learn|l2|q18": {
+      "support": "The owners of Basque found it was hard to make a profit because the price of fish - essential for some of their dishes - was so high.",
+      "connection": "The question names 'Basque', and 'Some ingredients were too expensive' matches 'the price of fish ... was so high'.",
+      "paraphrasing": "'Some ingredients were too expensive' -> 'the price of fish ... was so high'"
+    },
+    "competitor-learn|l2|q17": {
+      "support": "Their work-life balance was non-existent as they were working til midnight in the restaurant all week and then took their food truck to markets on their days off.",
+      "connection": "The question's 'Thai Basil' is the business whose owners 'Their' refers to. 'They worked very long hours' matches 'working til midnight in the restaurant all week'.",
+      "paraphrasing": "'worked very long hours' -> 'working til midnight in the restaurant all week'"
+    },
+    "competitor-learn|l2|q18": {
+      "support": "The owners of Basque found it was hard to make a profit because the price of fish - essential for some of their dishes - was so high.",
+      "connection": "The question names 'Basque', and 'Some ingredients were too expensive' matches 'the price of fish ... was so high'.",
+      "paraphrasing": "'Some ingredients were too expensive' -> 'the price of fish ... was so high'"
+    },
+    "second-hand-learn|l2|q15": {
+      "support": "I'd try to get things like hobs and fridges second hand if you can.",
+      "connection": "'It's best to buy second-hand equipment' matches 'I'd try to get things like hobs and fridges second hand'.",
+      "paraphrasing": "'It's best to buy second-hand equipment' -> 'try to get things like hobs and fridges second hand'"
+    },
+    "durable-learn|l3|q25": {
+      "support": "Over 99% of dissolving agents used in the manufacturing process are used again.",
+      "connection": "'Chemicals required for production can be reused' matches 'dissolving agents used in the manufacturing process are used again'. 'Lyocell' is the fabric whose 'manufacturing process' is described.",
+      "paraphrasing": "'Chemicals required for production can be reused' -> 'dissolving agents ... are used again'"
+    },
+    "durable-learn|l3|q26": {
+      "support": "It doesn't compare favourably with all the other sustainable fabrics we've looked at, no.",
+      "connection": "'It is the least sustainable of alternative fabrics' matches 'doesn't compare favourably with all the other sustainable fabrics'. 'It' refers to Cupro, named in the question.",
+      "paraphrasing": "'the least sustainable of alternative fabrics' -> 'doesn't compare favourably with all the other sustainable fabrics'"
+    },
+    "durable-learn|l3|q27": {
+      "support": "But I didn't know that it was only organic bamboo that's truly sustainable.",
+      "connection": "'Bamboo' and 'It needs to be produced in a certain way to be sustainable' match 'only organic bamboo that's truly sustainable'.",
+      "paraphrasing": "'needs to be produced in a certain way' -> 'only organic bamboo'"
+    },
+    "durable-learn|l3|q28": {
+      "support": "Probably because manufacturing causes 50 percent fewer emissions and takes up half as much energy as conventional fabrics.",
+      "connection": "'The production process is fuel efficient' matches 'manufacturing ... takes up half as much energy as conventional fabrics'.",
+      "paraphrasing": "'fuel efficient' -> 'takes up half as much energy'"
+    },
+    "durable-learn|l3|q29": {
+      "support": "Mmm and it's the only fabric that's fundamentally sustainable - the cork trees it comes from are renewable and the product itself is both recyclable and biodegradable - which is unique.",
+      "connection": "'Cork' and 'This is from a wholly sustainable source' match 'the cork trees it comes from are renewable' and 'fundamentally sustainable'.",
+      "paraphrasing": "'wholly sustainable source' -> 'cork trees ... are renewable'"
+    },
+    "durable-learn|l3|q30": {
+      "support": "Did you know that clothes made from hemp protect the wearer from the sun and it's also antibacterial?",
+      "connection": "'Hemp' and 'provides additional health benefits' match 'protect the wearer from the sun' and 'antibacterial'.",
+      "paraphrasing": "'additional health benefits' -> 'protect the wearer from the sun' and 'antibacterial'"
+    },
+    "semi-synthetic-learn|l3|q25": {
+      "support": "Over 99% of dissolving agents used in the manufacturing process are used again.",
+      "connection": "'Chemicals required for production can be reused' matches 'dissolving agents used in the manufacturing process are used again'. 'Lyocell' is the fabric whose 'manufacturing process' is described.",
+      "paraphrasing": "'Chemicals required for production can be reused' -> 'dissolving agents ... are used again'"
+    },
+    "semi-synthetic-learn|l3|q26": {
+      "support": "It doesn't compare favourably with all the other sustainable fabrics we've looked at, no.",
+      "connection": "'It is the least sustainable of alternative fabrics' matches 'doesn't compare favourably with all the other sustainable fabrics'. 'It' refers to Cupro, named in the question.",
+      "paraphrasing": "'the least sustainable of alternative fabrics' -> 'doesn't compare favourably with all the other sustainable fabrics'"
+    },
+    "semi-synthetic-learn|l3|q27": {
+      "support": "But I didn't know that it was only organic bamboo that's truly sustainable.",
+      "connection": "'Bamboo' and 'It needs to be produced in a certain way to be sustainable' match 'only organic bamboo that's truly sustainable'.",
+      "paraphrasing": "'needs to be produced in a certain way' -> 'only organic bamboo'"
+    },
+    "semi-synthetic-learn|l3|q28": {
+      "support": "Probably because manufacturing causes 50 percent fewer emissions and takes up half as much energy as conventional fabrics.",
+      "connection": "'The production process is fuel efficient' matches 'manufacturing ... takes up half as much energy as conventional fabrics'.",
+      "paraphrasing": "'fuel efficient' -> 'takes up half as much energy'"
+    },
+    "semi-synthetic-learn|l3|q29": {
+      "support": "Mmm and it's the only fabric that's fundamentally sustainable - the cork trees it comes from are renewable and the product itself is both recyclable and biodegradable - which is unique.",
+      "connection": "'Cork' and 'This is from a wholly sustainable source' match 'the cork trees it comes from are renewable' and 'fundamentally sustainable'.",
+      "paraphrasing": "'wholly sustainable source' -> 'cork trees ... are renewable'"
+    },
+    "semi-synthetic-learn|l3|q30": {
+      "support": "Did you know that clothes made from hemp protect the wearer from the sun and it's also antibacterial?",
+      "connection": "'Hemp' and 'provides additional health benefits' match 'protect the wearer from the sun' and 'antibacterial'.",
+      "paraphrasing": "'additional health benefits' -> 'protect the wearer from the sun' and 'antibacterial'"
+    },
+    "native-learn|l4|q31": {
+      "support": "First of all, invasive species may eat native species, or sometimes they may bring a disease with them, which native species have never faced before and therefore have no defences against.",
+      "connection": "'introduces a new ______' matches 'may bring a disease with them'. The sentence describes what 'invasive species' do.",
+      "paraphrasing": "'introduces a new disease' -> 'bring a disease with them'"
+    },
+    "native-learn|l4|q32": {
+      "support": "Species invasions are one of the biggest causes of damage in an ecosystem, actually putting its survival at risk.",
+      "connection": "'threatens an entire ______' matches 'putting its survival at risk' in 'an ecosystem'.",
+      "paraphrasing": "'threatens an entire ecosystem' -> 'damage in an ecosystem ... putting its survival at risk'"
+    },
+    "cargo-learn|l4|q33": {
+      "support": "This could be intentional, or it could be accidental, such as when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes.",
+      "connection": "'accidentally e.g. via people returning from their ______' matches 'accidental ... people who've been on holiday in another country come back'.",
+      "paraphrasing": "'returning from their holiday' -> 'come back' from 'holiday in another country'"
+    },
+    "monitoring-learn|l4|q38": {
+      "support": "The first step in controlling invasive species is learning about the behaviour of new species coming into the country.",
+      "connection": "'understand the ______ of invasive species' matches 'learning about the behaviour of new species'; 'invasive species' appears in both.",
+      "paraphrasing": "'understand the behaviour' -> 'learning about the behaviour'"
+    },
+    "monitoring-learn|l4|q39": {
+      "support": "One effective way to keep track of invasive species is to create a database for the whole country.",
+      "connection": "'Setting up a national ______' matches 'create a database for the whole country'; 'makes it easier to track them' matches 'keep track of invasive species'.",
+      "paraphrasing": "'national database' -> 'a database for the whole country'"
+    },
+    "monitoring-learn|l4|q40": {
+      "support": "They should be encouraged to photograph harmful species - because this helps with identification - and then to report when and where these were observed.",
+      "connection": "'photograph' and 'report' in the question match the support's 'photograph harmful species' and 'then to report'.",
+      "paraphrasing": "'photograph and report them' -> 'photograph harmful species ... and then to report'"
+    },
+    "pest-control-learn|l4|q33": {
+      "support": "This could be intentional, or it could be accidental, such as when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes.",
+      "connection": "'accidentally e.g. via people returning from their ______' matches 'accidental ... people who've been on holiday in another country come back'.",
+      "paraphrasing": "'returning from their holiday' -> 'come back' from 'holiday in another country'"
+    },
+    "pest-control-learn|l4|q34": {
+      "support": "But sometimes humans deliberately move animals and plants around the world, for example to use them to control pests on farms, or to be pets.",
+      "connection": "'intentionally e.g. for pest control, or as ______' matches 'deliberately ... to control pests on farms, or to be pets'.",
+      "paraphrasing": "'intentionally' -> 'deliberately'; 'for pest control' -> 'control pests'; 'as pets' -> 'to be pets'"
+    },
+    "distribute-learn|r1|q8": {
+      "support": "Today, the saiga is largely confined to a single country: Kazakhstan.",
+      "connection": "The statement says 'distributed evenly across four nations'; the support says 'largely confined to a single country: Kazakhstan', so the statement is FALSE.",
+      "paraphrasing": "'distributed evenly across four nations' -> 'largely confined to a single country'"
+    },
+    "high-rise-learn|r2|q15": {
+      "support": "Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours.",
+      "connection": "'Most of the residents' matches 'four out of five of its people'; 'high-rise blocks' is contradicted by 'single-storey informal settlements'; 'on the edge of the city' matches 'on the spreading edges of the city'.",
+      "paraphrasing": "'high-rise blocks' -> 'single-storey informal settlements'"
+    },
+    "unplanned-learn|r2|q17": {
+      "support": "Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.",
+      "connection": "'The majority' matches 'Nearly all'; 'unplanned' matches 'informally without any agreed strategy'.",
+      "paraphrasing": "'majority ... unplanned' -> 'nearly all ... informally without any agreed strategy'"
+    },
+    "adopt-learn|r2|q18": {
+      "support": "Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro.",
+      "connection": "'a large number of African cities' matches 'many cities on the continent'; the support says Dar es Salaam 'isn't trying to build a metro', which contradicts following their plan.",
+      "paraphrasing": "'African cities' -> 'cities on the continent'"
+    },
+    "periphery-learn|r2|q17": {
+      "support": "Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.",
+      "connection": "'The majority' matches 'Nearly all'; 'unplanned' matches 'informally without any agreed strategy'.",
+      "paraphrasing": "'majority ... unplanned' -> 'nearly all ... informally without any agreed strategy'"
+    },
+    "periphery-learn|r2|q19": {
+      "support": "The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages.",
+      "connection": "'designated ______' matches 'bus lanes'; 'to cut down on delays' matches 'to reduce stoppages'.",
+      "paraphrasing": "'designated lanes' -> 'bus lanes'; 'cut down on delays' -> 'reduce stoppages'"
+    },
+    "gradual-learn|r3|q28": {
+      "support": "Evolution usually works by incremental steps and so does technology.",
+      "connection": "'most developments happen in a gradual way' matches 'Evolution usually works by incremental steps and so does technology'.",
+      "paraphrasing": "'gradual' -> 'incremental steps'"
+    },
+    "hominin-learn|r3|q34": {
+      "support": "Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed.",
+      "connection": "'4000-year-old Iberian leader' matches 'an Iberian leader from around 4000 years ago'; 'previous assumptions ... were inaccurate' matches 'not male as many had assumed'.",
+      "paraphrasing": "'previous assumptions about who had power' -> 'female, not male as many had assumed'"
+    }
+  }
+}
