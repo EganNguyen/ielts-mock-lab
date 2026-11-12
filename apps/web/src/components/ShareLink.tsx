@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import { Check, Copy, ExternalLink, Globe2, Loader2, Share2, ShieldAlert, Square } from 'lucide-react'
-import { api, type ShareStatus } from '@/lib/api'
+import { api, IS_STATIC, type ShareStatus } from '@/lib/api'
 import { Button, Modal } from '@/components/ui'
 
 function isLoopbackPage() {
@@ -11,6 +11,11 @@ function isLoopbackPage() {
 }
 
 export function ShareControl() {
+  if (IS_STATIC) return null
+  return <ShareControlLive />
+}
+
+function ShareControlLive() {
   const [open, setOpen] = useState(false)
   const [status, setStatus] = useState<ShareStatus | null>(null)
   const [busy, setBusy] = useState(false)

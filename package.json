@@ -8,6 +8,7 @@
     "build": "pnpm --dir apps/web build",
     "test": "cd services/api && go test ./... && pnpm --dir apps/web test:e2e",
     "db:up": "docker compose up -d postgres",
-    "db:down": "docker compose down"
+    "db:down": "docker compose down",
+    "export:static": "bash scripts/export-static.sh"
   }
 }

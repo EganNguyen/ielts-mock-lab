@@ -1,6 +1,7 @@
 'use client'
 
 import type { Question, QuestionGroup } from '@/lib/api'
+import { assetUrl } from '@/lib/assets'
 
 interface Props {
   groups: QuestionGroup[]
@@ -41,7 +42,7 @@ export function QuestionSets({ groups, questions, answers, flags, onAnswer }: Pr
             {group.figure && (
               <figure className="question-figure">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={group.figure} alt={group.figureAlt ?? 'Figure for this question set'} loading="lazy" />
+                <img src={assetUrl(group.figure)} alt={group.figureAlt ?? 'Figure for this question set'} loading="lazy" />
                 {group.figureAlt && <figcaption>{group.figureAlt}</figcaption>}
               </figure>
             )}

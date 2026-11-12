@@ -1,9 +1,10 @@
 'use client'
 
 import { useEffect, useMemo, useState } from 'react'
-import { useParams, useRouter } from 'next/navigation'
+import { useRouter } from 'next/navigation'
 import { ArrowLeft, Check, Download, RotateCcw, ShieldCheck, X } from 'lucide-react'
 import { api, type Review, type Skill } from '@/lib/api'
+import { assetUrl } from '@/lib/assets'
 import { Badge, Button, Logo } from '@/components/ui'
 
 const skillLabels: Record<Skill, string> = { listening: 'Listening', reading: 'Reading', writing: 'Writing', speaking: 'Speaking' }
@@ -19,8 +20,7 @@ function isCorrect(answer: string | undefined, correct: string, accepted?: strin
   return [correct, ...(accepted ?? [])].some((candidate) => normalize(candidate) === value)
 }
 
-export default function ResultsPage() {
-  const params = useParams<{ attemptId: string }>()
+export function ResultsReport({ attemptId }: { attemptId: string }) {
   const router = useRouter()
   const [review, setReview] = useState<Review | null>(null)
   const [error, setError] = useState('')
@@ -29,13 +29,13 @@ export default function ResultsPage() {
   const [showModel, setShowModel] = useState<Record<number, boolean>>({})
 
   useEffect(() => {
-    api.review(params.attemptId)
+    api.review(attemptId)
       .then((data) => {
         setReview(data)
         setTab(data.attempt.mode === 'full' ? 'listening' : data.attempt.mode as Skill)
       })
       .catch((err) => setError(err instanceof Error ? err.message : 'Result not available'))
-  }, [params.attemptId])
+  }, [attemptId])
 
   const stats = useMemo(() => {
     if (!review) return null
@@ -218,7 +218,7 @@ export default function ResultsPage() {
                       <span>{response.durationSeconds}s{response.transcript ? '' : ' · no transcript'}</span>
                       {response.transcript && <p className="transcript">“{response.transcript.slice(0, 260)}”</p>}
                     </div>
-                    {response.audioUrl ? <audio controls src={response.audioUrl} /> : <span>No audio saved</span>}
+                    {response.audioUrl ? <audio controls src={assetUrl(response.audioUrl)} /> : <span>No audio saved</span>}
                   </div>
                 )) : <p className="empty-line">No recordings were submitted. The estimate uses completion data only.</p>}
               </>

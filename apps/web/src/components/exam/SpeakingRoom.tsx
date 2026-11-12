@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { ArrowRight, Mic, MicOff, Play, SkipForward, Square, Volume2 } from 'lucide-react'
 import { api, type AttemptState } from '@/lib/api'
+import { assetUrl } from '@/lib/assets'
 import { Button, formatClock } from '@/components/ui'
 
 type Phase = 'intro' | 'question' | 'prep' | 'longturn' | 'done'
@@ -65,7 +66,7 @@ export function SpeakingRoom({ state, onSubmitted, onSkip }: { state: AttemptSta
     }
     if (asset) {
       examinerAudioRef.current?.pause()
-      const audio = new Audio(`/media/speaking/examiner/${state.exam.id}/${asset}.mp3`)
+      const audio = new Audio(assetUrl(`/media/speaking/examiner/${state.exam.id}/${asset}.mp3`))
       examinerAudioRef.current = audio
       audio.onerror = () => { setExaminerSpeaking(false); fallback() }
       audio.onplay = () => setExaminerSpeaking(true)

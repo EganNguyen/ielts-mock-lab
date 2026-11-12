@@ -142,21 +142,46 @@ See the [Extraction & Import Guide](docs/EXTRACTION_GUIDE.md) for the full pipel
 ./scripts/share.sh               # create a temporary public showcase link
 ./scripts/share.sh stop          # close the share link
 pnpm --dir apps/web build        # production build
+bash scripts/export-static.sh    # static export → apps/web/out (no API)
 cd services/api && go test ./... # unit tests
 cd apps/web && pnpm exec playwright test  # E2E (requires running app)
 ```
+
+## Static / GitHub Pages mode
+
+The lab can run without the Go API or PostgreSQL. In static mode the browser fetches
+the eight exam JSON files from `public/data/exams`, saves attempts in `localStorage`,
+and scores Listening/Reading locally.
+
+```bash
+bash scripts/export-static.sh
+# artifact: apps/web/out
+# preview: python3 -m http.server 4173 --directory apps/web/.static-preview
+# then open http://127.0.0.1:4173/ielts-mock-lab/
+```
+
+`BASE_PATH` defaults to `/ielts-mock-lab` and must match the Pages project path.
+The included workflow `.github/workflows/pages.yml` is manual (`workflow_dispatch`)
+and uploads `apps/web/out` to Pages. Enable **Settings → Pages → Build and deployment
+→ GitHub Actions** before running it.
+
+Static mode has no server, tunnel, or durable storage: attempts live in that browser
+only, share links are disabled, and Speaking recordings are not uploaded. Writing and
+Speaking scores remain local estimates. Do **not** publish the site publicly unless you
+have confirmed redistribution rights for the book content.
 
 ## Test evidence
 
 Latest local run:
 
 - `go test ./...` — **pass** (`internal/content`, `internal/scoring`).
-- Playwright — **7/7 pass**:
+- Playwright — **8/8 pass**:
   1. demo candidate sees exam without login;
   2. answers and one-play audio survive refresh;
   3. answer keys are absent before submission;
   4. full four-section attempt produces a persisted result report;
-  5. Kokoro listening/examiner assets are served locally.
+  5. Kokoro listening/examiner assets are served locally;
+  6. dashboard exposes both exam packs and the share dialog.
 - Browser walkthrough: full mock started, Listening → Reading → Writing → Speaking completed, results generated, page refreshed and result persisted.
 - Production guard: demo bypass refused with `APP_ENV=production`.
 

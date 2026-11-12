@@ -10,3 +10,12 @@ services/api/media/speaking/*
 .DS_Store
 test-results/
 playwright-report/
+
+# static export artifacts
+.next-static/
+apps/web/out/
+apps/web/.static-preview/
+apps/web/public/data/
+
+# TypeScript build cache
+*.tsbuildinfo

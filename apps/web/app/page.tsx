@@ -40,7 +40,7 @@ export default function Dashboard() {
     setError('')
     try {
       const state = await api.createAttempt(examId, mode)
-      router.push(`/exam/${state.attempt.id}`)
+      router.push(`/exam/?attempt=${state.attempt.id}`)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Unable to start the test')
       setStarting(null)
@@ -76,7 +76,7 @@ export default function Dashboard() {
           <div className="notice" role="status">
             <div className="notice-icon"><History size={18} /></div>
             <div><strong>You have a test in progress</strong><span>{active.title} · {active.currentSkill[0].toUpperCase() + active.currentSkill.slice(1)} · started {new Date(active.startedAt).toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}. The section clock keeps running while you are away.</span></div>
-            <Button size="sm" onClick={() => router.push(`/exam/${active.id}`)} iconRight={<ArrowRight size={15} />}>Resume test</Button>
+            <Button size="sm" onClick={() => router.push(`/exam/?attempt=${active.id}`)} iconRight={<ArrowRight size={15} />}>Resume test</Button>
           </div>
         )}
         {error && (
@@ -201,7 +201,7 @@ export default function Dashboard() {
                         <td className="num">{item.writing.toFixed(1)}</td>
                         <td className="num">{item.speaking.toFixed(1)}</td>
                         <td className="num"><strong>{item.overall.toFixed(1)}</strong></td>
-                        <td className="num"><a href={`/results/${item.id}`}>View</a></td>
+                        <td className="num"><a href={`/results/?attempt=${item.id}`}>View</a></td>
                       </tr>
                     ))}
                   </tbody>

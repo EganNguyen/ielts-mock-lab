@@ -1,12 +1,13 @@
 'use client'
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import { useParams, useRouter } from 'next/navigation'
+import { useRouter } from 'next/navigation'
 import {
   AlertTriangle, ArrowRight, Check, ChevronLeft, ChevronRight, Clock3, FileText, Headphones,
   HelpCircle, LogOut, Menu, ShieldAlert, Volume2, Wifi, WifiOff,
 } from 'lucide-react'
 import { api, ApiError, type AttemptState, type Question, type Skill } from '@/lib/api'
+import { assetUrl } from '@/lib/assets'
 import { Button, Logo, Modal, formatClock } from '@/components/ui'
 import { QuestionSets } from '@/components/exam/Questions'
 import { SpeakingRoom } from '@/components/exam/SpeakingRoom'
@@ -14,10 +15,8 @@ import { SpeakingRoom } from '@/components/exam/SpeakingRoom'
 const skills: Skill[] = ['listening', 'reading', 'writing', 'speaking']
 const skillNames: Record<Skill, string> = { listening: 'Listening', reading: 'Reading', writing: 'Writing', speaking: 'Speaking' }
 
-export default function ExamPage() {
-  const params = useParams<{ attemptId: string }>()
+export function ExamRunner({ attemptId }: { attemptId: string }) {
   const router = useRouter()
-  const attemptId = params.attemptId
 
   const [state, setState] = useState<AttemptState | null>(null)
   const [answers, setAnswers] = useState<Record<string, string>>({})
@@ -31,7 +30,7 @@ export default function ExamPage() {
   const [viewedPassage, setViewedPassage] = useState(1)
   const [activeTask, setActiveTask] = useState(1)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
-  const [transition, setTransition] = useState<{ from: Skill; next?: Skill; auto?: boolean } | null>(null)
+  const [transition, setTransition] = useState<{ from: Skill; next?: Skill; auto?: boolean; answered?: number } | null>(null)
   const [submitting, setSubmitting] = useState(false)
   const [helpOpen, setHelpOpen] = useState(false)
   const [notesOpen, setNotesOpen] = useState(false)
@@ -151,7 +150,7 @@ export default function ExamPage() {
     } catch {}
     const audio = audioRef.current
     if (!audio) return
-    audio.src = `${state.exam.audioUrl ?? '/media/listening'}/part${audioPart}.mp3`
+    audio.src = assetUrl(`${state.exam.audioUrl ?? '/media/listening'}/part${audioPart}.mp3`)
     audio.onloadedmetadata = () => {
       if (audioResumeRef.current > 0) {
         audio.currentTime = Math.min(audioResumeRef.current, Math.max(0, (audio.duration || 0) - 0.5))
@@ -186,10 +185,14 @@ export default function ExamPage() {
       await new Promise((resolve) => setTimeout(resolve, 700))
       const next = await api.submitSection(attemptId, target)
       setState(next)
-      setTransition(null)
       if (next.attempt.mode !== 'full') {
+        setTransition(null)
         await api.complete(attemptId)
-        router.push(`/results/${attemptId}`)
+        router.push(`/results/?attempt=${attemptId}`)
+      } else {
+        const nextSkill: Skill | undefined =
+          target === 'listening' ? 'reading' : target === 'reading' ? 'writing' : undefined
+        setTransition({ from: target, next: nextSkill, auto, answered: answeredCount })
       }
       setSubmitting(false)
       submittingRef.current = false
@@ -201,20 +204,8 @@ export default function ExamPage() {
     }
   }
 
-  async function startNext() {
-    if (!transition?.next) return
-    setSubmitting(true)
-    try {
-      const next = await api.startSection(attemptId, transition.next)
-      setState(next)
-      setTransition(null)
-      setRemaining(next.attempt.sections.find((s) => s.skill === transition.next)?.remainingSeconds ?? 0)
-      setAutosave('idle')
-    } catch (err) {
-      setSubmitError(err instanceof Error ? err.message : 'Could not start the next section')
-    } finally {
-      setSubmitting(false)
-    }
+  function startNext() {
+    setTransition(null)
   }
 
   function handleAnswer(questionId: string, value: string) {
@@ -366,6 +357,30 @@ export default function ExamPage() {
   const timerClass = remaining <= 60 ? 'exam-timer--danger' : remaining <= 300 ? 'exam-timer--warning' : ''
   const currentFlagged = !!(currentQuestion && flags[currentQuestion.id])
 
+  const transitionModal = (
+    <Modal open={transition !== null} title={transition ? `${skillNames[transition.from]} complete` : ''} onClose={() => {}}>
+      {transition && (
+        <>
+          <div className="modal-body">
+            <div className="exam-summary-grid">
+              <div><span>Section</span><strong>{skillNames[transition.from]}</strong></div>
+              <div><span>Answered</span><strong>{transition.answered ?? answeredCount}</strong></div>
+              <div><span>Status</span><strong style={{ color: 'var(--green)' }}>Locked</strong></div>
+            </div>
+            {transition.auto && <div className="unanswered-note">Time expired. Your answers were submitted automatically.</div>}
+            <p style={{ fontSize: 12, color: '#697578', marginTop: 14 }}>
+              {transition.next ? `The next section is ${skillNames[transition.next]}. Read the instructions, then start when you are ready.` : 'Your core test is complete. Continue to the speaking session.'}
+            </p>
+          </div>
+          <div className="exam-modal-actions">
+            <Button variant="secondary" size="sm" onClick={() => router.push('/')}>Save & exit</Button>
+            <Button size="sm" onClick={startNext}>{transition.next ? `Continue to ${skillNames[transition.next]}` : 'Continue'} <ArrowRight size={15} /></Button>
+          </div>
+        </>
+      )}
+    </Modal>
+  )
+
   if (skill === 'speaking') {
     return (
       <ExamChrome
@@ -377,17 +392,19 @@ export default function ExamPage() {
           onSubmitted={(next) => {
             setState(next)
             if (next.attempt.mode === 'full') setTransition({ from: 'speaking', next: undefined })
-            else api.complete(attemptId).then(() => router.push(`/results/${attemptId}`))
+            else api.complete(attemptId).then(() => router.push(`/results/?attempt=${attemptId}`))
           }}
           onSkip={async () => {
             const result = await api.complete(attemptId)
-            router.push(`/results/${attemptId}`)
+            router.push(`/results/?attempt=${attemptId}`)
           }}
         />
-        <Modal open={transition !== null} title="Speaking complete" onClose={() => {}}>
-          <div className="modal-body"><p style={{ fontSize: 13, color: 'var(--muted)' }}>Your speaking responses have been saved. You can now generate your result report.</p></div>
-          <div className="exam-modal-actions"><Button onClick={() => api.complete(attemptId).then(() => router.push(`/results/${attemptId}`))}>View my results <ArrowRight size={15} /></Button></div>
-        </Modal>
+        {transition?.from === 'speaking' ? (
+          <Modal open title="Speaking complete" onClose={() => {}}>
+            <div className="modal-body"><p style={{ fontSize: 13, color: 'var(--muted)' }}>Your speaking responses have been saved. You can now generate your result report.</p></div>
+            <div className="exam-modal-actions"><Button onClick={() => api.complete(attemptId).then(() => router.push(`/results/?attempt=${attemptId}`))}>View my results <ArrowRight size={15} /></Button></div>
+          </Modal>
+        ) : transitionModal}
         <Modal open={helpOpen} title="Test help" onClose={() => setHelpOpen(false)}>
           <HelpBody />
         </Modal>
@@ -402,6 +419,7 @@ export default function ExamPage() {
     return (
       <ExamChrome state={state} skill={skill} remaining={remaining} timerClass="" autosave={autosave} onExit={() => router.push('/')} onHelp={() => setHelpOpen(true)} onNotes={() => setNotesOpen(true)}>
         <SectionIntro skill={skill} onStart={startNextFromState} state={state} submitting={submitting} />
+        {transitionModal}
         <Modal open={helpOpen} title="Test help" onClose={() => setHelpOpen(false)}><HelpBody /></Modal>
       </ExamChrome>
     )
@@ -573,7 +591,7 @@ export default function ExamPage() {
                 {activeWritingTask.figure && (
                   <figure className="writing-figure">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={activeWritingTask.figure} alt={activeWritingTask.figureAlt ?? 'Task 1 figure'} />
+                    <img src={assetUrl(activeWritingTask.figure)} alt={activeWritingTask.figureAlt ?? 'Task 1 figure'} />
                   </figure>
                 )}
                 <ul className="writing-instructions">
@@ -634,27 +652,7 @@ export default function ExamPage() {
         </div>
       </Modal>
 
-      <Modal open={transition !== null} title={transition ? `${skillNames[transition.from]} complete` : ''} onClose={() => {}}>
-        {transition && (
-          <>
-            <div className="modal-body">
-              <div className="exam-summary-grid">
-                <div><span>Section</span><strong>{skillNames[transition.from]}</strong></div>
-                <div><span>Answered</span><strong>{transition.from === 'writing' ? [answers['writing-task-1'], answers['writing-task-2']].filter(Boolean).length : answeredCount}</strong></div>
-                <div><span>Status</span><strong style={{ color: 'var(--green)' }}>Locked</strong></div>
-              </div>
-              {transition.auto && <div className="unanswered-note">Time expired. Your answers were submitted automatically.</div>}
-              <p style={{ fontSize: 12, color: '#697578', marginTop: 14 }}>
-                {transition.next ? `The next section is ${skillNames[transition.next]}. The clock starts only when you continue.` : 'Your core test is complete. Continue to the speaking session.'}
-              </p>
-            </div>
-            <div className="exam-modal-actions">
-              <Button variant="secondary" size="sm" onClick={() => router.push('/')}>Save & exit</Button>
-              <Button size="sm" onClick={startNext} disabled={submitting}>{submitting ? 'Preparing…' : transition.next ? `Continue to ${skillNames[transition.next]}` : 'Continue'} <ArrowRight size={15} /></Button>
-            </div>
-          </>
-        )}
-      </Modal>
+      {transitionModal}
 
       <Modal open={helpOpen} title="Test help" onClose={() => setHelpOpen(false)}><HelpBody /></Modal>
       <Modal open={notesOpen} title="Notes" onClose={() => setNotesOpen(false)}>

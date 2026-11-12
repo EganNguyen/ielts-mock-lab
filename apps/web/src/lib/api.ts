@@ -1,3 +1,7 @@
+import { staticApi } from './staticApi'
+
+export const IS_STATIC = process.env.NEXT_PUBLIC_STATIC_MODE === '1'
+
 export type Skill = 'listening' | 'reading' | 'writing' | 'speaking'
 
 export interface Question {
@@ -236,7 +240,7 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
   return response.json() as Promise<T>
 }
 
-export const api = {
+const serverApi = {
   me: () => request<{ user: User; demoMode: boolean }>('/auth/me'),
   config: () => request<{ demoMode: boolean; evaluationProvider: string; speechProvider: string }>('/config'),
   exams: () => request<{ exams: ExamSummary[] }>('/exams'),
@@ -269,3 +273,5 @@ export const api = {
   startShare: () => request<ShareStatus>('/share', { method: 'POST' }),
   stopShare: () => request<ShareStatus>('/share', { method: 'DELETE' }),
 }
+
+export const api: typeof serverApi = IS_STATIC ? staticApi : serverApi

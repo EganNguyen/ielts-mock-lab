@@ -20,7 +20,7 @@ test('an IELTS 20 test opens with its own paper and audio', async ({ page }) => 
   await page.locator('.test-chip').nth(4).click()
   await expect(page.locator('.mock-card h3')).toContainText('IELTS 20 · Academic Test 1')
   await page.getByRole('button', { name: /Begin full test/i }).click()
-  await page.waitForURL(/\/exam\//)
+  await page.waitForURL(/\/exam\/?(\?|$)/)
   await expect(page.locator('.part-banner')).toContainText('Part 1')
   await expect(page.getByRole('heading', { name: 'Choosing a restaurant' })).toBeVisible()
   await expect(page.getByLabel('Answer for question 1', { exact: true })).toBeVisible()
@@ -30,7 +30,7 @@ test('an IELTS 20 test opens with its own paper and audio', async ({ page }) => 
 test('answers and the one-play audio survive a refresh', async ({ page }) => {
   await page.goto('/')
   await page.getByRole('button', { name: /Start full mock test/i }).click()
-  await page.waitForURL(/\/exam\//)
+  await page.waitForURL(/\/exam\/?(\?|$)/)
   await expect(page.locator('.exam-timer')).toBeVisible()
   await expect(page.locator('.part-banner')).toContainText('Part 1')
   const play = page.getByRole('button', { name: /Play recording|Resume recording|Play exam audio/i })
