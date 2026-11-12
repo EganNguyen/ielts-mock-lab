@@ -1,0 +1,2174 @@
+[
+  {
+    "id": "supermarket-i19",
+    "term": "supermarket",
+    "ipa": "/ˈsupəˌmɑːkɪt/",
+    "pos": "noun",
+    "meaningEn": "a large self-service grocery store selling groceries and dairy products and household goods",
+    "meaningVi": "",
+    "synonyms": [
+      "supermarket"
+    ],
+    "sentenceText": "Yeah - you should be able to get everything you need, but there's a minibus that goes to the supermarket if you need it.",
+    "sentenceChunks": [
+      "Yeah - you should be able to get everything you need, but",
+      "there's a minibus that goes to the supermarket if you need it."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "shopping-i19",
+    "term": "shopping",
+    "ipa": "/ˈʃɑpɪŋ/",
+    "pos": "noun",
+    "meaningEn": "searching for or buying goods or services",
+    "meaningVi": "",
+    "synonyms": [
+      "shopping"
+    ],
+    "sentenceText": "You look like you're going shopping.",
+    "sentenceChunks": [
+      "You look like you're going shopping."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "organic-i19",
+    "term": "organic",
+    "ipa": "/ɔːˈgænɪk/",
+    "pos": "adjective",
+    "meaningEn": "grown or produced without artificial chemicals or pesticides",
+    "meaningVi": "",
+    "synonyms": [
+      "organic"
+    ],
+    "sentenceText": "_ ll see what beans they have in the organic shop and I think I'll get something for dessert there.",
+    "sentenceChunks": [
+      "_ ll see what beans they have in the organic",
+      "shop and I think I'll get something for dessert there."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [
+      4,
+      5,
+      8,
+      9
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Local food shops",
+        "questions": [
+          4,
+          5,
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bean-i19",
+    "term": "bean",
+    "ipa": "/bin/",
+    "pos": "noun",
+    "meaningEn": "any of various edible seeds of plants of the family Leguminosae used for food",
+    "meaningVi": "",
+    "synonyms": [
+      "edible bean"
+    ],
+    "sentenceText": "_ ll see what beans they have in the organic shop and I think I'll get something for dessert there.",
+    "sentenceChunks": [
+      "_ ll see what beans they have in the organic",
+      "shop and I think I'll get something for dessert there."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [
+      8
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Local food shops",
+        "questions": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dessert-i19",
+    "term": "dessert",
+    "ipa": "/dɪˈzət/",
+    "pos": "noun",
+    "meaningEn": "a dish served as the last course of a meal",
+    "meaningVi": "",
+    "synonyms": [
+      "sweet",
+      "afters"
+    ],
+    "sentenceText": "_ ll see what beans they have in the organic shop and I think I'll get something for dessert there.",
+    "sentenceChunks": [
+      "_ ll see what beans they have in the organic",
+      "shop and I think I'll get something for dessert there."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [
+      8
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Local food shops",
+        "questions": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grey-i19",
+    "term": "grey",
+    "ipa": "/greɪ/",
+    "pos": "adjective",
+    "meaningEn": "of a colour between black and white, like ash or cloud",
+    "meaningVi": "",
+    "synonyms": [
+      "gray",
+      "ash-coloured",
+      "silvery"
+    ],
+    "sentenceText": "Well, as you reach the market, you'll see a big grey building on your left - I think it used to be a warehouse.",
+    "sentenceChunks": [
+      "Well, as you reach the market, you'll see a big grey building",
+      "on your left - I think it used to be a warehouse."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "handful-i19",
+    "term": "handful",
+    "ipa": "/ˈhændˌfʊl/",
+    "pos": "noun",
+    "meaningEn": "a small number or amount",
+    "meaningVi": "",
+    "synonyms": [
+      "smattering",
+      "fistful"
+    ],
+    "sentenceText": "I just ask for a handful and you fry it in butter.",
+    "sentenceChunks": [
+      "I just ask for a handful and you fry it in butter."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [
+      7
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Local food shops",
+        "questions": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minibus-i19",
+    "term": "minibus",
+    "ipa": "/ˈmɪniˌbəs/",
+    "pos": "noun",
+    "meaningEn": "a light bus (4 to 10 passengers)",
+    "meaningVi": "",
+    "synonyms": [
+      "minibus"
+    ],
+    "sentenceText": "Yeah - you should be able to get everything you need, but there's a minibus that goes to the supermarket if you need it.",
+    "sentenceChunks": [
+      "Yeah - you should be able to get everything you need, but",
+      "there's a minibus that goes to the supermarket if you need it."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Local food shops",
+    "questions": [
+      6
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Local food shops",
+        "questions": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vocabulary-i19",
+    "term": "vocabulary",
+    "ipa": "/vəʊˈkæbjəˌleri/",
+    "pos": "noun",
+    "meaningEn": "all the words that a person knows and uses",
+    "meaningVi": "",
+    "synonyms": [
+      "lexicon",
+      "word stock"
+    ],
+    "sentenceText": "At the end of each diary entry, there are new English words the boy learns each day, which may help develop some children's vocabulary.",
+    "sentenceChunks": [
+      "At the end of each diary entry, there are new English words",
+      "the boy learns each day, which may help develop some children's vocabulary."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Children's book festival",
+        "questions": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "independently-i19",
+    "term": "independently",
+    "ipa": "/ˌɪndɪˈpendəntli/",
+    "pos": "adverb",
+    "meaningEn": "on your own; without outside help",
+    "meaningVi": "",
+    "synonyms": [
+      "severally"
+    ],
+    "sentenceText": "A lot of parents give up reading aloud to their children as soon as they learn to read independently, but this is a mistake.",
+    "sentenceChunks": [
+      "A lot of parents give up reading aloud to their children as",
+      "soon as they learn to read independently, but this is a mistake."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adverb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Children's book festival",
+        "questions": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "recommend-i19",
+    "term": "recommend",
+    "ipa": "/ˌrekəˈmend/",
+    "pos": "verb",
+    "meaningEn": "to suggest that someone should do or choose something",
+    "meaningVi": "",
+    "synonyms": [
+      "suggest",
+      "advise",
+      "propose"
+    ],
+    "sentenceText": "I'm just wondering if you have a favourite book you could recommend for our readers?",
+    "sentenceChunks": [
+      "I'm just wondering if you have a favourite book you could recommend for our readers?"
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb",
+    "references": []
+  },
+  {
+    "id": "aloud-i19",
+    "term": "aloud",
+    "ipa": "/əˈlaʊd/",
+    "pos": "adverb",
+    "meaningEn": "using the voice; not silently",
+    "meaningVi": "",
+    "synonyms": [
+      "out loud",
+      "loudly",
+      "loud"
+    ],
+    "sentenceText": "A lot of parents give up reading aloud to their children as soon as they learn to read independently, but this is a mistake.",
+    "sentenceChunks": [
+      "A lot of parents give up reading aloud to their children as",
+      "soon as they learn to read independently, but this is a mistake."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Children's book festival",
+        "questions": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "audio-i19",
+    "term": "audio",
+    "ipa": "/ˈɑdiˌəʊ/",
+    "pos": "adjective",
+    "meaningEn": "relating to sound, especially recorded sound",
+    "meaningVi": "",
+    "synonyms": [
+      "sound",
+      "acoustic"
+    ],
+    "sentenceText": "If you don't have time for this, then let them listen to audio books.",
+    "sentenceChunks": [
+      "If you don't have time for this, then let them listen to audio books."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "verb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Children's book festival",
+        "questions": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stick-i19",
+    "term": "stick",
+    "ipa": "/stɪk/",
+    "pos": "noun",
+    "meaningEn": "a thin piece of wood, often used for drawing or support",
+    "meaningVi": "",
+    "synonyms": [
+      "twig",
+      "branch",
+      "rod"
+    ],
+    "sentenceText": "On each page, there /18 are simple but hilarious black and white stick drawings of the boy with his friends and teachers.",
+    "sentenceChunks": [
+      "On each page, there /18 are simple but hilarious black and",
+      "white stick drawings of the boy with his friends and teachers."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Children's book festival",
+        "questions": [
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "id": "author-i19",
+    "term": "author",
+    "ipa": "/ˈɔθə/",
+    "pos": "noun",
+    "meaningEn": "a person who writes books, stories or articles",
+    "meaningVi": "",
+    "synonyms": [
+      "writer",
+      "novelist",
+      "essayist"
+    ],
+    "sentenceText": "This is a chance for deaf children to share their reading experiences with author Madeleine Gordon, who is herself hearing impaired.",
+    "sentenceChunks": [
+      "This is a chance for deaf children to share their",
+      "reading experiences with author Madeleine Gordon, who is herself hearing impaired."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [
+      17,
+      18
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Children's book festival",
+        "questions": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "id": "listen-i19",
+    "term": "listen",
+    "ipa": "/ˈlɪsən/",
+    "pos": "verb",
+    "meaningEn": "hear with intention",
+    "meaningVi": "",
+    "synonyms": [
+      "hear",
+      "take heed"
+    ],
+    "sentenceText": "Often, they'll want to read books they've listened /20 to for themselves.",
+    "sentenceChunks": [
+      "Often, they'll want to read books they've listened /20 to for themselves."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Children's book festival",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Children's book festival",
+        "questions": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "supplement-i19",
+    "term": "supplement",
+    "ipa": "/ˈsʌplɪmənt/",
+    "pos": "noun",
+    "meaningEn": "a pill or product containing nutrients that is added to the diet",
+    "meaningVi": "",
+    "synonyms": [
+      "dietary supplement",
+      "nutritional supplement",
+      "additive"
+    ],
+    "sentenceText": "So maybe we could look at food supplements... things like extra iron and extra protein, and their impact on health.",
+    "sentenceChunks": [
+      "So maybe we could look at food supplements... things like",
+      "extra iron and extra protein, and their impact on health."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [
+      24,
+      25
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Science experiment for Year 12 students",
+        "questions": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mouse-i19",
+    "term": "mouse",
+    "ipa": "/maʊs/",
+    "pos": "noun",
+    "meaningEn": "any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails",
+    "meaningVi": "",
+    "synonyms": [
+      "rodent",
+      "lab mouse",
+      "house mouse"
+    ],
+    "sentenceText": "Like, you could give some of the mice the chance to be more active, running on a wheel or something, and the others just sit around and don't do much.",
+    "sentenceChunks": [
+      "Like, you could give some of the mice the chance to be more active, running",
+      "on a wheel or something, and the others just sit around and don't do much."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Science experiment for Year 12 students",
+        "questions": [
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "id": "complicated-i19",
+    "term": "complicated",
+    "ipa": "/ˈkɑmpləˌkeɪtəd/",
+    "pos": "adjective",
+    "meaningEn": "difficult to analyze or understand",
+    "meaningVi": "",
+    "synonyms": [
+      "complicated"
+    ],
+    "sentenceText": "It sounds complicated, but actually you can just use a plastic box with holes in the top.",
+    "sentenceChunks": [
+      "It sounds complicated, but actually you can just use a plastic box with holes in the top."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [
+      23
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Science experiment for Year 12 students",
+        "questions": [
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conclusion-i19",
+    "term": "conclusion",
+    "ipa": "/kənˈkluʒən/",
+    "pos": "noun",
+    "meaningEn": "a position or opinion or judgment reached after consideration",
+    "meaningVi": "",
+    "synonyms": [
+      "decision",
+      "determination"
+    ],
+    "sentenceText": "If you could get the right data, the conclusions might be significant, but I suspect it's not going to be easy.",
+    "sentenceChunks": [
+      "If you could get the right data, the conclusions might",
+      "be significant, but I suspect it's not going to be easy."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Science experiment for Year 12 students",
+        "questions": [
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "electronic-i19",
+    "term": "electronic",
+    "ipa": "/ˌɪˌlekˈtrɑnɪk/",
+    "pos": "adjective",
+    "meaningEn": "of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons",
+    "meaningVi": "",
+    "synonyms": [
+      "electronic"
+    ],
+    "sentenceText": "And you'd need an electronic balance.",
+    "sentenceChunks": [
+      "And you'd need an electronic balance."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "permission-i19",
+    "term": "permission",
+    "ipa": "/pəˈmɪʃən/",
+    "pos": "noun",
+    "meaningEn": "approval to do something",
+    "meaningVi": "",
+    "synonyms": [
+      "license",
+      "permit"
+    ],
+    "sentenceText": "Would I have to get permission to use animals?",
+    "sentenceChunks": [
+      "Would I have to get permission to use animals?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [
+      23
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Science experiment for Year 12 students",
+        "questions": [
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "id": "affect-i19",
+    "term": "affect",
+    "ipa": "/əˈfekt/",
+    "pos": "verb",
+    "meaningEn": "to produce a change in someone or something; to influence",
+    "meaningVi": "",
+    "synonyms": [
+      "influence",
+      "impact",
+      "have an effect on"
+    ],
+    "sentenceText": "But if we found out that, say, a particular diet affects the health of animals, the same thing wouldn't necessarily be true for people, would it?",
+    "sentenceChunks": [
+      "But if we found out that, say, a particular diet affects the health",
+      "of animals, the same thing wouldn't necessarily be true for people, would it?"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Science experiment for Year 12 students",
+        "questions": [
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "weigh-i19",
+    "term": "weigh",
+    "ipa": "/weɪ/",
+    "pos": "verb",
+    "meaningEn": "to measure how heavy something is",
+    "meaningVi": "",
+    "synonyms": [
+      "measure",
+      "heft",
+      "check the weight of"
+    ],
+    "sentenceText": "So you need something called a weighing chamber to stop the mice from running away.",
+    "sentenceChunks": [
+      "So you need something called a weighing chamber to stop the mice from running away."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Science experiment for Year 12 students",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "earthworm-i19",
+    "term": "earthworm",
+    "ipa": "/ˈəθˌwəm/",
+    "pos": "noun",
+    "meaningEn": "terrestrial worm that burrows into and helps aerate soil; often surfaces when the ground is cool or wet; used as bait by anglers",
+    "meaningVi": "",
+    "synonyms": [
+      "angleworm",
+      "fishworm",
+      "fishing worm",
+      "wiggler"
+    ],
+    "sentenceText": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+    "sentenceChunks": [
+      "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+      "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Microplastics",
+    "questions": [
+      36,
+      37,
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Microplastics",
+        "questions": [
+          36,
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "id": "digestive-i19",
+    "term": "digestive",
+    "ipa": "/daɪˈdʒestɪv/",
+    "pos": "adjective",
+    "meaningEn": "relating to or having the power to cause or promote digestion",
+    "meaningVi": "",
+    "synonyms": [
+      "digestive"
+    ],
+    "sentenceText": "There is evidence that microplastics harm small creatures in a variety of ways, such as by damaging their mouths, or by impairing their ability to feed, for example when microplastics get lodged in their digestive system.",
+    "sentenceChunks": [
+      "There is evidence",
+      "that microplastics harm small creatures in a variety of ways, such as by damaging their mouths, or by impairing their ability to feed, for example when microplastics get lodged in their digestive system."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Microplastics",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Microplastics",
+        "questions": [
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soil-i19",
+    "term": "soil",
+    "ipa": "/sɔɪl/",
+    "pos": "noun",
+    "meaningEn": "the top layer of the earth in which plants grow",
+    "meaningVi": "",
+    "synonyms": [
+      "earth",
+      "dirt",
+      "ground",
+      "topsoil"
+    ],
+    "sentenceText": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+    "sentenceChunks": [
+      "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+      "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Microplastics",
+    "questions": [
+      35,
+      36,
+      39,
+      40
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Microplastics",
+        "questions": [
+          35,
+          36,
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agricultural-i19",
+    "term": "agricultural",
+    "ipa": "/ˌægrɪˈkəltʃəəl/",
+    "pos": "adjective",
+    "meaningEn": "relating to or used in or promoting agriculture or farming",
+    "meaningVi": "",
+    "synonyms": [
+      "agrarian",
+      "farming"
+    ],
+    "sentenceText": "These worms, which live in topsoil, are an essential component of our agricultural system.",
+    "sentenceChunks": [
+      "These worms, which live in topsoil, are an essential component of our agricultural system."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Microplastics",
+    "questions": [
+      35
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Microplastics",
+        "questions": [
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conclude-i19",
+    "term": "conclude",
+    "ipa": "/kənˈklud/",
+    "pos": "verb",
+    "meaningEn": "to decide something after considering the facts",
+    "meaningVi": "",
+    "synonyms": [
+      "reason",
+      "reason out"
+    ],
+    "sentenceText": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+    "sentenceChunks": [
+      "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+      "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Microplastics",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "germinate-i19",
+    "term": "germinate",
+    "ipa": "/ˈdʒəməˌneɪt/",
+    "pos": "verb",
+    "meaningEn": "to start to grow and produce a shoot, as a seed does",
+    "meaningVi": "",
+    "synonyms": [
+      "sprout",
+      "shoot",
+      "bud"
+    ],
+    "sentenceText": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+    "sentenceChunks": [
+      "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+      "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Microplastics",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "colleague-i19",
+    "term": "colleague",
+    "ipa": "/ˈkɑlig/",
+    "pos": "noun",
+    "meaningEn": "an associate that one works with",
+    "meaningVi": "",
+    "synonyms": [
+      "co-worker",
+      "fellow worker",
+      "workfellow",
+      "confrere"
+    ],
+    "sentenceText": "In early April 2019, Dr Ceri Shipton and his colleagues from Australian National University became the first archaeologists to explore Obi, one of many tropical islands in Indonesia's Maluku Utara province.",
+    "sentenceChunks": [
+      "In early April 2019, Dr Ceri Shipton and his colleagues from Australian National University became",
+      "the first archaeologists to explore Obi, one of many tropical islands in Indonesia's Maluku Utara province."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      1
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shelter-i19",
+    "term": "shelter",
+    "ipa": "/ˈʃeltə/",
+    "pos": "noun",
+    "meaningEn": "a structure that provides privacy and protection from danger",
+    "meaningVi": "",
+    "synonyms": [
+      "shelter"
+    ],
+    "sentenceText": "Shipton's team's excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian, which must have been brought over from another island, as there is no known source on Obi.",
+    "sentenceChunks": [
+      "Shipton's team's excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian",
+      "which must have been brought over from another island, as there is no known source on Obi."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      7,
+      8
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shell-i19",
+    "term": "shell",
+    "ipa": "/ʃel/",
+    "pos": "noun",
+    "meaningEn": "the hard outer covering of a shellfish, egg or nut",
+    "meaningVi": "",
+    "synonyms": [
+      "case",
+      "carapace",
+      "husk"
+    ],
+    "sentenceText": "Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe to the northeast.",
+    "sentenceChunks": [
+      "Axes made from clam shells from roughly the same time had also previously been",
+      "found elsewhere in this region, including on the nearby island of Gebe to the northeast."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      2
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": "connection-i19",
+    "term": "connection",
+    "ipa": "/kəˈnekʃən/",
+    "pos": "noun",
+    "meaningEn": "a relation between things or events (as in the case of one causing the other or sharing features with it)",
+    "meaningVi": "",
+    "synonyms": [
+      "connexion",
+      "connectedness",
+      "link"
+    ],
+    "sentenceText": "As on Gebe, it is highly likely that Obi's axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands.",
+    "sentenceChunks": [
+      "As on Gebe, it is highly likely",
+      "that Obi's axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      5
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "islander-i19",
+    "term": "islander",
+    "ipa": "/ˈaɪləndə/",
+    "pos": "noun",
+    "meaningEn": "an inhabitant of an island",
+    "meaningVi": "",
+    "synonyms": [
+      "island-dweller"
+    ],
+    "sentenceText": "These finds again support the idea that Obi islanders routinely travelled to other islands.",
+    "sentenceChunks": [
+      "These finds again support the idea that Obi islanders routinely travelled to other islands."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      6,
+      10,
+      12
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          6,
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clam-i19",
+    "term": "clam",
+    "ipa": "/klæm/",
+    "pos": "noun",
+    "meaningEn": "burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness",
+    "meaningVi": "",
+    "synonyms": [
+      "mollusc",
+      "shellfish",
+      "bivalve"
+    ],
+    "sentenceText": "Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe to the northeast.",
+    "sentenceChunks": [
+      "Axes made from clam shells from roughly the same time had also previously been",
+      "found elsewhere in this region, including on the nearby island of Gebe to the northeast."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      2
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": "climate-i19",
+    "term": "climate",
+    "ipa": "/ˈklaɪmɪt/",
+    "pos": "noun",
+    "meaningEn": "the weather in some location averaged over some long period of time",
+    "meaningVi": "",
+    "synonyms": [
+      "clime",
+      "mood"
+    ],
+    "sentenceText": "At this time the climate was drier and colder than today, and the island's dense rainforests would likely have been much less impenetrable than they are now.",
+    "sentenceChunks": [
+      "At this time the climate was drier and colder than today, and the",
+      "island's dense rainforests would likely have been much less impenetrable than they are now."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "evidence-i19",
+    "term": "evidence",
+    "ipa": "/ˈevədəns/",
+    "pos": "noun",
+    "meaningEn": "your basis for belief or disbelief; knowledge on which to base belief",
+    "meaningVi": "",
+    "synonyms": [
+      "grounds"
+    ],
+    "sentenceText": "But to support this idea, they needed archaeological evidence for humans living in this remote area in the ancient past.",
+    "sentenceChunks": [
+      "But to support this idea, they needed archaeological evidence for",
+      "humans living in this remote area in the ancient past."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+    "questions": [
+      6,
+      10
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "Archaeologists discover evidence of prehistoric island settlers",
+        "questions": [
+          6,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peatlands-i19",
+    "term": "peatlands",
+    "ipa": "/ˈpiːtləndz/",
+    "pos": "noun",
+    "meaningEn": "areas of wet, spongy ground made of partly decayed plant material (peat)",
+    "meaningVi": "",
+    "synonyms": [
+      "peat bogs",
+      "mires",
+      "fens"
+    ],
+    "sentenceText": "When peatlands are drained for cultivation, they become net carbonemitters instead of active carbon stores, and, according to Marcel Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions.",
+    "sentenceChunks": [
+      "When peatlands are drained for cultivation, they become net carbonemitters instead of active carbon stores, and, according to Marcel",
+      "Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [
+      18,
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The global importance of wetlands",
+        "questions": [
+          18,
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clearance-i19",
+    "term": "clearance",
+    "ipa": "/ˈklɪərəns/",
+    "pos": "noun",
+    "meaningEn": "the act of removing trees or other things from an area of land",
+    "meaningVi": "",
+    "synonyms": [
+      "clearing",
+      "removal",
+      "deforestation"
+    ],
+    "sentenceText": "The clearance of peatlands for planting also increases the risk of forest fires, which release huge amounts of CO. 'We're seeing huge peatland forests with extremely high biodiversity value being lost for a few decades of oil palm revenues,' says Silvius.",
+    "sentenceChunks": [
+      "The clearance of peatlands for planting also increases the risk of forest fires",
+      "which release huge amounts of CO. 'We're seeing huge peatland forests with extremely high biodiversity value being lost for a few decades of oil palm revenues,' says Silvius."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [
+      19
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The global importance of wetlands",
+        "questions": [
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peat-i19",
+    "term": "peat",
+    "ipa": "/pit/",
+    "pos": "noun",
+    "meaningEn": "partially carbonized vegetable matter saturated with water; can be used as a fuel when dried",
+    "meaningVi": "",
+    "synonyms": [
+      "peat"
+    ],
+    "sentenceText": "But according to the World Wide Fund for Nature (WWEN), half of the world's wetlands have disappeared since 1990 - converted or destroyed for commercial development, drainage schemes and the extraction of minerals and peat\".",
+    "sentenceChunks": [
+      "But according to the World Wide Fund for Nature (WWEN), half of the world's wetlands have disappeared",
+      "since 1990 - converted or destroyed for commercial development, drainage schemes and the extraction of minerals and peat\"."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "drain-i19",
+    "term": "drain",
+    "ipa": "/dreɪn/",
+    "pos": "verb",
+    "meaningEn": "to remove water from an area of land",
+    "meaningVi": "",
+    "synonyms": [
+      "empty",
+      "remove water from",
+      "dewater"
+    ],
+    "sentenceText": "When peatlands are drained for cultivation, they become net carbonemitters instead of active carbon stores, and, according to Marcel Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions.",
+    "sentenceChunks": [
+      "When peatlands are drained for cultivation, they become net carbonemitters instead of active carbon stores, and, according to Marcel",
+      "Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The global importance of wetlands",
+        "questions": [
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "palm-i19",
+    "term": "palm",
+    "ipa": "/pɑm/",
+    "pos": "noun",
+    "meaningEn": "a tropical tree with a long trunk and large leaves, grown for oil",
+    "meaningVi": "",
+    "synonyms": [
+      "oil palm",
+      "palm tree",
+      "tropical tree"
+    ],
+    "sentenceText": "These are then used to drain water out of the peatlands to allow for the planting of corn, oil palms or pulpwood trees.",
+    "sentenceChunks": [
+      "These are then used to drain water out of the peatlands",
+      "to allow for the planting of corn, oil palms or pulpwood trees."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The global importance of wetlands",
+        "questions": [
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "environmental-i19",
+    "term": "environmental",
+    "ipa": "/ɪnˌvaɪrənˈmentl/",
+    "pos": "adjective",
+    "meaningEn": "of or relating to the external conditions or surroundings",
+    "meaningVi": "",
+    "synonyms": [
+      "environmental"
+    ],
+    "sentenceText": "They also serve a crucial environmental purpose.",
+    "sentenceChunks": [
+      "They also serve a crucial environmental purpose."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [
+      26
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The global importance of wetlands",
+        "questions": [
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flooding-i19",
+    "term": "flooding",
+    "ipa": "/ˈflədɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the covering of land with water, especially from heavy rain or the sea",
+    "meaningVi": "",
+    "synonyms": [
+      "inundation",
+      "deluge",
+      "waterlogging"
+    ],
+    "sentenceText": "'Wetlands are one of the key tools in mitigating climate change across the planet,' says Pieter van Eijk, head of Climate Adaptation at Wetlands International (WJ), pointing to their use as buffers that protect coastal areas from sea-level rise and extreme weather events such as hurricanes and flooding.",
+    "sentenceChunks": [
+      "'Wetlands are one of the key tools in mitigating climate change across the planet,' says Pieter van Eijk, head of Climate Adaptation at Wetlands International (WJ), pointing to their use as buffers",
+      "that protect coastal areas from sea-level rise and extreme weather events such as hurricanes and flooding."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The global importance of wetlands",
+        "questions": [
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wetlands-i19",
+    "term": "wetlands",
+    "ipa": "/ˈweˌtlændz/",
+    "pos": "noun",
+    "meaningEn": "a low area where the land is saturated with water",
+    "meaningVi": "",
+    "synonyms": [
+      "wetland"
+    ],
+    "sentenceText": "Peatlands - wetlands with a waterlogged organic soil layer - are particularly targeted.",
+    "sentenceChunks": [
+      "Peatlands - wetlands with a waterlogged organic soil layer - are particularly targeted."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The global importance of wetlands",
+    "questions": [
+      14,
+      15,
+      16,
+      17,
+      23,
+      24,
+      25
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "verb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The global importance of wetlands",
+        "questions": [
+          14,
+          15,
+          16,
+          17,
+          23,
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "id": "translation-i19",
+    "term": "translation",
+    "ipa": "/trænzˈleɪʃən/",
+    "pos": "noun",
+    "meaningEn": "a written communication in a second language having the same meaning as the written communication in a first language",
+    "meaningVi": "",
+    "synonyms": [
+      "interlingual rendition",
+      "rendering",
+      "version"
+    ],
+    "sentenceText": "To redress this, Waverly is now preparing a new model for professional applications, which entails performance improvements in speech recognition, translation accuracy and the time it takes to deliver the translated speech.",
+    "sentenceChunks": [
+      "To redress this, Waverly is now preparing a new model for professional applications",
+      "which entails performance improvements in speech recognition, translation accuracy and the time it takes to deliver the translated speech."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      29,
+      31,
+      32,
+      33,
+      35,
+      36,
+      37,
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          29,
+          31,
+          32,
+          33,
+          35,
+          36,
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "id": "translator-i19",
+    "term": "translator",
+    "ipa": "/trænzˈleɪtə/",
+    "pos": "noun",
+    "meaningEn": "a person who translates written messages from one language to another",
+    "meaningVi": "",
+    "synonyms": [
+      "transcriber",
+      "interpreter"
+    ],
+    "sentenceText": "At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students can follow in English via an electronic translator.",
+    "sentenceChunks": [
+      "At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German",
+      "that their students can follow in English via an electronic translator."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "id": "earpiece-i19",
+    "term": "earpiece",
+    "ipa": "/ˈɪəpis/",
+    "pos": "noun",
+    "meaningEn": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear",
+    "meaningVi": "",
+    "synonyms": [
+      "earphone",
+      "headphone",
+      "phone"
+    ],
+    "sentenceText": "Whether that happens, and how quickly, will probably depend not so much on the earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general.",
+    "sentenceChunks": [
+      "Whether that happens, and how quickly, will probably depend not so much on the",
+      "earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      30
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conversation-i19",
+    "term": "conversation",
+    "ipa": "/ˌkɑnvəˈseɪʃən/",
+    "pos": "noun",
+    "meaningEn": "the use of speech for informal exchange of views or ideas or information etc.",
+    "meaningVi": "",
+    "synonyms": [
+      "conversation"
+    ],
+    "sentenceText": "However, 'Professionals are less inclined to be patient in a conversation,' founder and CEO at Waverly Labs, Andrew Ochoa, observes.",
+    "sentenceChunks": [
+      "However, 'Professionals are less inclined to be patient in a",
+      "conversation,' founder and CEO at Waverly Labs, Andrew Ochoa, observes."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "id": "speaker-i19",
+    "term": "speaker",
+    "ipa": "/ˈspikə/",
+    "pos": "noun",
+    "meaningEn": "someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone especially garrulous)",
+    "meaningVi": "",
+    "synonyms": [
+      "talker",
+      "utterer",
+      "verbalizer",
+      "verbaliser"
+    ],
+    "sentenceText": "Even if voice- morphing technology simulates the speaker's voice, their lip movements won't match, and they will look like they are in a dubbed movie.",
+    "sentenceChunks": [
+      "Even if voice- morphing technology simulates the speaker's voice, their lip movements",
+      "won't match, and they will look like they are in a dubbed movie."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "id": "academic-i19",
+    "term": "academic",
+    "ipa": "/ˌækəˈdemɪk/",
+    "pos": "adjective",
+    "meaningEn": "associated with academia or an academy",
+    "meaningVi": "",
+    "synonyms": [
+      "academic"
+    ],
+    "sentenceText": "Some cultural traditions demand solemn respect for academic status, for example, and it is only polite to respect this.",
+    "sentenceChunks": [
+      "Some cultural traditions demand solemn respect for academic status",
+      "for example, and it is only polite to respect this."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      35
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lecturer-i19",
+    "term": "lecturer",
+    "ipa": "/ˈlektʃərə/",
+    "pos": "noun",
+    "meaningEn": "a public lecturer at certain universities",
+    "meaningVi": "",
+    "synonyms": [
+      "lector",
+      "reader"
+    ],
+    "sentenceText": "It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year.",
+    "sentenceChunks": [
+      "It helps that lecturers speak clearly, don't have to compete",
+      "with background chatter, and say much the same thing each year."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scientist-i19",
+    "term": "scientist",
+    "ipa": "/ˈsaɪəntɪst/",
+    "pos": "noun",
+    "meaningEn": "a person with advanced knowledge of one or more sciences",
+    "meaningVi": "",
+    "synonyms": [
+      "scientist"
+    ],
+    "sentenceText": "Sharing a language can promote a sense of belonging and community, as with the international scientists who use English as a lingua franca, where their predecessors used Latin.",
+    "sentenceChunks": [
+      "Sharing a language can promote a sense of belonging and community, as with the",
+      "international scientists who use English as a lingua franca, where their predecessors used Latin."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 3,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "Is the era of artificial speech translation upon us?",
+    "questions": [
+      38,
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 3,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "Is the era of artificial speech translation upon us?",
+        "questions": [
+          38,
+          39
+        ]
+      }
+    ]
+  }
+]

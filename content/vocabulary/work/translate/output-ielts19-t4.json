@@ -1,0 +1,904 @@
+[
+  {
+    "id": "counter-i19",
+    "meaningVi": "quầy (nơi giao dịch, bán hàng)",
+    "translation": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì, ở quầy sushi, và ở quầy thịt và cá.",
+    "breakdown": [
+      {
+        "text": "So, Charlotte, your tasks today are in the bakery section",
+        "vi": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì",
+        "role": "intro"
+      },
+      {
+        "text": "on the sushi counter, and on the meat and fish counters.",
+        "vi": "ở quầy sushi, và ở quầy thịt và cá.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "sushi-i19",
+    "meaningVi": "sushi (cơm trộn giấm ăn với cá sống)",
+    "translation": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì, ở quầy sushi, và ở quầy thịt và cá.",
+    "breakdown": [
+      {
+        "text": "So, Charlotte, your tasks today are in the bakery section",
+        "vi": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì",
+        "role": "intro"
+      },
+      {
+        "text": "on the sushi counter, and on the meat and fish counters.",
+        "vi": "ở quầy sushi, và ở quầy thịt và cá.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "takeaway-i19",
+    "meaningVi": "đồ ăn mang về",
+    "translation": "Sau đó, bạn sẽ đến quầy sushi bán đồ ăn mang về.",
+    "breakdown": [
+      {
+        "text": "After that, you'll go to the sushi takeaway counter.",
+        "vi": "Sau đó, bạn sẽ đến quầy sushi bán đồ ăn mang về.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "weighing-i19",
+    "meaningVi": "sự cân, việc cân trọng lượng",
+    "translation": "Bạn cần dọn sạch khu vực nhân viên phục vụ khách, bao gồm lau chiếc cân.",
+    "breakdown": [
+      {
+        "text": "You need to clean the area where staff serve customers, including wiping the weighing scales.",
+        "vi": "Bạn cần dọn sạch khu vực nhân viên phục vụ khách, bao gồm lau chiếc cân.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "bakery-i19",
+    "meaningVi": "khu làm bánh, tiệm bánh",
+    "translation": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì, ở quầy sushi, và ở quầy thịt và cá.",
+    "breakdown": [
+      {
+        "text": "So, Charlotte, your tasks today are in the bakery section",
+        "vi": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì",
+        "role": "intro"
+      },
+      {
+        "text": "on the sushi counter, and on the meat and fish counters.",
+        "vi": "ở quầy sushi, và ở quầy thịt và cá.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "meat-i19",
+    "meaningVi": "thịt",
+    "translation": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì, ở quầy sushi, và ở quầy thịt và cá.",
+    "breakdown": [
+      {
+        "text": "So, Charlotte, your tasks today are in the bakery section",
+        "vi": "Vậy Charlotte à, hôm nay nhiệm vụ của bạn là ở khu vực bánh mì",
+        "role": "intro"
+      },
+      {
+        "text": "on the sushi counter, and on the meat and fish counters.",
+        "vi": "ở quầy sushi, và ở quầy thịt và cá.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "coat-i19",
+    "meaningVi": "áo khoác",
+    "translation": "Hãy để áo khoác và ba lô của bạn vào một trong những tủ đồ ở đó.",
+    "breakdown": [
+      {
+        "text": "Put your coat and rucksack in one of the lockers there.",
+        "vi": "Hãy để áo khoác và ba lô của bạn vào một trong những tủ đồ ở đó.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "item-i19",
+    "meaningVi": "món đồ, vật phẩm",
+    "translation": "Tôi có phải vứt bỏ những món đồ đó đi không?",
+    "breakdown": [
+      {
+        "text": "Do I throw those items away?",
+        "vi": "Tôi có phải vứt bỏ những món đồ đó đi không?",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "marathon-i19",
+    "meaningVi": "cuộc chạy marathon (khoảng 42 km)",
+    "translation": "Chồng tôi đã chạy marathon nhiều năm rồi, nhưng tôi chưa bao giờ mơ rằng mình sẽ cùng anh ấy chạy một cuộc.",
+    "breakdown": [
+      {
+        "text": "My husband had been running marathons for years, but I never dreamed I'd be doing one with him.",
+        "vi": "Chồng tôi đã chạy marathon nhiều năm rồi, nhưng tôi chưa bao giờ mơ rằng mình sẽ cùng anh ấy chạy một cuộc.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "confidence-i19",
+    "meaningVi": "sự tự tin",
+    "translation": "Các thành viên mới thường nói với tôi rằng họ bị nản, không muốn chạy, hoặc vì họ thiếu tự tin, hoặc vì họ không có thời gian, hoặc vì họ nghĩ mình không thích chạy.",
+    "breakdown": [
+      {
+        "text": "New members often say to me",
+        "vi": "Các thành viên mới thường nói với tôi",
+        "role": "intro"
+      },
+      {
+        "text": "that they've been put off running either because they lack confidence, or they don't have time, or they think they dislike running.",
+        "vi": "rằng họ bị nản, không muốn chạy, hoặc vì họ thiếu tự tin, hoặc vì họ không có thời gian, hoặc vì họ nghĩ mình không thích chạy.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "motivate-i19",
+    "meaningVi": "tạo động lực, thúc đẩy",
+    "translation": "Tôi thực sự nghĩ rằng đăng ký một cuộc đua, dù dài bao nhiêu, đều tạo động lực - dù là 5K hay 25K - bởi vì có một mục tiêu để hướng tới là điều tốt, và nó mang lại cho bạn cảm giác thành tựu.",
+    "breakdown": [
+      {
+        "text": "I do think signing up for a race of whatever length is motivating - whether it's 5K or 25K -",
+        "vi": "Tôi thực sự nghĩ rằng đăng ký một cuộc đua, dù dài bao nhiêu, đều tạo động lực - dù là 5K hay 25K -",
+        "role": "main idea"
+      },
+      {
+        "text": "because it's good to have something to work towards and it gives you a sense of achievement.",
+        "vi": "bởi vì có một mục tiêu để hướng tới là điều tốt, và nó mang lại cho bạn cảm giác thành tựu.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "programme-i19",
+    "meaningVi": "chương trình (tập luyện)",
+    "translation": "Có nhiều chương trình tập luyện trực tuyến nhằm giúp mọi người tăng dần để chạy được 5 ki-lô-mét.",
+    "breakdown": [
+      {
+        "text": "There are many training programmes available online which aim to help people build up to running 5 kilometres.",
+        "vi": "Có nhiều chương trình tập luyện trực tuyến nhằm giúp mọi người tăng dần để chạy được 5 ki-lô-mét.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "runner-i19",
+    "meaningVi": "người chạy bộ",
+    "translation": "Cô ấy lo mình sẽ bị bỏ lại phía sau và là người chạy chậm nhất.",
+    "breakdown": [
+      {
+        "text": "She was worried about being left behind and being the slowest runner.",
+        "vi": "Cô ấy lo mình sẽ bị bỏ lại phía sau và là người chạy chậm nhất.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "dislike-i19",
+    "meaningVi": "không thích",
+    "translation": "Các thành viên mới thường nói với tôi rằng họ bị nản, không muốn chạy, hoặc vì họ thiếu tự tin, hoặc vì họ không có thời gian, hoặc vì họ nghĩ mình không thích chạy.",
+    "breakdown": [
+      {
+        "text": "New members often say to me",
+        "vi": "Các thành viên mới thường nói với tôi",
+        "role": "intro"
+      },
+      {
+        "text": "that they've been put off running either because they lack confidence, or they don't have time, or they think they dislike running.",
+        "vi": "rằng họ bị nản, không muốn chạy, hoặc vì họ thiếu tự tin, hoặc vì họ không có thời gian, hoặc vì họ nghĩ mình không thích chạy.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "slowly-i19",
+    "meaningVi": "một cách chậm rãi",
+    "translation": "Tôi cho rằng bạn đã được dặn chạy rất chậm cho đến khi thể lực của bạn tăng lên - thế nhưng, tôi thấy điều đó có thể cản trở sự tiến bộ.",
+    "breakdown": [
+      {
+        "text": "I expect you've been told to run very slowly until",
+        "vi": "Tôi cho rằng bạn đã được dặn chạy rất chậm cho đến khi",
+        "role": "main idea"
+      },
+      {
+        "text": "your fitness increases - well, I find that can prevent progress.",
+        "vi": "thể lực của bạn tăng lên - thế nhưng, tôi thấy điều đó có thể cản trở sự tiến bộ.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "training-i19",
+    "meaningVi": "việc tập luyện",
+    "translation": "Leo lo lắng về việc phải cam kết tham gia các buổi tập hằng tuần và không chắc mình có thể sắp xếp việc tập luyện vào lịch trình bận rộn hay không.",
+    "breakdown": [
+      {
+        "text": "Leo was worried about having to commit himself to training sessions every week",
+        "vi": "Leo lo lắng về việc phải cam kết tham gia các buổi tập hằng tuần",
+        "role": "main idea"
+      },
+      {
+        "text": "and wasn't sure he'd be able to fit training into his busy schedule.",
+        "vi": "và không chắc mình có thể sắp xếp việc tập luyện vào lịch trình bận rộn hay không.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "grandfather-i19",
+    "meaningVi": "ông",
+    "translation": "À, ông tôi nói rằng bạn nên đặt tay ngay lên trên mép cuốn sách... hoặc nếu không làm được vậy, hãy kéo những cuốn sách khác trên kệ sang một bên để có thể cầm được toàn bộ bìa sách.",
+    "breakdown": [
+      {
+        "text": "Ah, my grandfather says, you should put your hand right over the top of the book... or",
+        "vi": "À, ông tôi nói rằng bạn nên đặt tay ngay lên trên mép cuốn sách... hoặc",
+        "role": "intro"
+      },
+      {
+        "text": "if you can't do that, pull the other books on the shelf aside so that you can hold the whole cover.",
+        "vi": "nếu không làm được vậy, hãy kéo những cuốn sách khác trên kệ sang một bên để có thể cầm được toàn bộ bìa sách.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "hardback-i19",
+    "meaningVi": "sách bìa cứng",
+    "translation": "Nhưng tôi vẫn không nghĩ rằng người ta còn coi trọng sách bìa cứng như trước đây.",
+    "breakdown": [
+      {
+        "text": "But I still don't think people value hardbacks like they used to.",
+        "vi": "Nhưng tôi vẫn không nghĩ rằng người ta còn coi trọng sách bìa cứng như trước đây.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "shelf-i19",
+    "meaningVi": "kệ (sách)",
+    "translation": "À, ông tôi nói rằng bạn nên đặt tay ngay lên trên mép cuốn sách... hoặc nếu không làm được vậy, hãy kéo những cuốn sách khác trên kệ sang một bên để có thể cầm được toàn bộ bìa sách.",
+    "breakdown": [
+      {
+        "text": "Ah, my grandfather says, you should put your hand right over the top of the book... or",
+        "vi": "À, ông tôi nói rằng bạn nên đặt tay ngay lên trên mép cuốn sách... hoặc",
+        "role": "intro"
+      },
+      {
+        "text": "if you can't do that, pull the other books on the shelf aside so that you can hold the whole cover.",
+        "vi": "nếu không làm được vậy, hãy kéo những cuốn sách khác trên kệ sang một bên để có thể cầm được toàn bộ bìa sách.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "pack-i19",
+    "meaningVi": "đóng gói, xếp vào thùng",
+    "translation": "Vâng, tôi thực sự mong chờ điều đó và tôi vừa mới bắt đầu đóng gói tất cả sách của mình để đem đi cất giữ.",
+    "breakdown": [
+      {
+        "text": "Yes, I'm really looking forward to it and I've just",
+        "vi": "Vâng, tôi thực sự mong chờ điều đó và tôi vừa mới",
+        "role": "main idea"
+      },
+      {
+        "text": "started packing up all my books to put in storage.",
+        "vi": "bắt đầu đóng gói tất cả sách của mình để đem đi cất giữ.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "collector-i19",
+    "meaningVi": "người sưu tầm",
+    "translation": "Bạn biết đấy, ông ấy là một người khá mê sưu tầm.",
+    "breakdown": [
+      {
+        "text": "He's quite a collector, you know.",
+        "vi": "Bạn biết đấy, ông ấy là một người khá mê sưu tầm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "unwanted-i19",
+    "meaningVi": "không ai muốn, không cần đến",
+    "translation": "Ông ấy hầu như chẳng bao giờ vứt bỏ thứ gì - ông chỉ để những cuốn sách không ai muốn ở cạnh cửa trước cho khách lấy.",
+    "breakdown": [
+      {
+        "text": "He hardly ever throws anything away - he just leaves",
+        "vi": "Ông ấy hầu như chẳng bao giờ vứt bỏ thứ gì - ông chỉ để",
+        "role": "main idea"
+      },
+      {
+        "text": "unwanted books by the front door for customers to take.",
+        "vi": "những cuốn sách không ai muốn ở cạnh cửa trước cho khách lấy.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "attic-i19",
+    "meaningVi": "gác mái",
+    "translation": "À, nó khá lớn - có hai tầng và một gác mái, và ông ấy bán đủ loại sách thật đấy.",
+    "breakdown": [
+      {
+        "text": "Well, it's quite big - it's got two floors and",
+        "vi": "À, nó khá lớn - có hai tầng và",
+        "role": "description"
+      },
+      {
+        "text": "an attic, and he stocks all kinds of books really.",
+        "vi": "một gác mái, và ông ấy bán đủ loại sách thật đấy.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "attract-i19",
+    "meaningVi": "thu hút",
+    "translation": "Trước đây ông ấy để những cuốn sách này ở tầng một, nhưng giờ ở quê tôi có một trường đại học mới, nên ông đã chuyển chúng xuống dưới để thu hút sinh viên.",
+    "breakdown": [
+      {
+        "text": "He used to keep these books on the first floor",
+        "vi": "Trước đây ông ấy để những cuốn sách này ở tầng một",
+        "role": "background"
+      },
+      {
+        "text": "but now there's a new university in my hometown, he's moved them downstairs to attract the students.",
+        "vi": "nhưng giờ ở quê tôi có một trường đại học mới, nên ông đã chuyển chúng xuống dưới để thu hút sinh viên.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "reforestation-i19",
+    "meaningVi": "việc trồng lại rừng",
+    "translation": "Chúng đóng vai trò trung tâm trong các dự án trồng lại rừng nhiệt đới vì chúng đẩy nhanh tốc độ của quá trình phục hồi bằng cách thu hút các loài động vật và chim vốn đóng vai trò phát tán hạt giống tự nhiên.",
+    "breakdown": [
+      {
+        "text": "They are central to tropical reforestation projects as they accelerate the speed of the recovery process by attracting animals and birds",
+        "vi": "Chúng đóng vai trò trung tâm trong các dự án trồng lại rừng nhiệt đới vì chúng đẩy nhanh tốc độ của quá trình phục hồi bằng cách thu hút các loài động vật và chim",
+        "role": "main idea"
+      },
+      {
+        "text": "which act as natural seed dispersers.",
+        "vi": "vốn đóng vai trò phát tán hạt giống tự nhiên.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "identify-i19",
+    "meaningVi": "xác định, nhận diện",
+    "translation": "Ở Brazil, nó đang được dùng để xác định và định lượng mức độ các phần của rừng Amazon đang bị tàn phá bởi các hoạt động của con người như chăn nuôi gia súc và khai thác gỗ trái phép.",
+    "breakdown": [
+      {
+        "text": "In Brazil, it's being used to identify and quantify how parts of the",
+        "vi": "Ở Brazil, nó đang được dùng để xác định và định lượng mức độ các phần của",
+        "role": "main idea"
+      },
+      {
+        "text": "Amazon are being devastated by human activities such as rearing cattle and illegal logging.",
+        "vi": "rừng Amazon đang bị tàn phá bởi các hoạt động của con người như chăn nuôi gia súc và khai thác gỗ trái phép.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "restored-i19",
+    "meaningVi": "đã được phục hồi",
+    "translation": "Việc dùng hạt giống có độ đa dạng di truyền thấp thường làm giảm khả năng phục hồi của những khu rừng đã được tái tạo, điều này có thể khiến chúng dễ bị bệnh và không thể thích ứng với biến đổi khí hậu.",
+    "breakdown": [
+      {
+        "text": "Using seeds with low genetic diversity generally lowers the resilience of restored forests",
+        "vi": "Việc dùng hạt giống có độ đa dạng di truyền thấp thường làm giảm khả năng phục hồi của những khu rừng đã được tái tạo",
+        "role": "main idea"
+      },
+      {
+        "text": "which can make them vulnerable to disease and unable to adapt to climate change.",
+        "vi": "điều này có thể khiến chúng dễ bị bệnh và không thể thích ứng với biến đổi khí hậu.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "forest-i19",
+    "meaningVi": "rừng",
+    "translation": "Để đảm bảo sự sống còn và khả năng phục hồi của một khu rừng trồng, việc dùng hạt giống cây với mức đa dạng di truyền phù hợp là rất quan trọng: đó là lượng biến dị di truyền trong một loài, yếu tố thiết yếu cho sự sống còn của chúng.",
+    "breakdown": [
+      {
+        "text": "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity:",
+        "vi": "Để đảm bảo sự sống còn và khả năng phục hồi của một khu rừng trồng, việc dùng hạt giống cây với mức đa dạng di truyền phù hợp là rất quan trọng:",
+        "role": "purpose"
+      },
+      {
+        "text": "the amount of genetic variation found within a species essential for their survival.",
+        "vi": "đó là lượng biến dị di truyền trong một loài, yếu tố thiết yếu cho sự sống còn của chúng.",
+        "role": "definition"
+      }
+    ]
+  },
+  {
+    "id": "seed-i19",
+    "meaningVi": "hạt giống",
+    "translation": "Để đảm bảo sự sống còn và khả năng phục hồi của một khu rừng trồng, việc dùng hạt giống cây với mức đa dạng di truyền phù hợp là rất quan trọng: đó là lượng biến dị di truyền trong một loài, yếu tố thiết yếu cho sự sống còn của chúng.",
+    "breakdown": [
+      {
+        "text": "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity:",
+        "vi": "Để đảm bảo sự sống còn và khả năng phục hồi của một khu rừng trồng, việc dùng hạt giống cây với mức đa dạng di truyền phù hợp là rất quan trọng:",
+        "role": "purpose"
+      },
+      {
+        "text": "the amount of genetic variation found within a species essential for their survival.",
+        "vi": "đó là lượng biến dị di truyền trong một loài, yếu tố thiết yếu cho sự sống còn của chúng.",
+        "role": "definition"
+      }
+    ]
+  },
+  {
+    "id": "carbon-i19",
+    "meaningVi": "cacbon",
+    "translation": "Việc trồng cây giờ đây chiếm vị trí chủ đạo trong các chương trình nghị sự chính trị và trong dư luận, và thường được trình bày như một giải pháp dễ dàng cho cuộc khủng hoảng khí hậu, cũng như một cách để các tập đoàn doanh nghiệp bù đắp lượng khí thải cacbon của mình.",
+    "breakdown": [
+      {
+        "text": "Tree planting now dominates political and popular agendas and is often presented as an easy answer",
+        "vi": "Việc trồng cây giờ đây chiếm vị trí chủ đạo trong các chương trình nghị sự chính trị và trong dư luận, và thường được trình bày như một giải pháp dễ dàng",
+        "role": "main idea"
+      },
+      {
+        "text": "to the climate crisis, as well as a way for business corporations to offset their carbon emissions.",
+        "vi": "cho cuộc khủng hoảng khí hậu, cũng như một cách để các tập đoàn doanh nghiệp bù đắp lượng khí thải cacbon của mình.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "genetic-i19",
+    "meaningVi": "thuộc về di truyền",
+    "translation": "Để đảm bảo sự sống còn và khả năng phục hồi của một khu rừng trồng, việc dùng hạt giống cây với mức đa dạng di truyền phù hợp là rất quan trọng: đó là lượng biến dị di truyền trong một loài, yếu tố thiết yếu cho sự sống còn của chúng.",
+    "breakdown": [
+      {
+        "text": "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity:",
+        "vi": "Để đảm bảo sự sống còn và khả năng phục hồi của một khu rừng trồng, việc dùng hạt giống cây với mức đa dạng di truyền phù hợp là rất quan trọng:",
+        "role": "purpose"
+      },
+      {
+        "text": "the amount of genetic variation found within a species essential for their survival.",
+        "vi": "đó là lượng biến dị di truyền trong một loài, yếu tố thiết yếu cho sự sống còn của chúng.",
+        "role": "definition"
+      }
+    ]
+  },
+  {
+    "id": "destruction-i19",
+    "meaningVi": "sự phá hủy, sự tàn phá",
+    "translation": "Việc phá hủy rừng ngập mặn đã gây tác động khủng khiếp đến đời sống động thực vật, và cũng ảnh hưởng nặng nề đến ngành đánh cá, vốn là nguồn việc làm chính cho người dân địa phương sống ở các vùng ven biển.",
+    "breakdown": [
+      {
+        "text": "Destruction of the mangrove forests had a terrible impact on plant and animal life, and also badly affected the fishing industry",
+        "vi": "Việc phá hủy rừng ngập mặn đã gây tác động khủng khiếp đến đời sống động thực vật, và cũng ảnh hưởng nặng nề đến ngành đánh cá",
+        "role": "main idea"
+      },
+      {
+        "text": "which was a major source of employment for local people living in coastal areas.",
+        "vi": "vốn là nguồn việc làm chính cho người dân địa phương sống ở các vùng ven biển.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "butterfly-i19",
+    "meaningVi": "con bướm",
+    "translation": "Một số loài có thể chuyển từ sâu bướm thành bướm hai lần hoặc nhiều hơn mỗi năm, vì thế những con bướm bạn thấy bay vào mùa xuân là cháu hoặc chắt của những con đã được thấy một năm trước đó.",
+    "breakdown": [
+      {
+        "text": "Some species are able to go from caterpillar to butterfly twice or more per year",
+        "vi": "Một số loài có thể chuyển từ sâu bướm thành bướm hai lần hoặc nhiều hơn mỗi năm",
+        "role": "main idea"
+      },
+      {
+        "text": "so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously.",
+        "vi": "vì thế những con bướm bạn thấy bay vào mùa xuân là cháu hoặc chắt của những con đã được thấy một năm trước đó.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "phenology-i19",
+    "meaningVi": "niên kỳ học (nghiên cứu thời điểm các sự kiện theo mùa ở sinh vật)",
+    "translation": "Thật vậy, đáng lo ngại là người ta đã phát hiện ra rằng những loài trong nhóm này chuyên sống ở các kiểu sinh cảnh rất đặc thù, thường gắn với thức ăn ưa thích của sâu bướm, lại có xu hướng bị tổn hại nhiều nhất bởi hiện tượng niên kỳ đến sớm.",
+    "breakdown": [
+      {
+        "text": "Indeed, worryingly, it was found",
+        "vi": "Thật vậy, đáng lo ngại là người ta đã phát hiện",
+        "role": "intro"
+      },
+      {
+        "text": "that the species in this group that specialise in very specific habitat types, often related to the caterpillar's preferred diet, actually tended to be most at harm from advancing phenology.",
+        "vi": "rằng những loài trong nhóm này chuyên sống ở các kiểu sinh cảnh rất đặc thù, thường gắn với thức ăn ưa thích của sâu bướm, lại có xu hướng bị tổn hại nhiều nhất bởi hiện tượng niên kỳ đến sớm.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-i19",
+    "meaningVi": "sâu bướm",
+    "translation": "Trứng bướm phát triển thành sâu bướm, và những con côn trùng này, vốn là giai đoạn thứ hai trong vòng đời của một con bướm, tiêu thụ một lượng lớn thực vật, và đến lượt mình lại trở thành con mồi cho chim cũng như dơi và các loài thú nhỏ khác.",
+    "breakdown": [
+      {
+        "text": "Butterfly eggs develop into caterpillars and these insects",
+        "vi": "Trứng bướm phát triển thành sâu bướm, và những con côn trùng này",
+        "role": "main idea"
+      },
+      {
+        "text": "which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals.",
+        "vi": "vốn là giai đoạn thứ hai trong vòng đời của một con bướm, tiêu thụ một lượng lớn thực vật, và đến lượt mình lại trở thành con mồi cho chim cũng như dơi và các loài thú nhỏ khác.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "lifecycle-i19",
+    "meaningVi": "vòng đời",
+    "translation": "Trứng bướm phát triển thành sâu bướm, và những con côn trùng này, vốn là giai đoạn thứ hai trong vòng đời của một con bướm, tiêu thụ một lượng lớn thực vật, và đến lượt mình lại trở thành con mồi cho chim cũng như dơi và các loài thú nhỏ khác.",
+    "breakdown": [
+      {
+        "text": "Butterfly eggs develop into caterpillars and these insects",
+        "vi": "Trứng bướm phát triển thành sâu bướm, và những con côn trùng này",
+        "role": "main idea"
+      },
+      {
+        "text": "which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals.",
+        "vi": "vốn là giai đoạn thứ hai trong vòng đời của một con bướm, tiêu thụ một lượng lớn thực vật, và đến lượt mình lại trở thành con mồi cho chim cũng như dơi và các loài thú nhỏ khác.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "decline-i19",
+    "meaningVi": "sự sụt giảm",
+    "translation": "Loài bướm White Admiral ở miền nam nước Anh, một loài bướm rất được dân sưu tầm săn tìm, đã tăng số lượng đáng kể từ những năm 1920 nhưng đã sụt giảm đáng kể trong 20 năm qua.",
+    "breakdown": [
+      {
+        "text": "The White Admiral of southern England, a much sought-after butterfly, experienced a significant increase in numbers from the 1920s",
+        "vi": "Loài bướm White Admiral ở miền nam nước Anh, một loài bướm rất được dân sưu tầm săn tìm, đã tăng số lượng đáng kể từ những năm 1920",
+        "role": "main idea"
+      },
+      {
+        "text": "but has shown a considerable decline in the past 20 years.",
+        "vi": "nhưng đã sụt giảm đáng kể trong 20 năm qua.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "describe-i19",
+    "meaningVi": "miêu tả",
+    "translation": "Loài High Brown Fritillary xinh đẹp, thường được miêu tả là loài bướm có nguy cơ tuyệt chủng cao nhất nước Anh, nằm trong nhóm này.",
+    "breakdown": [
+      {
+        "text": "The beautiful High Brown Fritillary, often described as Britain's most endangered butterfly, is in this group.",
+        "vi": "Loài High Brown Fritillary xinh đẹp, thường được miêu tả là loài bướm có nguy cơ tuyệt chủng cao nhất nước Anh, nằm trong nhóm này.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "reproduce-i19",
+    "meaningVi": "sinh sản",
+    "translation": "Một trong những cách chính mà các loài đang đảm bảo điều kiện phù hợp với mình là thay đổi thời điểm trong năm mà chúng hoạt động và sinh sản.",
+    "breakdown": [
+      {
+        "text": "One of the main ways in",
+        "vi": "Một trong những cách chính mà",
+        "role": "intro"
+      },
+      {
+        "text": "which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce.",
+        "vi": "các loài đang đảm bảo điều kiện phù hợp với mình là thay đổi thời điểm trong năm mà chúng hoạt động và sinh sản.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "increase-i19",
+    "meaningVi": "tăng lên",
+    "translation": "Ở Anh, khi nhiệt độ trung bình mùa xuân đã tăng khoảng 0,5 °C trong 20 năm qua, các loài đã dịch thời điểm sinh hoạt sớm lên trung bình từ ba ngày đến một tuần, để theo kịp với nhiệt độ mát hơn.",
+    "breakdown": [
+      {
+        "text": "In Britain, as the average spring temperature has increased by roughly 0.5 °C over the past 20 years",
+        "vi": "Ở Anh, khi nhiệt độ trung bình mùa xuân đã tăng khoảng 0,5 °C trong 20 năm qua",
+        "role": "background"
+      },
+      {
+        "text": "species have advanced by between three days and a week on average, to keep in line with cooler temperatures.",
+        "vi": "các loài đã dịch thời điểm sinh hoạt sớm lên trung bình từ ba ngày đến một tuần, để theo kịp với nhiệt độ mát hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "deep-sea-i19",
+    "meaningVi": "thuộc vùng biển sâu",
+    "translation": "Khi giáo sư Mat Upton phát hiện ra rằng một loại vi khuẩn từ bọt biển dưới biển sâu đang tiêu diệt các vi khuẩn gây bệnh trong phòng thí nghiệm của ông, ông nhận ra đây có thể là một bước đột phá trong cuộc chiến chống lại các siêu vi khuẩn kháng kháng sinh, vốn gây ra hàng nghìn ca tử vong mỗi năm chỉ riêng ở Anh.",
+    "breakdown": [
+      {
+        "text": "When Professor Mat Upton found",
+        "vi": "Khi giáo sư Mat Upton phát hiện ra",
+        "role": "time clause"
+      },
+      {
+        "text": "that a microbe from a deep-sea sponge was killing pathogenic bugs in his laboratory, he realised it could be a breakthrough in the fight against antibiotic-resistant superbugs, which are responsible for thousands of deaths a year in the UK alone.",
+        "vi": "rằng một loại vi khuẩn từ bọt biển dưới biển sâu đang tiêu diệt các vi khuẩn gây bệnh trong phòng thí nghiệm của ông, ông nhận ra đây có thể là một bước đột phá trong cuộc chiến chống lại các siêu vi khuẩn kháng kháng sinh, vốn gây ra hàng nghìn ca tử vong mỗi năm chỉ riêng ở Anh.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "exploration-i19",
+    "meaningVi": "sự thăm dò, khảo sát",
+    "translation": "Các tập đoàn khai khoáng lập luận rằng việc thăm dò dưới biển sâu có thể giúp đa dạng hóa nguồn cung kim loại, và chỉ ra rằng nhu cầu về các nguồn tài nguyên như đồng, nhôm, coban cho pin xe điện và các kim loại khác để cung cấp năng lượng cho công nghệ và điện thoại thông minh đang tăng vọt.",
+    "breakdown": [
+      {
+        "text": "Mining corporations argue",
+        "vi": "Các tập đoàn khai khoáng lập luận",
+        "role": "intro"
+      },
+      {
+        "text": "that deep- sea exploration could help diversify the supply of metals and point to the fact that demand for resources such as copper, aluminium, cobalt for electric car batteries and other metals to power technology and smartphones, is soaring.",
+        "vi": "rằng việc thăm dò dưới biển sâu có thể giúp đa dạng hóa nguồn cung kim loại, và chỉ ra rằng nhu cầu về các nguồn tài nguyên như đồng, nhôm, coban cho pin xe điện và các kim loại khác để cung cấp năng lượng cho công nghệ và điện thoại thông minh đang tăng vọt.",
+        "role": "reported clause"
+      }
+    ]
+  },
+  {
+    "id": "mining-i19",
+    "meaningVi": "việc khai khoáng, khai mỏ",
+    "translation": "Bà lập luận rằng các miệng phun thủy nhiệt đang hoạt động phải bị cấm khai thác để bảo vệ những kiến thức mới và những sản phẩm phụ công nghệ sinh học mà chúng có thể mang lại, và rằng phải áp dụng các biện pháp kiểm soát chặt chẽ ở những nơi khác.",
+    "breakdown": [
+      {
+        "text": "She argues that active vents must be off-limits for mining to protect the new knowledge",
+        "vi": "Bà lập luận rằng các miệng phun thủy nhiệt đang hoạt động phải bị cấm khai thác để bảo vệ những kiến thức mới",
+        "role": "main idea"
+      },
+      {
+        "text": "and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere.",
+        "vi": "và những sản phẩm phụ công nghệ sinh học mà chúng có thể mang lại, và rằng phải áp dụng các biện pháp kiểm soát chặt chẽ ở những nơi khác.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "seabed-i19",
+    "meaningVi": "đáy biển",
+    "translation": "Nghiên cứu khoa học - trong đó có một bài báo gần đây trên tạp chí Marine Policy - cho rằng đáy biển sâu, cùng các miệng phun thủy nhiệt được hình thành khi nước biển gặp dung nham núi lửa, có ảnh hưởng then chốt đến đa dạng sinh học và khí hậu toàn cầu.",
+    "breakdown": [
+      {
+        "text": "Scientific research - including a recent paper in Marine Policy journal - has suggested the deep seabed, and hydrothermal vents",
+        "vi": "Nghiên cứu khoa học - trong đó có một bài báo gần đây trên tạp chí Marine Policy - cho rằng đáy biển sâu, cùng các miệng phun thủy nhiệt",
+        "role": "main idea"
+      },
+      {
+        "text": "which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate.",
+        "vi": "được hình thành khi nước biển gặp dung nham núi lửa, có ảnh hưởng then chốt đến đa dạng sinh học và khí hậu toàn cầu.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "estimate-i19",
+    "meaningVi": "ước tính",
+    "translation": "Upton ước tính có thể mất tới một thập kỷ để một loại kháng sinh mới được phát hiện trở thành thuốc - nhưng cuộc đua khai thác thương mại ở vực sâu đại dương đã bắt đầu rồi.",
+    "breakdown": [
+      {
+        "text": "Upton estimates it could take up to a decade for a newly discovered antibiotic to become a medicine -",
+        "vi": "Upton ước tính có thể mất tới một thập kỷ để một loại kháng sinh mới được phát hiện trở thành thuốc -",
+        "role": "main idea"
+      },
+      {
+        "text": "but the race towards commercial mining in the ocean abyss has already begun.",
+        "vi": "nhưng cuộc đua khai thác thương mại ở vực sâu đại dương đã bắt đầu rồi.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "underwater-i19",
+    "meaningVi": "dưới nước",
+    "translation": "Đại dương chiếm khoảng 70% hành tinh và vẫn tương đối ít được khám phá, theo Mike Johnston, giám đốc điều hành của Nautilus, một công ty thăm dò dưới nước của Canada: 'Thật hợp lý khi khai phá tiềm năng chưa được tận dụng này theo cách bền vững về môi trường, thay vì cứ mãi nhìn vào các nguồn tài nguyên đất đai đang cạn kiệt nhanh của hành tinh để đáp ứng nhu cầu ngày càng tăng của xã hội.'",
+    "breakdown": [
+      {
+        "text": "The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company:",
+        "vi": "Đại dương chiếm khoảng 70% hành tinh và vẫn tương đối ít được khám phá, theo Mike Johnston, giám đốc điều hành của Nautilus, một công ty thăm dò dưới nước của Canada:",
+        "role": "main idea"
+      },
+      {
+        "text": "'It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society's rising needs.'",
+        "vi": "'Thật hợp lý khi khai phá tiềm năng chưa được tận dụng này theo cách bền vững về môi trường, thay vì cứ mãi nhìn vào các nguồn tài nguyên đất đai đang cạn kiệt nhanh của hành tinh để đáp ứng nhu cầu ngày càng tăng của xã hội.'",
+        "role": "opinion"
+      }
+    ]
+  },
+  {
+    "id": "exist-i19",
+    "meaningVi": "tồn tại",
+    "translation": "Có nhiều phương pháp khai thác khác nhau, nhưng hầu hết đều dùng một dạng máy móc cải hoán từng được sử dụng trong khai khoáng trên đất liền để đào vật liệu từ đáy biển, ở độ sâu tới 6.000 mét, rồi hút một hỗn hợp nước biển lẫn bùn, chứa đá và các hạt rắn khác, từ đáy biển lên tàu trên mặt nước.",
+    "breakdown": [
+      {
+        "text": "Different methods of extraction exist",
+        "vi": "Có nhiều phương pháp khai thác khác nhau",
+        "role": "main idea"
+      },
+      {
+        "text": "but most involve employing some form of converted machinery previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,000 metres, then drawing a seawater slurry, containing rock and other solid particles, from the sea floor to ships on the surface.",
+        "vi": "nhưng hầu hết đều dùng một dạng máy móc cải hoán từng được sử dụng trong khai khoáng trên đất liền để đào vật liệu từ đáy biển, ở độ sâu tới 6.000 mét, rồi hút một hỗn hợp nước biển lẫn bùn, chứa đá và các hạt rắn khác, từ đáy biển lên tàu trên mặt nước.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "expert-i19",
+    "meaningVi": "chuyên gia",
+    "translation": "'Khai khoáng sẽ là cuộc tấn công lớn nhất vào các hệ sinh thái biển sâu mà con người từng gây ra,' theo chuyên gia về miệng phun thủy nhiệt Verena Tunnicliffe, tại Đại học Victoria ở Canada.",
+    "breakdown": [
+      {
+        "text": "'Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,'",
+        "vi": "'Khai khoáng sẽ là cuộc tấn công lớn nhất vào các hệ sinh thái biển sâu mà con người từng gây ra,'",
+        "role": "quote"
+      },
+      {
+        "text": "according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada.",
+        "vi": "theo chuyên gia về miệng phun thủy nhiệt Verena Tunnicliffe, tại Đại học Victoria ở Canada.",
+        "role": "source"
+      }
+    ]
+  },
+  {
+    "id": "hunter-gatherer-i19",
+    "meaningVi": "người săn bắt hái lượm",
+    "translation": "Với mật độ dân số nhỏ như vậy, dường như khó có khả năng các nhóm săn bắt hái lượm thời tiền sử phải cạnh tranh với nhau để giành tài nguyên, hay cần phát triển tính tàn nhẫn và tinh thần ganh đua, hoặc phải gây chiến.",
+    "breakdown": [
+      {
+        "text": "With such small population densities, it seems unlikely",
+        "vi": "Với mật độ dân số nhỏ như vậy, dường như khó có khả năng",
+        "role": "intro"
+      },
+      {
+        "text": "that prehistoric hunter-gatherer groups had to compete against each other for resources or had any need to develop ruthlessness and competitiveness, or to go to war.",
+        "vi": "rằng các nhóm săn bắt hái lượm thời tiền sử phải cạnh tranh với nhau để giành tài nguyên, hay cần phát triển tính tàn nhẫn và tinh thần ganh đua, hoặc phải gây chiến.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "selfishness-i19",
+    "meaningVi": "tính ích kỷ",
+    "translation": "Thời tiền sử thường được coi là giai đoạn cạnh tranh khốc liệt, khi cuộc sống là một cuộc chiến tàn bạo đến mức chỉ những kẻ có những nét tính như ích kỷ, hung hăng và tàn nhẫn mới sống sót.",
+    "breakdown": [
+      {
+        "text": "Prehistory is usually seen as a period of intense competition",
+        "vi": "Thời tiền sử thường được coi là giai đoạn cạnh tranh khốc liệt",
+        "role": "main idea"
+      },
+      {
+        "text": "when life was such a brutal battle that only those with traits such as selfishness, aggression and ruthlessness survived.",
+        "vi": "khi cuộc sống là một cuộc chiến tàn bạo đến mức chỉ những kẻ có những nét tính như ích kỷ, hung hăng và tàn nhẫn mới sống sót.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "anthropologist-i19",
+    "meaningVi": "nhà nhân học",
+    "translation": "Nhiều nhà nhân học tin rằng những xã hội như người !Kung là bình thường cho đến vài nghìn năm trước, khi sự gia tăng dân số dẫn đến sự phát triển của nông nghiệp và lối sống định cư.",
+    "breakdown": [
+      {
+        "text": "Many anthropologists believe",
+        "vi": "Nhiều nhà nhân học tin rằng",
+        "role": "intro"
+      },
+      {
+        "text": "that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle.",
+        "vi": "những xã hội như người !Kung là bình thường cho đến vài nghìn năm trước, khi sự gia tăng dân số dẫn đến sự phát triển của nông nghiệp và lối sống định cư.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "negative-i19",
+    "meaningVi": "tiêu cực",
+    "translation": "Dù sao đi nữa, những nét tính tiêu cực này dường như mới phát triển gần đây đến mức khó có thể giải thích chúng bằng các lập luận về thích nghi hay tiến hóa.",
+    "breakdown": [
+      {
+        "text": "At any rate, these negative traits appear to have developed so recently",
+        "vi": "Dù sao đi nữa, những nét tính tiêu cực này dường như mới phát triển gần đây đến mức",
+        "role": "main idea"
+      },
+      {
+        "text": "that it doesn't seem feasible to explain them in adaptive or evolutionary terms.",
+        "vi": "khó có thể giải thích chúng bằng các lập luận về thích nghi hay tiến hóa.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "psychology-i19",
+    "meaningVi": "tâm lý học",
+    "translation": "Tâm lý học tiến hóa đưa ra giả thuyết rằng những nét tính của con người ngày nay đã hình thành vào thời tiền sử, trong giai đoạn được gọi là 'môi trường thích nghi tiến hóa'.",
+    "breakdown": [
+      {
+        "text": "Evolutionary psychology theorises that present-day human traits developed in prehistoric",
+        "vi": "Tâm lý học tiến hóa đưa ra giả thuyết rằng những nét tính của con người ngày nay đã hình thành vào thời",
+        "role": "main idea"
+      },
+      {
+        "text": "times, during what is termed the 'environment of evolutionary adaptedness'.",
+        "vi": "tiền sử, trong giai đoạn được gọi là 'môi trường thích nghi tiến hóa'.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "trait-i19",
+    "meaningVi": "nét tính, đặc điểm",
+    "translation": "Và vì sự sống còn phụ thuộc vào việc tiếp cận các nguồn tài nguyên - như sông ngòi, rừng và động vật - nên chắc chắn sẽ có xung đột giữa các nhóm đối địch, điều này dẫn đến sự hình thành những nét tính như phân biệt chủng tộc và chiến tranh.",
+    "breakdown": [
+      {
+        "text": "And because survival depended on access to resources - such as rivers, forests and animals - there was",
+        "vi": "Và vì sự sống còn phụ thuộc vào việc tiếp cận các nguồn tài nguyên - như sông ngòi, rừng và động vật - nên chắc chắn sẽ",
+        "role": "reason"
+      },
+      {
+        "text": "bound to be conflict between rival groups, which led to the development of traits such as racism and warfare.",
+        "vi": "có xung đột giữa các nhóm đối địch, điều này dẫn đến sự hình thành những nét tính như phân biệt chủng tộc và chiến tranh.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "worldwide-i19",
+    "meaningVi": "trên toàn thế giới",
+    "translation": "Phụ nữ trong các nhóm săn bắt hái lượm trên khắp thế giới thường được hưởng mức tự chủ cao, có thể tự chọn bạn đời, tự quyết định công việc mình làm và làm việc bất cứ khi nào họ muốn.",
+    "breakdown": [
+      {
+        "text": "Women in hunter-gatherer groups worldwide often benefit from a high level of autonomy, being able to",
+        "vi": "Phụ nữ trong các nhóm săn bắt hái lượm trên khắp thế giới thường được hưởng mức tự chủ cao, có thể",
+        "role": "main idea"
+      },
+      {
+        "text": "select their own marriage partners, decide what work they do and work whenever they choose to.",
+        "vi": "tự chọn bạn đời, tự quyết định công việc mình làm và làm việc bất cứ khi nào họ muốn.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "behave-i19",
+    "meaningVi": "cư xử, hành xử",
+    "translation": "Những cá nhân cư xử ích kỷ và tàn nhẫn sẽ ít có khả năng sống sót, vì họ sẽ bị tẩy chay khỏi nhóm của mình.",
+    "breakdown": [
+      {
+        "text": "Individuals who behaved selfishly and ruthlessly would be less likely",
+        "vi": "Những cá nhân cư xử ích kỷ và tàn nhẫn sẽ ít có khả năng",
+        "role": "main idea"
+      },
+      {
+        "text": "to survive, since they would have been ostracised from their groups.",
+        "vi": "sống sót, vì họ sẽ bị tẩy chay khỏi nhóm của mình.",
+        "role": "reason"
+      }
+    ]
+  }
+]

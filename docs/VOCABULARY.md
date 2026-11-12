@@ -1,31 +1,31 @@
-# Sentence & answer vocabulary — IELTS 20 & Cambridge IELTS 21
+# Sentence & answer vocabulary — IELTS 19, 20 & Cambridge IELTS 21
 
 ![Vocabulary browser](screenshots/vocabulary.png)
 
 ![Expanded vocabulary entry](screenshots/vocabulary-expanded.png)
 
-**446 unique entries** read from all 32 Listening parts and all 24 Reading passages in the
-eight tests used by the lab. Every entry has a full **Sentence comprehension** study block.
-**145 entries** also carry **verified Answer selection** evidence, covering **196 question
-links**. Correct answers exist in the data but are hidden in the interface until the learner
-confirms an attempt for that test.
+**663 unique entries** read from all 48 Listening parts and all 36 Reading passages in the
+twelve tests used by the static lab. Every entry has a full **Sentence comprehension** study
+block. **242 entries** also carry **verified Answer selection** evidence, covering **357
+question links**. Correct answers and relationship tags stay hidden until the learner confirms
+an attempt for that test.
 
-> **Private study only.** The tests and example sentences are from IELTS 20 Academic and
-> Cambridge IELTS 21 Academic, © Cambridge University Press & Assessment and Qunyan Press.
-> Do not redistribute this pack or the extracted tests. Definitions, Vietnamese glosses,
-> translations and importance labels are study aids.
+> **Private study only.** The tests and example sentences are from IELTS 19 Academic, IELTS 20
+> Academic and Cambridge IELTS 21 Academic, © Cambridge University Press & Assessment and
+> Qunyan Press. Do not redistribute this pack or the extracted tests. Definitions, Vietnamese
+> glosses, translations and importance labels are study aids.
 
 ## What is included
 
 | File | Purpose |
 |---|---|
-| [`content/vocabulary/ielts20-21-learning-vocabulary.json`](../content/vocabulary/ielts20-21-learning-vocabulary.json) | Source of truth (dual-section entries) |
+| [`content/vocabulary/ielts19-21-learning-vocabulary.json`](../content/vocabulary/ielts19-21-learning-vocabulary.json) | Source of truth (dual-section entries) |
 | [`apps/web/src/learning-vocabulary.json`](../apps/web/src/learning-vocabulary.json) | Runtime copy imported by the page |
 | [`apps/web/app/vocabulary/page.tsx`](../apps/web/app/vocabulary/page.tsx) | Interactive list at `/vocabulary/` |
-| [`content/vocabulary/work/`](../content/vocabulary/work/) | Skeleton, direct translations and verified answer evidence |
-| [`content/vocabulary/ielts20-21-learning-vocabulary.xlsx`](../content/vocabulary/ielts20-21-learning-vocabulary.xlsx) | Formatted workbook: overview, entries, answer evidence, section summary |
-| [`content/vocabulary/ielts20-21-learning-vocabulary.csv`](../content/vocabulary/ielts20-21-learning-vocabulary.csv) | Flat CSV for Excel, Sheets or Numbers |
-| [`content/vocabulary/ielts20-21-learning-anki.csv`](../content/vocabulary/ielts20-21-learning-anki.csv) | Anki/Quizlet import (Front, Back, Tags) |
+| [`content/vocabulary/work/`](../content/vocabulary/work/) | Skeletons, direct translations, verified answer evidence, hand fixes |
+| [`content/vocabulary/ielts19-21-learning-vocabulary.xlsx`](../content/vocabulary/ielts19-21-learning-vocabulary.xlsx) | Formatted workbook: overview, entries, answer evidence, section summary |
+| [`content/vocabulary/ielts19-21-learning-vocabulary.csv`](../content/vocabulary/ielts19-21-learning-vocabulary.csv) | Flat CSV for Excel, Sheets or Numbers |
+| [`content/vocabulary/ielts19-21-learning-anki.csv`](../content/vocabulary/ielts19-21-learning-anki.csv) | Anki/Quizlet import (Front, Back, Tags) |
 | [`content/vocabulary/tools/verify_learning_vocabulary.py`](../content/vocabulary/tools/verify_learning_vocabulary.py) | Validator |
 | [`content/vocabulary/tools/build_learning_exports.py`](../content/vocabulary/tools/build_learning_exports.py) | Rebuilds XLSX/CSV/Anki exports (no answer keys) |
 
@@ -33,6 +33,10 @@ confirms an attempt for that test.
 
 | Book | Test | Entries | With answer evidence |
 |---|---|---:|---:|
+| IELTS 19 | 1 | 55 | 21 |
+| IELTS 19 | 2 | 52 | 29 |
+| IELTS 19 | 3 | 54 | 23 |
+| IELTS 19 | 4 | 56 | 24 |
 | IELTS 20 | 1 | 58 | 15 |
 | IELTS 20 | 2 | 57 | 17 |
 | IELTS 20 | 3 | 69 | 19 |
@@ -41,28 +45,28 @@ confirms an attempt for that test.
 | Cambridge 21 | 2 | 46 | 17 |
 | Cambridge 21 | 3 | 50 | 16 |
 | Cambridge 21 | 4 | 47 | 20 |
-| **Total** | **8 tests** | **446** | **145** |
+| **Total** | **12 tests** | **663** | **242** |
 
-- **56 sections**: 32 Listening parts and 24 Reading passages.
-- **Skills by primary section**: 224 Listening · 222 Reading.
-- **Entry sources**: 249 answer-focused exam entries + 197 sentence-comprehension entries.
+- **84 sections**: 48 Listening parts and 36 Reading passages.
+- **Skills by primary section**: 347 Listening · 316 Reading.
+- **Entry sources**: 446 entries from IELTS 20 / Cambridge 21 + 217 from IELTS 19.
 
 ### Importance mix
 
-Sentence comprehension (all 446 entries):
+Sentence comprehension (all 663 entries):
 
 | Level | Entries | Meaning |
 |---|---:|---|
-| Essential | 315 | The sentence's main point depends on this word |
-| Helpful | 89 | Supports the point or carries a key paraphrase |
-| Optional | 42 | Useful context, but the sentence survives without it |
+| Essential | 436 | The sentence's main point depends on this word |
+| Helpful | 144 | Supports the point or carries a key paraphrase |
+| Optional | 83 | Useful context, but the sentence survives without it |
 
-Answer selection (196 links):
+Answer selection (357 links):
 
 | Level | Links | Meaning |
 |---|---:|---|
-| Critical | 97 | The word or paraphrase controls the answer |
-| Helpful | 62 | Helps confirm or reject an option |
+| Critical | 227 | The word or paraphrase controls the answer |
+| Helpful | 93 | Helps confirm or reject an option |
 | Not relevant | 37 | Evidence exists, but the word is not needed to answer |
 
 ## What each entry contains
@@ -80,7 +84,7 @@ Answer selection (196 links):
 - **Synonyms and paraphrases** for the sense used.
 - **Sentence importance**: Essential / Helpful / Optional.
 
-### 2. Answer selection (145 entries, 196 links)
+### 2. Answer selection (242 entries, 357 links)
 
 Only included when a single sentence in the book really supports the recorded answer.
 
@@ -94,16 +98,16 @@ Only included when a single sentence in the book really supports the recorded an
 
 ### 3. Answer relationship tags (per verified question link)
 
-Each verified answer link may carry one or more independent tags. Tags are derived only from the
-exact question, the verbatim supporting sentence, the stored answer and the options — never
-from general topic similarity.
+Each verified answer link may carry one or more independent tags. Tags are derived only from
+the exact question, the verbatim supporting sentence, the stored answer and the options —
+never from general topic similarity.
 
 | Tag | Meaning | Links |
 |---|---|---:|
-| **Correct Answer** | The vocabulary itself appears directly in the verified correct answer. | 17 |
-| **Answer Evidence** | The vocabulary appears in the supporting sentence that establishes the answer. | 60 |
-| **Paraphrase** | The vocabulary is the equivalent expression connecting question and evidence. | 132 |
-| **Distractor** | The vocabulary is associated with a misleading or incorrect option. | 13 |
+| **Correct Answer** | The vocabulary itself appears directly in the verified correct answer. | 37 |
+| **Answer Evidence** | The vocabulary appears in the supporting sentence that establishes the answer. | 135 |
+| **Paraphrase** | The vocabulary is the equivalent expression connecting question and evidence. | 271 |
+| **Distractor** | The vocabulary is associated with a misleading or incorrect option. | 32 |
 
 Tags overlap: one link can be both *Answer Evidence* and *Paraphrase*. A link may legitimately
 carry no tag when none of the four relationships is verifiable, and no tag is ever assigned
@@ -117,21 +121,18 @@ sections appear under **Also appears in**.
 
 Open `/vocabulary/` in the running lab.
 
-- Filters: **All / Listening / Reading**, **Test 1–8**, **sentence importance**, **answer
+- Filters: **All / Listening / Reading**, **Test 1–12**, **sentence importance**, **answer
   importance**, **answer relationship** (Correct Answer / Answer Evidence / Paraphrase /
   Distractor), and free-text search across terms, meanings, translations, sentences,
   breakdowns, section titles and evidence.
-
-- After unlock, each answer card shows its **Answer relationship** chips above the supporting
-  sentence. Tags stay hidden before unlock because *Correct Answer* would identify the answer.
 - Entries are grouped by **test → section → first question**, with test and entry counts.
 - Each entry expands into two visually separate blocks: **1 Sentence comprehension** and
   **2 Answer selection**.
 - A pill shows **Answer evidence** or **Sentence only**, so the learner knows whether answer
   material exists before opening the entry.
 - Each answer card shows the exact question immediately, but the relationship tags, supporting
-  sentence, paraphrase and correct answer stay behind an **Evidence locked** panel until the learner
-  clicks **I have attempted this test**. The unlock is stored per book and test in
+  sentence, paraphrase and correct answer stay behind an **Evidence locked** panel until the
+  learner clicks **I have attempted this test**. The unlock is stored per book and test in
   `localStorage`.
 - Pronunciation uses the browser's speech synthesis.
 - Cross-references and duplicate collapsing are handled at data level.
@@ -148,24 +149,31 @@ Open `/vocabulary/` in the running lab.
    supports the recorded answer. If the evidence is NOT GIVEN, split across sentences, or
    only inferable from a sentence fragment, the link is omitted rather than guessed.
 6. Verify every support string is a whitespace-normalised substring of the book text.
-7. Merge duplicate terms across tests and sections.
+7. Merge duplicate terms across tests and sections; run a POS/sense audit before translating.
 
-The target was approximately 600 entries, but the number was not forced. The remaining
-candidate pool was dominated by basic words such as *restaurant*, *expensive*, *lunch* and
-*chef*; adding them would have inflated the count without helping answer accuracy. The pack
-stops at 446 defensible entries.
+The target was approximately 600 entries, and the three-book pack lands at 663 without padding
+with basic words that do not affect understanding or answer choice.
+
+## Extracting another book
+
+The end-to-end process — candidate extraction, skeleton building, direct translation, answer
+evidence verification, assembly, validation and deployment — is documented in
+[VOCABULARY_EXTRACTION_GUIDE.md](VOCABULARY_EXTRACTION_GUIDE.md). It is the checklist used for
+the IELTS 19 addition.
 
 ## Rebuilding and checking
 
 ```bash
 python3 content/vocabulary/work/assemble_learning_pack.py
-cp content/vocabulary/ielts20-21-learning-vocabulary.json apps/web/src/learning-vocabulary.json
+cp content/vocabulary/ielts19-21-learning-vocabulary.json apps/web/src/learning-vocabulary.json
 python3 content/vocabulary/tools/verify_learning_vocabulary.py
+/Users/tim2k/.dsh/dsh-runtimes/dsh-primary-runtime/dependencies/python/bin/python3 \
+  content/vocabulary/tools/build_learning_exports.py
 ```
 
 The validator checks:
 
-- 446 items, 56 sections, 8 tests;
+- 663 items, 84 sections, 12 tests;
 - required fields (term, IPA, POS, English/Vietnamese meaning, synonyms, sentence,
   translation, breakdown, why, risk, importance);
 - unique IDs and unique terms;
@@ -178,11 +186,14 @@ The validator checks:
 
 - This is a focused learning pack, not a complete glossary. Many unfamiliar words in a test
   do not affect comprehension or answer choice and are deliberately excluded.
-- 104 exam entries have no verified answer link. Most are NOT GIVEN questions, matching/heading
-  questions whose evidence spans a paragraph, or items whose vocabulary role is comprehension
-  rather than answer selection.
+- 173 exam entries have no verified answer link. Most are NOT GIVEN questions, matching/heading
+  questions whose evidence spans a paragraph, map-label questions, or items whose vocabulary
+  role is comprehension rather than answer selection.
 - IPA is a practical study transcription, not a specialist phonetics standard.
 - Listening note/table entries show the whole row, so one row can contain more than one blank;
   this preserves the exact book context.
 - Some answer links carry **Not relevant** importance because the evidence is real but the
   vocabulary is not needed to answer. They are labelled rather than hidden.
+- The static page is client-side: correct answers and evidence are hidden in the interface
+  behind the attempt gate, but the data file is still delivered to the browser. Do not treat
+  the gate as server-side security.

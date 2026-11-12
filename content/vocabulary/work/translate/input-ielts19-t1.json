@@ -1,0 +1,2150 @@
+[
+  {
+    "id": "educational-i19",
+    "term": "educational",
+    "ipa": "/ˌedʒəˈkeɪʃənəl/",
+    "pos": "adjective",
+    "meaningEn": "relating to the process of education",
+    "meaningVi": "",
+    "synonyms": [
+      "educational"
+    ],
+    "sentenceText": "And I understand you organise educational visits for school parties.",
+    "sentenceChunks": [
+      "And I understand you organise educational visits for school parties."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "geography-i19",
+    "term": "geography",
+    "ipa": "/dʒiˈɑgrəfi/",
+    "pos": "noun",
+    "meaningEn": "study of the earth's surface; includes people's responses to topography and climate and soil and vegetation",
+    "meaningVi": "",
+    "synonyms": [
+      "geographics"
+    ],
+    "sentenceText": "Another focus is on geography.",
+    "sentenceChunks": [
+      "Another focus is on geography."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Hinchingbrooke Country Park",
+        "questions": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grassland-i19",
+    "term": "grassland",
+    "ipa": "/ˈgræsˌlænd/",
+    "pos": "noun",
+    "meaningEn": "land where grass or grasslike vegetation grows and is the dominant form of plant life",
+    "meaningVi": "",
+    "synonyms": [
+      "grassland"
+    ],
+    "sentenceText": "There are three main types of habitat: wetland, grassland and woodland.",
+    "sentenceChunks": [
+      "There are three main types of habitat:",
+      "wetland, grassland and woodland."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "self-confidence-i19",
+    "term": "self-confidence",
+    "ipa": "/ˌself ˈkɒnfɪdəns/",
+    "pos": "noun",
+    "meaningEn": "freedom from doubt; belief in yourself and your abilities",
+    "meaningVi": "",
+    "synonyms": [
+      "assurance",
+      "self-assurance",
+      "confidence",
+      "authority"
+    ],
+    "sentenceText": "This gives them greater self-confidence.",
+    "sentenceChunks": [
+      "This gives them greater self-confidence."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "wildlife-i19",
+    "term": "wildlife",
+    "ipa": "/ˈwaɪldlaɪf/",
+    "pos": "noun",
+    "meaningEn": "all living things (except people) that are undomesticated",
+    "meaningVi": "",
+    "synonyms": [
+      "wildlife"
+    ],
+    "sentenceText": "OK, so I suppose with these different habitats there's quite a variety of wildlife.",
+    "sentenceChunks": [
+      "OK, so I suppose with these different habitats there's quite a variety of wildlife."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "woodland-i19",
+    "term": "woodland",
+    "ipa": "/ˈwʊˌdlænd/",
+    "pos": "noun",
+    "meaningEn": "land that is covered with trees and shrubs",
+    "meaningVi": "",
+    "synonyms": [
+      "forest",
+      "timberland",
+      "timber"
+    ],
+    "sentenceText": "There are three main types of habitat: wetland, grassland and woodland.",
+    "sentenceChunks": [
+      "There are three main types of habitat:",
+      "wetland, grassland and woodland."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "insect-i19",
+    "term": "insect",
+    "ipa": "/ˈɪnˌsekt/",
+    "pos": "noun",
+    "meaningEn": "small air-breathing arthropod",
+    "meaningVi": "",
+    "synonyms": [
+      "bug",
+      "arthropod",
+      "pest"
+    ],
+    "sentenceText": "There certainly is - a lot of different species of birds and insects, and also animals like deer and rabbits.",
+    "sentenceChunks": [
+      "There certainly is - a lot of different species of",
+      "birds and insects, and also animals like deer and rabbits."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "wetland-i19",
+    "term": "wetland",
+    "ipa": "/ˈweˌtlænd/",
+    "pos": "noun",
+    "meaningEn": "a low area where the land is saturated with water",
+    "meaningVi": "",
+    "synonyms": [
+      "wetland"
+    ],
+    "sentenceText": "There are three main types of habitat: wetland, grassland and woodland.",
+    "sentenceChunks": [
+      "There are three main types of habitat:",
+      "wetland, grassland and woodland."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Hinchingbrooke Country Park",
+    "questions": [
+      2
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Hinchingbrooke Country Park",
+        "questions": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": "garden-i19",
+    "term": "garden",
+    "ipa": "/ˈgɑːdən/",
+    "pos": "noun",
+    "meaningEn": "a plot of ground where plants are cultivated",
+    "meaningVi": "",
+    "synonyms": [
+      "garden"
+    ],
+    "sentenceText": "Don't try to do too much that first evening as they'll be tired, so have dinner in the house or garden rather than eating out.",
+    "sentenceChunks": [
+      "Don't try to do too much",
+      "that first evening as they'll be tired, so have dinner in the house or garden rather than eating out."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      12,
+      19
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          12,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": "visitor-i19",
+    "term": "visitor",
+    "ipa": "/ˈvɪzɪtə/",
+    "pos": "noun",
+    "meaningEn": "someone who visits",
+    "meaningVi": "",
+    "synonyms": [
+      "visitant"
+    ],
+    "sentenceText": "There's an excellent farm shop in the grounds where our visitors can buy local produce - it's in the old stables, which is the first building you come to.",
+    "sentenceChunks": [
+      "There's an excellent farm shop in the grounds where our visitors can buy local produce - it's in the old stables",
+      "which is the first building you come to."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      14
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adventure-i19",
+    "term": "adventure",
+    "ipa": "/ədˈventʃə/",
+    "pos": "noun",
+    "meaningEn": "a wild and exciting undertaking (not necessarily lawful)",
+    "meaningVi": "",
+    "synonyms": [
+      "escapade",
+      "risky venture",
+      "dangerous undertaking"
+    ],
+    "sentenceText": "Children will probably be most interested in the adventure playground.",
+    "sentenceChunks": [
+      "Children will probably be most interested in the adventure playground."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      18
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "id": "demonstration-i19",
+    "term": "demonstration",
+    "ipa": "/ˌdemənˈstreɪʃən/",
+    "pos": "noun",
+    "meaningEn": "a show or display; the act of presenting something to sight or view",
+    "meaningVi": "",
+    "synonyms": [
+      "presentation",
+      "presentment"
+    ],
+    "sentenceText": "And everyone enjoyed the demonstration of French cookery, which was nearly as successful.",
+    "sentenceChunks": [
+      "And everyone enjoyed the demonstration of French cookery, which was nearly as successful."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "id": "footbridge-i19",
+    "term": "footbridge",
+    "ipa": "/ˈfʊtbrɪdʒ/",
+    "pos": "noun",
+    "meaningEn": "a bridge designed for pedestrians",
+    "meaningVi": "",
+    "synonyms": [
+      "overcrossing",
+      "pedestrian bridge"
+    ],
+    "sentenceText": "In Malatte, they're planning to mark this by building a footbridge in the municipal park.",
+    "sentenceChunks": [
+      "In Malatte, they're planning to mark this by building a footbridge in the municipal park."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      12
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "id": "playground-i19",
+    "term": "playground",
+    "ipa": "/ˈpleɪˌgraʊnd/",
+    "pos": "noun",
+    "meaningEn": "an outdoor area where children can play, often with equipment",
+    "meaningVi": "",
+    "synonyms": [
+      "play area",
+      "recreation ground",
+      "adventure playground"
+    ],
+    "sentenceText": "Children will probably be most interested in the adventure playground.",
+    "sentenceChunks": [
+      "Children will probably be most interested in the adventure playground."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      18
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "id": "host-i19",
+    "term": "host",
+    "ipa": "/həʊst/",
+    "pos": "verb",
+    "meaningEn": "to welcome guests and look after them",
+    "meaningVi": "",
+    "synonyms": [
+      "welcome",
+      "receive",
+      "entertain"
+    ],
+    "sentenceText": "We're looking forward to welcoming our French visitors here next week, and I know that many of you here will be hosting individuals or families.",
+    "sentenceChunks": [
+      "We're looking forward to welcoming our French visitors here next week, and I know",
+      "that many of you here will be hosting individuals or families."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      14
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cheese-i19",
+    "term": "cheese",
+    "ipa": "/tʃiz/",
+    "pos": "noun",
+    "meaningEn": "a solid food prepared from the pressed curd of milk",
+    "meaningVi": "",
+    "synonyms": [
+      "tall mallow",
+      "high mallow",
+      "cheeseflower",
+      "Malva sylvestris"
+    ],
+    "sentenceText": "We learned how cheese is produced in the region and had the chance to taste the products.",
+    "sentenceChunks": [
+      "We learned how cheese is produced in the region and had the chance to taste the products."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Stanthorpe Twinning Association",
+    "questions": [
+      11
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Stanthorpe Twinning Association",
+        "questions": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "id": "restaurant-i19",
+    "term": "restaurant",
+    "ipa": "/ˈreˌstrɑnt/",
+    "pos": "noun",
+    "meaningEn": "a building where people go to eat",
+    "meaningVi": "",
+    "synonyms": [
+      "eating house",
+      "eating place",
+      "eatery"
+    ],
+    "sentenceText": "Well, they might have the name of a restaurant, but actually they're a cooking facility just for delivery meals - the public don't ever go there.",
+    "sentenceChunks": [
+      "Well, they might have the name of a restaurant",
+      "but actually they're a cooking facility just for delivery meals - the public don't ever go there."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Food projects and trends",
+        "questions": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "label-i19",
+    "term": "label",
+    "ipa": "/ˈleɪbəl/",
+    "pos": "noun",
+    "meaningEn": "a brief description given for purposes of identification",
+    "meaningVi": "",
+    "synonyms": [
+      "tag",
+      "sticker",
+      "marker"
+    ],
+    "sentenceText": "When the label's smooth, the food is fresh and then when you can feel bumps on the label, that means the food's gone bad.",
+    "sentenceChunks": [
+      "When the label's smooth, the food is fresh and then when you",
+      "can feel bumps on the label, that means the food's gone bad."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Food projects and trends",
+        "questions": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chef-i19",
+    "term": "chef",
+    "ipa": "/ʃef/",
+    "pos": "noun",
+    "meaningEn": "a professional cook",
+    "meaningVi": "",
+    "synonyms": [
+      "chef"
+    ],
+    "sentenceText": "One thing I've noticed is the number of branded products related to celebrity chefs - people watch them cooking on TV and then buy things like spice mixes or frozen foods with the chef's name on...",
+    "sentenceChunks": [
+      "One thing I've noticed is the number of branded products related to celebrity chefs - people watch them",
+      "cooking on TV and then buy things like spice mixes or frozen foods with the chef's name on..."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Food projects and trends",
+        "questions": [
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "id": "celebrity-i19",
+    "term": "celebrity",
+    "ipa": "/səˈlebrɪti/",
+    "pos": "noun",
+    "meaningEn": "a widely known person",
+    "meaningVi": "",
+    "synonyms": [
+      "famous person",
+      "star",
+      "public figure"
+    ],
+    "sentenceText": "One thing I've noticed is the number of branded products related to celebrity chefs - people watch them cooking on TV and then buy things like spice mixes or frozen foods with the chef's name on...",
+    "sentenceChunks": [
+      "One thing I've noticed is the number of branded products related to celebrity chefs - people watch them",
+      "cooking on TV and then buy things like spice mixes or frozen foods with the chef's name on..."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Food projects and trends",
+        "questions": [
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lactose-free-i19",
+    "term": "lactose-free",
+    "ipa": "/ˈlæktəʊs fri/",
+    "pos": "adjective",
+    "meaningEn": "containing no lactose, the sugar found in milk",
+    "meaningVi": "",
+    "synonyms": [
+      "dairy-free",
+      "milk-free",
+      "without lactose"
+    ],
+    "sentenceText": "Do you think there'll be more interest in gluten- and lactose-free food?",
+    "sentenceChunks": [
+      "Do you think there'll be more interest in gluten- and lactose-free food?"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "mushroom-i19",
+    "term": "mushroom",
+    "ipa": "/ˈməʃrum/",
+    "pos": "noun",
+    "meaningEn": "common name for an edible agaric (contrasting with the inedible toadstool)",
+    "meaningVi": "",
+    "synonyms": [
+      "mushroom"
+    ],
+    "sentenceText": "Did you know more and more people are using all sorts of different mushrooms now, to treat different health concerns?",
+    "sentenceChunks": [
+      "Did you know more and more people are using all",
+      "sorts of different mushrooms now, to treat different health concerns?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [
+      30
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Food projects and trends",
+        "questions": [
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "id": "packaging-i19",
+    "term": "packaging",
+    "ipa": "/ˈpækɪdʒɪŋ/",
+    "pos": "noun",
+    "meaningEn": "material used to wrap or protect goods for sale",
+    "meaningVi": "",
+    "synonyms": [
+      "wrapping",
+      "packing material",
+      "container"
+    ],
+    "sentenceText": "One thing everyone's aware of is the need for a reduction in unnecessary packaging - but just about everything you buy in supermarkets is still covered in plastic.",
+    "sentenceChunks": [
+      "One thing everyone's aware of is the need for a reduction in unnecessary packaging -",
+      "but just about everything you buy in supermarkets is still covered in plastic."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [
+      26
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Food projects and trends",
+        "questions": [
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "id": "printing-i19",
+    "term": "printing",
+    "ipa": "/ˈprɪntɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the process of producing text or images with a machine",
+    "meaningVi": "",
+    "synonyms": [
+      "printing"
+    ],
+    "sentenceText": "But you were using 3-D printing, weren't you, to make the paste into biscuits?",
+    "sentenceChunks": [
+      "But you were using 3-D printing, weren't you, to make the paste into biscuits?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Food projects and trends",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Food projects and trends",
+        "questions": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neolithic-i19",
+    "term": "neolithic",
+    "ipa": "/ˌniːəˈlɪθɪk/",
+    "pos": "adjective",
+    "meaningEn": "of or relating to the most recent period of the Stone Age (following the mesolithic)",
+    "meaningVi": "",
+    "synonyms": [
+      "neolithic"
+    ],
+    "sentenceText": "For my presentation today, I'm going to talk about the Céide Fields in the northwest of Ireland, one of the largest Neolithic sites in the world.",
+    "sentenceChunks": [
+      "For my presentation today, I'm going to talk about the Céide Fields in",
+      "the northwest of Ireland, one of the largest Neolithic sites in the world."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [
+      35
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Céide Fields",
+        "questions": [
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "id": "farmer-i19",
+    "term": "farmer",
+    "ipa": "/ˈfɑːmə/",
+    "pos": "noun",
+    "meaningEn": "a person who operates a farm",
+    "meaningVi": "",
+    "synonyms": [
+      "grower",
+      "agricultural worker",
+      "cultivator"
+    ],
+    "sentenceText": "The farmers at Céide would have enjoyed a relatively dry period, but this began to change and the conditions became wetter as there was a lot more rain.",
+    "sentenceChunks": [
+      "The farmers at Céide would have enjoyed a relatively dry period",
+      "but this began to change and the conditions became wetter as there was a lot more rain."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "innovation-i19",
+    "term": "innovation",
+    "ipa": "/ˌɪnəˈveɪʃən/",
+    "pos": "noun",
+    "meaningEn": "a creation (a new device or process) resulting from study and experimentation",
+    "meaningVi": "",
+    "synonyms": [
+      "invention",
+      "excogitation",
+      "conception",
+      "design"
+    ],
+    "sentenceText": "This is one of many innovations and indicates that the Neolithic farmers were the first people to cook indoors.",
+    "sentenceChunks": [
+      "This is one of many innovations and indicates that",
+      "the Neolithic farmers were the first people to cook indoors."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "northwest-i19",
+    "term": "northwest",
+    "ipa": "/ˌnɔːθˈwest/",
+    "pos": "noun",
+    "meaningEn": "the direction or region between north and west",
+    "meaningVi": "",
+    "synonyms": [
+      "northwestern United States"
+    ],
+    "sentenceText": "For my presentation today, I'm going to talk about the Céide Fields in the northwest of Ireland, one of the largest Neolithic sites in the world.",
+    "sentenceChunks": [
+      "For my presentation today, I'm going to talk about the Céide Fields in",
+      "the northwest of Ireland, one of the largest Neolithic sites in the world."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "preserve-i19",
+    "term": "preserve",
+    "ipa": "/prɪˈzəv/",
+    "pos": "verb",
+    "meaningEn": "to keep something in its original condition or protect it from decay",
+    "meaningVi": "",
+    "synonyms": [
+      "protect",
+      "conserve",
+      "maintain"
+    ],
+    "sentenceText": "Objects remain so well preserved in these conditions because of the acidity of the peat and the deficiency of oxygen.",
+    "sentenceChunks": [
+      "Objects remain so well preserved in these conditions because of",
+      "the acidity of the peat and the deficiency of oxygen."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "relative-i19",
+    "term": "relative",
+    "ipa": "/ˈrelətɪv/",
+    "pos": "adjective",
+    "meaningEn": "true when compared with something else; not absolute",
+    "meaningVi": "",
+    "synonyms": [
+      "comparative",
+      "proportional",
+      "in comparison"
+    ],
+    "sentenceText": "The Neolithic farmers at Céide would have enjoyed several centuries of relative peace and stability.",
+    "sentenceChunks": [
+      "The Neolithic farmers at Céide would have enjoyed several centuries of relative peace and stability."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Céide Fields",
+        "questions": [
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cook-i19",
+    "term": "cook",
+    "ipa": "/kʊk/",
+    "pos": "verb",
+    "meaningEn": "prepare a hot meal",
+    "meaningVi": "",
+    "synonyms": [
+      "fix",
+      "ready",
+      "make",
+      "prepare"
+    ],
+    "sentenceText": "This is one of many innovations and indicates that the Neolithic farmers were the first people to cook indoors.",
+    "sentenceChunks": [
+      "This is one of many innovations and indicates that",
+      "the Neolithic farmers were the first people to cook indoors."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb",
+    "references": []
+  },
+  {
+    "id": "dating-i19",
+    "term": "dating",
+    "ipa": "/ˈdeɪtɪŋ/",
+    "pos": "noun",
+    "meaningEn": "use of chemical analysis to estimate the age of geological specimens",
+    "meaningVi": "",
+    "synonyms": [
+      "geological dating"
+    ],
+    "sentenceText": "Carbon dating later proved that the site was over 5,000 years old and was the largest Neolithic site in Ireland.",
+    "sentenceChunks": [
+      "Carbon dating later proved that the site was over 5,000",
+      "years old and was the largest Neolithic site in Ireland."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Céide Fields",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "racket-i19",
+    "term": "racket",
+    "ipa": "/ˈrækɪt/",
+    "pos": "noun",
+    "meaningEn": "a bat with strings stretched across a frame, used in tennis",
+    "meaningVi": "",
+    "synonyms": [
+      "tennis racket",
+      "bat",
+      "racquet"
+    ],
+    "sentenceText": "Consequently, the specific rackets used by the world's elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it.",
+    "sentenceChunks": [
+      "Consequently, the specific rackets used by the world's elite are not actually readily available to the public;",
+      "rather, each racket is individually made to suit the player who uses it."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "How tennis rackets have changed",
+        "questions": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "id": "string-i19",
+    "term": "string",
+    "ipa": "/strɪŋ/",
+    "pos": "noun",
+    "meaningEn": "a lightweight cord",
+    "meaningVi": "",
+    "synonyms": [
+      "cord",
+      "wire",
+      "racket string"
+    ],
+    "sentenceText": "The former is far more common than the latter: the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with.",
+    "sentenceChunks": [
+      "The former is far more common than the latter:",
+      "the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [
+      6,
+      11
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "How tennis rackets have changed",
+        "questions": [
+          6,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frame-i19",
+    "term": "frame",
+    "ipa": "/freɪm/",
+    "pos": "noun",
+    "meaningEn": "the outer structure that holds the strings of a racket",
+    "meaningVi": "",
+    "synonyms": [
+      "structure",
+      "framework",
+      "body"
+    ],
+    "sentenceText": "Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket.",
+    "sentenceChunks": [
+      "Players have individual preferences for the shape of the handle and some will",
+      "have the handle of one racket moulded onto the frame of a different racket."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [
+      8,
+      12
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "How tennis rackets have changed",
+        "questions": [
+          8,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tennis-i19",
+    "term": "tennis",
+    "ipa": "/ˈtenɪs/",
+    "pos": "noun",
+    "meaningEn": "a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court",
+    "meaningVi": "",
+    "synonyms": [
+      "lawn tennis"
+    ],
+    "sentenceText": "Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket.",
+    "sentenceChunks": [
+      "Racket modifications mainly date back to the 1970s, when the amateur",
+      "German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [
+      1
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "How tennis rackets have changed",
+        "questions": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "handle-i19",
+    "term": "handle",
+    "ipa": "/ˈhændəl/",
+    "pos": "noun",
+    "meaningEn": "the part of an object that you hold",
+    "meaningVi": "",
+    "synonyms": [
+      "grip",
+      "shaft",
+      "hilt"
+    ],
+    "sentenceText": "Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket.",
+    "sentenceChunks": [
+      "Players have individual preferences for the shape of the handle and some will",
+      "have the handle of one racket moulded onto the frame of a different racket."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "How tennis rackets have changed",
+        "questions": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spaghetti-strung-i19",
+    "term": "spaghetti-strung",
+    "ipa": "/spəˈgeti strəŋ/",
+    "pos": "adjective",
+    "meaningEn": "strung with spaghetti-like strings, as a tennis racket modification",
+    "meaningVi": "",
+    "synonyms": [
+      "spaghetti stringing",
+      "unusual stringing",
+      "modified strings"
+    ],
+    "sentenceText": "Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket.",
+    "sentenceChunks": [
+      "Racket modifications mainly date back to the 1970s, when the amateur",
+      "German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "stringer-i19",
+    "term": "stringer",
+    "ipa": "/ˈstrɪŋə/",
+    "pos": "noun",
+    "meaningEn": "a person who strings tennis rackets",
+    "meaningVi": "",
+    "synonyms": [
+      "racket stringer",
+      "technician",
+      "stringer"
+    ],
+    "sentenceText": "'Touring professionals have their rackets customised to their specific needs,' says Colin Triplow, a UK-based professional racket stringer.",
+    "sentenceChunks": [
+      "'Touring professionals have their rackets customised to their specific needs,' says Colin Triplow, a UK-based professional racket stringer."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [
+      3
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "How tennis rackets have changed",
+        "questions": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adjust-i19",
+    "term": "adjust",
+    "ipa": "/əˈdʒəst/",
+    "pos": "verb",
+    "meaningEn": "to change something slightly so it works or fits better",
+    "meaningVi": "",
+    "synonyms": [
+      "modify",
+      "alter",
+      "fine-tune"
+    ],
+    "sentenceText": "They explain how they have adjusted not only racket length, but even experimented with different kinds of paint.",
+    "sentenceChunks": [
+      "They explain how they have adjusted not only racket length, but even experimented with different kinds of paint."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "How tennis rackets have changed",
+    "questions": [
+      6
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "How tennis rackets have changed",
+        "questions": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coastline-i19",
+    "term": "coastline",
+    "ipa": "/ˈkəʊˌstlaɪn/",
+    "pos": "noun",
+    "meaningEn": "the outline of a coast",
+    "meaningVi": "",
+    "synonyms": [
+      "coastline"
+    ],
+    "sentenceText": "Most had their own boats, possessed good seafaring skills, and unsurpassed knowledge of the local coastline and sailing routes.",
+    "sentenceChunks": [
+      "Most had their own boats, possessed good seafaring skills",
+      "and unsurpassed knowledge of the local coastline and sailing routes."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "merchant-i19",
+    "term": "merchant",
+    "ipa": "/ˈmɜːtʃənt/",
+    "pos": "noun",
+    "meaningEn": "a businessperson engaged in retail trade",
+    "meaningVi": "",
+    "synonyms": [
+      "merchandiser"
+    ],
+    "sentenceText": "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes.",
+    "sentenceChunks": [
+      "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began",
+      "spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pirate-i19",
+    "term": "pirate",
+    "ipa": "/ˈpaɪrət/",
+    "pos": "noun",
+    "meaningEn": "a person who attacks and robs ships at sea",
+    "meaningVi": "",
+    "synonyms": [
+      "sea robber",
+      "raider",
+      "buccaneer"
+    ],
+    "sentenceText": "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes.",
+    "sentenceChunks": [
+      "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began",
+      "spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      16,
+      17,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          16,
+          17,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "id": "piracy-i19",
+    "term": "piracy",
+    "ipa": "/ˈpaɪrəsi/",
+    "pos": "noun",
+    "meaningEn": "the act of attacking and robbing ships at sea",
+    "meaningVi": "",
+    "synonyms": [
+      "sea robbery",
+      "raiding",
+      "buccaneering"
+    ],
+    "sentenceText": "Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of Pharaoh Amenhotep III (c 1390-1353 BCE), it is reasonable to assume it predated this powerful civilisation.",
+    "sentenceChunks": [
+      "Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of",
+      "Pharaoh Amenhotep III (c 1390-1353 BCE), it is reasonable to assume it predated this powerful civilisation."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      14,
+      15,
+      18,
+      22,
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          14,
+          15,
+          18,
+          22,
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "route-i19",
+    "term": "route",
+    "ipa": "/rut/",
+    "pos": "noun",
+    "meaningEn": "an established line of travel or access",
+    "meaningVi": "",
+    "synonyms": [
+      "path",
+      "itinerary",
+      "road"
+    ],
+    "sentenceText": "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes.",
+    "sentenceChunks": [
+      "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began",
+      "spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eradicate-i19",
+    "term": "eradicate",
+    "ipa": "/ɪˈrædəˌkeɪt/",
+    "pos": "verb",
+    "meaningEn": "to remove or destroy something completely",
+    "meaningVi": "",
+    "synonyms": [
+      "eliminate",
+      "wipe out",
+      "get rid of"
+    ],
+    "sentenceText": "Under the command of the Roman general Pompey, Rome eradicated piracy, transforming the Mediterranean into 'Mare Nostrum' (Our Sea).",
+    "sentenceChunks": [
+      "Under the command of the Roman general Pompey, Rome",
+      "eradicated piracy, transforming the Mediterranean into 'Mare Nostrum' (Our Sea)."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "id": "inhabitant-i19",
+    "term": "inhabitant",
+    "ipa": "/ˌɪnˈhæbɪtənt/",
+    "pos": "noun",
+    "meaningEn": "a person who inhabits a particular place",
+    "meaningVi": "",
+    "synonyms": [
+      "habitant",
+      "dweller",
+      "denizen",
+      "indweller"
+    ],
+    "sentenceText": "In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt.",
+    "sentenceChunks": [
+      "In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capture-i19",
+    "term": "capture",
+    "ipa": "/ˈkæptʃə/",
+    "pos": "verb",
+    "meaningEn": "to take a person, ship or place by force",
+    "meaningVi": "",
+    "synonyms": [
+      "seize",
+      "take",
+      "catch"
+    ],
+    "sentenceText": "According to the Greek orator Demosthenes, in 355 BCE, Athenian ambassadors made a detour from their official travel to capture a ship sailing from Egypt, taking the wealth found onboard for themselves!",
+    "sentenceChunks": [
+      "According to the Greek orator Demosthenes, in 355 BCE, Athenian ambassadors made a detour from their",
+      "official travel to capture a ship sailing from Egypt, taking the wealth found onboard for themselves!"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "The pirates of the ancient Mediterranean",
+    "questions": [
+      20,
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "verb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "The pirates of the ancient Mediterranean",
+        "questions": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "misinformation-i19",
+    "term": "misinformation",
+    "ipa": "/ˌmɪsɪnfəˈmeɪʃən/",
+    "pos": "noun",
+    "meaningEn": "information that is incorrect",
+    "meaningVi": "",
+    "synonyms": [
+      "misinformation"
+    ],
+    "sentenceText": "However, we currently live in an era in which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past.",
+    "sentenceChunks": [
+      "However, we currently live in an era in",
+      "which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The persistence and peril of misinformation",
+    "questions": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      37,
+      38,
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The persistence and peril of misinformation",
+        "questions": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          37,
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attitude-i19",
+    "term": "attitude",
+    "ipa": "/ˈætəˌtud/",
+    "pos": "noun",
+    "meaningEn": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways",
+    "meaningVi": "",
+    "synonyms": [
+      "mental attitude",
+      "position",
+      "posture"
+    ],
+    "sentenceText": "The main worry regarding misinformation is its potential to unduly influence attitudes and behavior, leading people to think and act differently than they would if they were correctly informed, as suggested by the research teams of Stephan Lewandowsky of the University of Bristol and Elizabeth Marsh of Duke University, among others.",
+    "sentenceChunks": [
+      "The main worry regarding misinformation is its potential to unduly influence attitudes and behavior, leading people to think and act differently than they would",
+      "if they were correctly informed, as suggested by the research teams of Stephan Lewandowsky of the University of Bristol and Elizabeth Marsh of Duke University, among others."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The persistence and peril of misinformation",
+    "questions": [
+      29
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The persistence and peril of misinformation",
+        "questions": [
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phenomenon-i19",
+    "term": "phenomenon",
+    "ipa": "/fəˈnɑməˌnɑn/",
+    "pos": "noun",
+    "meaningEn": "any state or process known through the senses rather than by intuition or reasoning",
+    "meaningVi": "",
+    "synonyms": [
+      "phenomenon"
+    ],
+    "sentenceText": "Even with journalists and scholars pointing to the phenomenon of 'fake news', people do not distinguish between demonstrably false stories and those based in fact when scanning and processing written information.",
+    "sentenceChunks": [
+      "Even with journalists and scholars pointing to the phenomenon of 'fake news', people do not distinguish between demonstrably false stories and those based in fact",
+      "when scanning and processing written information."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The persistence and peril of misinformation",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The persistence and peril of misinformation",
+        "questions": [
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regulatory-i19",
+    "term": "regulatory",
+    "ipa": "/ˈregjələˌtɔːi/",
+    "pos": "adjective",
+    "meaningEn": "restricting according to rules or principles",
+    "meaningVi": "",
+    "synonyms": [
+      "regulative"
+    ],
+    "sentenceText": "In support of this, one might consider the nature of regulatory structures in the United States: regulatory agencies here tend to focus on post hoc detection of broadcast information.",
+    "sentenceChunks": [
+      "In support of this, one might consider the nature of regulatory structures in the United States:",
+      "regulatory agencies here tend to focus on post hoc detection of broadcast information."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The persistence and peril of misinformation",
+    "questions": [
+      30
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The persistence and peril of misinformation",
+        "questions": [
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "id": "correct-i19",
+    "term": "correct",
+    "ipa": "/kəˈrekt/",
+    "pos": "verb",
+    "meaningEn": "make right or correct",
+    "meaningVi": "",
+    "synonyms": [
+      "rectify",
+      "right",
+      "compensate",
+      "redress"
+    ],
+    "sentenceText": "This leads us to our third observation: a campaign to correct misinformation, even if rhetorically compelling, requires resources and planning to accomplish necessary reach and frequency.",
+    "sentenceChunks": [
+      "This leads us to our third observation:",
+      "a campaign to correct misinformation, even if rhetorically compelling, requires resources and planning to accomplish necessary reach and frequency."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The persistence and peril of misinformation",
+    "questions": [
+      37
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "verb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The persistence and peril of misinformation",
+        "questions": [
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conflict-i19",
+    "term": "conflict",
+    "ipa": "/ˈkɑnflɪkt/",
+    "pos": "noun",
+    "meaningEn": "a disagreement or incompatibility between ideas, statements or predictions",
+    "meaningVi": "",
+    "synonyms": [
+      "contradiction",
+      "clash",
+      "disagreement"
+    ],
+    "sentenceText": "The dilemma is neatly summarized by a contrast between how the 17th-century philosophers René Descartes and Baruch Spinoza described human information engagement, with conflicting predictions that only recently have been empirically tested in robust ways.",
+    "sentenceChunks": [
+      "The dilemma is neatly summarized by a contrast between how the 17th-century philosophers René Descartes and Baruch Spinoza described human information engagement, with conflicting predictions",
+      "that only recently have been empirically tested in robust ways."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The persistence and peril of misinformation",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "elementary-i19",
+    "term": "elementary",
+    "ipa": "/ˌeləˈmentʃri/",
+    "pos": "adjective",
+    "meaningEn": "relating to the first stage of education; primary",
+    "meaningVi": "",
+    "synonyms": [
+      "primary",
+      "basic",
+      "introductory"
+    ],
+    "sentenceText": "That some audiences might be unaware of the potential for misinformation also suggests the utility of media literacy efforts as early as elementary school.",
+    "sentenceChunks": [
+      "That some audiences might be unaware of the potential for misinformation also",
+      "suggests the utility of media literacy efforts as early as elementary school."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 1,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The persistence and peril of misinformation",
+    "questions": [
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 1,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The persistence and peril of misinformation",
+        "questions": [
+          38
+        ]
+      }
+    ]
+  }
+]

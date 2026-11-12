@@ -3,8 +3,10 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path('/Users/tim2k/test/ielts-mock-lab')
-DATA = json.loads((ROOT / 'content/vocabulary/ielts20-21-learning-vocabulary.json').read_text())
+DATA = json.loads((ROOT / 'content/vocabulary/ielts19-21-learning-vocabulary.json').read_text())
 FILES = {
+    ('IELTS 19', 1): 'ielts19-test1.json', ('IELTS 19', 2): 'ielts19-test2.json',
+    ('IELTS 19', 3): 'ielts19-test3.json', ('IELTS 19', 4): 'ielts19-test4.json',
     ('IELTS 20', 1): 'ielts20-test1.json', ('IELTS 20', 2): 'ielts20-test2.json',
     ('IELTS 20', 3): 'ielts20-test3.json', ('IELTS 20', 4): 'ielts20-test4.json',
     ('IELTS 21', 1): 'cambridge21-test1.json', ('IELTS 21', 2): 'cambridge21-test2.json',

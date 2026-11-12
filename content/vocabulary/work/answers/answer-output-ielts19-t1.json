@@ -1,0 +1,280 @@
+{
+  "tag": "ielts19-t1",
+  "links": {
+    "geography-i19|l1|q4": {
+      "support": "The park is a great environment to learn and practise reading a map and using a compass to navigate around the park.",
+      "connection": "The notes item says the geography focus 'includes learning to use a ______ and compass'; the ranger describes the park as a place to 'learn and practise reading a map and using a compass'.",
+      "paraphrasing": "'includes learning to use a ______ and compass' -> 'practise reading a map and using a compass'"
+    },
+    "wetland-i19|l1|q2": {
+      "support": "There are also several smaller ones, ponds and a stream that flows through the park.",
+      "connection": "The notes list 'Wetland: lakes, ponds and a ______'; the wetland description adds 'ponds and a stream that flows through the park', which supplies the missing word.",
+      "paraphrasing": "'lakes, ponds and a ______' -> 'smaller ones, ponds and a stream'"
+    },
+    "garden-i19|l2|q12": {
+      "support": "We've been discussing what to do here and we've decided to plant a poplar tree in the museum gardens.",
+      "connection": "The question asks what will happen in Stanthorpe 'to mark the 25th anniversary'; the speaker says 'we've decided to plant a poplar tree in the museum gardens', matching 'A tree will be planted'.",
+      "paraphrasing": "'A tree will be planted' -> 'plant a poplar tree'"
+    },
+    "visitor-i19|l2|q14": {
+      "support": "Don't try to do too much that first evening as they'll be tired, so have dinner in the house or garden rather than eating out.",
+      "connection": "For 'the first evening' with the French visitors, the advice is to 'have dinner in the house or garden rather than eating out', matching 'have a meal at home'.",
+      "paraphrasing": "'have a meal at home' -> 'have dinner in the house or garden rather than eating out'"
+    },
+    "demonstration-i19|l2|q13": {
+      "support": "Our pancake evening was well attended and made record profits.",
+      "connection": "The question asks which event 'raised most funds'; the pancake evening 'made record profits', so it is the answer rather than the film show or cookery demonstration.",
+      "paraphrasing": "'raised most funds' -> 'made record profits'"
+    },
+    "host-i19|l2|q14": {
+      "support": "Don't try to do too much that first evening as they'll be tired, so have dinner in the house or garden rather than eating out.",
+      "connection": "The question asks what 'host families' are advised to do on the first evening; the speaker says 'have dinner in the house or garden rather than eating out', i.e. 'have a meal at home'.",
+      "paraphrasing": "'have a meal at home' -> 'have dinner in the house or garden rather than eating out'"
+    },
+    "label-i19|l3|q23": {
+      "support": "But actually, I thought it might be really good 23/24 for drug storage in hospitals and pharmacies.",
+      "connection": "The question asks which way touch-sensitive food labels 'could be developed in future'; 'drug storage in hospitals and pharmacies' matches 'for use on medical products'.",
+      "paraphrasing": "'for use on medical products' -> 'for drug storage in hospitals and pharmacies'"
+    },
+    "chef-i19|l3|q28": {
+      "support": "Yeah - I bought a ready-made spice mix for chicken which was supposed to be used by a chef I'd seen on television, and it didn't actually taste of anything.",
+      "connection": "The trend is 'branded products related to celebrity chefs'; the product 'supposed to be used by a chef I'd seen on television' 'didn't actually taste of anything', matching 'This may have disappointing results'.",
+      "paraphrasing": "'This may have disappointing results' -> 'it didn't actually taste of anything'"
+    },
+    "celebrity-i19|l3|q28": {
+      "support": "Yeah - I bought a ready-made spice mix for chicken which was supposed to be used by a chef I'd seen on television, and it didn't actually taste of anything.",
+      "connection": "The trend is 'branded products related to celebrity chefs'; the mix 'supposed to be used by a chef I'd seen on television' 'didn't actually taste of anything', matching 'This may have disappointing results'.",
+      "paraphrasing": "'This may have disappointing results' -> 'it didn't actually taste of anything'"
+    },
+    "mushroom-i19|l3|q30": {
+      "support": "They might be taking a big risk there.",
+      "connection": "The question is about using mushrooms 'for common health concerns'; the reply warns 'They might be taking a big risk there', matching 'This could be dangerous'.",
+      "paraphrasing": "'This could be dangerous' -> 'taking a big risk'"
+    },
+    "packaging-i19|l3|q26": {
+      "support": "The government needs to do something about it.",
+      "connection": "For the trend 'Reduction in unnecessary packaging', the speaker says 'The government needs to do something about it', matching 'There should be stricter regulations about this'.",
+      "paraphrasing": "'There should be stricter regulations about this' -> 'The government needs to do something about it'"
+    },
+    "neolithic-i19|l4|q35": {
+      "support": "These weren't round as people often assume, but rectangular with a small hole in the roof that allowed smoke to escape.",
+      "connection": "The note asks for the shape of the houses and says they 'had a hole in the roof'; the text says they were 'rectangular with a small hole in the roof'.",
+      "paraphrasing": "'Houses were ______ in shape and had a hole in the roof' -> 'rectangular with a small hole in the roof'"
+    },
+    "racket-i19|r1|q2": {
+      "support": "Another change was so subtle as to pass more or less unnoticed.",
+      "connection": "The statement says the change Murray made to his rackets 'attracted a lot of attention'; the text describes 'Another change' as 'so subtle as to pass more or less unnoticed', contradicting it.",
+      "paraphrasing": "'attracted a lot of attention' -> 'pass more or less unnoticed'"
+    },
+    "racket-i19|r1|q4": {
+      "support": "The rackets they use now weigh more than the average model and also have a denser string pattern (i.e. more crosses and mains).",
+      "connection": "The statement says the rackets Mike and Bob Bryan use are 'light in comparison to the majority of rackets'; the text says they 'weigh more than the average model', contradicting it.",
+      "paraphrasing": "'light in comparison to the majority of rackets' -> 'weigh more than the average model'"
+    },
+    "racket-i19|r1|q6": {
+      "support": "They will continually change it depending on various factors including the court surface, climatic conditions, and game styles.",
+      "connection": "The statement says the weather can affect how professional players 'adjust the strings'; the text says players 'continually change it' according to 'climatic conditions'.",
+      "paraphrasing": "'The weather can affect how professional players adjust the strings' -> 'continually change it depending on ... climatic conditions'"
+    },
+    "racket-i19|r1|q7": {
+      "support": "For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process.",
+      "connection": "The statement says it was believed Sampras's racket change contributed to his 'strong serve'; the text says his 'serving power ... was attributed to the addition of four to five lead weights onto his rackets'.",
+      "paraphrasing": "'contributed to his strong serve' -> 'serving power ... was attributed to ... lead weights'"
+    },
+    "racket-i19|r1|q8": {
+      "support": "They explain how they have adjusted not only racket length, but even experimented with different kinds of paint.",
+      "connection": "The note asks what types of ______ 'Mike and Bob Bryan' changed on their racket frames; the text says they 'experimented with different kinds of paint'.",
+      "paraphrasing": "'made changes to the types of ______ used on their racket frames' -> 'experimented with different kinds of paint'"
+    },
+    "racket-i19|r1|q9": {
+      "support": "It created a string bed that generated so much topspin that it was quickly banned by the International Tennis Federation.",
+      "connection": "The note says the spaghetti-strung racket was 'not allowed' because of the amount of ______ it created; the text names 'so much topspin' and says it 'was quickly banned'.",
+      "paraphrasing": "'not allowed ... because of the amount of ______ it created' -> 'so much topspin that it was quickly banned'"
+    },
+    "racket-i19|r1|q10": {
+      "support": "Today it is, in many ways, an aspect of the game that is equal in significance to nutrition or training.",
+      "connection": "The note says changes to rackets are as important as players' diets or the ______ they do; the text says racket modification is 'equal in significance to nutrition or training'.",
+      "paraphrasing": "'as important as players' diets or the ______ they do' -> 'equal in significance to nutrition or training'"
+    },
+    "racket-i19|r1|q11": {
+      "support": "At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines.",
+      "connection": "The note says all rackets used to have natural strings made from the ______ of animals; the text says they were 'strung with natural gut made from the outer layer of sheep or cow intestines'.",
+      "paraphrasing": "'natural strings made from the ______ of animals' -> 'natural gut made from the outer layer of sheep or cow intestines'"
+    },
+    "racket-i19|r1|q12": {
+      "support": "For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process.",
+      "connection": "The note says Sampras had metal ______ put into the frames of his rackets; the text describes 'the addition of four to five lead weights onto his rackets'.",
+      "paraphrasing": "'metal ______ put into the frames' -> 'four to five lead weights onto his rackets'"
+    },
+    "racket-i19|r1|q13": {
+      "support": "The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold.",
+      "connection": "The note says Oliveira changed the ______ on his racket handles; the text says he 'replaced the original grips of his rackets'.",
+      "paraphrasing": "'changed the ______ on his racket handles' -> 'replaced the original grips of his rackets'"
+    },
+    "string-i19|r1|q6": {
+      "support": "They will continually change it depending on various factors including the court surface, climatic conditions, and game styles.",
+      "connection": "The statement says the weather can affect how professional players 'adjust the strings'; the text says players 'continually change it' according to 'climatic conditions'.",
+      "paraphrasing": "'The weather can affect how professional players adjust the strings' -> 'continually change it depending on ... climatic conditions'"
+    },
+    "string-i19|r1|q11": {
+      "support": "At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines.",
+      "connection": "The note says rackets 'used to have natural strings' made from 'the ______ of animals'; the text says they were 'strung with natural gut made from the outer layer of sheep or cow intestines'.",
+      "paraphrasing": "'natural strings made from the ______ of animals' -> 'natural gut made from ... sheep or cow intestines'"
+    },
+    "frame-i19|r1|q8": {
+      "support": "They explain how they have adjusted not only racket length, but even experimented with different kinds of paint.",
+      "connection": "The note asks about 'the types of ______ used on their racket frames'; the text says the players 'experimented with different kinds of paint'.",
+      "paraphrasing": "'the types of ______ used on their racket frames' -> 'different kinds of paint'"
+    },
+    "frame-i19|r1|q12": {
+      "support": "For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process.",
+      "connection": "The note says Sampras had metal ______ put into 'the frames of his rackets'; the text describes 'the addition of four to five lead weights onto his rackets'.",
+      "paraphrasing": "'metal ______ put into the frames' -> 'four to five lead weights onto his rackets'"
+    },
+    "tennis-i19|r1|q1": {
+      "support": "Yet five years previously, he had been regarded as a talented outsider who entered but never won the major tournaments.",
+      "connection": "The statement says people expected Murray 'to become the world's top tennis player' for at least five years before 2016; the text says he 'had been regarded as a talented outsider who entered but never won the major tournaments', contradicting it.",
+      "paraphrasing": "'expected ... to become the world's top tennis player' -> 'regarded as a talented outsider who entered but never won'"
+    },
+    "handle-i19|r1|q13": {
+      "support": "The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold.",
+      "connection": "The note asks what Oliveira changed on his 'racket handles'; the text says he 'replaced the original grips of his rackets'.",
+      "paraphrasing": "'changed the ______ on his racket handles' -> 'replaced the original grips of his rackets'"
+    },
+    "adjust-i19|r1|q6": {
+      "support": "They will continually change it depending on various factors including the court surface, climatic conditions, and game styles.",
+      "connection": "The statement asks whether the weather affects how professional players 'adjust the strings'; the text says players 'continually change it' according to 'climatic conditions'.",
+      "paraphrasing": "'adjust the strings' -> 'continually change it'"
+    },
+    "pirate-i19|r2|q16": {
+      "support": "One should also add that it was not unknown in the first and second millennia BCE for governments to resort to pirates' services, especially during wartime, employing their skills and numbers against their opponents.",
+      "connection": "The question asks for 'the circumstances in which states in the ancient world would make use of pirates'; the text says 'governments' would 'resort to pirates' services, especially during wartime'.",
+      "paraphrasing": "'circumstances in which states in the ancient world would make use of pirates' -> 'governments ... resort to pirates' services, especially during wartime'"
+    },
+    "pirate-i19|r2|q17": {
+      "support": "When one mentions pirates, an image springs to most people's minds of a crew of misfits, daredevils and adventurers in command of a tall sailing ship in the Caribbean Sea.",
+      "connection": "The question asks for 'how people today commonly view pirates'; the text describes the image that 'springs to most people's minds'.",
+      "paraphrasing": "'how people today commonly view pirates' -> 'an image springs to most people's minds'"
+    },
+    "pirate-i19|r2|q20": {
+      "support": "In addition, knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived.",
+      "connection": "The statement says the inhabitants 'managed to escape capture by the authorities because they knew the area so well'; the text says 'knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived'.",
+      "paraphrasing": "'escape capture ... because they knew the area so well' -> 'knowledge of the local area helped ... avoid retaliation'"
+    },
+    "pirate-i19|r2|q22": {
+      "support": "Even high-ranking members of the state were not beyond engaging in such activities.",
+      "connection": "The statement says 'Important officials were known to occasionally take part in piracy'; 'high-ranking members of the state were not beyond engaging in such activities' matches it.",
+      "paraphrasing": "'Important officials ... take part in piracy' -> 'high-ranking members of the state ... engaging in such activities'"
+    },
+    "pirate-i19|r2|q23": {
+      "support": "Interestingly, in his works the Iliad and the Odyssey, the ancient Greek writer Homer not only condones, but praises the lifestyle and actions of pirates.",
+      "connection": "The statement says 'A favourable view of piracy is evident in certain ancient Greek texts'; Homer 'not only condones, but praises' pirates in the Iliad and the Odyssey.",
+      "paraphrasing": "'A favourable view of piracy ... in certain ancient Greek texts' -> 'Homer not only condones, but praises ... pirates'"
+    },
+    "pirate-i19|r2|q24": {
+      "support": "Pirate attacks on grain ships, which were essential to Roman citizens, led to angry voices in the Senate, demanding punishment of the culprits.",
+      "connection": "The summary says attacks on vessels transporting ______ to Rome led to calls for ______; the text names 'grain ships' and 'demanding punishment of the culprits', giving 'grain'.",
+      "paraphrasing": "'vessels transporting ______ to Rome' -> 'grain ships'"
+    },
+    "pirate-i19|r2|q25": {
+      "support": "Pirate attacks on grain ships, which were essential to Roman citizens, led to angry voices in the Senate, demanding punishment of the culprits.",
+      "connection": "The summary says the attacks 'resulted in calls for ______ for the pirates responsible'; the text says they 'led to angry voices in the Senate, demanding punishment of the culprits'.",
+      "paraphrasing": "'calls for ______ for the pirates responsible' -> 'demanding punishment of the culprits'"
+    },
+    "piracy-i19|r2|q14": {
+      "support": "In the letters, the king of Alashiya (modern Cyprus) rejected Akhenaten's claims of a connection with the Lukka (based in modern-day Turkey).",
+      "connection": "The question asks for 'a denial of involvement in piracy'; the text reports that the king of Alashiya 'rejected Akhenaten's claims of a connection with the Lukka'.",
+      "paraphrasing": "'a denial of involvement in piracy' -> 'rejected ... claims of a connection with the Lukka'"
+    },
+    "piracy-i19|r2|q15": {
+      "support": "Taking personal command, Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each.",
+      "connection": "The question asks for 'details of how a campaign to eradicate piracy was carried out'; the text describes how Pompey 'divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each'.",
+      "paraphrasing": "'details of how a campaign ... was carried out' -> 'divided ... into 13 districts, assigning a fleet and commander to each'"
+    },
+    "piracy-i19|r2|q18": {
+      "support": "Although thousands of pirates died at the hands of Pompey's troops, as a long-term solution to the problem, many more were offered land in fertile areas located far from the sea.",
+      "connection": "The question asks for 'an explanation of how some people were encouraged not to return to piracy'; the text says 'many more were offered land in fertile areas located far from the sea' as 'a long-term solution'.",
+      "paraphrasing": "'encouraged not to return to piracy' -> 'offered land in fertile areas located far from the sea'"
+    },
+    "piracy-i19|r2|q22": {
+      "support": "Even high-ranking members of the state were not beyond engaging in such activities.",
+      "connection": "The statement says 'Important officials were known to occasionally take part in piracy'; 'high-ranking members of the state were not beyond engaging in such activities' matches it.",
+      "paraphrasing": "'Important officials ... take part in piracy' -> 'high-ranking members of the state ... engaging in such activities'"
+    },
+    "piracy-i19|r2|q23": {
+      "support": "Interestingly, in his works the Iliad and the Odyssey, the ancient Greek writer Homer not only condones, but praises the lifestyle and actions of pirates.",
+      "connection": "The statement says 'A favourable view of piracy is evident in certain ancient Greek texts'; Homer 'not only condones, but praises' pirates in the Iliad and the Odyssey.",
+      "paraphrasing": "'A favourable view of piracy ... in certain ancient Greek texts' -> 'Homer not only condones, but praises ... pirates'"
+    },
+    "piracy-i19|r2|q24": {
+      "support": "Pirate attacks on grain ships, which were essential to Roman citizens, led to angry voices in the Senate, demanding punishment of the culprits.",
+      "connection": "The summary says attacks on vessels transporting ______ to Rome led to calls for ______; the text names 'grain ships' and 'demanding punishment of the culprits', giving 'grain'.",
+      "paraphrasing": "'vessels transporting ______ to Rome' -> 'grain ships'"
+    },
+    "eradicate-i19|r2|q15": {
+      "support": "Taking personal command, Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each.",
+      "connection": "The question asks about a campaign to 'eradicate piracy'; the text describes how Pompey 'divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each'.",
+      "paraphrasing": "'a campaign to eradicate piracy was carried out' -> 'Pompey divided ... assigning a fleet and commander to each'"
+    },
+    "inhabitant-i19|r2|q20": {
+      "support": "In addition, knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived.",
+      "connection": "The question asks about 'ancient Mediterranean inhabitants'; the text says 'knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived', matching 'escape capture ... because they knew the area so well'.",
+      "paraphrasing": "'escape capture ... because they knew the area so well' -> 'knowledge of the local area helped ... avoid retaliation'"
+    },
+    "inhabitant-i19|r2|q21": {
+      "support": "In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt.",
+      "connection": "The statement says the inhabitants 'depended more on the sea for their livelihood than on farming'; the text says they 'relied heavily on marine resources, including fish and salt'.",
+      "paraphrasing": "'depended more on the sea for their livelihood' -> 'relied heavily on marine resources'"
+    },
+    "capture-i19|r2|q20": {
+      "support": "In addition, knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived.",
+      "connection": "The statement says the inhabitants 'managed to escape capture by the authorities'; the text says their knowledge 'helped the pirates to avoid retaliation once a state fleet arrived'.",
+      "paraphrasing": "'escape capture by the authorities' -> 'avoid retaliation once a state fleet arrived'"
+    },
+    "misinformation-i19|r3|q27": {
+      "support": "Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, or even to protect interpersonal bonds.",
+      "connection": "The question asks what point the writer makes about misinformation in the first paragraph; the sentence gives several motives for deceiving others, matching 'There may be a number of reasons for the spread of misinformation'.",
+      "paraphrasing": "'a number of reasons for the spread of misinformation' -> 'to gain strategic advantage, to motivate others to action, or even to protect interpersonal bonds'"
+    },
+    "misinformation-i19|r3|q28": {
+      "support": "Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication and of the facilitated spread of information.",
+      "connection": "The question asks about the role of technology; 'the means to correct misinformation might, over time, be found' matches 'It may at some point provide us with a solution'.",
+      "paraphrasing": "'It may at some point provide us with a solution' -> 'the means to correct misinformation might, over time, be found'"
+    },
+    "misinformation-i19|r3|q29": {
+      "support": "At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, or reads information online.",
+      "connection": "The question asks what the writer is doing in the fourth paragraph; the sentence presents observations that 'warrant the attention of researchers, policy makers', matching 'outlining which issues connected with misinformation are significant today'.",
+      "paraphrasing": "'outlining which issues ... are significant today' -> 'observations ... warrant the attention of researchers, policy makers'"
+    },
+    "misinformation-i19|r3|q30": {
+      "support": "Organizations such as the Food and Drug Administration (FDA) offer considerable monitoring and notification functions, but these roles typically do not involve preemptive censoring.",
+      "connection": "The question asks what point the writer makes about regulation in the USA; the FDA's roles 'do not involve preemptive censoring', matching 'Regulation fails to prevent misinformation from appearing in the media'.",
+      "paraphrasing": "'Regulation fails to prevent misinformation from appearing in the media' -> 'do not involve preemptive censoring'"
+    },
+    "misinformation-i19|r3|q31": {
+      "support": "Although it is fairly routine for individuals to come across information that is false, the question of exactly how - and when - we mentally label information as true or false has garnered philosophical debate.",
+      "connection": "The summary says 'Although people have ______ to misinformation, there is debate about precisely how and when we label something as true or untrue'; 'fairly routine ... to come across information that is false' gives 'frequent exposure'.",
+      "paraphrasing": "'Although people have ______ to misinformation' -> 'fairly routine ... to come across information that is false'"
+    },
+    "misinformation-i19|r3|q37": {
+      "support": "For corrective campaigns to be persuasive, audiences need to be able to comprehend them, which requires either effort to frame messages in ways that are accessible or effort to educate and sensitize audiences to the possibility of misinformation.",
+      "connection": "The statement says campaigns 'will fail ... if people are unable to understand them'; the text says audiences 'need to be able to comprehend them'.",
+      "paraphrasing": "'if people are unable to understand them' -> 'audiences need to be able to comprehend them'"
+    },
+    "misinformation-i19|r3|q39": {
+      "support": "The journey forward undoubtedly will be a long and arduous one.",
+      "connection": "The statement says it may be possible to overcome misinformation 'in a relatively short period'; the text calls the journey forward 'a long and arduous one', so the statement is false.",
+      "paraphrasing": "'in a relatively short period' -> 'a long and arduous one'"
+    },
+    "regulatory-i19|r3|q30": {
+      "support": "Organizations such as the Food and Drug Administration (FDA) offer considerable monitoring and notification functions, but these roles typically do not involve preemptive censoring.",
+      "connection": "The question is about 'regulation in the USA'; the text says the FDA's roles 'do not involve preemptive censoring', matching 'Regulation fails to prevent misinformation from appearing in the media'.",
+      "paraphrasing": "'Regulation fails to prevent misinformation from appearing in the media' -> 'do not involve preemptive censoring'"
+    },
+    "correct-i19|r3|q37": {
+      "support": "For corrective campaigns to be persuasive, audiences need to be able to comprehend them, which requires either effort to frame messages in ways that are accessible or effort to educate and sensitize audiences to the possibility of misinformation.",
+      "connection": "The statement is about 'Campaigns designed to correct misinformation'; the text says 'For corrective campaigns to be persuasive, audiences need to be able to comprehend them'.",
+      "paraphrasing": "'correct misinformation' -> 'corrective campaigns'"
+    }
+  }
+}

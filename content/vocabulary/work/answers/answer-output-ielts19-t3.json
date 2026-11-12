@@ -1,0 +1,215 @@
+{
+  "tag": "ielts19-t3",
+  "links": {
+    "organic-i19|l1|q8": {
+      "support": "I'd prefer a melon - it's bigger too.",
+      "connection": "The note asks what she will have from the organic shop 'for dessert'; she says 'I'd prefer a melon', supplying the missing item.",
+      "paraphrasing": "'a ______ for dessert' -> 'I'd prefer a melon'"
+    },
+    "organic-i19|l1|q9": {
+      "support": "The owner also sells a lot of spices there that you can put in a curry, and things like coconut.",
+      "connection": "The note lists 'spices and ______' for the organic shop; this sentence names 'spices' and adds 'things like coconut'.",
+      "paraphrasing": "'spices and ______' -> 'spices ... coconut'"
+    },
+    "bean-i19|l1|q8": {
+      "support": "I'd prefer a melon - it's bigger too.",
+      "connection": "The row mentions 'beans and a ______ for dessert'; the missing dessert item is supplied by 'I'd prefer a melon'.",
+      "paraphrasing": "'beans and a ______ for dessert' -> 'I'd prefer a melon'"
+    },
+    "dessert-i19|l1|q8": {
+      "support": "I'd prefer a melon - it's bigger too.",
+      "connection": "The question asks what she will have 'for dessert'; she says 'I'd prefer a melon'.",
+      "paraphrasing": "'for dessert' -> 'I'd prefer a melon'"
+    },
+    "handful-i19|l1|q7": {
+      "support": "Have you ever tried samphire?",
+      "connection": "The table asks what is taken as 'a handful' of the type of seaweed; the speaker introduces it by asking 'Have you ever tried samphire?'.",
+      "paraphrasing": "'a handful of ______ (type of seaweed)' -> 'Have you ever tried samphire?'"
+    },
+    "minibus-i19|l1|q6": {
+      "support": "It's purple and the number is 289.",
+      "connection": "The note asks what word completes 'Take a ______ minibus, number 289'; the reply gives 'purple' and repeats 'the number is 289'.",
+      "paraphrasing": "'Take a ______ minibus, number 289' -> 'It's purple and the number is 289'"
+    },
+    "audio-i19|l2|q19": {
+      "support": "If you don't have time for this, then let them listen to audio books.",
+      "connection": "The question asks for a piece of advice to parents about reading; this sentence advises 'let them listen to audio books', which is the recorded answer.",
+      "paraphrasing": "'Allow children to listen to audio books.' -> 'let them listen to audio books'"
+    },
+    "listen-i19|l2|q19": {
+      "support": "If you don't have time for this, then let them listen to audio books.",
+      "connection": "The question asks for a piece of advice to parents; the speaker says to 'let them listen to audio books', matching 'Allow children to listen to audio books'.",
+      "paraphrasing": "'Allow children to listen to audio books.' -> 'let them listen to audio books'"
+    },
+    "mouse-i19|l3|q24": {
+      "support": "In fact, maybe the focus could be on whether mice can control their own diet.",
+      "connection": "The question asks what question the experiment should address; this sentence proposes focusing on 'whether mice can control their own diet'.",
+      "paraphrasing": "'Are mice capable of controlling their food intake?' -> 'whether mice can control their own diet'"
+    },
+    "mouse-i19|l3|q25": {
+      "support": "Like, you could give some of the mice the chance to be more active, running on a wheel or something, and the others just sit around and don't do much.",
+      "connection": "The question asks about another experiment Clare might consider; this sentence suggests giving some mice 'the chance to be more active' while 'the others just sit around', matching 'varying amounts of exercise'.",
+      "paraphrasing": "'varying amounts of exercise' -> 'more active ... the others just sit around'"
+    },
+    "mouse-i19|l3|q26": {
+      "support": "And all young ones, not a mixture of old and young.",
+      "connection": "The flowchart says 'Choose mice which are all the same ______'; the speaker says 'all young ones, not a mixture of old and young', which points to age.",
+      "paraphrasing": "'all the same ______' -> 'all young ones, not a mixture of old and young'"
+    },
+    "mouse-i19|l3|q27": {
+      "support": "You could use food colouring, that wouldn't hurt them.",
+      "connection": "The flowchart says 'Divide the mice into two groups, each with a different ______'; the suggestion is to 'use food colouring', supplying the answer 'colour'.",
+      "paraphrasing": "'a different ______' -> 'use food colouring'"
+    },
+    "mouse-i19|l3|q28": {
+      "support": "It might be better to give them something like cereal with it.",
+      "connection": "The flowchart says 'Feed group B the same, plus sugar in ______'; the speaker suggests 'something like cereal with it', where 'it' is the sugar.",
+      "paraphrasing": "'plus sugar in ______' -> 'something like cereal with it'"
+    },
+    "conclusion-i19|l3|q22": {
+      "support": "If you could get the right data, the conclusions might be significant, but I suspect it's not going to be easy.",
+      "connection": "The question asks how Jake reacts to Clare's diet experiment; he says 'If you could get the right data ... I suspect it's not going to be easy', matching data that may be difficult to obtain.",
+      "paraphrasing": "'some of the data might be difficult to obtain' -> 'If you could get the right data ... it's not going to be easy'"
+    },
+    "earthworm-i19|l4|q36": {
+      "support": "By feeding on soil, they mix nutrients into it, thereby making it more fertile.",
+      "connection": "The note says earthworms are important because they add ______ to the soil; this sentence says they 'mix nutrients into it'.",
+      "paraphrasing": "'add ______ to the soil' -> 'mix nutrients into it'"
+    },
+    "earthworm-i19|l4|q37": {
+      "support": "The researchers set out to discover whether the introduction of microplastics into the soil and the subsequent ingestion of these by earthworms - would impact soil quality and ultimately inhibit plant growth.",
+      "connection": "The note asks whether microplastics in earthworms affect the ______ of plants; the study set out to see whether ingestion by earthworms would 'inhibit plant growth'.",
+      "paraphrasing": "'affect the ______ of plants' -> 'impact soil quality and ultimately inhibit plant growth'"
+    },
+    "earthworm-i19|l4|q38": {
+      "support": "The result was that the worms lost weight rapidly.",
+      "connection": "The note records '______ loss in earthworms'; the result was that 'the worms lost weight rapidly'.",
+      "paraphrasing": "'______ loss in earthworms' -> 'the worms lost weight rapidly'"
+    },
+    "digestive-i19|l4|q32": {
+      "support": "There is evidence that microplastics harm small creatures in a variety of ways, such as by damaging their mouths, or by impairing their ability to feed, for example when microplastics get lodged in their digestive system.",
+      "connection": "The note says microplastics cause injuries to the ______ of wildlife and affect their digestive systems; this sentence names 'damaging their mouths' and 'their digestive system'.",
+      "paraphrasing": "'injuries to the ______ of wildlife ... digestive systems' -> 'damaging their mouths ... their digestive system'"
+    },
+    "soil-i19|l4|q36": {
+      "support": "By feeding on soil, they mix nutrients into it, thereby making it more fertile.",
+      "connection": "The note says earthworms add ______ to the soil; this sentence says they 'mix nutrients into it', where 'it' is the soil.",
+      "paraphrasing": "'add ______ to the soil' -> 'mix nutrients into it'"
+    },
+    "soil-i19|l4|q39": {
+      "support": "The team also discovered that there was an increase in the amount of acid found in the soil, and this was attributed mainly to the microplastic particles from conventional HDPE plastic.",
+      "connection": "The note asks about 'a rise in the level of ______ in the soil'; the team found 'an increase in the amount of acid found in the soil'.",
+      "paraphrasing": "'a rise in the level of ______ in the soil' -> 'an increase in the amount of acid found in the soil'"
+    },
+    "soil-i19|l4|q40": {
+      "support": "That is, when soil becomes impoverished by the presence of microplastics, not only ecosystems but also the whole of society are negatively impacted.",
+      "connection": "The note says changes to soil damage both ecosystems and ______; this sentence says 'not only ecosystems but also the whole of society are negatively impacted'.",
+      "paraphrasing": "'damage both ecosystems and ______' -> 'not only ecosystems but also the whole of society are negatively impacted'"
+    },
+    "colleague-i19|r1|q1": {
+      "support": "In early April 2019, Dr Ceri Shipton and his colleagues from Australian National University became the first archaeologists to explore Obi, one of many tropical islands in Indonesia's Maluku Utara province.",
+      "connection": "The statement says archaeological research had taken place on Obi before Shipton and his colleagues arrived; the text says they 'became the first archaeologists to explore Obi', contradicting it, so the answer is FALSE.",
+      "paraphrasing": "'before the arrival of Ceri Shipton and his colleagues' -> 'became the first archaeologists to explore Obi'"
+    },
+    "shelter-i19|r1|q7": {
+      "support": "Whatever the reason for the departure, there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they were re-occupied by people who owned pottery as well as items made out of gold and silver.",
+      "connection": "The statement says the Kelo shelters were occupied continuously until about 1,000 years ago; the text says there is 'no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they were re-occupied', so they were not occupied continuously and the answer is FALSE.",
+      "paraphrasing": "'occupied continuously until about 1,000 years ago' -> 'no evidence for use ... until about 1,000 years ago, when they were re-occupied'"
+    },
+    "shelter-i19|r1|q8": {
+      "support": "Just inland from the village of Kelo on Obi's northern coast, Shipton and his colleagues found two caves containing prehistoric rock shelters that were suitable for excavation.",
+      "connection": "The note asks what the rock shelters were inside near Kelo; the sentence says the team 'found two caves containing prehistoric rock shelters'.",
+      "paraphrasing": "'rock shelters inside ______ near the village of Kelo' -> 'two caves containing prehistoric rock shelters'"
+    },
+    "shell-i19|r1|q2": {
+      "support": "Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe to the northeast.",
+      "connection": "The statement says the Kelo clam shell axes were the first ever discovered in the region; the text says such axes had 'also previously been found elsewhere in this region', contradicting 'first', so the answer is FALSE.",
+      "paraphrasing": "'the first clam shell axes ever to be discovered in the region' -> 'had also previously been found elsewhere in this region'"
+    },
+    "clam-i19|r1|q2": {
+      "support": "Axes made from clam shells from roughly the same time had also previously been found elsewhere in this region, including on the nearby island of Gebe to the northeast.",
+      "connection": "The statement says the Kelo clam shell axes were the first ever discovered in the region; the text says axes made from 'clam shells' had 'also previously been found elsewhere in this region', so the answer is FALSE.",
+      "paraphrasing": "'the first clam shell axes ever to be discovered in the region' -> 'clam shells ... had also previously been found elsewhere in this region'"
+    },
+    "islander-i19|r1|q10": {
+      "support": "Judging by the bones which the researchers unearthed in the Kelo caves, people living there mainly hunted the Rothschild's cuscus, a possum-like creature that still lives on Obi today.",
+      "connection": "The note asks for the ______ of an animal that is evidence of what ancient islanders ate; the sentence cites 'the bones' and says people there 'mainly hunted' the cuscus.",
+      "paraphrasing": "'______ of an animal: evidence of what ancient islanders ate' -> 'the bones ... people living there mainly hunted'"
+    },
+    "evidence-i19|r1|q10": {
+      "support": "Judging by the bones which the researchers unearthed in the Kelo caves, people living there mainly hunted the Rothschild's cuscus, a possum-like creature that still lives on Obi today.",
+      "connection": "The note asks for the evidence of what ancient islanders ate; the sentence says 'Judging by the bones' that people there 'mainly hunted' the cuscus.",
+      "paraphrasing": "'evidence of what ancient islanders ate' -> 'Judging by the bones ... mainly hunted'"
+    },
+    "peatlands-i19|r2|q18": {
+      "support": "When peatlands are drained for cultivation, they become net carbonemitters instead of active carbon stores, and, according to Marcel Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions.",
+      "connection": "The note says drained peatlands release ______ instead of storing it; the sentence says they 'become net carbonemitters instead of active carbon stores'.",
+      "paraphrasing": "'release ______ instead of storing it' -> 'become net carbonemitters instead of active carbon stores'"
+    },
+    "peatlands-i19|r2|q22": {
+      "support": "Meanwhile, the remainder of the solid matter in the peat starts to move downwards, in a process known as subsidence'.",
+      "connection": "The note asks what draining peatlands leads to; the sentence describes the solid matter moving downwards 'in a process known as subsidence'.",
+      "paraphrasing": "'Draining peatlands leads to ______' -> 'a process known as subsidence'"
+    },
+    "clearance-i19|r2|q19": {
+      "support": "The clearance of peatlands for planting also increases the risk of forest fires, which release huge amounts of CO.",
+      "connection": "The note says once peatland areas have been cleared, ______ are more likely to occur; the sentence says 'The clearance of peatlands for planting also increases the risk of forest fires'.",
+      "paraphrasing": "'Once peatland areas have been cleared, ______ are more likely to occur' -> 'The clearance of peatlands ... increases the risk of forest fires'"
+    },
+    "flooding-i19|r2|q22": {
+      "support": "Meanwhile, the remainder of the solid matter in the peat starts to move downwards, in a process known as subsidence'.",
+      "connection": "The note asks what draining peatlands leads to, noting that it can eventually result in 'coastal flooding'; the sentence names the downward movement 'a process known as subsidence'.",
+      "paraphrasing": "'Draining peatlands leads to ______' -> 'a process known as subsidence'"
+    },
+    "palm-i19|r2|q20": {
+      "support": "'We're seeing huge peatland forests with extremely high biodiversity value being lost for a few decades of oil palm revenues,' says Silvius.",
+      "connection": "The note says clearing peatland forests for oil palm plantations destroys the ______ of the local environment; the quote says forests with 'extremely high biodiversity value' are 'being lost for ... oil palm revenues'.",
+      "paraphrasing": "'destroys the ______ of the local environment' -> 'extremely high biodiversity value being lost'"
+    },
+    "translation-i19|r3|q29": {
+      "support": "The idea of artificial speech translation has been around for a long time.",
+      "connection": "The question asks what the writer suggests when referring to The Hitchhiker's Guide to the Galaxy; the answer is that artificial speech translation 'was not a surprising development', which matches the idea having 'been around for a long time'.",
+      "paraphrasing": "'artificial speech translation was not a surprising development' -> 'The idea of artificial speech translation has been around for a long time'"
+    },
+    "translation-i19|r3|q32": {
+      "support": "A translation system needs to be simultaneous, like the translator's voice speaking over the foreign politician being interviewed on the TV, rather than in sections that oblige speakers to pause after every few remarks and wait for the translation to be delivered.",
+      "connection": "The statement says 'TV interviews that use translation voiceover methods are successful'; the sentence describes 'the translator's voice speaking over the foreign politician being interviewed on the TV' and says a system 'needs to be simultaneous'.",
+      "paraphrasing": "'TV interviews that use translation voiceover methods are successful' -> 'the translator's voice speaking over the foreign politician being interviewed on the TV ... simultaneous'"
+    },
+    "translation-i19|r3|q33": {
+      "support": "Systems not only need to cope with physical challenges such as noise, they will also need to be socially aware by addressing people in the right way.",
+      "connection": "The statement says future translation systems should address people appropriately; the sentence says they 'will also need to be socially aware by addressing people in the right way'.",
+      "paraphrasing": "'address people appropriately' -> 'socially aware by addressing people in the right way'"
+    },
+    "translation-i19|r3|q35": {
+      "support": "Professors and other professionals will not outsource language awareness to software, though.",
+      "connection": "The statement says translation systems will be seen as very useful throughout the academic and professional worlds; the sentence says 'Professors and other professionals will not outsource language awareness to software', which contradicts it, so the answer is NO.",
+      "paraphrasing": "'very useful throughout the academic and professional worlds' -> 'Professors and other professionals will not outsource language awareness to software'"
+    },
+    "translation-i19|r3|q36": {
+      "support": "Whether it will help people conduct their family lives or relationships is open to question - though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language.",
+      "connection": "The statement says the overall value of automated translation to family life is yet to be shown; the sentence says whether it will help people conduct 'their family lives or relationships is open to question', matching the answer YES.",
+      "paraphrasing": "'The overall value of automated translation to family life is yet to be shown' -> 'Whether it will help people conduct their family lives or relationships is open to question'"
+    },
+    "translation-i19|r3|q37": {
+      "support": "Whether it will help people conduct their family lives or relationships is open to question - though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language.",
+      "connection": "The statement says automated translation could make life more difficult for immigrant families; the sentence instead says it 'could overcome the language barriers that often arise between generations after migration', contradicting the statement, so the answer is NO.",
+      "paraphrasing": "'could make life more difficult for immigrant families' -> 'could overcome the language barriers ... after migration'"
+    },
+    "translator-i19|r3|q28": {
+      "support": "It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year.",
+      "connection": "The question asks what assists the electronic translator during lectures at Karlsruhe Institute of Technology; the sentence lists what 'helps': lecturers 'speak clearly' and 'say much the same thing each year', i.e. the repeated content.",
+      "paraphrasing": "'the repeated content of lectures' -> 'say much the same thing each year'"
+    },
+    "academic-i19|r3|q35": {
+      "support": "Professors and other professionals will not outsource language awareness to software, though.",
+      "connection": "The statement says translation systems will be very useful throughout the academic and professional worlds; the sentence says 'Professors and other professionals' will not 'outsource language awareness to software', contradicting it, so the answer is NO.",
+      "paraphrasing": "'throughout the academic and professional worlds' -> 'Professors and other professionals'"
+    },
+    "lecturer-i19|r3|q28": {
+      "support": "It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year.",
+      "connection": "The question asks what assists the electronic translator during lectures; the answer is the repeated content, because lecturers 'say much the same thing each year'.",
+      "paraphrasing": "'the repeated content of lectures' -> 'lecturers ... say much the same thing each year'"
+    }
+  }
+}

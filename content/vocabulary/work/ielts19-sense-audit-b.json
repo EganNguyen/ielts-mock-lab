@@ -1,0 +1,813 @@
+{
+  "flags": [
+    {
+      "id": "organic-i19",
+      "term": "organic",
+      "issue": "sentence uses the food sense ('organic shop'); gloss is the chemistry sense (carbon compounds)",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "grown or produced without artificial chemicals or pesticides",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "grey-i19",
+      "term": "grey",
+      "issue": "gloss and synonyms are the surname Zane Grey; sentence uses grey as a colour adjective",
+      "drop": false,
+      "pos": "adjective",
+      "meaningEn": "of a colour between black and white, like ash or cloud",
+      "meaningVi": null,
+      "synonyms": [
+        "gray",
+        "ash-coloured",
+        "silvery"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "vocabulary-i19",
+      "term": "vocabulary",
+      "issue": "gloss is a word list/glossary; sentence means the words a person knows and uses",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "all the words that a person knows and uses",
+      "meaningVi": null,
+      "synonyms": [
+        "lexicon",
+        "word stock"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "recommend-i19",
+      "term": "recommend",
+      "issue": "'push for something' is the advocate sense; sentence means suggest a book",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "to suggest that someone should do or choose something",
+      "meaningVi": null,
+      "synonyms": [
+        "suggest",
+        "advise",
+        "propose"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "aloud-i19",
+      "term": "aloud",
+      "issue": "tagged noun; sentence uses it as an adverb ('reading aloud')",
+      "drop": false,
+      "pos": "adverb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "audio-i19",
+      "term": "audio",
+      "issue": "tagged verb; 'audio books' uses audio as an adjective",
+      "drop": false,
+      "pos": "adjective",
+      "meaningEn": "relating to sound, especially recorded sound",
+      "meaningVi": null,
+      "synonyms": [
+        "sound",
+        "acoustic"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "stick-i19",
+      "term": "stick",
+      "issue": "tagged adjective; 'stick drawings' uses stick as a noun modifier",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "author-i19",
+      "term": "author",
+      "issue": "gloss is the verb 'writes professionally'; entry is tagged noun",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a person who writes books, stories or articles",
+      "meaningVi": null,
+      "synonyms": [
+        "writer",
+        "novelist",
+        "essayist"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "listen-i19",
+      "term": "listen",
+      "issue": "tagged noun; sentence uses the verb 'listened'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "supplement-i19",
+      "term": "supplement",
+      "issue": "gloss is a publication supplement; sentence means food supplements; noun stress is wrong",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a pill or product containing nutrients that is added to the diet",
+      "meaningVi": null,
+      "synonyms": [
+        "dietary supplement",
+        "nutritional supplement",
+        "additive"
+      ],
+      "ipa": "/ˈsʌplɪmənt/"
+    },
+    {
+      "id": "mouse-i19",
+      "term": "mouse",
+      "issue": "synonyms 'shiner/black eye' are the bruise sense, not the rodent in the experiment",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "rodent",
+        "house mouse",
+        "field mouse"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "affect-i19",
+      "term": "affect",
+      "issue": "tagged noun; sentence uses the verb 'affects'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to produce a change in someone or something; to influence",
+      "meaningVi": null,
+      "synonyms": [
+        "influence",
+        "impact",
+        "have an effect on"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "weigh-i19",
+      "term": "weigh",
+      "issue": "tagged noun; sentence ('weighing chamber') needs the verb; gloss is 'have a certain weight', not measure weight",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to measure how heavy something is",
+      "meaningVi": null,
+      "synonyms": [
+        "measure",
+        "heft",
+        "check the weight of"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "microplastics-i19",
+      "term": "microplastics",
+      "issue": "placeholder gloss and no IPA",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "very small pieces of plastic that pollute the environment",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˌmaɪkrəʊˈplæstɪks/"
+    },
+    {
+      "id": "soil-i19",
+      "term": "soil",
+      "issue": "gloss is the 'unclean/dirty' sense; sentence means ground where plants grow",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the top layer of the earth in which plants grow",
+      "meaningVi": null,
+      "synonyms": [
+        "earth",
+        "dirt",
+        "ground",
+        "topsoil"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "conclude-i19",
+      "term": "conclude",
+      "issue": "tagged noun; sentence uses the verb 'concluded'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "ecosystems-i19",
+      "term": "ecosystems",
+      "issue": "tagged verb; sentence uses the plural noun",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "germinate-i19",
+      "term": "germinate",
+      "issue": "tagged noun; sentence uses the verb 'germinated'; gloss/synonyms belong to 'shoot'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to start to grow and produce a shoot, as a seed does",
+      "meaningVi": null,
+      "synonyms": [
+        "sprout",
+        "shoot",
+        "bud"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "shell-i19",
+      "term": "shell",
+      "issue": "gloss is an artillery shell; sentence means clam shells (hard outer covering)",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the hard outer covering of a shellfish, egg or nut",
+      "meaningVi": null,
+      "synonyms": [
+        "case",
+        "carapace",
+        "husk"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "clam-i19",
+      "term": "clam",
+      "issue": "tagged adjective; synonyms are slang for a dollar, not the shellfish",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "shellfish",
+        "bivalve",
+        "mollusc"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "peatlands-i19",
+      "term": "peatlands",
+      "issue": "placeholder gloss and no IPA",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "areas of wet, spongy ground made of partly decayed plant material (peat)",
+      "meaningVi": null,
+      "synonyms": [
+        "peat bogs",
+        "mires",
+        "fens"
+      ],
+      "ipa": "/ˈpiːtlændz/"
+    },
+    {
+      "id": "clearance-i19",
+      "term": "clearance",
+      "issue": "gloss is the space/headroom sense; sentence means clearing peatland; IPA drops the r",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the act of removing trees or other things from an area of land",
+      "meaningVi": null,
+      "synonyms": [
+        "clearing",
+        "removal",
+        "deforestation"
+      ],
+      "ipa": "/ˈklɪərəns/"
+    },
+    {
+      "id": "drain-i19",
+      "term": "drain",
+      "issue": "tagged noun and given a noun gloss; sentence uses the passive verb 'are drained'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to remove water from an area of land",
+      "meaningVi": null,
+      "synonyms": [
+        "empty",
+        "remove water from",
+        "dewater"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "palm-i19",
+      "term": "palm",
+      "issue": "gloss is the inner hand; sentence means oil palms (tropical trees)",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a tropical tree with a long trunk and large leaves, grown for oil",
+      "meaningVi": null,
+      "synonyms": [
+        "oil palm",
+        "palm tree"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "environmental-i19",
+      "term": "environmental",
+      "issue": "IPA is malformed ('vaɪəən'), missing the r and an unstressed syllable",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ɪnˌvaɪrənˈmentəl/"
+    },
+    {
+      "id": "flooding-i19",
+      "term": "flooding",
+      "issue": "gloss is a behaviour-therapy technique; sentence means inundation by water",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the covering of land with water, especially from heavy rain or the sea",
+      "meaningVi": null,
+      "synonyms": [
+        "inundation",
+        "deluge",
+        "waterlogging"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "wetlands-i19",
+      "term": "wetlands",
+      "issue": "tagged verb; sentence uses the plural noun",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "lecturer-i19",
+      "term": "lecturer",
+      "issue": "IPA drops the r in '-erer' (/ˈlektʃəə/)",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˈlektʃərə/"
+    },
+    {
+      "id": "takeaway-i19",
+      "term": "takeaway",
+      "issue": "tagged adverb; 'takeaway counter' uses the noun; IPA missing",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˈteɪkəweɪ/"
+    },
+    {
+      "id": "weighing-i19",
+      "term": "weighing",
+      "issue": "gloss is 'careful consideration'; sentence means weighing scales (measuring weight)",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the act of measuring how heavy something is",
+      "meaningVi": null,
+      "synonyms": [
+        "measuring",
+        "weight measurement"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "bakery-i19",
+      "term": "bakery",
+      "issue": "IPA gives /ˈbeɪkəi/, dropping the r",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˈbeɪkəri/"
+    },
+    {
+      "id": "meat-i19",
+      "term": "meat",
+      "issue": "synonym 'kernel' is the 'essential part' sense, not animal flesh as food",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "flesh"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "coat-i19",
+      "term": "coat",
+      "issue": "synonym 'coating' is the layer sense, not the garment in the sentence",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "jacket",
+        "overcoat",
+        "parka"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "marathon-i19",
+      "term": "marathon",
+      "issue": "gloss is the figurative 'long undertaking'; sentence means a 42 km race",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a running race of about 42 kilometres",
+      "meaningVi": null,
+      "synonyms": [
+        "long-distance race",
+        "42-kilometre race"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "motivate-i19",
+      "term": "motivate",
+      "issue": "tagged noun; sentence uses 'motivating' from the verb",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "programme-i19",
+      "term": "programme",
+      "issue": "gloss is a list of event announcements; sentence means a training plan/course",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a plan or course of activities designed to achieve a particular aim",
+      "meaningVi": null,
+      "synonyms": [
+        "scheme",
+        "plan",
+        "course"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "runner-i19",
+      "term": "runner",
+      "issue": "gloss is a smuggler; sentence means a person who runs",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a person who runs, especially in races or for exercise",
+      "meaningVi": null,
+      "synonyms": [
+        "jogger",
+        "athlete",
+        "racer"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "slowly-i19",
+      "term": "slowly",
+      "issue": "IPA has a stray initial s (/sˈləʊli/)",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˈsləʊli/"
+    },
+    {
+      "id": "training-i19",
+      "term": "training",
+      "issue": "tagged verb with a verb gloss; sentence uses the noun 'training sessions'",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": "the process of teaching or learning the skills needed for an activity",
+      "meaningVi": null,
+      "synonyms": [
+        "instruction",
+        "coaching",
+        "practice"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "pack-i19",
+      "term": "pack",
+      "issue": "tagged noun with the 'large number' gloss; sentence uses the verb 'packing up'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to put things into boxes or bags, especially when moving them",
+      "meaningVi": null,
+      "synonyms": [
+        "box up",
+        "bundle",
+        "wrap up"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "attic-i19",
+      "term": "attic",
+      "issue": "tagged adjective with the 'Attica' gloss; sentence means the room under the roof",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": "a room or space just below the roof of a house",
+      "meaningVi": null,
+      "synonyms": [
+        "loft",
+        "garret"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "reforestation-i19",
+      "term": "reforestation",
+      "issue": "IPA is malformed (/ˌrifɔːəˈsteɪʃən/), missing the second syllable r",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˌriːfɒrɪˈsteɪʃən/"
+    },
+    {
+      "id": "restored-i19",
+      "term": "restored",
+      "issue": "adjective entry carries the verb gloss 'return to...'",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "returned to a good or original condition",
+      "meaningVi": null,
+      "synonyms": [
+        "renewed",
+        "rehabilitated",
+        "revived"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "forest-i19",
+      "term": "forest",
+      "issue": "IPA /ˈfɔːɪst/ is not a valid pronunciation of forest",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˈfɒrɪst/"
+    },
+    {
+      "id": "carbon-i19",
+      "term": "carbon",
+      "issue": "synonym 'carbon paper' is a different sense; sentence means carbon dioxide emissions",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "carbon dioxide",
+        "CO2"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "genetic-i19",
+      "term": "genetic",
+      "issue": "gloss describes inherited family traits; sentence means relating to genes",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "relating to genes or heredity",
+      "meaningVi": null,
+      "synonyms": [
+        "hereditary",
+        "genomic",
+        "gene-based"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "butterfly-i19",
+      "term": "butterfly",
+      "issue": "tagged verb with 'flutter like a butterfly'; sentence uses the insect noun",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": "an insect with a thin body and large, often brightly coloured wings",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "phenology-i19",
+      "term": "phenology",
+      "issue": "placeholder gloss and no IPA",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the study of the timing of seasonal events in plants and animals, such as flowering and migration",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/fɪˈnɒlədʒi/"
+    },
+    {
+      "id": "caterpillar-i19",
+      "term": "caterpillar",
+      "issue": "synonym 'cat' is the caterpillar-track vehicle sense, not the insect larva",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "larva",
+        "grub"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "lifecycle-i19",
+      "term": "lifecycle",
+      "issue": "placeholder gloss and no IPA",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the series of stages in the life of an animal or plant",
+      "meaningVi": null,
+      "synonyms": [
+        "life cycle",
+        "development cycle"
+      ],
+      "ipa": "/ˈlaɪfsaɪkl/"
+    },
+    {
+      "id": "describe-i19",
+      "term": "describe",
+      "issue": "tagged noun; sentence uses the verb 'described'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "reproduce-i19",
+      "term": "reproduce",
+      "issue": "tagged noun and glossed as 'make a copy'; sentence means produce offspring",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to produce young",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "increase-i19",
+      "term": "increase",
+      "issue": "tagged noun with a noun gloss; sentence uses the verb 'has increased'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to become larger in amount or number",
+      "meaningVi": null,
+      "synonyms": [
+        "rise",
+        "grow",
+        "go up"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "exploration-i19",
+      "term": "exploration",
+      "issue": "noun entry carries a verb gloss; IPA drops the r",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the act of travelling through or searching an area to discover what is there",
+      "meaningVi": null,
+      "synonyms": [
+        "expedition",
+        "investigation",
+        "survey"
+      ],
+      "ipa": "/ˌekspləˈreɪʃən/"
+    },
+    {
+      "id": "mining-i19",
+      "term": "mining",
+      "issue": "synonym 'minelaying' is the military sense, not extracting minerals",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "excavation",
+        "extraction",
+        "digging"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "estimate-i19",
+      "term": "estimate",
+      "issue": "tagged noun with a noun gloss; sentence uses the verb 'estimates'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to calculate roughly the size, amount or cost of something",
+      "meaningVi": null,
+      "synonyms": [
+        "gauge",
+        "reckon",
+        "approximate"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "underwater-i19",
+      "term": "underwater",
+      "issue": "tagged noun; 'underwater exploration' uses the adjective; IPA stress is misplaced",
+      "drop": false,
+      "pos": "adjective",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˌʌndəˈwɔːtə/"
+    },
+    {
+      "id": "exist-i19",
+      "term": "exist",
+      "issue": "tagged noun; sentence uses the verb 'exist'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "hunter-gatherer-i19",
+      "term": "hunter-gatherer",
+      "issue": "IPA drops the r in 'gatherer'",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˈhʌntə ˈɡæðərə/"
+    },
+    {
+      "id": "worldwide-i19",
+      "term": "worldwide",
+      "issue": "adverb entry carries an adjective gloss and adjective synonyms",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "in or across the whole world",
+      "meaningVi": null,
+      "synonyms": [
+        "globally",
+        "internationally",
+        "all over the world"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "behave-i19",
+      "term": "behave",
+      "issue": "tagged noun; sentence uses the verb 'behaved'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    }
+  ]
+}

@@ -7,7 +7,7 @@ from openpyxl.styles import Alignment, Font, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 
 ROOT = Path('/Users/tim2k/test/ielts-mock-lab')
-DATA = json.loads((ROOT / 'content/vocabulary/ielts20-21-learning-vocabulary.json').read_text())
+DATA = json.loads((ROOT / 'content/vocabulary/ielts19-21-learning-vocabulary.json').read_text())
 OUT = ROOT / 'content/vocabulary'
 items = DATA['items']
 
@@ -51,13 +51,13 @@ for item in items:
         'answer_relationships': '; '.join(sorted({tag for a in item['answers'] for tag in a.get('relevance', [])})),
     })
 
-with (OUT / 'ielts20-21-learning-vocabulary.csv').open('w', newline='', encoding='utf-8-sig') as f:
+with (OUT / 'ielts19-21-learning-vocabulary.csv').open('w', newline='', encoding='utf-8-sig') as f:
     writer = csv.DictWriter(f, fieldnames=list(rows[0]))
     writer.writeheader()
     writer.writerows(rows)
 
 # Anki: no correct answers, no answer evidence details that could reveal a key.
-with (OUT / 'ielts20-21-learning-anki.csv').open('w', newline='', encoding='utf-8-sig') as f:
+with (OUT / 'ielts19-21-learning-anki.csv').open('w', newline='', encoding='utf-8-sig') as f:
     writer = csv.writer(f)
     writer.writerow(['Front', 'Back', 'Tags'])
     for item in items:
@@ -203,5 +203,5 @@ for r, ((book, test, skill, section), sec) in enumerate(sorted(secs.items()), 2)
         cell.border = border
 ws.freeze_panes = 'A2'
 
-wb.save(OUT / 'ielts20-21-learning-vocabulary.xlsx')
+wb.save(OUT / 'ielts19-21-learning-vocabulary.xlsx')
 print('wrote', len(rows), 'entries and', sum(len(i['answers']) for i in items), 'answer links')

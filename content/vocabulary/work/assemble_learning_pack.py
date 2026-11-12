@@ -3,9 +3,16 @@ from pathlib import Path
 from collections import Counter
 
 ROOT = Path('/Users/tim2k/test/ielts-mock-lab')
-SKEL = json.loads((ROOT / 'content/vocabulary/work/learning_skeleton.json').read_text())
+SKEL_FILES = ['learning_skeleton.json', 'ielts19_skeleton.json']
+SKEL = {'items': []}
+for name in SKEL_FILES:
+    path = ROOT / 'content/vocabulary/work' / name
+    if path.exists():
+        SKEL['items'] += json.loads(path.read_text())['items']
 BASE = json.loads((ROOT / 'content/vocabulary/ielts20-21-exam-vocabulary.json').read_text())
 FILES = {
+    ('IELTS 19', 1): 'ielts19-test1.json', ('IELTS 19', 2): 'ielts19-test2.json',
+    ('IELTS 19', 3): 'ielts19-test3.json', ('IELTS 19', 4): 'ielts19-test4.json',
     ('IELTS 20', 1): 'ielts20-test1.json', ('IELTS 20', 2): 'ielts20-test2.json',
     ('IELTS 20', 3): 'ielts20-test3.json', ('IELTS 20', 4): 'ielts20-test4.json',
     ('IELTS 21', 1): 'cambridge21-test1.json', ('IELTS 21', 2): 'cambridge21-test2.json',
@@ -290,17 +297,21 @@ for item in items:
         item.update(fix)
 
 # Sense/POS corrections from the two-pass semantic audit.
-SENSE_FIXES = json.loads((ROOT / 'content/vocabulary/work/sense_fixes.json').read_text())
-for item in items:
-    fix = SENSE_FIXES.get(item['id'])
-    if fix:
-        item.update(fix)
+for name in ('sense_fixes.json', 'ielts19_sense_fixes.json'):
+    path = ROOT / 'content/vocabulary/work' / name
+    if not path.exists():
+        continue
+    SENSE_FIXES = json.loads(path.read_text())
+    for item in items:
+        fix = SENSE_FIXES.get(item['id'])
+        if fix:
+            item.update(fix)
 sections = {(i['primary']['book'], i['primary']['test'], i['primary']['section']) for i in items}
 out = {
     'meta': {
         'title': 'IELTS 20 & 21 — Sentence & Answer Vocabulary',
         'totalItems': len(items),
-        'totalTests': 8,
+        'totalTests': len({(i['primary']['book'], i['primary']['test']) for i in items}),
         'totalSections': len(sections),
         'sentenceImportance': dict(Counter(i['sentence']['importance'] for i in items)),
         'answerItems': sum(1 for i in items if i['answers']),
@@ -309,7 +320,7 @@ out = {
     },
     'items': items,
 }
-(ROOT / 'content/vocabulary/ielts20-21-learning-vocabulary.json').write_text(
+(ROOT / 'content/vocabulary/ielts19-21-learning-vocabulary.json').write_text(
     json.dumps(out, ensure_ascii=False, indent=2))
 print('items', len(items), 'answer items', out['meta']['answerItems'], 'refs', out['meta']['answerReferences'])
 print('sections', len(sections), 'importance', out['meta']['sentenceImportance'])

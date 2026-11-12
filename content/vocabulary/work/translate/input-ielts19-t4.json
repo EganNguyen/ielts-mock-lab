@@ -1,0 +1,2156 @@
+[
+  {
+    "id": "counter-i19",
+    "term": "counter",
+    "ipa": "/ˈkaʊntə/",
+    "pos": "noun",
+    "meaningEn": "table consisting of a horizontal surface over which business is transacted",
+    "meaningVi": "",
+    "synonyms": [
+      "counter"
+    ],
+    "sentenceText": "So, Charlotte, your tasks today are in the bakery section, on the sushi counter, and on the meat and fish counters.",
+    "sentenceChunks": [
+      "So, Charlotte, your tasks today are in the bakery section",
+      "on the sushi counter, and on the meat and fish counters."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "sushi-i19",
+    "term": "sushi",
+    "ipa": "/ˈsuʃi/",
+    "pos": "noun",
+    "meaningEn": "rice (with raw fish) wrapped in seaweed",
+    "meaningVi": "",
+    "synonyms": [
+      "sushi"
+    ],
+    "sentenceText": "So, Charlotte, your tasks today are in the bakery section, on the sushi counter, and on the meat and fish counters.",
+    "sentenceChunks": [
+      "So, Charlotte, your tasks today are in the bakery section",
+      "on the sushi counter, and on the meat and fish counters."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "takeaway-i19",
+    "term": "takeaway",
+    "ipa": "/ˈteɪkəweɪ/",
+    "pos": "noun",
+    "meaningEn": "prepared food that is intended to be eaten off of the premises",
+    "meaningVi": "",
+    "synonyms": [
+      "takeout",
+      "takeout food"
+    ],
+    "sentenceText": "After that, you'll go to the sushi takeaway counter.",
+    "sentenceChunks": [
+      "After that, you'll go to the sushi takeaway counter."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [
+      8
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adverb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "First day at work",
+        "questions": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "id": "weighing-i19",
+    "term": "weighing",
+    "ipa": "/weɪɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the act of measuring how heavy something is",
+    "meaningVi": "",
+    "synonyms": [
+      "measuring",
+      "weight measurement"
+    ],
+    "sentenceText": "You need to clean the area where staff serve customers, including wiping the weighing scales.",
+    "sentenceChunks": [
+      "You need to clean the area where staff serve customers, including wiping the weighing scales."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "bakery-i19",
+    "term": "bakery",
+    "ipa": "/ˈbeɪkəri/",
+    "pos": "noun",
+    "meaningEn": "a workplace where baked goods (breads and cakes and pastries) are produced or sold",
+    "meaningVi": "",
+    "synonyms": [
+      "bakeshop",
+      "bakehouse"
+    ],
+    "sentenceText": "So, Charlotte, your tasks today are in the bakery section, on the sushi counter, and on the meat and fish counters.",
+    "sentenceChunks": [
+      "So, Charlotte, your tasks today are in the bakery section",
+      "on the sushi counter, and on the meat and fish counters."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "meat-i19",
+    "term": "meat",
+    "ipa": "/mit/",
+    "pos": "noun",
+    "meaningEn": "the flesh of animals (including fishes and birds and snails) used as food",
+    "meaningVi": "",
+    "synonyms": [
+      "flesh",
+      "animal protein",
+      "food"
+    ],
+    "sentenceText": "So, Charlotte, your tasks today are in the bakery section, on the sushi counter, and on the meat and fish counters.",
+    "sentenceChunks": [
+      "So, Charlotte, your tasks today are in the bakery section",
+      "on the sushi counter, and on the meat and fish counters."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "coat-i19",
+    "term": "coat",
+    "ipa": "/kəʊt/",
+    "pos": "noun",
+    "meaningEn": "an outer garment that has sleeves and covers the body from shoulder down; worn outdoors",
+    "meaningVi": "",
+    "synonyms": [
+      "jacket",
+      "outer garment",
+      "layer"
+    ],
+    "sentenceText": "Put your coat and rucksack in one of the lockers there.",
+    "sentenceChunks": [
+      "Put your coat and rucksack in one of the lockers there."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [
+      2
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "First day at work",
+        "questions": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": "item-i19",
+    "term": "item",
+    "ipa": "/ˈaɪtəm/",
+    "pos": "noun",
+    "meaningEn": "a distinct part that can be specified separately in a group of things that could be enumerated on a list",
+    "meaningVi": "",
+    "synonyms": [
+      "point",
+      "detail",
+      "particular"
+    ],
+    "sentenceText": "Do I throw those items away?",
+    "sentenceChunks": [
+      "Do I throw those items away?"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "First day at work",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "First day at work",
+        "questions": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "marathon-i19",
+    "term": "marathon",
+    "ipa": "/ˈmerəˌθɑn/",
+    "pos": "noun",
+    "meaningEn": "a running race of about 42 kilometres",
+    "meaningVi": "",
+    "synonyms": [
+      "long-distance race",
+      "42-kilometre race"
+    ],
+    "sentenceText": "My husband had been running marathons for years, but I never dreamed I'd be doing one with him.",
+    "sentenceChunks": [
+      "My husband had been running marathons for years, but I never dreamed I'd be doing one with him."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [
+      19
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Compton Park Runners",
+        "questions": [
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": "confidence-i19",
+    "term": "confidence",
+    "ipa": "/ˈkɑnfədens/",
+    "pos": "noun",
+    "meaningEn": "freedom from doubt; belief in yourself and your abilities",
+    "meaningVi": "",
+    "synonyms": [
+      "assurance",
+      "self-assurance",
+      "self-confidence",
+      "authority"
+    ],
+    "sentenceText": "New members often say to me that they've been put off running either because they lack confidence, or they don't have time, or they think they dislike running.",
+    "sentenceChunks": [
+      "New members often say to me",
+      "that they've been put off running either because they lack confidence, or they don't have time, or they think they dislike running."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "motivate-i19",
+    "term": "motivate",
+    "ipa": "/ˈməʊtəˌveɪt/",
+    "pos": "verb",
+    "meaningEn": "give an incentive for action",
+    "meaningVi": "",
+    "synonyms": [
+      "actuate",
+      "propel",
+      "move",
+      "prompt"
+    ],
+    "sentenceText": "I do think signing up for a race of whatever length is motivating - whether it's 5K or 25K - because it's good to have something to work towards and it gives you a sense of achievement.",
+    "sentenceChunks": [
+      "I do think signing up for a race of whatever length is motivating - whether it's 5K or 25K -",
+      "because it's good to have something to work towards and it gives you a sense of achievement."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "programme-i19",
+    "term": "programme",
+    "ipa": "/ˈprəʊˌgræm/",
+    "pos": "noun",
+    "meaningEn": "a plan or course of activities designed to achieve a particular aim",
+    "meaningVi": "",
+    "synonyms": [
+      "scheme",
+      "plan",
+      "course"
+    ],
+    "sentenceText": "There are many training programmes available online which aim to help people build up to running 5 kilometres.",
+    "sentenceChunks": [
+      "There are many training programmes available online which aim to help people build up to running 5 kilometres."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [
+      11,
+      12
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Compton Park Runners",
+        "questions": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "id": "runner-i19",
+    "term": "runner",
+    "ipa": "/ˈrənə/",
+    "pos": "noun",
+    "meaningEn": "a person who runs, especially in races or for exercise",
+    "meaningVi": "",
+    "synonyms": [
+      "jogger",
+      "athlete",
+      "racer"
+    ],
+    "sentenceText": "She was worried about being left behind and being the slowest runner.",
+    "sentenceChunks": [
+      "She was worried about being left behind and being the slowest runner."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [
+      13,
+      14,
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Compton Park Runners",
+        "questions": [
+          13,
+          14,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dislike-i19",
+    "term": "dislike",
+    "ipa": "/dɪsˈlaɪk/",
+    "pos": "verb",
+    "meaningEn": "have or feel a dislike or distaste for",
+    "meaningVi": "",
+    "synonyms": [
+      "dislike"
+    ],
+    "sentenceText": "New members often say to me that they've been put off running either because they lack confidence, or they don't have time, or they think they dislike running.",
+    "sentenceChunks": [
+      "New members often say to me",
+      "that they've been put off running either because they lack confidence, or they don't have time, or they think they dislike running."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb",
+    "references": []
+  },
+  {
+    "id": "slowly-i19",
+    "term": "slowly",
+    "ipa": "/ˈsləʊli/",
+    "pos": "adverb",
+    "meaningEn": "without speed (`slow' is sometimes used informally for `slowly')",
+    "meaningVi": "",
+    "synonyms": [
+      "slow",
+      "easy",
+      "tardily",
+      "lento"
+    ],
+    "sentenceText": "I expect you've been told to run very slowly until your fitness increases - well, I find that can prevent progress.",
+    "sentenceChunks": [
+      "I expect you've been told to run very slowly until",
+      "your fitness increases - well, I find that can prevent progress."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [
+      13,
+      14
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adverb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Compton Park Runners",
+        "questions": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "id": "training-i19",
+    "term": "training",
+    "ipa": "/ˈtreɪnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the process of teaching or learning the skills needed for an activity",
+    "meaningVi": "",
+    "synonyms": [
+      "instruction",
+      "coaching",
+      "practice"
+    ],
+    "sentenceText": "Leo was worried about having to commit himself to training sessions every week and wasn't sure he'd be able to fit training into his busy schedule.",
+    "sentenceChunks": [
+      "Leo was worried about having to commit himself to training sessions every week",
+      "and wasn't sure he'd be able to fit training into his busy schedule."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Compton Park Runners",
+    "questions": [
+      11,
+      12
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "verb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Compton Park Runners",
+        "questions": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grandfather-i19",
+    "term": "grandfather",
+    "ipa": "/ˈgrænˌfɑðə/",
+    "pos": "noun",
+    "meaningEn": "the father of your father or mother",
+    "meaningVi": "",
+    "synonyms": [
+      "gramps",
+      "granddad",
+      "grandad",
+      "granddaddy"
+    ],
+    "sentenceText": "Ah, my grandfather says, you should put your hand right over the top of the book... or if you can't do that, pull the other books on the shelf aside so that you can hold the whole cover.",
+    "sentenceChunks": [
+      "Ah, my grandfather says, you should put your hand right over the top of the book... or",
+      "if you can't do that, pull the other books on the shelf aside so that you can hold the whole cover."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [
+      21,
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "A second-hand bookshop",
+        "questions": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hardback-i19",
+    "term": "hardback",
+    "ipa": "/ˈhɑːdˌbæk/",
+    "pos": "noun",
+    "meaningEn": "a book with cardboard or cloth or leather covers",
+    "meaningVi": "",
+    "synonyms": [
+      "hardcover"
+    ],
+    "sentenceText": "But I still don't think people value hardbacks like they used to.",
+    "sentenceChunks": [
+      "But I still don't think people value hardbacks like they used to."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [
+      23
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "A second-hand bookshop",
+        "questions": [
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shelf-i19",
+    "term": "shelf",
+    "ipa": "/ʃelf/",
+    "pos": "noun",
+    "meaningEn": "a support that consists of a horizontal surface for holding objects",
+    "meaningVi": "",
+    "synonyms": [
+      "ledge"
+    ],
+    "sentenceText": "Ah, my grandfather says, you should put your hand right over the top of the book... or if you can't do that, pull the other books on the shelf aside so that you can hold the whole cover.",
+    "sentenceChunks": [
+      "Ah, my grandfather says, you should put your hand right over the top of the book... or",
+      "if you can't do that, pull the other books on the shelf aside so that you can hold the whole cover."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "A second-hand bookshop",
+        "questions": [
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pack-i19",
+    "term": "pack",
+    "ipa": "/pæk/",
+    "pos": "verb",
+    "meaningEn": "to put things into boxes or bags, especially when moving them",
+    "meaningVi": "",
+    "synonyms": [
+      "box up",
+      "bundle",
+      "wrap up"
+    ],
+    "sentenceText": "Yes, I'm really looking forward to it and I've just started packing up all my books to put in storage.",
+    "sentenceChunks": [
+      "Yes, I'm really looking forward to it and I've just",
+      "started packing up all my books to put in storage."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "collector-i19",
+    "term": "collector",
+    "ipa": "/kəˈlektə/",
+    "pos": "noun",
+    "meaningEn": "a person who collects things",
+    "meaningVi": "",
+    "synonyms": [
+      "aggregator",
+      "gatherer",
+      "accumulator"
+    ],
+    "sentenceText": "He's quite a collector, you know.",
+    "sentenceChunks": [
+      "He's quite a collector, you know."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "A second-hand bookshop",
+        "questions": [
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unwanted-i19",
+    "term": "unwanted",
+    "ipa": "/ənˈwɔntɪd/",
+    "pos": "adjective",
+    "meaningEn": "not wanted; not needed",
+    "meaningVi": "",
+    "synonyms": [
+      "undesirable"
+    ],
+    "sentenceText": "He hardly ever throws anything away - he just leaves unwanted books by the front door for customers to take.",
+    "sentenceChunks": [
+      "He hardly ever throws anything away - he just leaves",
+      "unwanted books by the front door for customers to take."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "A second-hand bookshop",
+        "questions": [
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attic-i19",
+    "term": "attic",
+    "ipa": "/ˈætɪk/",
+    "pos": "noun",
+    "meaningEn": "a room or space just below the roof of a house",
+    "meaningVi": "",
+    "synonyms": [
+      "loft",
+      "garret"
+    ],
+    "sentenceText": "Well, it's quite big - it's got two floors and an attic, and he stocks all kinds of books really.",
+    "sentenceChunks": [
+      "Well, it's quite big - it's got two floors and",
+      "an attic, and he stocks all kinds of books really."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "attract-i19",
+    "term": "attract",
+    "ipa": "/əˈtrækt/",
+    "pos": "verb",
+    "meaningEn": "direct toward itself or oneself by means of some psychological power or physical attributes",
+    "meaningVi": "",
+    "synonyms": [
+      "pull",
+      "pull in",
+      "draw",
+      "draw in"
+    ],
+    "sentenceText": "He used to keep these books on the first floor, but now there's a new university in my hometown, he's moved them downstairs to attract the students.",
+    "sentenceChunks": [
+      "He used to keep these books on the first floor",
+      "but now there's a new university in my hometown, he's moved them downstairs to attract the students."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "A second-hand bookshop",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb",
+    "references": []
+  },
+  {
+    "id": "reforestation-i19",
+    "term": "reforestation",
+    "ipa": "/ˌriːfɒrɪˈsteɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the restoration (replanting) of a forest that had been reduced by fire or cutting",
+    "meaningVi": "",
+    "synonyms": [
+      "re-afforestation"
+    ],
+    "sentenceText": "They are central to tropical reforestation projects as they accelerate the speed of the recovery process by attracting animals and birds which act as natural seed dispersers.",
+    "sentenceChunks": [
+      "They are central to tropical reforestation projects as they accelerate the speed of the recovery process by attracting animals and birds",
+      "which act as natural seed dispersers."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "identify-i19",
+    "term": "identify",
+    "ipa": "/aɪˈdentəˌfaɪ/",
+    "pos": "verb",
+    "meaningEn": "recognize as being; establish the identity of someone or something",
+    "meaningVi": "",
+    "synonyms": [
+      "place",
+      "name"
+    ],
+    "sentenceText": "In Brazil, it's being used to identify and quantify how parts of the Amazon are being devastated by human activities such as rearing cattle and illegal logging.",
+    "sentenceChunks": [
+      "In Brazil, it's being used to identify and quantify how parts of the",
+      "Amazon are being devastated by human activities such as rearing cattle and illegal logging."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb",
+    "references": []
+  },
+  {
+    "id": "restored-i19",
+    "term": "restored",
+    "ipa": "/rɪˈstɔːd/",
+    "pos": "adjective",
+    "meaningEn": "returned to a good or original condition",
+    "meaningVi": "",
+    "synonyms": [
+      "renewed",
+      "rehabilitated",
+      "revived"
+    ],
+    "sentenceText": "Using seeds with low genetic diversity generally lowers the resilience of restored forests which can make them vulnerable to disease and unable to adapt to climate change.",
+    "sentenceChunks": [
+      "Using seeds with low genetic diversity generally lowers the resilience of restored forests",
+      "which can make them vulnerable to disease and unable to adapt to climate change."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tree planting",
+        "questions": [
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "id": "forest-i19",
+    "term": "forest",
+    "ipa": "/ˈfɒrɪst/",
+    "pos": "noun",
+    "meaningEn": "the trees and other plants in a large densely wooded area",
+    "meaningVi": "",
+    "synonyms": [
+      "wood",
+      "woods",
+      "woodland",
+      "timberland"
+    ],
+    "sentenceText": "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity: the amount of genetic variation found within a species essential for their survival.",
+    "sentenceChunks": [
+      "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity:",
+      "the amount of genetic variation found within a species essential for their survival."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [
+      38,
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tree planting",
+        "questions": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seed-i19",
+    "term": "seed",
+    "ipa": "/sid/",
+    "pos": "noun",
+    "meaningEn": "a small hard fruit",
+    "meaningVi": "",
+    "synonyms": [
+      "seed"
+    ],
+    "sentenceText": "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity: the amount of genetic variation found within a species essential for their survival.",
+    "sentenceChunks": [
+      "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity:",
+      "the amount of genetic variation found within a species essential for their survival."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [
+      33
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tree planting",
+        "questions": [
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "id": "carbon-i19",
+    "term": "carbon",
+    "ipa": "/ˈkɑːbən/",
+    "pos": "noun",
+    "meaningEn": "a chemical element found in coal, oil and all living things; often used for carbon dioxide emissions",
+    "meaningVi": "",
+    "synonyms": [
+      "carbon dioxide",
+      "CO2"
+    ],
+    "sentenceText": "Tree planting now dominates political and popular agendas and is often presented as an easy answer to the climate crisis, as well as a way for business corporations to offset their carbon emissions.",
+    "sentenceChunks": [
+      "Tree planting now dominates political and popular agendas and is often presented as an easy answer",
+      "to the climate crisis, as well as a way for business corporations to offset their carbon emissions."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [
+      32
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tree planting",
+        "questions": [
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "id": "genetic-i19",
+    "term": "genetic",
+    "ipa": "/dʒəˈnetɪk/",
+    "pos": "adjective",
+    "meaningEn": "relating to genes or heredity",
+    "meaningVi": "",
+    "synonyms": [
+      "hereditary",
+      "genomic",
+      "gene-based"
+    ],
+    "sentenceText": "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity: the amount of genetic variation found within a species essential for their survival.",
+    "sentenceChunks": [
+      "To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity:",
+      "the amount of genetic variation found within a species essential for their survival."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [
+      33
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tree planting",
+        "questions": [
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "id": "destruction-i19",
+    "term": "destruction",
+    "ipa": "/dɪˈstrəkʃən/",
+    "pos": "noun",
+    "meaningEn": "the termination of something by causing so much damage to it that it cannot be repaired or no longer exists",
+    "meaningVi": "",
+    "synonyms": [
+      "devastation",
+      "demolition",
+      "wipeout"
+    ],
+    "sentenceText": "Destruction of the mangrove forests had a terrible impact on plant and animal life, and also badly affected the fishing industry, which was a major source of employment for local people living in coastal areas.",
+    "sentenceChunks": [
+      "Destruction of the mangrove forests had a terrible impact on plant and animal life, and also badly affected the fishing industry",
+      "which was a major source of employment for local people living in coastal areas."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tree planting",
+    "questions": [
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tree planting",
+        "questions": [
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "butterfly-i19",
+    "term": "butterfly",
+    "ipa": "/ˈbətəˌflaɪ/",
+    "pos": "noun",
+    "meaningEn": "an insect with a thin body and large, often brightly coloured wings",
+    "meaningVi": "",
+    "synonyms": [
+      "butterfly"
+    ],
+    "sentenceText": "Some species are able to go from caterpillar to butterfly twice or more per year, so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously.",
+    "sentenceChunks": [
+      "Some species are able to go from caterpillar to butterfly twice or more per year",
+      "so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      1,
+      4,
+      5,
+      6
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "verb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          1,
+          4,
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phenology-i19",
+    "term": "phenology",
+    "ipa": "/fɪˈnɒlədʒi/",
+    "pos": "noun",
+    "meaningEn": "the study of the timing of seasonal events in plants and animals, such as flowering and migration",
+    "meaningVi": "",
+    "synonyms": [
+      "phenology"
+    ],
+    "sentenceText": "Indeed, worryingly, it was found that the species in this group that specialise in very specific habitat types, often related to the caterpillar's preferred diet, actually tended to be most at harm from advancing phenology.",
+    "sentenceChunks": [
+      "Indeed, worryingly, it was found",
+      "that the species in this group that specialise in very specific habitat types, often related to the caterpillar's preferred diet, actually tended to be most at harm from advancing phenology."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      3
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-i19",
+    "term": "caterpillar",
+    "ipa": "/ˈkætəˌpɪlə/",
+    "pos": "noun",
+    "meaningEn": "a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth",
+    "meaningVi": "",
+    "synonyms": [
+      "larva",
+      "grub",
+      "worm"
+    ],
+    "sentenceText": "Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals.",
+    "sentenceChunks": [
+      "Butterfly eggs develop into caterpillars and these insects",
+      "which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      2,
+      10,
+      13
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          2,
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lifecycle-i19",
+    "term": "lifecycle",
+    "ipa": "/ˈlaɪfsaɪkl/",
+    "pos": "noun",
+    "meaningEn": "the series of stages in the life of an animal or plant",
+    "meaningVi": "",
+    "synonyms": [
+      "life cycle",
+      "development cycle"
+    ],
+    "sentenceText": "Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals.",
+    "sentenceChunks": [
+      "Butterfly eggs develop into caterpillars and these insects",
+      "which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      3
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-i19",
+    "term": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "pos": "noun",
+    "meaningEn": "change toward something smaller or lower",
+    "meaningVi": "",
+    "synonyms": [
+      "diminution",
+      "declination"
+    ],
+    "sentenceText": "The White Admiral of southern England, a much sought-after butterfly, experienced a significant increase in numbers from the 1920s but has shown a considerable decline in the past 20 years.",
+    "sentenceChunks": [
+      "The White Admiral of southern England, a much sought-after butterfly, experienced a significant increase in numbers from the 1920s",
+      "but has shown a considerable decline in the past 20 years."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "id": "describe-i19",
+    "term": "describe",
+    "ipa": "/dɪˈskraɪb/",
+    "pos": "verb",
+    "meaningEn": "give a description of",
+    "meaningVi": "",
+    "synonyms": [
+      "depict",
+      "draw",
+      "report",
+      "account"
+    ],
+    "sentenceText": "The beautiful High Brown Fritillary, often described as Britain's most endangered butterfly, is in this group.",
+    "sentenceChunks": [
+      "The beautiful High Brown Fritillary, often described as Britain's most endangered butterfly, is in this group."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      3
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reproduce-i19",
+    "term": "reproduce",
+    "ipa": "/ˌriprəˈdus/",
+    "pos": "verb",
+    "meaningEn": "to produce young",
+    "meaningVi": "",
+    "synonyms": [
+      "procreate",
+      "multiply"
+    ],
+    "sentenceText": "One of the main ways in which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce.",
+    "sentenceChunks": [
+      "One of the main ways in",
+      "which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      11
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "id": "increase-i19",
+    "term": "increase",
+    "ipa": "/ˌɪnˈkris/",
+    "pos": "verb",
+    "meaningEn": "to become larger in amount or number",
+    "meaningVi": "",
+    "synonyms": [
+      "rise",
+      "grow",
+      "go up"
+    ],
+    "sentenceText": "In Britain, as the average spring temperature has increased by roughly 0.5 °C over the past 20 years, species have advanced by between three days and a week on average, to keep in line with cooler temperatures.",
+    "sentenceChunks": [
+      "In Britain, as the average spring temperature has increased by roughly 0.5 °C over the past 20 years",
+      "species have advanced by between three days and a week on average, to keep in line with cooler temperatures."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The impact of climate change on butterflies in Britain",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The impact of climate change on butterflies in Britain",
+        "questions": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "deep-sea-i19",
+    "term": "deep-sea",
+    "ipa": "/dip si/",
+    "pos": "adjective",
+    "meaningEn": "of or taking place in the deeper parts of the sea",
+    "meaningVi": "",
+    "synonyms": [
+      "deep-sea"
+    ],
+    "sentenceText": "When Professor Mat Upton found that a microbe from a deep-sea sponge was killing pathogenic bugs in his laboratory, he realised it could be a breakthrough in the fight against antibiotic-resistant superbugs, which are responsible for thousands of deaths a year in the UK alone.",
+    "sentenceChunks": [
+      "When Professor Mat Upton found",
+      "that a microbe from a deep-sea sponge was killing pathogenic bugs in his laboratory, he realised it could be a breakthrough in the fight against antibiotic-resistant superbugs, which are responsible for thousands of deaths a year in the UK alone."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "exploration-i19",
+    "term": "exploration",
+    "ipa": "/ˌekspləˈreɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the act of travelling through or searching an area to discover what is there",
+    "meaningVi": "",
+    "synonyms": [
+      "expedition",
+      "investigation",
+      "survey"
+    ],
+    "sentenceText": "Mining corporations argue that deep- sea exploration could help diversify the supply of metals and point to the fact that demand for resources such as copper, aluminium, cobalt for electric car batteries and other metals to power technology and smartphones, is soaring.",
+    "sentenceChunks": [
+      "Mining corporations argue",
+      "that deep- sea exploration could help diversify the supply of metals and point to the fact that demand for resources such as copper, aluminium, cobalt for electric car batteries and other metals to power technology and smartphones, is soaring."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [
+      17,
+      18,
+      19,
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Deep-sea mining",
+        "questions": [
+          17,
+          18,
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mining-i19",
+    "term": "mining",
+    "ipa": "/ˈmaɪnɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the act of extracting ores or coal etc from the earth",
+    "meaningVi": "",
+    "synonyms": [
+      "extraction",
+      "digging",
+      "excavation"
+    ],
+    "sentenceText": "She argues that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere.",
+    "sentenceChunks": [
+      "She argues that active vents must be off-limits for mining to protect the new knowledge",
+      "and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [
+      21,
+      23,
+      24,
+      25
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Deep-sea mining",
+        "questions": [
+          21,
+          23,
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seabed-i19",
+    "term": "seabed",
+    "ipa": "/ˈsiˌbed/",
+    "pos": "noun",
+    "meaningEn": "the bottom of a sea or ocean",
+    "meaningVi": "",
+    "synonyms": [
+      "ocean floor",
+      "sea floor",
+      "ocean bottom",
+      "sea bottom"
+    ],
+    "sentenceText": "Scientific research - including a recent paper in Marine Policy journal - has suggested the deep seabed, and hydrothermal vents, which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate.",
+    "sentenceChunks": [
+      "Scientific research - including a recent paper in Marine Policy journal - has suggested the deep seabed, and hydrothermal vents",
+      "which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [
+      17,
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Deep-sea mining",
+        "questions": [
+          17,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estimate-i19",
+    "term": "estimate",
+    "ipa": "/ˈestəˌmeɪt/",
+    "pos": "verb",
+    "meaningEn": "to calculate roughly the size, amount or cost of something",
+    "meaningVi": "",
+    "synonyms": [
+      "gauge",
+      "reckon",
+      "approximate"
+    ],
+    "sentenceText": "Upton estimates it could take up to a decade for a newly discovered antibiotic to become a medicine - but the race towards commercial mining in the ocean abyss has already begun.",
+    "sentenceChunks": [
+      "Upton estimates it could take up to a decade for a newly discovered antibiotic to become a medicine -",
+      "but the race towards commercial mining in the ocean abyss has already begun."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Deep-sea mining",
+        "questions": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "id": "underwater-i19",
+    "term": "underwater",
+    "ipa": "/ˌʌndəˈwɔːtə/",
+    "pos": "adjective",
+    "meaningEn": "beneath the surface of the water",
+    "meaningVi": "",
+    "synonyms": [
+      "submerged",
+      "submersed",
+      "subaqueous",
+      "subaquatic"
+    ],
+    "sentenceText": "The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company: 'It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society's rising needs.'",
+    "sentenceChunks": [
+      "The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company:",
+      "'It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society's rising needs.'"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Deep-sea mining",
+        "questions": [
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exist-i19",
+    "term": "exist",
+    "ipa": "/ɪgˈzɪst/",
+    "pos": "verb",
+    "meaningEn": "have an existence, be extant",
+    "meaningVi": "",
+    "synonyms": [
+      "be",
+      "survive",
+      "live",
+      "subsist"
+    ],
+    "sentenceText": "Different methods of extraction exist, but most involve employing some form of converted machinery previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,000 metres, then drawing a seawater slurry, containing rock and other solid particles, from the sea floor to ships on the surface.",
+    "sentenceChunks": [
+      "Different methods of extraction exist",
+      "but most involve employing some form of converted machinery previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,000 metres, then drawing a seawater slurry, containing rock and other solid particles, from the sea floor to ships on the surface."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [
+      16
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Deep-sea mining",
+        "questions": [
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expert-i19",
+    "term": "expert",
+    "ipa": "/ˈekspət/",
+    "pos": "noun",
+    "meaningEn": "a person with special knowledge or ability who performs skillfully",
+    "meaningVi": "",
+    "synonyms": [
+      "expert"
+    ],
+    "sentenceText": "'Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,' according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada.",
+    "sentenceChunks": [
+      "'Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,'",
+      "according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Deep-sea mining",
+    "questions": [
+      23
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Deep-sea mining",
+        "questions": [
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hunter-gatherer-i19",
+    "term": "hunter-gatherer",
+    "ipa": "/ˈhʌntə ˈɡæðərə/",
+    "pos": "noun",
+    "meaningEn": "a member of a hunting and gathering society",
+    "meaningVi": "",
+    "synonyms": [
+      "hunter-gatherer"
+    ],
+    "sentenceText": "With such small population densities, it seems unlikely that prehistoric hunter-gatherer groups had to compete against each other for resources or had any need to develop ruthlessness and competitiveness, or to go to war.",
+    "sentenceChunks": [
+      "With such small population densities, it seems unlikely",
+      "that prehistoric hunter-gatherer groups had to compete against each other for resources or had any need to develop ruthlessness and competitiveness, or to go to war."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "selfishness-i19",
+    "term": "selfishness",
+    "ipa": "/ˈselfɪʃnəs/",
+    "pos": "noun",
+    "meaningEn": "stinginess resulting from a concern for your own welfare and a disregard of others",
+    "meaningVi": "",
+    "synonyms": [
+      "selfishness"
+    ],
+    "sentenceText": "Prehistory is usually seen as a period of intense competition, when life was such a brutal battle that only those with traits such as selfishness, aggression and ruthlessness survived.",
+    "sentenceChunks": [
+      "Prehistory is usually seen as a period of intense competition",
+      "when life was such a brutal battle that only those with traits such as selfishness, aggression and ruthlessness survived."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [
+      30
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The Unselfish Gene",
+        "questions": [
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anthropologist-i19",
+    "term": "anthropologist",
+    "ipa": "/ˌænθrəˈpɑlədʒɪst/",
+    "pos": "noun",
+    "meaningEn": "a social scientist who specializes in anthropology",
+    "meaningVi": "",
+    "synonyms": [
+      "anthropologist"
+    ],
+    "sentenceText": "Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle.",
+    "sentenceChunks": [
+      "Many anthropologists believe",
+      "that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [
+      36
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The Unselfish Gene",
+        "questions": [
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "id": "negative-i19",
+    "term": "negative",
+    "ipa": "/ˈnegətɪv/",
+    "pos": "adjective",
+    "meaningEn": "characterized by or displaying negation or denial or opposition or resistance; having no positive features",
+    "meaningVi": "",
+    "synonyms": [
+      "negative"
+    ],
+    "sentenceText": "At any rate, these negative traits appear to have developed so recently that it doesn't seem feasible to explain them in adaptive or evolutionary terms.",
+    "sentenceChunks": [
+      "At any rate, these negative traits appear to have developed so recently",
+      "that it doesn't seem feasible to explain them in adaptive or evolutionary terms."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The Unselfish Gene",
+        "questions": [
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "psychology-i19",
+    "term": "psychology",
+    "ipa": "/saɪˈkɑlədʒi/",
+    "pos": "noun",
+    "meaningEn": "the science of mental life",
+    "meaningVi": "",
+    "synonyms": [
+      "psychological science"
+    ],
+    "sentenceText": "Evolutionary psychology theorises that present-day human traits developed in prehistoric times, during what is termed the 'environment of evolutionary adaptedness'.",
+    "sentenceChunks": [
+      "Evolutionary psychology theorises that present-day human traits developed in prehistoric",
+      "times, during what is termed the 'environment of evolutionary adaptedness'."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [
+      28
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The Unselfish Gene",
+        "questions": [
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trait-i19",
+    "term": "trait",
+    "ipa": "/treɪt/",
+    "pos": "noun",
+    "meaningEn": "a distinguishing feature of your personal nature",
+    "meaningVi": "",
+    "synonyms": [
+      "trait"
+    ],
+    "sentenceText": "And because survival depended on access to resources - such as rivers, forests and animals - there was bound to be conflict between rival groups, which led to the development of traits such as racism and warfare.",
+    "sentenceChunks": [
+      "And because survival depended on access to resources - such as rivers, forests and animals - there was",
+      "bound to be conflict between rival groups, which led to the development of traits such as racism and warfare."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [
+      37,
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The Unselfish Gene",
+        "questions": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "worldwide-i19",
+    "term": "worldwide",
+    "ipa": "/ˈwəldˈwaɪd/",
+    "pos": "adverb",
+    "meaningEn": "in or across the whole world",
+    "meaningVi": "",
+    "synonyms": [
+      "globally",
+      "internationally",
+      "all over the world"
+    ],
+    "sentenceText": "Women in hunter-gatherer groups worldwide often benefit from a high level of autonomy, being able to select their own marriage partners, decide what work they do and work whenever they choose to.",
+    "sentenceChunks": [
+      "Women in hunter-gatherer groups worldwide often benefit from a high level of autonomy, being able to",
+      "select their own marriage partners, decide what work they do and work whenever they choose to."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [
+      30
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adverb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The Unselfish Gene",
+        "questions": [
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "id": "behave-i19",
+    "term": "behave",
+    "ipa": "/bɪˈheɪv/",
+    "pos": "verb",
+    "meaningEn": "behave in a certain manner; show a certain behavior; conduct or comport oneself",
+    "meaningVi": "",
+    "synonyms": [
+      "act",
+      "do",
+      "acquit",
+      "bear"
+    ],
+    "sentenceText": "Individuals who behaved selfishly and ruthlessly would be less likely to survive, since they would have been ostracised from their groups.",
+    "sentenceChunks": [
+      "Individuals who behaved selfishly and ruthlessly would be less likely",
+      "to survive, since they would have been ostracised from their groups."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 4,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "The Unselfish Gene",
+    "questions": [
+      31,
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 4,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "The Unselfish Gene",
+        "questions": [
+          31,
+          38
+        ]
+      }
+    ]
+  }
+]

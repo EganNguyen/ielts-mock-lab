@@ -1,0 +1,862 @@
+[
+  {
+    "id": "educational-i19",
+    "meaningVi": "mang tính giáo dục",
+    "translation": "Và tôi được biết ông bà tổ chức những chuyến tham quan mang tính giáo dục cho các nhóm học sinh.",
+    "breakdown": [
+      {
+        "text": "And I understand you organise educational visits for school parties.",
+        "vi": "Và tôi được biết ông bà tổ chức những chuyến tham quan mang tính giáo dục cho các nhóm học sinh.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "geography-i19",
+    "meaningVi": "địa lý học",
+    "translation": "Một trọng tâm khác là địa lý.",
+    "breakdown": [
+      {
+        "text": "Another focus is on geography.",
+        "vi": "Một trọng tâm khác là địa lý.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "grassland-i19",
+    "meaningVi": "đồng cỏ",
+    "translation": "Có ba kiểu sinh cảnh chính: đất ngập nước, đồng cỏ và rừng cây.",
+    "breakdown": [
+      {
+        "text": "There are three main types of habitat:",
+        "vi": "Có ba kiểu sinh cảnh chính:",
+        "role": "main idea"
+      },
+      {
+        "text": "wetland, grassland and woodland.",
+        "vi": "đất ngập nước, đồng cỏ và rừng cây.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "self-confidence-i19",
+    "meaningVi": "sự tự tin",
+    "translation": "Điều này mang lại cho chúng sự tự tin lớn hơn.",
+    "breakdown": [
+      {
+        "text": "This gives them greater self-confidence.",
+        "vi": "Điều này mang lại cho chúng sự tự tin lớn hơn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "wildlife-i19",
+    "meaningVi": "động vật hoang dã",
+    "translation": "Được rồi, vậy tôi cho rằng với những sinh cảnh khác nhau này thì có khá nhiều loại động vật hoang dã.",
+    "breakdown": [
+      {
+        "text": "OK, so I suppose with these different habitats there's quite a variety of wildlife.",
+        "vi": "Được rồi, vậy tôi cho rằng với những sinh cảnh khác nhau này thì có khá nhiều loại động vật hoang dã.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "woodland-i19",
+    "meaningVi": "rừng cây; đất có rừng",
+    "translation": "Có ba kiểu sinh cảnh chính: đất ngập nước, đồng cỏ và rừng cây.",
+    "breakdown": [
+      {
+        "text": "There are three main types of habitat:",
+        "vi": "Có ba kiểu sinh cảnh chính:",
+        "role": "main idea"
+      },
+      {
+        "text": "wetland, grassland and woodland.",
+        "vi": "đất ngập nước, đồng cỏ và rừng cây.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "insect-i19",
+    "meaningVi": "côn trùng",
+    "translation": "Đúng là như vậy — rất nhiều loài chim và côn trùng khác nhau, và cả những loài động vật như hươu và thỏ.",
+    "breakdown": [
+      {
+        "text": "There certainly is - a lot of different species of",
+        "vi": "Đúng là như vậy — rất nhiều loài khác nhau của",
+        "role": "main idea"
+      },
+      {
+        "text": "birds and insects, and also animals like deer and rabbits.",
+        "vi": "chim và côn trùng, và cả những loài động vật như hươu và thỏ.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "wetland-i19",
+    "meaningVi": "đất ngập nước",
+    "translation": "Có ba kiểu sinh cảnh chính: đất ngập nước, đồng cỏ và rừng cây.",
+    "breakdown": [
+      {
+        "text": "There are three main types of habitat:",
+        "vi": "Có ba kiểu sinh cảnh chính:",
+        "role": "main idea"
+      },
+      {
+        "text": "wetland, grassland and woodland.",
+        "vi": "đất ngập nước, đồng cỏ và rừng cây.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "garden-i19",
+    "meaningVi": "khu vườn",
+    "translation": "Đừng cố làm quá nhiều việc vào buổi tối đầu tiên vì họ sẽ mệt, nên hãy ăn tối trong nhà hoặc ngoài vườn thay vì đi ăn ngoài.",
+    "breakdown": [
+      {
+        "text": "Don't try to do too much",
+        "vi": "Đừng cố làm quá nhiều việc",
+        "role": "advice"
+      },
+      {
+        "text": "that first evening as they'll be tired, so have dinner in the house or garden rather than eating out.",
+        "vi": "vào buổi tối đầu tiên vì họ sẽ mệt, nên hãy ăn tối trong nhà hoặc ngoài vườn thay vì đi ăn ngoài.",
+        "role": "reason and result"
+      }
+    ]
+  },
+  {
+    "id": "visitor-i19",
+    "meaningVi": "khách đến thăm",
+    "translation": "Trong khuôn viên có một cửa hàng nông sản rất tốt, nơi khách của chúng tôi có thể mua sản phẩm địa phương — cửa hàng nằm trong khu chuồng ngựa cũ, là tòa nhà đầu tiên bạn gặp.",
+    "breakdown": [
+      {
+        "text": "There's an excellent farm shop in the grounds where our visitors can buy local produce - it's in the old stables",
+        "vi": "Trong khuôn viên có một cửa hàng nông sản rất tốt, nơi khách của chúng tôi có thể mua sản phẩm địa phương — cửa hàng nằm trong khu chuồng ngựa cũ",
+        "role": "main idea"
+      },
+      {
+        "text": "which is the first building you come to.",
+        "vi": "là tòa nhà đầu tiên bạn gặp.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "adventure-i19",
+    "meaningVi": "cuộc phiêu lưu; mang tính phiêu lưu",
+    "translation": "Trẻ em có lẽ sẽ thích khu vui chơi phiêu lưu nhất.",
+    "breakdown": [
+      {
+        "text": "Children will probably be most interested in the adventure playground.",
+        "vi": "Trẻ em có lẽ sẽ thích khu vui chơi phiêu lưu nhất.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "demonstration-i19",
+    "meaningVi": "buổi trình diễn",
+    "translation": "Và mọi người đều thích buổi trình diễn nấu món Pháp, buổi này gần như thành công không kém.",
+    "breakdown": [
+      {
+        "text": "And everyone enjoyed the demonstration of French cookery, which was nearly as successful.",
+        "vi": "Và mọi người đều thích buổi trình diễn nấu món Pháp, buổi này gần như thành công không kém.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "footbridge-i19",
+    "meaningVi": "cầu đi bộ",
+    "translation": "Ở Malatte, họ đang dự định đánh dấu sự kiện này bằng việc xây một cây cầu đi bộ trong công viên của thành phố.",
+    "breakdown": [
+      {
+        "text": "In Malatte, they're planning to mark this by building a footbridge in the municipal park.",
+        "vi": "Ở Malatte, họ đang dự định đánh dấu sự kiện này bằng việc xây một cây cầu đi bộ trong công viên của thành phố.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "playground-i19",
+    "meaningVi": "khu vui chơi; sân chơi",
+    "translation": "Trẻ em có lẽ sẽ thích khu vui chơi phiêu lưu nhất.",
+    "breakdown": [
+      {
+        "text": "Children will probably be most interested in the adventure playground.",
+        "vi": "Trẻ em có lẽ sẽ thích khu vui chơi phiêu lưu nhất.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "host-i19",
+    "meaningVi": "chủ nhà; người đón tiếp",
+    "translation": "Chúng tôi mong được chào đón những vị khách Pháp ở đây vào tuần tới, và tôi biết rằng nhiều người trong số các bạn ở đây sẽ đón tiếp cá nhân hoặc gia đình.",
+    "breakdown": [
+      {
+        "text": "We're looking forward to welcoming our French visitors here next week, and I know",
+        "vi": "Chúng tôi mong được chào đón những vị khách Pháp ở đây vào tuần tới, và tôi biết",
+        "role": "main idea"
+      },
+      {
+        "text": "that many of you here will be hosting individuals or families.",
+        "vi": "rằng nhiều người trong số các bạn ở đây sẽ đón tiếp cá nhân hoặc gia đình.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "cheese-i19",
+    "meaningVi": "phô mai",
+    "translation": "Chúng tôi đã học cách phô mai được sản xuất trong vùng và có cơ hội nếm thử các sản phẩm.",
+    "breakdown": [
+      {
+        "text": "We learned how cheese is produced in the region and had the chance to taste the products.",
+        "vi": "Chúng tôi đã học cách phô mai được sản xuất trong vùng và có cơ hội nếm thử các sản phẩm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "restaurant-i19",
+    "meaningVi": "nhà hàng",
+    "translation": "À, chúng có thể mang tên của một nhà hàng, nhưng thực ra chúng chỉ là một cơ sở nấu ăn dành cho các bữa ăn giao tận nơi — công chúng không bao giờ đến đó.",
+    "breakdown": [
+      {
+        "text": "Well, they might have the name of a restaurant",
+        "vi": "À, chúng có thể mang tên của một nhà hàng",
+        "role": "concession"
+      },
+      {
+        "text": "but actually they're a cooking facility just for delivery meals - the public don't ever go there.",
+        "vi": "nhưng thực ra chúng chỉ là một cơ sở nấu ăn dành cho các bữa ăn giao tận nơi — công chúng không bao giờ đến đó.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "label-i19",
+    "meaningVi": "nhãn",
+    "translation": "Khi nhãn nhẵn thì thức ăn còn tươi, và khi bạn có thể cảm thấy những nốt sần trên nhãn thì điều đó nghĩa là thức ăn đã hỏng.",
+    "breakdown": [
+      {
+        "text": "When the label's smooth, the food is fresh and then when you",
+        "vi": "Khi nhãn nhẵn thì thức ăn còn tươi, và khi bạn",
+        "role": "condition"
+      },
+      {
+        "text": "can feel bumps on the label, that means the food's gone bad.",
+        "vi": "có thể cảm thấy những nốt sần trên nhãn, điều đó nghĩa là thức ăn đã hỏng.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "chef-i19",
+    "meaningVi": "đầu bếp",
+    "translation": "Một điều tôi nhận thấy là số lượng sản phẩm mang thương hiệu gắn với các đầu bếp nổi tiếng — người ta xem họ nấu ăn trên TV rồi mua những thứ như gia vị trộn sẵn hoặc thực phẩm đông lạnh có tên của đầu bếp đó...",
+    "breakdown": [
+      {
+        "text": "One thing I've noticed is the number of branded products related to celebrity chefs - people watch them",
+        "vi": "Một điều tôi nhận thấy là số lượng sản phẩm mang thương hiệu gắn với các đầu bếp nổi tiếng — người ta xem họ",
+        "role": "main idea"
+      },
+      {
+        "text": "cooking on TV and then buy things like spice mixes or frozen foods with the chef's name on...",
+        "vi": "nấu ăn trên TV rồi mua những thứ như gia vị trộn sẵn hoặc thực phẩm đông lạnh có tên của đầu bếp đó...",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "celebrity-i19",
+    "meaningVi": "người nổi tiếng",
+    "translation": "Một điều tôi nhận thấy là số lượng sản phẩm mang thương hiệu gắn với các đầu bếp nổi tiếng — người ta xem họ nấu ăn trên TV rồi mua những thứ như gia vị trộn sẵn hoặc thực phẩm đông lạnh có tên của đầu bếp đó...",
+    "breakdown": [
+      {
+        "text": "One thing I've noticed is the number of branded products related to celebrity chefs - people watch them",
+        "vi": "Một điều tôi nhận thấy là số lượng sản phẩm mang thương hiệu gắn với các đầu bếp nổi tiếng — người ta xem họ",
+        "role": "main idea"
+      },
+      {
+        "text": "cooking on TV and then buy things like spice mixes or frozen foods with the chef's name on...",
+        "vi": "nấu ăn trên TV rồi mua những thứ như gia vị trộn sẵn hoặc thực phẩm đông lạnh có tên của đầu bếp đó...",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "lactose-free-i19",
+    "meaningVi": "không chứa lactose",
+    "translation": "Bạn có nghĩ sẽ có nhiều người quan tâm hơn đến thực phẩm không chứa gluten và lactose không?",
+    "breakdown": [
+      {
+        "text": "Do you think there'll be more interest in gluten- and lactose-free food?",
+        "vi": "Bạn có nghĩ sẽ có nhiều người quan tâm hơn đến thực phẩm không chứa gluten và lactose không?",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "mushroom-i19",
+    "meaningVi": "nấm",
+    "translation": "Bạn có biết ngày càng nhiều người đang dùng đủ loại nấm khác nhau để chữa nhiều vấn đề sức khỏe không?",
+    "breakdown": [
+      {
+        "text": "Did you know more and more people are using all",
+        "vi": "Bạn có biết ngày càng nhiều người đang dùng đủ",
+        "role": "main idea"
+      },
+      {
+        "text": "sorts of different mushrooms now, to treat different health concerns?",
+        "vi": "loại nấm khác nhau để chữa nhiều vấn đề sức khỏe không?",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "packaging-i19",
+    "meaningVi": "bao bì",
+    "translation": "Một điều ai cũng nhận thức được là cần giảm bớt bao bì không cần thiết — nhưng gần như mọi thứ bạn mua ở siêu thị vẫn được bọc bằng nhựa.",
+    "breakdown": [
+      {
+        "text": "One thing everyone's aware of is the need for a reduction in unnecessary packaging -",
+        "vi": "Một điều ai cũng nhận thức được là cần giảm bớt bao bì không cần thiết —",
+        "role": "main idea"
+      },
+      {
+        "text": "but just about everything you buy in supermarkets is still covered in plastic.",
+        "vi": "nhưng gần như mọi thứ bạn mua ở siêu thị vẫn được bọc bằng nhựa.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "printing-i19",
+    "meaningVi": "việc in; kỹ thuật in",
+    "translation": "Nhưng các bạn đã dùng kỹ thuật in 3D, đúng không, để tạo hình hỗn hợp thành bánh quy?",
+    "breakdown": [
+      {
+        "text": "But you were using 3-D printing, weren't you, to make the paste into biscuits?",
+        "vi": "Nhưng các bạn đã dùng kỹ thuật in 3D, đúng không, để tạo hình hỗn hợp thành bánh quy?",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "neolithic-i19",
+    "meaningVi": "thuộc thời kỳ đồ đá mới",
+    "translation": "Trong bài thuyết trình hôm nay, tôi sẽ nói về Céide Fields ở phía tây bắc Ireland, một trong những di chỉ thời đồ đá mới lớn nhất thế giới.",
+    "breakdown": [
+      {
+        "text": "For my presentation today, I'm going to talk about the Céide Fields in",
+        "vi": "Trong bài thuyết trình hôm nay, tôi sẽ nói về Céide Fields ở",
+        "role": "main idea"
+      },
+      {
+        "text": "the northwest of Ireland, one of the largest Neolithic sites in the world.",
+        "vi": "phía tây bắc Ireland, một trong những di chỉ thời đồ đá mới lớn nhất thế giới.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "farmer-i19",
+    "meaningVi": "nông dân",
+    "translation": "Những người nông dân ở Céide hẳn đã được hưởng một giai đoạn tương đối khô ráo, nhưng điều này bắt đầu thay đổi và điều kiện trở nên ẩm ướt hơn do mưa nhiều hơn.",
+    "breakdown": [
+      {
+        "text": "The farmers at Céide would have enjoyed a relatively dry period",
+        "vi": "Những người nông dân ở Céide hẳn đã được hưởng một giai đoạn tương đối khô ráo",
+        "role": "main idea"
+      },
+      {
+        "text": "but this began to change and the conditions became wetter as there was a lot more rain.",
+        "vi": "nhưng điều này bắt đầu thay đổi và điều kiện trở nên ẩm ướt hơn do mưa nhiều hơn.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "innovation-i19",
+    "meaningVi": "phát kiến; sự đổi mới",
+    "translation": "Đây là một trong nhiều phát kiến và cho thấy những người nông dân thời đồ đá mới là những người đầu tiên nấu ăn trong nhà.",
+    "breakdown": [
+      {
+        "text": "This is one of many innovations and indicates that",
+        "vi": "Đây là một trong nhiều phát kiến và cho thấy",
+        "role": "main idea"
+      },
+      {
+        "text": "the Neolithic farmers were the first people to cook indoors.",
+        "vi": "những người nông dân thời đồ đá mới là những người đầu tiên nấu ăn trong nhà.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "northwest-i19",
+    "meaningVi": "phía tây bắc",
+    "translation": "Trong bài thuyết trình hôm nay, tôi sẽ nói về Céide Fields ở phía tây bắc Ireland, một trong những di chỉ thời đồ đá mới lớn nhất thế giới.",
+    "breakdown": [
+      {
+        "text": "For my presentation today, I'm going to talk about the Céide Fields in",
+        "vi": "Trong bài thuyết trình hôm nay, tôi sẽ nói về Céide Fields ở",
+        "role": "main idea"
+      },
+      {
+        "text": "the northwest of Ireland, one of the largest Neolithic sites in the world.",
+        "vi": "phía tây bắc Ireland, một trong những di chỉ thời đồ đá mới lớn nhất thế giới.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "preserve-i19",
+    "meaningVi": "bảo quản; gìn giữ",
+    "translation": "Các vật thể vẫn được bảo quản tốt đến vậy trong những điều kiện này là nhờ độ axit của than bùn và sự thiếu hụt oxy.",
+    "breakdown": [
+      {
+        "text": "Objects remain so well preserved in these conditions because of",
+        "vi": "Các vật thể vẫn được bảo quản tốt đến vậy trong những điều kiện này là nhờ",
+        "role": "main idea"
+      },
+      {
+        "text": "the acidity of the peat and the deficiency of oxygen.",
+        "vi": "độ axit của than bùn và sự thiếu hụt oxy.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "relative-i19",
+    "meaningVi": "tương đối",
+    "translation": "Những người nông dân thời đồ đá mới ở Céide hẳn đã được hưởng vài thế kỷ hòa bình và ổn định tương đối.",
+    "breakdown": [
+      {
+        "text": "The Neolithic farmers at Céide would have enjoyed several centuries of relative peace and stability.",
+        "vi": "Những người nông dân thời đồ đá mới ở Céide hẳn đã được hưởng vài thế kỷ hòa bình và ổn định tương đối.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "cook-i19",
+    "meaningVi": "nấu ăn",
+    "translation": "Đây là một trong nhiều phát kiến và cho thấy những người nông dân thời đồ đá mới là những người đầu tiên nấu ăn trong nhà.",
+    "breakdown": [
+      {
+        "text": "This is one of many innovations and indicates that",
+        "vi": "Đây là một trong nhiều phát kiến và cho thấy",
+        "role": "main idea"
+      },
+      {
+        "text": "the Neolithic farmers were the first people to cook indoors.",
+        "vi": "những người nông dân thời đồ đá mới là những người đầu tiên nấu ăn trong nhà.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "dating-i19",
+    "meaningVi": "việc định tuổi; phương pháp xác định niên đại",
+    "translation": "Phương pháp định tuổi bằng carbon sau đó đã chứng minh rằng di chỉ này có niên đại hơn 5.000 năm và là di chỉ thời đồ đá mới lớn nhất ở Ireland.",
+    "breakdown": [
+      {
+        "text": "Carbon dating later proved that the site was over 5,000",
+        "vi": "Phương pháp định tuổi bằng carbon sau đó đã chứng minh rằng di chỉ này có niên đại hơn 5.000",
+        "role": "main idea"
+      },
+      {
+        "text": "years old and was the largest Neolithic site in Ireland.",
+        "vi": "năm và là di chỉ thời đồ đá mới lớn nhất ở Ireland.",
+        "role": "object clause"
+      }
+    ]
+  },
+  {
+    "id": "racket-i19",
+    "meaningVi": "cây vợt",
+    "translation": "Do đó, những cây vợt cụ thể mà giới thượng lưu thế giới sử dụng thực ra không dễ có được đối với công chúng; thay vào đó, mỗi cây vợt được làm riêng để phù hợp với người chơi sử dụng nó.",
+    "breakdown": [
+      {
+        "text": "Consequently, the specific rackets used by the world's elite are not actually readily available to the public;",
+        "vi": "Do đó, những cây vợt cụ thể mà giới thượng lưu thế giới sử dụng thực ra không dễ có được đối với công chúng;",
+        "role": "result"
+      },
+      {
+        "text": "rather, each racket is individually made to suit the player who uses it.",
+        "vi": "thay vào đó, mỗi cây vợt được làm riêng để phù hợp với người chơi sử dụng nó.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "string-i19",
+    "meaningVi": "dây vợt",
+    "translation": "Cái trước phổ biến hơn nhiều so với cái sau: việc chọn dây và độ căng khi lắp dây là điều mà gần như mọi tay vợt chuyên nghiệp đều thử nghiệm.",
+    "breakdown": [
+      {
+        "text": "The former is far more common than the latter:",
+        "vi": "Cái trước phổ biến hơn nhiều so với cái sau:",
+        "role": "main idea"
+      },
+      {
+        "text": "the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with.",
+        "vi": "việc chọn dây và độ căng khi lắp dây là điều mà gần như mọi tay vợt chuyên nghiệp đều thử nghiệm.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "frame-i19",
+    "meaningVi": "khung vợt",
+    "translation": "Người chơi có sở thích riêng về hình dạng tay cầm và một số người sẽ cho đúc tay cầm của cây vợt này lên khung của một cây vợt khác.",
+    "breakdown": [
+      {
+        "text": "Players have individual preferences for the shape of the handle and some will",
+        "vi": "Người chơi có sở thích riêng về hình dạng tay cầm và một số người sẽ",
+        "role": "main idea"
+      },
+      {
+        "text": "have the handle of one racket moulded onto the frame of a different racket.",
+        "vi": "cho đúc tay cầm của cây vợt này lên khung của một cây vợt khác.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "tennis-i19",
+    "meaningVi": "quần vợt",
+    "translation": "Những thay đổi ở vợt chủ yếu bắt đầu từ những năm 1970, khi tay vợt nghiệp dư người Đức Werner Fischer bắt đầu chơi với cây vợt được gọi là vợt căng dây kiểu spaghetti.",
+    "breakdown": [
+      {
+        "text": "Racket modifications mainly date back to the 1970s, when the amateur",
+        "vi": "Những thay đổi ở vợt chủ yếu bắt đầu từ những năm 1970, khi tay vợt nghiệp dư",
+        "role": "main idea"
+      },
+      {
+        "text": "German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket.",
+        "vi": "người Đức Werner Fischer bắt đầu chơi với cây vợt được gọi là vợt căng dây kiểu spaghetti.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "handle-i19",
+    "meaningVi": "tay cầm",
+    "translation": "Người chơi có sở thích riêng về hình dạng tay cầm và một số người sẽ cho đúc tay cầm của cây vợt này lên khung của một cây vợt khác.",
+    "breakdown": [
+      {
+        "text": "Players have individual preferences for the shape of the handle and some will",
+        "vi": "Người chơi có sở thích riêng về hình dạng tay cầm và một số người sẽ",
+        "role": "main idea"
+      },
+      {
+        "text": "have the handle of one racket moulded onto the frame of a different racket.",
+        "vi": "cho đúc tay cầm của cây vợt này lên khung của một cây vợt khác.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "spaghetti-strung-i19",
+    "meaningVi": "được căng dây kiểu spaghetti",
+    "translation": "Những thay đổi ở vợt chủ yếu bắt đầu từ những năm 1970, khi tay vợt nghiệp dư người Đức Werner Fischer bắt đầu chơi với cây vợt được gọi là vợt căng dây kiểu spaghetti.",
+    "breakdown": [
+      {
+        "text": "Racket modifications mainly date back to the 1970s, when the amateur",
+        "vi": "Những thay đổi ở vợt chủ yếu bắt đầu từ những năm 1970, khi tay vợt nghiệp dư",
+        "role": "main idea"
+      },
+      {
+        "text": "German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket.",
+        "vi": "người Đức Werner Fischer bắt đầu chơi với cây vợt được gọi là vợt căng dây kiểu spaghetti.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "stringer-i19",
+    "meaningVi": "thợ căng dây vợt",
+    "translation": "“Các tay vợt chuyên nghiệp đi lưu diễn đều cho chỉnh cây vợt theo nhu cầu riêng của họ,” Colin Triplow, một thợ căng dây vợt chuyên nghiệp ở Anh, cho biết.",
+    "breakdown": [
+      {
+        "text": "'Touring professionals have their rackets customised to their specific needs,' says Colin Triplow, a UK-based professional racket stringer.",
+        "vi": "“Các tay vợt chuyên nghiệp đi lưu diễn đều cho chỉnh cây vợt theo nhu cầu riêng của họ,” Colin Triplow, một thợ căng dây vợt chuyên nghiệp ở Anh, cho biết.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "adjust-i19",
+    "meaningVi": "điều chỉnh",
+    "translation": "Họ giải thích cách họ không chỉ điều chỉnh chiều dài vợt mà còn thử nghiệm cả những loại sơn khác nhau.",
+    "breakdown": [
+      {
+        "text": "They explain how they have adjusted not only racket length, but even experimented with different kinds of paint.",
+        "vi": "Họ giải thích cách họ không chỉ điều chỉnh chiều dài vợt mà còn thử nghiệm cả những loại sơn khác nhau.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "coastline-i19",
+    "meaningVi": "đường bờ biển",
+    "translation": "Hầu hết đều có thuyền riêng, có kỹ năng đi biển tốt và hiểu biết vô song về đường bờ biển cùng các tuyến hàng hải địa phương.",
+    "breakdown": [
+      {
+        "text": "Most had their own boats, possessed good seafaring skills",
+        "vi": "Hầu hết đều có thuyền riêng, có kỹ năng đi biển tốt",
+        "role": "main idea"
+      },
+      {
+        "text": "and unsurpassed knowledge of the local coastline and sailing routes.",
+        "vi": "và hiểu biết vô song về đường bờ biển cùng các tuyến hàng hải địa phương.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "merchant-i19",
+    "meaningVi": "thương nhân; tàu buôn",
+    "translation": "Tuy vậy, từ thiên niên kỷ thứ nhất đến thiên niên kỷ thứ ba TCN, hàng nghìn năm trước khi những kẻ ngông cuồng này bắt đầu gieo nỗi sợ khắp vùng Caribbean, cướp biển đã lang thang khắp Địa Trung Hải, cướp phá các tàu buôn và đe dọa những tuyến thương mại quan trọng.",
+    "breakdown": [
+      {
+        "text": "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began",
+        "vi": "Tuy vậy, từ thiên niên kỷ thứ nhất đến thiên niên kỷ thứ ba TCN, hàng nghìn năm trước khi những kẻ ngông cuồng này bắt đầu",
+        "role": "time frame"
+      },
+      {
+        "text": "spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes.",
+        "vi": "gieo nỗi sợ khắp vùng Caribbean, cướp biển đã lang thang khắp Địa Trung Hải, cướp phá các tàu buôn và đe dọa những tuyến thương mại quan trọng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "pirate-i19",
+    "meaningVi": "cướp biển",
+    "translation": "Tuy vậy, từ thiên niên kỷ thứ nhất đến thiên niên kỷ thứ ba TCN, hàng nghìn năm trước khi những kẻ ngông cuồng này bắt đầu gieo nỗi sợ khắp vùng Caribbean, cướp biển đã lang thang khắp Địa Trung Hải, cướp phá các tàu buôn và đe dọa những tuyến thương mại quan trọng.",
+    "breakdown": [
+      {
+        "text": "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began",
+        "vi": "Tuy vậy, từ thiên niên kỷ thứ nhất đến thiên niên kỷ thứ ba TCN, hàng nghìn năm trước khi những kẻ ngông cuồng này bắt đầu",
+        "role": "time frame"
+      },
+      {
+        "text": "spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes.",
+        "vi": "gieo nỗi sợ khắp vùng Caribbean, cướp biển đã lang thang khắp Địa Trung Hải, cướp phá các tàu buôn và đe dọa những tuyến thương mại quan trọng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "piracy-i19",
+    "meaningVi": "nạn cướp biển",
+    "translation": "Mặc dù nạn cướp biển ở Địa Trung Hải lần đầu được ghi chép ở Ai Cập cổ đại dưới triều đại Pharaoh Amenhotep III (khoảng 1390–1353 TCN), có lý do để cho rằng nó đã xuất hiện từ trước nền văn minh hùng mạnh này.",
+    "breakdown": [
+      {
+        "text": "Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of",
+        "vi": "Mặc dù nạn cướp biển ở Địa Trung Hải lần đầu được ghi chép ở Ai Cập cổ đại dưới triều đại",
+        "role": "concession"
+      },
+      {
+        "text": "Pharaoh Amenhotep III (c 1390-1353 BCE), it is reasonable to assume it predated this powerful civilisation.",
+        "vi": "Pharaoh Amenhotep III (khoảng 1390–1353 TCN), có lý do để cho rằng nó đã xuất hiện từ trước nền văn minh hùng mạnh này.",
+        "role": "main clause"
+      }
+    ]
+  },
+  {
+    "id": "route-i19",
+    "meaningVi": "tuyến đường",
+    "translation": "Tuy vậy, từ thiên niên kỷ thứ nhất đến thiên niên kỷ thứ ba TCN, hàng nghìn năm trước khi những kẻ ngông cuồng này bắt đầu gieo nỗi sợ khắp vùng Caribbean, cướp biển đã lang thang khắp Địa Trung Hải, cướp phá các tàu buôn và đe dọa những tuyến thương mại quan trọng.",
+    "breakdown": [
+      {
+        "text": "Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began",
+        "vi": "Tuy vậy, từ thiên niên kỷ thứ nhất đến thiên niên kỷ thứ ba TCN, hàng nghìn năm trước khi những kẻ ngông cuồng này bắt đầu",
+        "role": "time frame"
+      },
+      {
+        "text": "spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes.",
+        "vi": "gieo nỗi sợ khắp vùng Caribbean, cướp biển đã lang thang khắp Địa Trung Hải, cướp phá các tàu buôn và đe dọa những tuyến thương mại quan trọng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "eradicate-i19",
+    "meaningVi": "xóa bỏ; tiêu diệt hoàn toàn",
+    "translation": "Dưới sự chỉ huy của tướng La Mã Pompey, Rome đã xóa bỏ nạn cướp biển, biến Địa Trung Hải thành “Mare Nostrum” (Biển của chúng ta).",
+    "breakdown": [
+      {
+        "text": "Under the command of the Roman general Pompey, Rome",
+        "vi": "Dưới sự chỉ huy của tướng La Mã Pompey, Rome",
+        "role": "context"
+      },
+      {
+        "text": "eradicated piracy, transforming the Mediterranean into 'Mare Nostrum' (Our Sea).",
+        "vi": "đã xóa bỏ nạn cướp biển, biến Địa Trung Hải thành “Mare Nostrum” (Biển của chúng ta).",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "inhabitant-i19",
+    "meaningVi": "cư dân",
+    "translation": "Vào thời cổ đại, cư dân những vùng này phụ thuộc nhiều vào nguồn tài nguyên biển, bao gồm cá và muối.",
+    "breakdown": [
+      {
+        "text": "In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt.",
+        "vi": "Vào thời cổ đại, cư dân những vùng này phụ thuộc nhiều vào nguồn tài nguyên biển, bao gồm cá và muối.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "capture-i19",
+    "meaningVi": "bắt giữ; chiếm giữ",
+    "translation": "Theo nhà hùng biện Hy Lạp Demosthenes, vào năm 355 TCN, các sứ giả Athens đã đi chệch khỏi chuyến công du chính thức để bắt giữ một con tàu khởi hành từ Ai Cập, lấy của cải tìm thấy trên tàu cho riêng mình!",
+    "breakdown": [
+      {
+        "text": "According to the Greek orator Demosthenes, in 355 BCE, Athenian ambassadors made a detour from their",
+        "vi": "Theo nhà hùng biện Hy Lạp Demosthenes, vào năm 355 TCN, các sứ giả Athens đã đi chệch khỏi chuyến",
+        "role": "context"
+      },
+      {
+        "text": "official travel to capture a ship sailing from Egypt, taking the wealth found onboard for themselves!",
+        "vi": "công du chính thức để bắt giữ một con tàu khởi hành từ Ai Cập, lấy của cải tìm thấy trên tàu cho riêng mình!",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "misinformation-i19",
+    "meaningVi": "thông tin sai lệch",
+    "translation": "Tuy nhiên, hiện nay chúng ta đang sống trong một thời đại mà công nghệ cho phép thông tin tiếp cận những đối tượng lớn phân bố khắp toàn cầu, và do đó tiềm năng gây ra những tác động tức thời và lan rộng của thông tin sai lệch giờ đây lớn hơn trước đây.",
+    "breakdown": [
+      {
+        "text": "However, we currently live in an era in",
+        "vi": "Tuy nhiên, hiện nay chúng ta đang sống trong một thời đại",
+        "role": "contrast"
+      },
+      {
+        "text": "which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past.",
+        "vi": "mà công nghệ cho phép thông tin tiếp cận những đối tượng lớn phân bố khắp toàn cầu, và do đó tiềm năng gây ra những tác động tức thời và lan rộng của thông tin sai lệch giờ đây lớn hơn trước đây.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "attitude-i19",
+    "meaningVi": "thái độ",
+    "translation": "Mối lo chính về thông tin sai lệch là khả năng nó gây ảnh hưởng quá mức đến thái độ và hành vi, khiến người ta suy nghĩ và hành động khác với khi họ được thông tin một cách chính xác, như các nhóm nghiên cứu của Stephan Lewandowsky thuộc Đại học Bristol và Elizabeth Marsh thuộc Đại học Duke cùng những người khác đã chỉ ra.",
+    "breakdown": [
+      {
+        "text": "The main worry regarding misinformation is its potential to unduly influence attitudes and behavior, leading people to think and act differently than they would",
+        "vi": "Mối lo chính về thông tin sai lệch là khả năng nó gây ảnh hưởng quá mức đến thái độ và hành vi, khiến người ta suy nghĩ và hành động khác với",
+        "role": "main idea"
+      },
+      {
+        "text": "if they were correctly informed, as suggested by the research teams of Stephan Lewandowsky of the University of Bristol and Elizabeth Marsh of Duke University, among others.",
+        "vi": "khi họ được thông tin một cách chính xác, như các nhóm nghiên cứu của Stephan Lewandowsky thuộc Đại học Bristol và Elizabeth Marsh thuộc Đại học Duke cùng những người khác đã chỉ ra.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "phenomenon-i19",
+    "meaningVi": "hiện tượng",
+    "translation": "Ngay cả khi các nhà báo và học giả đã chỉ ra hiện tượng “tin giả”, người ta vẫn không phân biệt giữa những câu chuyện sai rõ ràng và những câu chuyện dựa trên sự thật khi đọc lướt và xử lý thông tin viết.",
+    "breakdown": [
+      {
+        "text": "Even with journalists and scholars pointing to the phenomenon of 'fake news', people do not distinguish between demonstrably false stories and those based in fact",
+        "vi": "Ngay cả khi các nhà báo và học giả đã chỉ ra hiện tượng “tin giả”, người ta vẫn không phân biệt giữa những câu chuyện sai rõ ràng và những câu chuyện dựa trên sự thật",
+        "role": "main idea"
+      },
+      {
+        "text": "when scanning and processing written information.",
+        "vi": "khi đọc lướt và xử lý thông tin viết.",
+        "role": "time adverbial"
+      }
+    ]
+  },
+  {
+    "id": "regulatory-i19",
+    "meaningVi": "mang tính quản lý; thuộc cơ quan điều tiết",
+    "translation": "Để ủng hộ điều này, có thể xem xét bản chất các cơ cấu quản lý ở Hoa Kỳ: các cơ quan quản lý ở đây thường tập trung vào việc phát hiện thông tin phát sóng sau khi đã xảy ra.",
+    "breakdown": [
+      {
+        "text": "In support of this, one might consider the nature of regulatory structures in the United States:",
+        "vi": "Để ủng hộ điều này, có thể xem xét bản chất các cơ cấu quản lý ở Hoa Kỳ:",
+        "role": "main idea"
+      },
+      {
+        "text": "regulatory agencies here tend to focus on post hoc detection of broadcast information.",
+        "vi": "các cơ quan quản lý ở đây thường tập trung vào việc phát hiện thông tin phát sóng sau khi đã xảy ra.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "correct-i19",
+    "meaningVi": "sửa; chỉnh cho đúng",
+    "translation": "Điều này dẫn chúng ta đến quan sát thứ ba: một chiến dịch nhằm sửa thông tin sai lệch, dù có sức thuyết phục về mặt hùng biện, vẫn cần nguồn lực và kế hoạch để đạt được độ phủ và tần suất cần thiết.",
+    "breakdown": [
+      {
+        "text": "This leads us to our third observation:",
+        "vi": "Điều này dẫn chúng ta đến quan sát thứ ba:",
+        "role": "main idea"
+      },
+      {
+        "text": "a campaign to correct misinformation, even if rhetorically compelling, requires resources and planning to accomplish necessary reach and frequency.",
+        "vi": "một chiến dịch nhằm sửa thông tin sai lệch, dù có sức thuyết phục về mặt hùng biện, vẫn cần nguồn lực và kế hoạch để đạt được độ phủ và tần suất cần thiết.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "conflict-i19",
+    "meaningVi": "mâu thuẫn; xung đột",
+    "translation": "Tình thế tiến thoái lưỡng nan được tóm gọn một cách khéo léo qua sự tương phản giữa cách hai nhà triết học thế kỷ 17 René Descartes và Baruch Spinoza mô tả việc con người tiếp nhận thông tin, với những dự đoán mâu thuẫn nhau mà chỉ gần đây mới được kiểm nghiệm thực nghiệm một cách vững chắc.",
+    "breakdown": [
+      {
+        "text": "The dilemma is neatly summarized by a contrast between how the 17th-century philosophers René Descartes and Baruch Spinoza described human information engagement, with conflicting predictions",
+        "vi": "Tình thế tiến thoái lưỡng nan được tóm gọn một cách khéo léo qua sự tương phản giữa cách hai nhà triết học thế kỷ 17 René Descartes và Baruch Spinoza mô tả việc con người tiếp nhận thông tin, với những dự đoán mâu thuẫn nhau",
+        "role": "main idea"
+      },
+      {
+        "text": "that only recently have been empirically tested in robust ways.",
+        "vi": "mà chỉ gần đây mới được kiểm nghiệm thực nghiệm một cách vững chắc.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "elementary-i19",
+    "meaningVi": "bậc tiểu học; cơ bản",
+    "translation": "Việc một số đối tượng người xem có thể không nhận thức được tiềm năng của thông tin sai lệch cũng cho thấy lợi ích của những nỗ lực giáo dục hiểu biết truyền thông ngay từ bậc tiểu học.",
+    "breakdown": [
+      {
+        "text": "That some audiences might be unaware of the potential for misinformation also",
+        "vi": "Việc một số đối tượng người xem có thể không nhận thức được tiềm năng của thông tin sai lệch cũng",
+        "role": "subject clause"
+      },
+      {
+        "text": "suggests the utility of media literacy efforts as early as elementary school.",
+        "vi": "cho thấy lợi ích của những nỗ lực giáo dục hiểu biết truyền thông ngay từ bậc tiểu học.",
+        "role": "main verb"
+      }
+    ]
+  }
+]

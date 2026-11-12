@@ -1,0 +1,782 @@
+{
+ "organic-i19": {
+  "meaningEn": "grown or produced without artificial chemicals or pesticides"
+ },
+ "grey-i19": {
+  "pos": "adjective",
+  "meaningEn": "of a colour between black and white, like ash or cloud",
+  "synonyms": [
+   "gray",
+   "ash-coloured",
+   "silvery"
+  ]
+ },
+ "vocabulary-i19": {
+  "meaningEn": "all the words that a person knows and uses",
+  "synonyms": [
+   "lexicon",
+   "word stock"
+  ]
+ },
+ "recommend-i19": {
+  "meaningEn": "to suggest that someone should do or choose something",
+  "synonyms": [
+   "suggest",
+   "advise",
+   "propose"
+  ]
+ },
+ "aloud-i19": {
+  "pos": "adverb"
+ },
+ "audio-i19": {
+  "pos": "adjective",
+  "meaningEn": "relating to sound, especially recorded sound",
+  "synonyms": [
+   "sound",
+   "acoustic"
+  ]
+ },
+ "stick-i19": {
+  "pos": "noun",
+  "meaningEn": "a thin piece of wood, often used for drawing or support",
+  "synonyms": [
+   "twig",
+   "branch",
+   "rod"
+  ]
+ },
+ "author-i19": {
+  "meaningEn": "a person who writes books, stories or articles",
+  "synonyms": [
+   "writer",
+   "novelist",
+   "essayist"
+  ]
+ },
+ "listen-i19": {
+  "pos": "verb"
+ },
+ "supplement-i19": {
+  "meaningEn": "a pill or product containing nutrients that is added to the diet",
+  "synonyms": [
+   "dietary supplement",
+   "nutritional supplement",
+   "additive"
+  ],
+  "ipa": "/ˈsʌplɪmənt/"
+ },
+ "mouse-i19": {
+  "synonyms": [
+   "rodent",
+   "lab mouse",
+   "house mouse"
+  ]
+ },
+ "affect-i19": {
+  "pos": "verb",
+  "meaningEn": "to produce a change in someone or something; to influence",
+  "synonyms": [
+   "influence",
+   "impact",
+   "have an effect on"
+  ]
+ },
+ "weigh-i19": {
+  "pos": "verb",
+  "meaningEn": "to measure how heavy something is",
+  "synonyms": [
+   "measure",
+   "heft",
+   "check the weight of"
+  ]
+ },
+ "microplastics-i19": {
+  "meaningEn": "very small pieces of plastic that pollute the environment",
+  "ipa": "/ˌmaɪkrəʊˈplæstɪks/"
+ },
+ "soil-i19": {
+  "meaningEn": "the top layer of the earth in which plants grow",
+  "synonyms": [
+   "earth",
+   "dirt",
+   "ground",
+   "topsoil"
+  ]
+ },
+ "conclude-i19": {
+  "pos": "verb",
+  "meaningEn": "to decide something after considering the facts"
+ },
+ "ecosystems-i19": {
+  "pos": "noun"
+ },
+ "germinate-i19": {
+  "pos": "verb",
+  "meaningEn": "to start to grow and produce a shoot, as a seed does",
+  "synonyms": [
+   "sprout",
+   "shoot",
+   "bud"
+  ]
+ },
+ "shell-i19": {
+  "meaningEn": "the hard outer covering of a shellfish, egg or nut",
+  "synonyms": [
+   "case",
+   "carapace",
+   "husk"
+  ]
+ },
+ "clam-i19": {
+  "pos": "noun",
+  "synonyms": [
+   "mollusc",
+   "shellfish",
+   "bivalve"
+  ]
+ },
+ "peatlands-i19": {
+  "meaningEn": "areas of wet, spongy ground made of partly decayed plant material (peat)",
+  "synonyms": [
+   "peat bogs",
+   "mires",
+   "fens"
+  ],
+  "ipa": "/ˈpiːtləndz/"
+ },
+ "clearance-i19": {
+  "meaningEn": "the act of removing trees or other things from an area of land",
+  "synonyms": [
+   "clearing",
+   "removal",
+   "deforestation"
+  ],
+  "ipa": "/ˈklɪərəns/"
+ },
+ "drain-i19": {
+  "pos": "verb",
+  "meaningEn": "to remove water from an area of land",
+  "synonyms": [
+   "empty",
+   "remove water from",
+   "dewater"
+  ]
+ },
+ "palm-i19": {
+  "meaningEn": "a tropical tree with a long trunk and large leaves, grown for oil",
+  "synonyms": [
+   "oil palm",
+   "palm tree",
+   "tropical tree"
+  ]
+ },
+ "environmental-i19": {
+  "ipa": "/ɪnˌvaɪrənˈmentl/"
+ },
+ "flooding-i19": {
+  "meaningEn": "the covering of land with water, especially from heavy rain or the sea",
+  "synonyms": [
+   "inundation",
+   "deluge",
+   "waterlogging"
+  ]
+ },
+ "wetlands-i19": {
+  "pos": "noun"
+ },
+ "lecturer-i19": {
+  "ipa": "/ˈlektʃərə/"
+ },
+ "takeaway-i19": {
+  "pos": "noun",
+  "ipa": "/ˈteɪkəweɪ/"
+ },
+ "weighing-i19": {
+  "meaningEn": "the act of measuring how heavy something is",
+  "synonyms": [
+   "measuring",
+   "weight measurement"
+  ]
+ },
+ "bakery-i19": {
+  "ipa": "/ˈbeɪkəri/"
+ },
+ "meat-i19": {
+  "synonyms": [
+   "flesh",
+   "animal protein",
+   "food"
+  ]
+ },
+ "coat-i19": {
+  "synonyms": [
+   "jacket",
+   "outer garment",
+   "layer"
+  ]
+ },
+ "marathon-i19": {
+  "meaningEn": "a running race of about 42 kilometres",
+  "synonyms": [
+   "long-distance race",
+   "42-kilometre race"
+  ]
+ },
+ "motivate-i19": {
+  "pos": "verb"
+ },
+ "programme-i19": {
+  "meaningEn": "a plan or course of activities designed to achieve a particular aim",
+  "synonyms": [
+   "scheme",
+   "plan",
+   "course"
+  ]
+ },
+ "runner-i19": {
+  "meaningEn": "a person who runs, especially in races or for exercise",
+  "synonyms": [
+   "jogger",
+   "athlete",
+   "racer"
+  ]
+ },
+ "slowly-i19": {
+  "ipa": "/ˈsləʊli/"
+ },
+ "training-i19": {
+  "pos": "noun",
+  "meaningEn": "the process of teaching or learning the skills needed for an activity",
+  "synonyms": [
+   "instruction",
+   "coaching",
+   "practice"
+  ]
+ },
+ "pack-i19": {
+  "pos": "verb",
+  "meaningEn": "to put things into boxes or bags, especially when moving them",
+  "synonyms": [
+   "box up",
+   "bundle",
+   "wrap up"
+  ]
+ },
+ "attic-i19": {
+  "pos": "noun",
+  "meaningEn": "a room or space just below the roof of a house",
+  "synonyms": [
+   "loft",
+   "garret"
+  ]
+ },
+ "reforestation-i19": {
+  "ipa": "/ˌriːfɒrɪˈsteɪʃn/"
+ },
+ "restored-i19": {
+  "meaningEn": "returned to a good or original condition",
+  "synonyms": [
+   "renewed",
+   "rehabilitated",
+   "revived"
+  ]
+ },
+ "forest-i19": {
+  "ipa": "/ˈfɒrɪst/"
+ },
+ "carbon-i19": {
+  "synonyms": [
+   "carbon dioxide",
+   "CO2"
+  ],
+  "meaningEn": "a chemical element found in coal, oil and all living things; often used for carbon dioxide emissions"
+ },
+ "genetic-i19": {
+  "meaningEn": "relating to genes or heredity",
+  "synonyms": [
+   "hereditary",
+   "genomic",
+   "gene-based"
+  ]
+ },
+ "butterfly-i19": {
+  "pos": "noun",
+  "meaningEn": "an insect with a thin body and large, often brightly coloured wings"
+ },
+ "phenology-i19": {
+  "meaningEn": "the study of the timing of seasonal events in plants and animals, such as flowering and migration",
+  "ipa": "/fɪˈnɒlədʒi/"
+ },
+ "caterpillar-i19": {
+  "synonyms": [
+   "larva",
+   "grub",
+   "worm"
+  ]
+ },
+ "lifecycle-i19": {
+  "meaningEn": "the series of stages in the life of an animal or plant",
+  "synonyms": [
+   "life cycle",
+   "development cycle"
+  ],
+  "ipa": "/ˈlaɪfsaɪkl/"
+ },
+ "describe-i19": {
+  "pos": "verb"
+ },
+ "reproduce-i19": {
+  "pos": "verb",
+  "meaningEn": "to produce young"
+ },
+ "increase-i19": {
+  "pos": "verb",
+  "meaningEn": "to become larger in amount or number",
+  "synonyms": [
+   "rise",
+   "grow",
+   "go up"
+  ]
+ },
+ "exploration-i19": {
+  "meaningEn": "the act of travelling through or searching an area to discover what is there",
+  "synonyms": [
+   "expedition",
+   "investigation",
+   "survey"
+  ],
+  "ipa": "/ˌekspləˈreɪʃn/"
+ },
+ "mining-i19": {
+  "synonyms": [
+   "extraction",
+   "digging",
+   "excavation"
+  ]
+ },
+ "estimate-i19": {
+  "pos": "verb",
+  "meaningEn": "to calculate roughly the size, amount or cost of something",
+  "synonyms": [
+   "gauge",
+   "reckon",
+   "approximate"
+  ]
+ },
+ "underwater-i19": {
+  "pos": "adjective",
+  "ipa": "/ˌʌndəˈwɔːtə/"
+ },
+ "exist-i19": {
+  "pos": "verb"
+ },
+ "hunter-gatherer-i19": {
+  "ipa": "/ˈhʌntə ˈɡæðərə/"
+ },
+ "worldwide-i19": {
+  "meaningEn": "in or across the whole world",
+  "synonyms": [
+   "globally",
+   "internationally",
+   "all over the world"
+  ]
+ },
+ "behave-i19": {
+  "pos": "verb"
+ },
+ "cheese-i19": {
+  "pos": "noun"
+ },
+ "printing-i19": {
+  "meaningEn": "the process of producing text or images with a machine",
+  "ipa": "/ˈprɪntɪŋ/"
+ },
+ "neolithic-i19": {
+  "ipa": "/ˌniːəˈlɪθɪk/"
+ },
+ "footbridge-i19": {
+  "ipa": "/ˈfʊtbrɪdʒ/"
+ },
+ "lactose-free-i19": {
+  "meaningEn": "containing no lactose, the sugar found in milk",
+  "synonyms": [
+   "dairy-free",
+   "milk-free",
+   "without lactose"
+  ]
+ },
+ "spaghetti-strung-i19": {
+  "meaningEn": "strung with spaghetti-like strings, as a tennis racket modification",
+  "synonyms": [
+   "spaghetti stringing",
+   "unusual stringing",
+   "modified strings"
+  ]
+ },
+ "northwest-i19": {
+  "meaningEn": "the direction or region between north and west",
+  "pos": "noun"
+ },
+ "preserve-i19": {
+  "pos": "verb",
+  "meaningEn": "to keep something in its original condition or protect it from decay",
+  "synonyms": [
+   "protect",
+   "conserve",
+   "maintain"
+  ]
+ },
+ "relative-i19": {
+  "meaningEn": "true when compared with something else; not absolute",
+  "synonyms": [
+   "comparative",
+   "proportional",
+   "in comparison"
+  ]
+ },
+ "racket-i19": {
+  "meaningEn": "a bat with strings stretched across a frame, used in tennis",
+  "synonyms": [
+   "tennis racket",
+   "bat",
+   "racquet"
+  ]
+ },
+ "frame-i19": {
+  "meaningEn": "the outer structure that holds the strings of a racket",
+  "synonyms": [
+   "structure",
+   "framework",
+   "body"
+  ]
+ },
+ "string-i19": {
+  "synonyms": [
+   "cord",
+   "wire",
+   "racket string"
+  ]
+ },
+ "handle-i19": {
+  "meaningEn": "the part of an object that you hold",
+  "synonyms": [
+   "grip",
+   "shaft",
+   "hilt"
+  ]
+ },
+ "stringer-i19": {
+  "meaningEn": "a person who strings tennis rackets",
+  "synonyms": [
+   "racket stringer",
+   "technician",
+   "stringer"
+  ]
+ },
+ "adjust-i19": {
+  "pos": "verb",
+  "meaningEn": "to change something slightly so it works or fits better",
+  "synonyms": [
+   "modify",
+   "alter",
+   "fine-tune"
+  ]
+ },
+ "pirate-i19": {
+  "pos": "noun",
+  "meaningEn": "a person who attacks and robs ships at sea",
+  "synonyms": [
+   "sea robber",
+   "raider",
+   "buccaneer"
+  ],
+  "ipa": "/ˈpaɪrət/"
+ },
+ "piracy-i19": {
+  "pos": "noun",
+  "meaningEn": "the act of attacking and robbing ships at sea",
+  "synonyms": [
+   "sea robbery",
+   "raiding",
+   "buccaneering"
+  ],
+  "ipa": "/ˈpaɪrəsi/"
+ },
+ "eradicate-i19": {
+  "pos": "verb",
+  "meaningEn": "to remove or destroy something completely",
+  "synonyms": [
+   "eliminate",
+   "wipe out",
+   "get rid of"
+  ]
+ },
+ "capture-i19": {
+  "meaningEn": "to take a person, ship or place by force",
+  "synonyms": [
+   "seize",
+   "take",
+   "catch"
+  ]
+ },
+ "correct-i19": {
+  "ipa": "/kəˈrekt/"
+ },
+ "elementary-i19": {
+  "meaningEn": "relating to the first stage of education; primary",
+  "synonyms": [
+   "primary",
+   "basic",
+   "introductory"
+  ]
+ },
+ "merchant-i19": {
+  "ipa": "/ˈmɜːtʃənt/"
+ },
+ "produce-i19": {
+  "pos": "verb",
+  "meaningEn": "to make or manufacture something",
+  "synonyms": [
+   "make",
+   "manufacture",
+   "create"
+  ]
+ },
+ "motivating-i19": {
+  "pos": "adjective",
+  "meaningEn": "making someone want to do something",
+  "synonyms": [
+   "inspiring",
+   "encouraging",
+   "driving"
+  ]
+ },
+ "short-sighted-i19": {
+  "meaningEn": "unable to see things clearly that are far away",
+  "synonyms": [
+   "myopic",
+   "near-sighted",
+   "unable to see far"
+  ]
+ },
+ "high-heeled-i19": {
+  "meaningEn": "having a raised heel",
+  "synonyms": [
+   "with heels",
+   "heeled",
+   "raised-heel"
+  ]
+ },
+ "recycled-i19": {
+  "meaningEn": "made from used materials that have been processed",
+  "synonyms": [
+   "reused",
+   "reprocessed",
+   "upcycled"
+  ]
+ },
+ "recycle-i19": {
+  "pos": "verb",
+  "meaningEn": "to process used materials so they can be used again",
+  "synonyms": [
+   "reuse",
+   "reprocess",
+   "recover"
+  ]
+ },
+ "appearance-i19": {
+  "ipa": "/əˈpɪərəns/"
+ },
+ "conservation-i19": {
+  "meaningEn": "the protection of nature, wildlife and natural resources",
+  "synonyms": [
+   "protection",
+   "preservation",
+   "safeguarding"
+  ]
+ },
+ "metabolism-i19": {
+  "meaningEn": "the chemical processes in a living body that turn food into energy",
+  "synonyms": [
+   "body chemistry",
+   "energy processing",
+   "metabolic rate"
+  ]
+ },
+ "bear-i19": {
+  "meaningEn": "a large heavy wild animal with thick fur; here part of “water bear”, another name for a tardigrade",
+  "synonyms": [
+   "wild bear",
+   "water bear",
+   "tardigrade"
+  ]
+ },
+ "industrialisation-i19": {
+  "ipa": "/ɪnˌdʌstriəlaɪˈzeɪʃn/"
+ },
+ "stress-i19": {
+  "meaningEn": "a feeling of worry or pressure caused by a difficult situation",
+  "synonyms": [
+   "pressure",
+   "strain",
+   "tension"
+  ]
+ },
+ "attribute-i19": {
+  "pos": "verb",
+  "meaningEn": "to say that something is caused by or belongs to something else",
+  "synonyms": [
+   "ascribe",
+   "credit",
+   "put down to"
+  ]
+ },
+ "determination-i19": {
+  "meaningEn": "the quality of continuing to try despite difficulties",
+  "synonyms": [
+   "perseverance",
+   "resolve",
+   "persistence"
+  ]
+ },
+ "wildlife-i19": {
+  "ipa": "/ˈwaɪldlaɪf/"
+ },
+ "self-confidence-i19": {
+  "ipa": "/ˌself ˈkɒnfɪdəns/"
+ },
+ "chord-i19": {
+  "meaningEn": "a combination of musical notes played together",
+  "synonyms": [
+   "harmony",
+   "triad",
+   "musical chord"
+  ]
+ },
+ "gift-i19": {
+  "term": "gifted",
+  "pos": "adjective",
+  "meaningEn": "having a natural ability or talent",
+  "synonyms": [
+   "talented",
+   "able",
+   "exceptional"
+  ]
+ },
+ "host-i19": {
+  "pos": "verb",
+  "meaningEn": "to welcome guests and look after them",
+  "synonyms": [
+   "welcome",
+   "receive",
+   "entertain"
+  ]
+ },
+ "insect-i19": {
+  "synonyms": [
+   "bug",
+   "arthropod",
+   "pest"
+  ]
+ },
+ "playground-i19": {
+  "meaningEn": "an outdoor area where children can play, often with equipment",
+  "synonyms": [
+   "play area",
+   "recreation ground",
+   "adventure playground"
+  ]
+ },
+ "label-i19": {
+  "synonyms": [
+   "tag",
+   "sticker",
+   "marker"
+  ]
+ },
+ "celebrity-i19": {
+  "synonyms": [
+   "famous person",
+   "star",
+   "public figure"
+  ]
+ },
+ "packaging-i19": {
+  "meaningEn": "material used to wrap or protect goods for sale",
+  "synonyms": [
+   "wrapping",
+   "packing material",
+   "container"
+  ]
+ },
+ "farmer-i19": {
+  "synonyms": [
+   "grower",
+   "agricultural worker",
+   "cultivator"
+  ]
+ },
+ "conflict-i19": {
+  "meaningEn": "a disagreement or incompatibility between ideas, statements or predictions",
+  "synonyms": [
+   "contradiction",
+   "clash",
+   "disagreement"
+  ]
+ },
+ "lesson-i19": {
+  "synonyms": [
+   "class",
+   "session",
+   "tutorial"
+  ]
+ },
+ "strumming-i19": {
+  "pos": "noun",
+  "meaningEn": "the act of brushing the strings of a guitar or other stringed instrument",
+  "synonyms": [
+   "strumming",
+   "playing chords",
+   "plucking"
+  ]
+ },
+ "boat-i19": {
+  "synonyms": [
+   "vessel",
+   "craft",
+   "ship"
+  ]
+ },
+ "colour-i19": {
+  "meaningEn": "the quality of an object or light produced by the wavelengths it reflects; hue",
+  "synonyms": [
+   "hue",
+   "shade",
+   "tint"
+  ]
+ },
+ "consume-i19": {
+  "meaningEn": "to eat, drink or take in a substance",
+  "synonyms": [
+   "eat",
+   "drink",
+   "take in"
+  ]
+ },
+ "weaver-i19": {
+  "synonyms": [
+   "cloth maker",
+   "textile worker",
+   "loom operator"
+  ]
+ },
+ "withdrawal-i19": {
+  "meaningEn": "the act of withdrawing or pulling out of an event or competition",
+  "synonyms": [
+   "pull-out",
+   "removal",
+   "retreat"
+  ]
+ }
+}

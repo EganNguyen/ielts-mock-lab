@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "practise-i19",
+    "term": "practise",
+    "ipa": "/ˈpræktɪs/",
+    "pos": "verb",
+    "meaningEn": "engage in a rehearsal (of)",
+    "meaningVi": "",
+    "synonyms": [
+      "rehearse",
+      "practice",
+      "exercise",
+      "do"
+    ],
+    "sentenceText": "Then he hands out the song and if there's a new chord in it, we practise that before we play it together - but really slowly.",
+    "sentenceChunks": [
+      "Then he hands out the song and",
+      "if there's a new chord in it, we practise that before we play it together - but really slowly."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Guitar Group",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb",
+    "references": []
+  },
+  {
+    "id": "guitar-i19",
+    "term": "guitar",
+    "ipa": "/gɪˈtɑː/",
+    "pos": "noun",
+    "meaningEn": "a stringed instrument usually having six strings; played by strumming or plucking",
+    "meaningVi": "",
+    "synonyms": [
+      "guitar"
+    ],
+    "sentenceText": "I wanted to have a chat with you because our friend Josh told me that you've joined a guitar group and it sounds interesting.",
+    "sentenceChunks": [
+      "I wanted to have a chat with you because our friend Josh",
+      "told me that you've joined a guitar group and it sounds interesting."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Guitar Group",
+    "questions": [
+      1,
+      2,
+      7
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Guitar Group",
+        "questions": [
+          1,
+          2,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chord-i19",
+    "term": "chord",
+    "ipa": "/kɔːd/",
+    "pos": "noun",
+    "meaningEn": "a combination of musical notes played together",
+    "meaningVi": "",
+    "synonyms": [
+      "harmony",
+      "triad",
+      "musical chord"
+    ],
+    "sentenceText": "Then he hands out the song and if there's a new chord in it, we practise that before we play it together - but really slowly.",
+    "sentenceChunks": [
+      "Then he hands out the song and",
+      "if there's a new chord in it, we practise that before we play it together - but really slowly."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Guitar Group",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "lesson-i19",
+    "term": "lesson",
+    "ipa": "/ˈlesən/",
+    "pos": "noun",
+    "meaningEn": "a unit of instruction",
+    "meaningVi": "",
+    "synonyms": [
+      "class",
+      "session",
+      "tutorial"
+    ],
+    "sentenceText": "That's the last ten minutes of the lesson, when we pick out the individual notes from a tune he's made up.",
+    "sentenceChunks": [
+      "That's the last ten minutes of the lesson, when we",
+      "pick out the individual notes from a tune he's made up."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Guitar Group",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "strumming-i19",
+    "term": "strumming",
+    "ipa": "/ˈstrəmɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the act of brushing the strings of a guitar or other stringed instrument",
+    "meaningVi": "",
+    "synonyms": [
+      "strumming",
+      "playing chords",
+      "plucking"
+    ],
+    "sentenceText": "First, we usually spend about ten minutes doing some strumming.",
+    "sentenceChunks": [
+      "First, we usually spend about ten minutes doing some strumming."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Guitar Group",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "tune-i19",
+    "term": "tune",
+    "ipa": "/tun/",
+    "pos": "noun",
+    "meaningEn": "a succession of notes forming a distinctive sequence",
+    "meaningVi": "",
+    "synonyms": [
+      "melody",
+      "air",
+      "strain",
+      "melodic line"
+    ],
+    "sentenceText": "That's the last ten minutes of the lesson, when we pick out the individual notes from a tune he's made up.",
+    "sentenceChunks": [
+      "That's the last ten minutes of the lesson, when we",
+      "pick out the individual notes from a tune he's made up."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Guitar Group",
+    "questions": [
+      10
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Guitar Group",
+        "questions": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surname-i19",
+    "term": "surname",
+    "ipa": "/ˈsəˌneɪm/",
+    "pos": "noun",
+    "meaningEn": "the name used to identify the members of a family (as distinguished from each member's given name)",
+    "meaningVi": "",
+    "synonyms": [
+      "family name",
+      "cognomen",
+      "last name"
+    ],
+    "sentenceText": "Gary... How do you spell his surname?",
+    "sentenceChunks": [
+      "Gary... How do you spell his surname?"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l1",
+    "sectionTitle": "Guitar Group",
+    "questions": [
+      1
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l1",
+        "sectionTitle": "Guitar Group",
+        "questions": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lifeboat-i19",
+    "term": "lifeboat",
+    "ipa": "/ˈlaɪfˌbəʊt/",
+    "pos": "noun",
+    "meaningEn": "a strong sea boat designed to rescue people from a sinking ship",
+    "meaningVi": "",
+    "synonyms": [
+      "lifeboat"
+    ],
+    "sentenceText": "I've recently qualified as what's called a 'helmsman', which means I have the ultimate responsibility for the lifeboat.",
+    "sentenceChunks": [
+      "I've recently qualified as what's called a 'helmsman', which means I have the ultimate responsibility for the lifeboat."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [
+      12,
+      14,
+      15,
+      16
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Working as a lifeboat volunteer",
+        "questions": [
+          12,
+          14,
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boat-i19",
+    "term": "boat",
+    "ipa": "/bəʊt/",
+    "pos": "noun",
+    "meaningEn": "a small vessel for travel on water",
+    "meaningVi": "",
+    "synonyms": [
+      "vessel",
+      "craft",
+      "ship"
+    ],
+    "sentenceText": "They had a wave-tank where they could create extreme weather conditions - so we could get /18 experience at what to do if the boat turned over in a storm at night, for example.",
+    "sentenceChunks": [
+      "They had a wave-tank where they could create extreme weather conditions - so we could get /18 experience at what to do",
+      "if the boat turned over in a storm at night, for example."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [
+      14
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Working as a lifeboat volunteer",
+        "questions": [
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "id": "casualty-i19",
+    "term": "casualty",
+    "ipa": "/ˈkæʒəwəlti/",
+    "pos": "noun",
+    "meaningEn": "someone injured or killed or captured or missing in a military engagement",
+    "meaningVi": "",
+    "synonyms": [
+      "injured party"
+    ],
+    "sentenceText": "I was glad I'd done a first aid course before I started, as that's a big help with the casualty care activities we do.",
+    "sentenceChunks": [
+      "I was glad I'd done a first aid course before I started",
+      "as that's a big help with the casualty care activities we do."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [
+      17,
+      18
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Working as a lifeboat volunteer",
+        "questions": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "id": "motivating-i19",
+    "term": "motivating",
+    "ipa": "/ˈməʊtəˌveɪtɪŋ/",
+    "pos": "adjective",
+    "meaningEn": "making someone want to do something",
+    "meaningVi": "",
+    "synonyms": [
+      "inspiring",
+      "encouraging",
+      "driving"
+    ],
+    "sentenceText": "But the work's hugely motivating.",
+    "sentenceChunks": [
+      "But the work's hugely motivating."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [
+      19,
+      20
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Working as a lifeboat volunteer",
+        "questions": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": "residential-i19",
+    "term": "residential",
+    "ipa": "/ˌrezɪˈdenʃəl/",
+    "pos": "adjective",
+    "meaningEn": "used or designed for residence or limited to residences",
+    "meaningVi": "",
+    "synonyms": [
+      "residential"
+    ],
+    "sentenceText": "After a year, I did a one-week residential course, led by specialists.",
+    "sentenceChunks": [
+      "After a year, I did a one-week residential course, led by specialists."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [
+      17,
+      18
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Working as a lifeboat volunteer",
+        "questions": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "id": "responsibility-i19",
+    "term": "responsibility",
+    "ipa": "/riˌspɑnsəˈbɪləti/",
+    "pos": "noun",
+    "meaningEn": "the social force that binds you to the courses of action demanded by that force; ; - John D.Rockefeller Jr",
+    "meaningVi": "",
+    "synonyms": [
+      "duty",
+      "obligation",
+      "province"
+    ],
+    "sentenceText": "I've recently qualified as what's called a 'helmsman', which means I have the ultimate responsibility for the lifeboat.",
+    "sentenceChunks": [
+      "I've recently qualified as what's called a 'helmsman', which means I have the ultimate responsibility for the lifeboat."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [
+      15
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Working as a lifeboat volunteer",
+        "questions": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "id": "short-sighted-i19",
+    "term": "short-sighted",
+    "ipa": "/ʃɔːt ˈsaɪtɪd/",
+    "pos": "adjective",
+    "meaningEn": "unable to see things clearly that are far away",
+    "meaningVi": "",
+    "synonyms": [
+      "myopic",
+      "near-sighted",
+      "unable to see far"
+    ],
+    "sentenceText": "I used to be short-sighted, so I'd had to wear glasses, but I'd had laser eye surgery two years earlier so that was OK.",
+    "sentenceChunks": [
+      "I used to be short-sighted, so I'd had to wear glasses, but",
+      "I'd had laser eye surgery two years earlier so that was OK."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "colour-i19",
+    "term": "colour",
+    "ipa": "/ˈkələ/",
+    "pos": "noun",
+    "meaningEn": "the quality of an object or light produced by the wavelengths it reflects; hue",
+    "meaningVi": "",
+    "synonyms": [
+      "hue",
+      "shade",
+      "tint"
+    ],
+    "sentenceText": "They gave me tests for colour blindness and they thought I might have a problem there, but it turned out I was OK.",
+    "sentenceChunks": [
+      "They gave me tests for colour blindness and they thought I",
+      "might have a problem there, but it turned out I was OK."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l2",
+    "sectionTitle": "Working as a lifeboat volunteer",
+    "questions": [
+      13
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l2",
+        "sectionTitle": "Working as a lifeboat volunteer",
+        "questions": [
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "id": "footwear-i19",
+    "term": "footwear",
+    "ipa": "/ˈfʊtˌwer/",
+    "pos": "noun",
+    "meaningEn": "clothing worn on a person's feet",
+    "meaningVi": "",
+    "synonyms": [
+      "footgear"
+    ],
+    "sentenceText": "No, But then it said that the amount of recycled footwear has fallen: it's 6 percent now compared to a previous level of 11 percent.",
+    "sentenceChunks": [
+      "No, But then it said that the amount of recycled footwear has fallen:",
+      "it's 6 percent now compared to a previous level of 11 percent."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Recycling footwear",
+    "questions": [
+      21,
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Recycling footwear",
+        "questions": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "recycling-i19",
+    "term": "recycling",
+    "ipa": "/riˈsaɪkəlɪŋ/",
+    "pos": "noun",
+    "meaningEn": "the act of processing used or abandoned materials for use in creating new products",
+    "meaningVi": "",
+    "synonyms": [
+      "recycling"
+    ],
+    "sentenceText": "Oh yes - we're told to tie shoes together when we put them in a recycling bin, but people often don't bother.",
+    "sentenceChunks": [
+      "Oh yes - we're told to tie shoes together when we",
+      "put them in a recycling bin, but people often don't bother."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Recycling footwear",
+    "questions": [
+      21
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Recycling footwear",
+        "questions": [
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shoe-i19",
+    "term": "shoe",
+    "ipa": "/ʃu/",
+    "pos": "noun",
+    "meaningEn": "footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material",
+    "meaningVi": "",
+    "synonyms": [
+      "shoe"
+    ],
+    "sentenceText": "Well, before I started reading it, I thought recycling footwear, well, although it's quite interesting, perhaps there isn't enough to say about it, cos we put shoes in recycling bins, they go to charity shops and that's about it.",
+    "sentenceChunks": [
+      "Well, before I started reading it, I thought recycling footwear, well",
+      "although it's quite interesting, perhaps there isn't enough to say about it, cos we put shoes in recycling bins, they go to charity shops and that's about it."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Recycling footwear",
+    "questions": [
+      23,
+      25,
+      27,
+      29
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Recycling footwear",
+        "questions": [
+          23,
+          25,
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pair-i19",
+    "term": "pair",
+    "ipa": "/per/",
+    "pos": "noun",
+    "meaningEn": "a set of two similar things considered as a unit",
+    "meaningVi": "",
+    "synonyms": [
+      "brace",
+      "couple",
+      "twosome",
+      "twain"
+    ],
+    "sentenceText": "One of the things I didn't realise until I read the article was just how many pairs of trainers get recycled!",
+    "sentenceChunks": [
+      "One of the things I didn't realise until I read",
+      "the article was just how many pairs of trainers get recycled!"
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Recycling footwear",
+    "questions": [
+      29
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Recycling footwear",
+        "questions": [
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "id": "high-heeled-i19",
+    "term": "high-heeled",
+    "ipa": "/haɪ hild/",
+    "pos": "adjective",
+    "meaningEn": "having a raised heel",
+    "meaningVi": "",
+    "synonyms": [
+      "with heels",
+      "heeled",
+      "raised-heel"
+    ],
+    "sentenceText": "Let's start with the ladies' high-heeled shoes.",
+    "sentenceChunks": [
+      "Let's start with the ladies' high-heeled shoes."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Recycling footwear",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "adjective",
+    "references": []
+  },
+  {
+    "id": "recycled-i19",
+    "term": "recycled",
+    "ipa": "/riˈsaɪkəld/",
+    "pos": "adjective",
+    "meaningEn": "made from used materials that have been processed",
+    "meaningVi": "",
+    "synonyms": [
+      "reused",
+      "reprocessed",
+      "upcycled"
+    ],
+    "sentenceText": "No, But then it said that the amount of recycled footwear has fallen: it's 6 percent now compared to a previous level of 11 percent.",
+    "sentenceChunks": [
+      "No, But then it said that the amount of recycled footwear has fallen:",
+      "it's 6 percent now compared to a previous level of 11 percent."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Recycling footwear",
+    "questions": [
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l3",
+        "sectionTitle": "Recycling footwear",
+        "questions": [
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heel-i19",
+    "term": "heel",
+    "ipa": "/hil/",
+    "pos": "noun",
+    "meaningEn": "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+    "meaningVi": "",
+    "synonyms": [
+      "heel"
+    ],
+    "sentenceText": "He said they were probably expensive - the material was suede and they were beige in colour - it looked like someone had only worn them once, but in a very wet field so the heels were too stained with mud and grass to re-sell them.",
+    "sentenceChunks": [
+      "He said they were probably expensive - the material was suede and they were beige in colour - it looked like someone had only worn them once",
+      "but in a very wet field so the heels were too stained with mud and grass to re-sell them."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l3",
+    "sectionTitle": "Recycling footwear",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "millimetre-i19",
+    "term": "millimetre",
+    "ipa": "/ˈmɪləˌmitə/",
+    "pos": "noun",
+    "meaningEn": "a metric unit of length equal to one thousandth of a meter",
+    "meaningVi": "",
+    "synonyms": [
+      "millimeter",
+      "mm"
+    ],
+    "sentenceText": "Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length.",
+    "sentenceChunks": [
+      "Most tardigrades range in length from 0.05 to 1 millimetre, though",
+      "the largest species can grow to be 1.2 millimetres in length."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tardigrades",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "appearance-i19",
+    "term": "appearance",
+    "ipa": "/əˈpɪərəns/",
+    "pos": "noun",
+    "meaningEn": "outward or visible aspect of a person or thing",
+    "meaningVi": "",
+    "synonyms": [
+      "visual aspect"
+    ],
+    "sentenceText": "As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange - a bit squashed even - though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.",
+    "sentenceChunks": [
+      "As far as the tardigrade's head is concerned, the best way I can describe this is",
+      "that it looks rather strange - a bit squashed even - though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tardigrades",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "conservation-i19",
+    "term": "conservation",
+    "ipa": "/ˌkɑnsəˈveɪʃən/",
+    "pos": "noun",
+    "meaningEn": "the protection of nature, wildlife and natural resources",
+    "meaningVi": "",
+    "synonyms": [
+      "protection",
+      "preservation",
+      "safeguarding"
+    ],
+    "sentenceText": "Finally, I'd like to mention the conservation status of tardigrades.",
+    "sentenceChunks": [
+      "Finally, I'd like to mention the conservation status of tardigrades."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tardigrades",
+    "questions": [
+      40
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tardigrades",
+        "questions": [
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "id": "metabolism-i19",
+    "term": "metabolism",
+    "ipa": "/məˈtæbəˌlɪzəm/",
+    "pos": "noun",
+    "meaningEn": "the chemical processes in a living body that turn food into energy",
+    "meaningVi": "",
+    "synonyms": [
+      "body chemistry",
+      "energy processing",
+      "metabolic rate"
+    ],
+    "sentenceText": "They curl into a ball, called a tun - that's T-U-N - by retracting their head and legs, and their metabolism drops to less than one percent of normal levels.",
+    "sentenceChunks": [
+      "They curl into a ball, called a tun - that's T-U-N - by retracting their",
+      "head and legs, and their metabolism drops to less than one percent of normal levels."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tardigrades",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "liquid-i19",
+    "term": "liquid",
+    "ipa": "/ˈlɪkwɪd/",
+    "pos": "noun",
+    "meaningEn": "a substance that is liquid at room temperature and pressure",
+    "meaningVi": "",
+    "synonyms": [
+      "liquidness",
+      "liquidity",
+      "liquid state"
+    ],
+    "sentenceText": "I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel.",
+    "sentenceChunks": [
+      "I suppose this isn't surprising, given that tardigrades are mainly",
+      "comprised of liquid and are coated with a type of gel."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tardigrades",
+    "questions": [
+      34,
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tardigrades",
+        "questions": [
+          34,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bear-i19",
+    "term": "bear",
+    "ipa": "/ber/",
+    "pos": "noun",
+    "meaningEn": "a large heavy wild animal with thick fur; here part of “water bear”, another name for a tardigrade",
+    "meaningVi": "",
+    "synonyms": [
+      "wild bear",
+      "water bear",
+      "tardigrade"
+    ],
+    "sentenceText": "They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.",
+    "sentenceChunks": [
+      "They are also sometimes called 'water bears':",
+      "'water' because that's where they thrive best, and 'bear' because of the way they move."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tardigrades",
+    "questions": [
+      31
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tardigrades",
+        "questions": [
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "id": "consume-i19",
+    "term": "consume",
+    "ipa": "/kənˈsum/",
+    "pos": "verb",
+    "meaningEn": "to eat, drink or take in a substance",
+    "meaningVi": "",
+    "synonyms": [
+      "eat",
+      "drink",
+      "take in"
+    ],
+    "sentenceText": "In terms of their diet, tardigrades consume liquids in order to survive.",
+    "sentenceChunks": [
+      "In terms of their diet, tardigrades consume liquids in order to survive."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Listening",
+    "section": "l4",
+    "sectionTitle": "Tardigrades",
+    "questions": [
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "verb",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Listening",
+        "section": "l4",
+        "sectionTitle": "Tardigrades",
+        "questions": [
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "industrialisation-i19",
+    "term": "industrialisation",
+    "ipa": "/ɪnˌdʌstriəlaɪˈzeɪʃn/",
+    "pos": "noun",
+    "meaningEn": "the development of industry on an extensive scale",
+    "meaningVi": "",
+    "synonyms": [
+      "industrialization",
+      "industrial enterprise"
+    ],
+    "sentenceText": "Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just a few decades.",
+    "sentenceChunks": [
+      "Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated",
+      "dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just a few decades."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      3,
+      11
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "id": "textile-i19",
+    "term": "textile",
+    "ipa": "/ˈtekˌstaɪl/",
+    "pos": "noun",
+    "meaningEn": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+    "meaningVi": "",
+    "synonyms": [
+      "fabric",
+      "cloth",
+      "material"
+    ],
+    "sentenceText": "Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.",
+    "sentenceChunks": [
+      "Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks",
+      "to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      12
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "id": "produce-i19",
+    "term": "produce",
+    "ipa": "/ˈprəʊdus/",
+    "pos": "verb",
+    "meaningEn": "to make or manufacture something",
+    "meaningVi": "",
+    "synonyms": [
+      "make",
+      "manufacture",
+      "create"
+    ],
+    "sentenceText": "Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.",
+    "sentenceChunks": [
+      "Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks",
+      "to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cloth-i19",
+    "term": "cloth",
+    "ipa": "/klɔθ/",
+    "pos": "noun",
+    "meaningEn": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+    "meaningVi": "",
+    "synonyms": [
+      "fabric",
+      "material",
+      "textile"
+    ],
+    "sentenceText": "With these machines, relatively little labour was required to produce cloth, and the new, mechanised textile factories that opened around the country were quickly able to meet customer demand for cloth both at home and abroad.",
+    "sentenceChunks": [
+      "With these machines, relatively little labour was required to produce cloth, and the new, mechanised textile factories",
+      "that opened around the country were quickly able to meet customer demand for cloth both at home and abroad."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      4
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iron-i19",
+    "term": "iron",
+    "ipa": "/aɪən/",
+    "pos": "noun",
+    "meaningEn": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood",
+    "meaningVi": "",
+    "synonyms": [
+      "Fe",
+      "atomic number 26"
+    ],
+    "sentenceText": "Chief among the new techniques was the smelting of iron ore with coke (a material made by heating coal) instead of the traditional charcoal.",
+    "sentenceChunks": [
+      "Chief among the new techniques was the smelting of iron ore with",
+      "coke (a material made by heating coal) instead of the traditional charcoal."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      5,
+      6,
+      9
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          5,
+          6,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "id": "weaver-i19",
+    "term": "weaver",
+    "ipa": "/ˈwivə/",
+    "pos": "noun",
+    "meaningEn": "a craftsman who weaves cloth",
+    "meaningVi": "",
+    "synonyms": [
+      "cloth maker",
+      "textile worker",
+      "loom operator"
+    ],
+    "sentenceText": "Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', with the work performed in small workshops or even homes by individual spinners, weavers and dyers.",
+    "sentenceChunks": [
+      "Britain had produced textiles like wool, linen and cotton, for hundreds of years",
+      "but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', with the work performed in small workshops or even homes by individual spinners, weavers and dyers."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      3,
+      12
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "id": "communication-i19",
+    "term": "communication",
+    "ipa": "/kəmˌjunəˈkeɪʃən/",
+    "pos": "noun",
+    "meaningEn": "the activity of communicating; the activity of conveying information",
+    "meaningVi": "",
+    "synonyms": [
+      "communicating"
+    ],
+    "sentenceText": "The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances.",
+    "sentenceChunks": [
+      "The latter part of the Industrial Revolution also saw key advances in communication",
+      "methods, as people increasingly saw the need to communicate efficiently over long distances."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      10
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "id": "industrial-i19",
+    "term": "industrial",
+    "ipa": "/ˌɪnˈdəstriəl/",
+    "pos": "adjective",
+    "meaningEn": "of or relating to or resulting from industry",
+    "meaningVi": "",
+    "synonyms": [
+      "industrial"
+    ],
+    "sentenceText": "In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by 1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool.",
+    "sentenceChunks": [
+      "In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by",
+      "1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r1",
+    "sectionTitle": "The Industrial Revolution in Britain",
+    "questions": [
+      3
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r1",
+        "sectionTitle": "The Industrial Revolution in Britain",
+        "questions": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "psychological-i19",
+    "term": "psychological",
+    "ipa": "/ˌsaɪkəˈlɑdʒɪkəl/",
+    "pos": "adjective",
+    "meaningEn": "mental or emotional as opposed to physical in nature",
+    "meaningVi": "",
+    "synonyms": [
+      "psychological"
+    ],
+    "sentenceText": "But during a threat state, cortisol inhibits the positive effect of adrenaline, resulting in tighter blood vessels, higher blood pressure, slower psychological responses, and a faster heart rate.",
+    "sentenceChunks": [
+      "But during a threat state, cortisol inhibits the positive effect of adrenaline, resulting in",
+      "tighter blood vessels, higher blood pressure, slower psychological responses, and a faster heart rate."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [
+      22
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "adjective",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Athletes and stress",
+        "questions": [
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tournament-i19",
+    "term": "tournament",
+    "ipa": "/ˈtʊənəmənt/",
+    "pos": "noun",
+    "meaningEn": "a sporting competition in which contestants play a series of games to decide the winner",
+    "meaningVi": "",
+    "synonyms": [
+      "tourney"
+    ],
+    "sentenceText": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to 'the accumulation of the excitement and the buzz'.",
+    "sentenceChunks": [
+      "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match",
+      "which she later attributed to 'the accumulation of the excitement and the buzz'."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Athletes and stress",
+        "questions": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stress-i19",
+    "term": "stress",
+    "ipa": "/stres/",
+    "pos": "noun",
+    "meaningEn": "a feeling of worry or pressure caused by a difficult situation",
+    "meaningVi": "",
+    "synonyms": [
+      "pressure",
+      "strain",
+      "tension"
+    ],
+    "sentenceText": "Negative stress responses can be damaging to both physical and mental health - and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.",
+    "sentenceChunks": [
+      "Negative stress responses can be damaging to both physical and mental health - and repeated",
+      "episodes of anxiety coupled with negative responses can increase risk of heart disease and depression."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Athletes and stress",
+        "questions": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          22,
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "athlete-i19",
+    "term": "athlete",
+    "ipa": "/ˈæθˌlit/",
+    "pos": "noun",
+    "meaningEn": "a person trained to compete in sports",
+    "meaningVi": "",
+    "synonyms": [
+      "jock"
+    ],
+    "sentenceText": "These demands include the high level of physical and mental effort required to succeed, and also the athlete's concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury.",
+    "sentenceChunks": [
+      "These demands include the high level of physical and mental effort required to succeed, and also the athlete's",
+      "concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [
+      18,
+      19,
+      21,
+      22,
+      25,
+      26
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Athletes and stress",
+        "questions": [
+          18,
+          19,
+          21,
+          22,
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anxiety-i19",
+    "term": "anxiety",
+    "ipa": "/æŋˈzaɪəti/",
+    "pos": "noun",
+    "meaningEn": "(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic",
+    "meaningVi": "",
+    "synonyms": [
+      "anxiousness"
+    ],
+    "sentenceText": "Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath, as well as headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases.",
+    "sentenceChunks": [
+      "Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath",
+      "as well as headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [
+      25,
+      26
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Athletes and stress",
+        "questions": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "id": "factor-i19",
+    "term": "factor",
+    "ipa": "/ˈfæktə/",
+    "pos": "noun",
+    "meaningEn": "anything that contributes causally to a result",
+    "meaningVi": "",
+    "synonyms": [
+      "component",
+      "constituent",
+      "element",
+      "ingredient"
+    ],
+    "sentenceText": "These include factors such as the competitor's degree of confidence, how much they believe they can control the situation's outcome, and whether they're looking forward to the event or not.",
+    "sentenceChunks": [
+      "These include factors such as the competitor's degree of confidence, how much they believe they",
+      "can control the situation's outcome, and whether they're looking forward to the event or not."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [
+      25,
+      26
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Athletes and stress",
+        "questions": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "id": "attribute-i19",
+    "term": "attribute",
+    "ipa": "/əˈtrɪˌbjut/",
+    "pos": "verb",
+    "meaningEn": "to say that something is caused by or belongs to something else",
+    "meaningVi": "",
+    "synonyms": [
+      "ascribe",
+      "credit",
+      "put down to"
+    ],
+    "sentenceText": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to 'the accumulation of the excitement and the buzz'.",
+    "sentenceChunks": [
+      "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match",
+      "which she later attributed to 'the accumulation of the excitement and the buzz'."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "noun",
+    "references": []
+  },
+  {
+    "id": "withdrawal-i19",
+    "term": "withdrawal",
+    "ipa": "/wɪθˈdrɔəl/",
+    "pos": "noun",
+    "meaningEn": "the act of withdrawing or pulling out of an event or competition",
+    "meaningVi": "",
+    "synonyms": [
+      "pull-out",
+      "removal",
+      "retreat"
+    ],
+    "sentenceText": "This is something that British tennis player Emma Raducanu wrote about on social media following her withdrawal from the 2021 Wimbledon tournament.",
+    "sentenceChunks": [
+      "This is something that British tennis player Emma Raducanu wrote about",
+      "on social media following her withdrawal from the 2021 Wimbledon tournament."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r2",
+    "sectionTitle": "Athletes and stress",
+    "questions": [
+      23,
+      24
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r2",
+        "sectionTitle": "Athletes and stress",
+        "questions": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mathematics-i19",
+    "term": "mathematics",
+    "ipa": "/ˌmæθəˈmætɪks/",
+    "pos": "noun",
+    "meaningEn": "a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement",
+    "meaningVi": "",
+    "synonyms": [
+      "math",
+      "maths"
+    ],
+    "sentenceText": "But most of the time, doing mathematics for me is like being on a long hike with no trail and no end in sight.'",
+    "sentenceChunks": [
+      "But most of the time, doing mathematics for me is like being",
+      "on a long hike with no trail and no end in sight.'"
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "An inquiry into the existence of the gifted child",
+    "questions": [
+      27
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "An inquiry into the existence of the gifted child",
+        "questions": [
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "id": "develop-i19",
+    "term": "develop",
+    "ipa": "/dɪˈveləp/",
+    "pos": "verb",
+    "meaningEn": "make something new, such as a product or a mental or artistic creation",
+    "meaningVi": "",
+    "synonyms": [
+      "evolve",
+      "germinate"
+    ],
+    "sentenceText": "However, they must be taught the right attitudes and approaches to their learning and develop the attributes of high performers - curiosity, persistence and hard work, for example - an approach Eyre calls 'high performance learning'.",
+    "sentenceChunks": [
+      "However, they must be taught the right attitudes and approaches to their learning and develop the attributes of",
+      "high performers - curiosity, persistence and hard work, for example - an approach Eyre calls 'high performance learning'."
+    ],
+    "sentenceImportance": "Optional",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "An inquiry into the existence of the gifted child",
+    "questions": [],
+    "source": "sentence",
+    "why": "",
+    "riskHint": "verb",
+    "references": []
+  },
+  {
+    "id": "gift-i19",
+    "term": "gifted",
+    "ipa": "/gɪft/",
+    "pos": "adjective",
+    "meaningEn": "having a natural ability or talent",
+    "meaningVi": "",
+    "synonyms": [
+      "talented",
+      "able",
+      "exceptional"
+    ],
+    "sentenceText": "According to my colleague Prof Deborah Eyre, with whom I've collaborated on the book Great Minds and How to Grow Them, the latest neuroscience and psychological research suggests most individuals can reach levels of performance associated in school with the gifted and talented.",
+    "sentenceChunks": [
+      "According to my colleague Prof Deborah Eyre, with whom I've collaborated on the book Great Minds and How to Grow Them",
+      "the latest neuroscience and psychological research suggests most individuals can reach levels of performance associated in school with the gifted and talented."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "An inquiry into the existence of the gifted child",
+    "questions": [
+      39
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "An inquiry into the existence of the gifted child",
+        "questions": [
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "id": "parent-i19",
+    "term": "parent",
+    "ipa": "/ˈperənt/",
+    "pos": "noun",
+    "meaningEn": "a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
+    "meaningVi": "",
+    "synonyms": [
+      "parent"
+    ],
+    "sentenceText": "Bloom's outstanding people had worked very hard and consistently at something they had become hooked on when at a young age, and their parents all emerged as having strong work ethics themselves.",
+    "sentenceChunks": [
+      "Bloom's outstanding people had worked very hard and consistently at something they had become hooked on",
+      "when at a young age, and their parents all emerged as having strong work ethics themselves."
+    ],
+    "sentenceImportance": "Helpful",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "An inquiry into the existence of the gifted child",
+    "questions": [
+      40
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "An inquiry into the existence of the gifted child",
+        "questions": [
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "id": "achievement-i19",
+    "term": "achievement",
+    "ipa": "/əˈtʃivmənt/",
+    "pos": "noun",
+    "meaningEn": "the action of accomplishing something",
+    "meaningVi": "",
+    "synonyms": [
+      "accomplishment"
+    ],
+    "sentenceText": "After research going back to 1980 into diverse achievements, from music to memory to sport, he doesn't think unique and innate talents are at the heart of performance.",
+    "sentenceChunks": [
+      "After research going back to 1980 into diverse achievements, from music to memory to",
+      "sport, he doesn't think unique and innate talents are at the heart of performance."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "An inquiry into the existence of the gifted child",
+    "questions": [
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "An inquiry into the existence of the gifted child",
+        "questions": [
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "id": "determination-i19",
+    "term": "determination",
+    "ipa": "/dɪˌtəməˈneɪʃən/",
+    "pos": "noun",
+    "meaningEn": "the quality of continuing to try despite difficulties",
+    "meaningVi": "",
+    "synonyms": [
+      "perseverance",
+      "resolve",
+      "persistence"
+    ],
+    "sentenceText": "He clearly had curiosity, character and determination.",
+    "sentenceChunks": [
+      "He clearly had curiosity, character and determination."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "An inquiry into the existence of the gifted child",
+    "questions": [
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "An inquiry into the existence of the gifted child",
+        "questions": [
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "id": "discipline-i19",
+    "term": "discipline",
+    "ipa": "/ˈdɪsəplən/",
+    "pos": "noun",
+    "meaningEn": "a branch of knowledge",
+    "meaningVi": "",
+    "synonyms": [
+      "subject",
+      "subject area",
+      "subject field",
+      "field"
+    ],
+    "sentenceText": "Bloom's team looked at a group of extraordinarily high achieving people in disciplines as varied as ballet, swimming, piano, tennis, maths, sculpture and neurology.",
+    "sentenceChunks": [
+      "Bloom's team looked at a group of extraordinarily high achieving people in",
+      "disciplines as varied as ballet, swimming, piano, tennis, maths, sculpture and neurology."
+    ],
+    "sentenceImportance": "Essential",
+    "book": "IELTS 19",
+    "test": 2,
+    "skill": "Reading",
+    "section": "r3",
+    "sectionTitle": "An inquiry into the existence of the gifted child",
+    "questions": [
+      38
+    ],
+    "source": "exam",
+    "why": "",
+    "riskHint": "noun",
+    "references": [
+      {
+        "book": "IELTS 19",
+        "test": 2,
+        "skill": "Reading",
+        "section": "r3",
+        "sectionTitle": "An inquiry into the existence of the gifted child",
+        "questions": [
+          38
+        ]
+      }
+    ]
+  }
+]

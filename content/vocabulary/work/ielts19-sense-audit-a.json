@@ -1,0 +1,667 @@
+{
+  "flags": [
+    {
+      "id": "insect-i19",
+      "term": "insect",
+      "issue": "synonyms 'worm' and 'dirt ball' are not insects",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "bug",
+        "arthropod",
+        "pest"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "footbridge-i19",
+      "term": "footbridge",
+      "issue": "missing IPA",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˈfʊtˌbrɪdʒ/"
+    },
+    {
+      "id": "playground-i19",
+      "term": "playground",
+      "issue": "gloss is the resort sense ('area where many people go for recreation'); sentence is a children's adventure playground",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "an outdoor area where children can play, often with equipment",
+      "meaningVi": null,
+      "synonyms": [
+        "play area",
+        "recreation ground",
+        "play space"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "host-i19",
+      "term": "host",
+      "issue": "sentence uses the verb 'hosting'; entry gives a noun gloss (person who invites guests)",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to receive and entertain guests",
+      "meaningVi": null,
+      "synonyms": [
+        "entertain",
+        "receive",
+        "put up"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "cheese-i19",
+      "term": "cheese",
+      "issue": "tagged adjective but sentence uses the noun; synonyms are mallow plant names",
+      "drop": false,
+      "pos": "noun",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "dairy product",
+        "cheddar",
+        "brie"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "label-i19",
+      "term": "label",
+      "issue": "synonym 'recording label' is a music company, not a food label",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "sticker",
+        "tag",
+        "identifier"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "celebrity-i19",
+      "term": "celebrity",
+      "issue": "synonyms 'fame'/'renown' are the state of being famous, not a famous person",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "famous person",
+        "star",
+        "public figure"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "lactose-free-i19",
+      "term": "lactose-free",
+      "issue": "placeholder gloss",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "containing no lactose (milk sugar)",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "packaging-i19",
+      "term": "packaging",
+      "issue": "gloss is the business of packing; sentence means wrapping material",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "material used to wrap or protect goods for sale",
+      "meaningVi": null,
+      "synonyms": [
+        "wrapping",
+        "packing material",
+        "container"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "printing-i19",
+      "term": "printing",
+      "issue": "gloss is handwriting in printed style; sentence is about 3-D printing",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the process of producing text, images or objects with a printer",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "neolithic-i19",
+      "term": "neolithic",
+      "issue": "missing IPA",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ˌniəˈlɪθɪk/"
+    },
+    {
+      "id": "farmer-i19",
+      "term": "farmer",
+      "issue": "synonyms include the proper name 'James Leonard Farmer'",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "farm owner",
+        "agricultural worker",
+        "grower"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "northwest-i19",
+      "term": "northwest",
+      "issue": "gloss is the northwestern US; sentence means the north-west of Ireland",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the direction or region to the north-west",
+      "meaningVi": null,
+      "synonyms": [
+        "north-west",
+        "NW"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "preserve-i19",
+      "term": "preserve",
+      "issue": "sentence uses the verb 'preserved'; entry gives a noun gloss (a reserved domain)",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to keep something in its original condition and protect it from decay or damage",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "racket-i19",
+      "term": "racket",
+      "issue": "gloss is a loud noise; sentence means a tennis racket",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a bat with a network of strings, used in tennis and similar games",
+      "meaningVi": null,
+      "synonyms": [
+        "tennis racket",
+        "racquet",
+        "bat"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "string-i19",
+      "term": "string",
+      "issue": "synonym 'bowed stringed instrument' is a different sense; sentence means racket strings",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "cord",
+        "twine",
+        "racket string"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "frame-i19",
+      "term": "frame",
+      "issue": "gloss is specifically an eyeglass frame; sentence means a racket frame",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the main structure or framework of an object",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "spaghetti-strung-i19",
+      "term": "spaghetti-strung",
+      "issue": "placeholder gloss",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "strung with spaghetti-like string, as a tennis racket",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "stringer-i19",
+      "term": "stringer",
+      "issue": "gloss is a team squad member; sentence means a person who strings rackets",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a person who strings rackets",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "adjust-i19",
+      "term": "adjust",
+      "issue": "tagged noun but sentence uses the verb 'adjusted'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "pirate-i19",
+      "term": "pirate",
+      "issue": "gloss is a plagiarist; sentence means a sea robber",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a person who attacks and robs ships at sea",
+      "meaningVi": null,
+      "synonyms": [
+        "buccaneer",
+        "corsair",
+        "sea robber"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "piracy-i19",
+      "term": "piracy",
+      "issue": "synonyms 'plagiarism' etc. are the copyright sense, not sea piracy",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "buccaneering",
+        "sea robbery",
+        "privateering"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "eradicate-i19",
+      "term": "eradicate",
+      "issue": "tagged noun but sentence uses the verb 'eradicated'; gloss 'kill in large numbers' is too narrow",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to destroy or get rid of something completely",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "capture-i19",
+      "term": "capture",
+      "issue": "gloss is 'represent something intangible'; sentence means seize a ship",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "to take a person or thing by force; seize",
+      "meaningVi": null,
+      "synonyms": [
+        "seize",
+        "take",
+        "catch"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "correct-i19",
+      "term": "correct",
+      "issue": "IPA is missing the /r/ (/kəˈekt/)",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/kəˈrekt/"
+    },
+    {
+      "id": "conflict-i19",
+      "term": "conflict",
+      "issue": "gloss describes an open clash between groups; sentence ('conflicting predictions') means incompatible ideas",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a disagreement or incompatibility between ideas, statements or predictions",
+      "meaningVi": null,
+      "synonyms": [
+        "disagreement",
+        "clash",
+        "incompatibility"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "descartes-i19",
+      "term": "descartes",
+      "issue": "proper name (French philosopher), not a vocabulary entry",
+      "drop": true,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "elementary-i19",
+      "term": "elementary",
+      "issue": "gloss is 'easy/simple'; 'elementary school' means primary school",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "relating to the first stage of education; primary",
+      "meaningVi": null,
+      "synonyms": [
+        "primary",
+        "basic",
+        "introductory"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "chord-i19",
+      "term": "chord",
+      "issue": "gloss is the geometry sense; sentence means a musical chord",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a group of musical notes sounded together",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "lesson-i19",
+      "term": "lesson",
+      "issue": "synonyms are the 'moral example' sense, not a class session",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "class",
+        "session",
+        "period"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "strumming-i19",
+      "term": "strumming",
+      "issue": "noun entry has a verb gloss; sentence means the act of strumming",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the act of brushing the strings of a guitar or other stringed instrument",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "gary-i19",
+      "term": "gary",
+      "issue": "proper first name mis-glossed as a US city; not a vocabulary entry",
+      "drop": true,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "boat-i19",
+      "term": "boat",
+      "issue": "synonyms are gravy-boat terms, not a water vessel",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "vessel",
+        "craft",
+        "ship"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "motivating-i19",
+      "term": "motivating",
+      "issue": "tagged noun but sentence uses the adjective 'motivating'",
+      "drop": false,
+      "pos": "adjective",
+      "meaningEn": "inspiring enthusiasm or determination",
+      "meaningVi": null,
+      "synonyms": [
+        "inspiring",
+        "encouraging",
+        "stimulating"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "short-sighted-i19",
+      "term": "short-sighted",
+      "issue": "placeholder gloss",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "unable to see distant objects clearly; myopic",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "colour-i19",
+      "term": "colour",
+      "issue": "gloss is colouring material; 'colour blindness' means perception of colour",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the quality of an object or light produced by the wavelengths it reflects; hue",
+      "meaningVi": null,
+      "synonyms": [
+        "hue",
+        "shade",
+        "tint"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "recycle-i19",
+      "term": "recycle",
+      "issue": "tagged noun and glossed 'cause to repeat a cycle'; sentence is about recycling centres",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to process used materials so they can be used again",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "high-heeled-i19",
+      "term": "high-heeled",
+      "issue": "placeholder gloss",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "having high heels",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "recycled-i19",
+      "term": "recycled",
+      "issue": "adjective entry has a verb gloss; sentence means made from reused material",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "made from materials that have been processed and reused",
+      "meaningVi": null,
+      "synonyms": [
+        "reused",
+        "reprocessed"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "specie-i19",
+      "term": "specie",
+      "issue": "wrong lemma: sentence uses 'species'; 'specie' means coins. Drop or retarget to 'species'",
+      "drop": true,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "metabolism-i19",
+      "term": "metabolism",
+      "issue": "gloss is metamorphosis, not metabolism; synonym 'metamorphosis' is wrong",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the chemical processes in a living organism that maintain life and convert food into energy",
+      "meaningVi": null,
+      "synonyms": [
+        "metabolic process",
+        "chemical processes"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "consume-i19",
+      "term": "consume",
+      "issue": "gloss 'eat immoderately' does not fit 'consume liquids'",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "to eat, drink or take in a substance",
+      "meaningVi": null,
+      "synonyms": [
+        "eat",
+        "drink",
+        "ingest",
+        "take in"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "industrialisation-i19",
+      "term": "industrialisation",
+      "issue": "missing IPA",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": "/ɪnˌdʌstriəlaɪˈzeɪʃən/"
+    },
+    {
+      "id": "produce-i19",
+      "term": "produce",
+      "issue": "tagged noun but sentence uses the verb 'produced'; noun gloss and noun IPA",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to make or manufacture something",
+      "meaningVi": null,
+      "synonyms": [
+        "manufacture",
+        "make",
+        "create"
+      ],
+      "ipa": "/prəˈdjuːs/"
+    },
+    {
+      "id": "weaver-i19",
+      "term": "weaver",
+      "issue": "synonyms 'weaverbird'/'weaver finch' are birds, not cloth weavers",
+      "drop": false,
+      "pos": null,
+      "meaningEn": null,
+      "meaningVi": null,
+      "synonyms": [
+        "textile worker",
+        "loom operator"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "stress-i19",
+      "term": "stress",
+      "issue": "gloss is syllable/note stress; sentence means mental or physical strain",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a state of mental or emotional strain caused by demanding circumstances",
+      "meaningVi": null,
+      "synonyms": [
+        "pressure",
+        "strain",
+        "tension"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "attribute-i19",
+      "term": "attribute",
+      "issue": "tagged noun but sentence uses the verb 'attributed'",
+      "drop": false,
+      "pos": "verb",
+      "meaningEn": "to regard something as being caused by or belonging to",
+      "meaningVi": null,
+      "synonyms": [
+        "ascribe",
+        "credit",
+        "assign"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "withdrawal-i19",
+      "term": "withdrawal",
+      "issue": "gloss is retraction of a position; sentence means pulling out of a tournament",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the act of withdrawing or pulling out of an event or competition",
+      "meaningVi": null,
+      "synonyms": [
+        "pull-out",
+        "departure",
+        "exit"
+      ],
+      "ipa": null
+    },
+    {
+      "id": "gift-i19",
+      "term": "gift",
+      "issue": "gloss is 'a present'; sentence ('gifted and talented') uses gift = natural talent",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "a natural ability or talent",
+      "meaningVi": null,
+      "synonyms": null,
+      "ipa": null
+    },
+    {
+      "id": "determination-i19",
+      "term": "determination",
+      "issue": "gloss is the act of determining facts; sentence means firmness of purpose",
+      "drop": false,
+      "pos": null,
+      "meaningEn": "the quality of being determined; firmness of purpose",
+      "meaningVi": null,
+      "synonyms": [
+        "resolve",
+        "willpower",
+        "perseverance"
+      ],
+      "ipa": null
+    }
+  ]
+}

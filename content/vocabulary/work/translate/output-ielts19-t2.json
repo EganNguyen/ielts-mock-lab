@@ -1,0 +1,836 @@
+[
+  {
+    "id": "practise-i19",
+    "meaningVi": "luyện tập, tập dượt",
+    "translation": "Sau đó thầy phát bài hát, và nếu trong đó có hợp âm mới, chúng tôi luyện tập hợp âm đó trước khi chơi cùng nhau – nhưng chơi rất chậm.",
+    "breakdown": [
+      {
+        "text": "Then he hands out the song and",
+        "vi": "Sau đó thầy phát bài hát và",
+        "role": "sequence"
+      },
+      {
+        "text": "if there's a new chord in it, we practise that before we play it together - but really slowly.",
+        "vi": "nếu trong bài có hợp âm mới, chúng tôi luyện tập hợp âm đó trước khi chơi cùng nhau – nhưng chơi rất chậm.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "guitar-i19",
+    "meaningVi": "đàn ghi-ta",
+    "translation": "Tôi muốn trò chuyện với bạn vì anh bạn Josh của chúng ta bảo rằng bạn đã tham gia một nhóm chơi ghi-ta và nghe có vẻ thú vị.",
+    "breakdown": [
+      {
+        "text": "I wanted to have a chat with you because our friend Josh",
+        "vi": "Tôi muốn trò chuyện với bạn vì anh bạn Josh của chúng ta",
+        "role": "reason"
+      },
+      {
+        "text": "told me that you've joined a guitar group and it sounds interesting.",
+        "vi": "bảo rằng bạn đã tham gia một nhóm ghi-ta và nghe có vẻ thú vị.",
+        "role": "reported clause"
+      }
+    ]
+  },
+  {
+    "id": "chord-i19",
+    "meaningVi": "hợp âm",
+    "translation": "Sau đó thầy phát bài hát, và nếu trong đó có hợp âm mới, chúng tôi luyện tập hợp âm đó trước khi chơi cùng nhau – nhưng chơi rất chậm.",
+    "breakdown": [
+      {
+        "text": "Then he hands out the song and",
+        "vi": "Sau đó thầy phát bài hát và",
+        "role": "sequence"
+      },
+      {
+        "text": "if there's a new chord in it, we practise that before we play it together - but really slowly.",
+        "vi": "nếu trong bài có hợp âm mới, chúng tôi luyện tập hợp âm đó trước khi chơi cùng nhau – nhưng chơi rất chậm.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "lesson-i19",
+    "meaningVi": "bài học, buổi học",
+    "translation": "Đó là mười phút cuối của buổi học, khi chúng tôi tách riêng từng nốt trong một giai điệu do thầy tự sáng tác.",
+    "breakdown": [
+      {
+        "text": "That's the last ten minutes of the lesson, when we",
+        "vi": "Đó là mười phút cuối của buổi học, khi chúng tôi",
+        "role": "time"
+      },
+      {
+        "text": "pick out the individual notes from a tune he's made up.",
+        "vi": "tách riêng từng nốt trong một giai điệu do thầy tự sáng tác.",
+        "role": "action"
+      }
+    ]
+  },
+  {
+    "id": "strumming-i19",
+    "meaningVi": "việc gảy đàn, gảy dây đàn",
+    "translation": "Đầu tiên, chúng tôi thường dành khoảng mười phút để gảy đàn.",
+    "breakdown": [
+      {
+        "text": "First, we usually spend about ten minutes doing some strumming.",
+        "vi": "Đầu tiên, chúng tôi thường dành khoảng mười phút để gảy đàn.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "tune-i19",
+    "meaningVi": "giai điệu",
+    "translation": "Đó là mười phút cuối của buổi học, khi chúng tôi tách riêng từng nốt trong một giai điệu do thầy tự sáng tác.",
+    "breakdown": [
+      {
+        "text": "That's the last ten minutes of the lesson, when we",
+        "vi": "Đó là mười phút cuối của buổi học, khi chúng tôi",
+        "role": "time"
+      },
+      {
+        "text": "pick out the individual notes from a tune he's made up.",
+        "vi": "tách riêng từng nốt trong một giai điệu do thầy tự sáng tác.",
+        "role": "action"
+      }
+    ]
+  },
+  {
+    "id": "surname-i19",
+    "meaningVi": "họ",
+    "translation": "Gary... Họ của anh ấy viết thế nào?",
+    "breakdown": [
+      {
+        "text": "Gary... How do you spell his surname?",
+        "vi": "Gary... Họ của anh ấy viết thế nào?",
+        "role": "question"
+      }
+    ]
+  },
+  {
+    "id": "lifeboat-i19",
+    "meaningVi": "xuồng cứu sinh",
+    "translation": "Gần đây tôi đã đủ điều kiện trở thành một người được gọi là 'thuyền trưởng lái xuồng', nghĩa là tôi chịu trách nhiệm cao nhất đối với xuồng cứu sinh.",
+    "breakdown": [
+      {
+        "text": "I've recently qualified as what's called a 'helmsman', which means I have the ultimate responsibility for the lifeboat.",
+        "vi": "Gần đây tôi đã đủ điều kiện trở thành một người được gọi là 'thuyền trưởng lái xuồng', nghĩa là tôi chịu trách nhiệm cao nhất đối với xuồng cứu sinh.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "boat-i19",
+    "meaningVi": "thuyền, xuồng",
+    "translation": "Họ có một bể tạo sóng để có thể tạo ra những điều kiện thời tiết khắc nghiệt – nhờ đó chúng tôi có thể có /18 kinh nghiệm về việc phải làm gì nếu thuyền bị lật trong bão ban đêm, chẳng hạn.",
+    "breakdown": [
+      {
+        "text": "They had a wave-tank where they could create extreme weather conditions - so we could get /18 experience at what to do",
+        "vi": "Họ có một bể tạo sóng để có thể tạo ra những điều kiện thời tiết khắc nghiệt – nhờ đó chúng tôi có thể có /18 kinh nghiệm về việc phải làm gì",
+        "role": "background"
+      },
+      {
+        "text": "if the boat turned over in a storm at night, for example.",
+        "vi": "nếu thuyền bị lật trong bão vào ban đêm, chẳng hạn.",
+        "role": "condition"
+      }
+    ]
+  },
+  {
+    "id": "casualty-i19",
+    "meaningVi": "người bị thương, nạn nhân",
+    "translation": "Tôi mừng là mình đã học một khóa sơ cứu trước khi bắt đầu, vì điều đó rất có ích cho các hoạt động chăm sóc người bị thương mà chúng tôi làm.",
+    "breakdown": [
+      {
+        "text": "I was glad I'd done a first aid course before I started",
+        "vi": "Tôi mừng là mình đã học một khóa sơ cứu trước khi bắt đầu",
+        "role": "main idea"
+      },
+      {
+        "text": "as that's a big help with the casualty care activities we do.",
+        "vi": "vì điều đó rất có ích cho các hoạt động chăm sóc người bị thương mà chúng tôi làm.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "motivating-i19",
+    "meaningVi": "tạo động lực, khích lệ",
+    "translation": "Nhưng công việc này tạo động lực rất lớn.",
+    "breakdown": [
+      {
+        "text": "But the work's hugely motivating.",
+        "vi": "Nhưng công việc này tạo động lực rất lớn.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "residential-i19",
+    "meaningVi": "nội trú",
+    "translation": "Sau một năm, tôi tham gia một khóa học nội trú kéo dài một tuần do các chuyên gia giảng dạy.",
+    "breakdown": [
+      {
+        "text": "After a year, I did a one-week residential course, led by specialists.",
+        "vi": "Sau một năm, tôi tham gia một khóa học nội trú kéo dài một tuần do các chuyên gia giảng dạy.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "responsibility-i19",
+    "meaningVi": "trách nhiệm",
+    "translation": "Gần đây tôi đã đủ điều kiện trở thành một người được gọi là 'thuyền trưởng lái xuồng', nghĩa là tôi chịu trách nhiệm cao nhất đối với xuồng cứu sinh.",
+    "breakdown": [
+      {
+        "text": "I've recently qualified as what's called a 'helmsman', which means I have the ultimate responsibility for the lifeboat.",
+        "vi": "Gần đây tôi đã đủ điều kiện trở thành một người được gọi là 'thuyền trưởng lái xuồng', nghĩa là tôi chịu trách nhiệm cao nhất đối với xuồng cứu sinh.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "short-sighted-i19",
+    "meaningVi": "cận thị",
+    "translation": "Trước đây tôi bị cận thị nên phải đeo kính, nhưng tôi đã phẫu thuật mắt bằng laser hai năm trước đó nên không sao cả.",
+    "breakdown": [
+      {
+        "text": "I used to be short-sighted, so I'd had to wear glasses, but",
+        "vi": "Trước đây tôi bị cận thị nên phải đeo kính, nhưng",
+        "role": "background"
+      },
+      {
+        "text": "I'd had laser eye surgery two years earlier so that was OK.",
+        "vi": "tôi đã phẫu thuật mắt bằng laser hai năm trước đó nên mọi chuyện đều ổn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "colour-i19",
+    "meaningVi": "màu sắc",
+    "translation": "Họ cho tôi làm bài kiểm tra mù màu và nghĩ rằng tôi có thể có vấn đề ở đó, nhưng hóa ra tôi không sao.",
+    "breakdown": [
+      {
+        "text": "They gave me tests for colour blindness and they thought I",
+        "vi": "Họ cho tôi làm các bài kiểm tra mù màu và họ nghĩ rằng tôi",
+        "role": "background"
+      },
+      {
+        "text": "might have a problem there, but it turned out I was OK.",
+        "vi": "có thể có vấn đề ở đó, nhưng hóa ra tôi không sao.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "footwear-i19",
+    "meaningVi": "giày dép",
+    "translation": "Không. Nhưng sau đó bài viết nói rằng lượng giày dép tái chế đã giảm: hiện chỉ còn 6 phần trăm so với mức 11 phần trăm trước đây.",
+    "breakdown": [
+      {
+        "text": "No, But then it said that the amount of recycled footwear has fallen:",
+        "vi": "Không. Nhưng sau đó bài viết nói rằng lượng giày dép tái chế đã giảm:",
+        "role": "contrast"
+      },
+      {
+        "text": "it's 6 percent now compared to a previous level of 11 percent.",
+        "vi": "hiện chỉ còn 6 phần trăm so với mức 11 phần trăm trước đây.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "recycling-i19",
+    "meaningVi": "tái chế, việc tái chế",
+    "translation": "Ồ có chứ – người ta bảo chúng ta buộc đôi giày lại với nhau khi bỏ vào thùng tái chế, nhưng mọi người thường không làm vậy.",
+    "breakdown": [
+      {
+        "text": "Oh yes - we're told to tie shoes together when we",
+        "vi": "Ồ có chứ – người ta bảo chúng ta buộc đôi giày lại với nhau khi chúng ta",
+        "role": "detail"
+      },
+      {
+        "text": "put them in a recycling bin, but people often don't bother.",
+        "vi": "bỏ chúng vào thùng tái chế, nhưng mọi người thường không buồn làm.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "shoe-i19",
+    "meaningVi": "giày",
+    "translation": "Chà, trước khi bắt đầu đọc, tôi nghĩ rằng việc tái chế giày dép, ừm, tuy khá thú vị nhưng có lẽ không có nhiều điều để nói về nó, vì chúng ta bỏ giày vào thùng tái chế, chúng được đưa đến các cửa hàng từ thiện, và chỉ có thế.",
+    "breakdown": [
+      {
+        "text": "Well, before I started reading it, I thought recycling footwear, well",
+        "vi": "Chà, trước khi bắt đầu đọc, tôi nghĩ rằng việc tái chế giày dép, ừm",
+        "role": "opening"
+      },
+      {
+        "text": "although it's quite interesting, perhaps there isn't enough to say about it, cos we put shoes in recycling bins, they go to charity shops and that's about it.",
+        "vi": "tuy khá thú vị nhưng có lẽ không có nhiều điều để nói về nó, vì chúng ta bỏ giày vào thùng tái chế, chúng được đưa đến các cửa hàng từ thiện, và chỉ có thế.",
+        "role": "concession"
+      }
+    ]
+  },
+  {
+    "id": "pair-i19",
+    "meaningVi": "đôi",
+    "translation": "Một trong những điều tôi không nhận ra cho đến khi đọc bài báo là có bao nhiêu đôi giày thể thao được tái chế!",
+    "breakdown": [
+      {
+        "text": "One of the things I didn't realise until I read",
+        "vi": "Một trong những điều tôi không nhận ra cho đến khi tôi đọc",
+        "role": "opening"
+      },
+      {
+        "text": "the article was just how many pairs of trainers get recycled!",
+        "vi": "bài báo là có bao nhiêu đôi giày thể thao được tái chế!",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "high-heeled-i19",
+    "meaningVi": "cao gót",
+    "translation": "Hãy bắt đầu với giày cao gót của phụ nữ.",
+    "breakdown": [
+      {
+        "text": "Let's start with the ladies' high-heeled shoes.",
+        "vi": "Hãy bắt đầu với giày cao gót của phụ nữ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "recycled-i19",
+    "meaningVi": "được tái chế",
+    "translation": "Không. Nhưng sau đó bài viết nói rằng lượng giày dép tái chế đã giảm: hiện chỉ còn 6 phần trăm so với mức 11 phần trăm trước đây.",
+    "breakdown": [
+      {
+        "text": "No, But then it said that the amount of recycled footwear has fallen:",
+        "vi": "Không. Nhưng sau đó bài viết nói rằng lượng giày dép tái chế đã giảm:",
+        "role": "contrast"
+      },
+      {
+        "text": "it's 6 percent now compared to a previous level of 11 percent.",
+        "vi": "hiện chỉ còn 6 phần trăm so với mức 11 phần trăm trước đây.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "heel-i19",
+    "meaningVi": "gót giày",
+    "translation": "Anh ấy nói chúng có lẽ đắt tiền – chất liệu là da lộn và màu be – trông như ai đó chỉ mang một lần, nhưng lại ở một cánh đồng rất ẩm ướt nên gót giày bị bùn và cỏ bám quá nhiều để bán lại.",
+    "breakdown": [
+      {
+        "text": "He said they were probably expensive - the material was suede and they were beige in colour - it looked like someone had only worn them once",
+        "vi": "Anh ấy nói chúng có lẽ đắt tiền – chất liệu là da lộn và màu be – trông như ai đó chỉ mang một lần",
+        "role": "detail"
+      },
+      {
+        "text": "but in a very wet field so the heels were too stained with mud and grass to re-sell them.",
+        "vi": "nhưng lại ở một cánh đồng rất ẩm ướt nên gót giày bị bùn và cỏ bám quá nhiều để bán lại.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "millimetre-i19",
+    "meaningVi": "milimét",
+    "translation": "Hầu hết gấu nước có chiều dài từ 0,05 đến 1 milimét, mặc dù loài lớn nhất có thể dài tới 1,2 milimét.",
+    "breakdown": [
+      {
+        "text": "Most tardigrades range in length from 0.05 to 1 millimetre, though",
+        "vi": "Hầu hết gấu nước có chiều dài từ 0,05 đến 1 milimét, mặc dù",
+        "role": "main idea"
+      },
+      {
+        "text": "the largest species can grow to be 1.2 millimetres in length.",
+        "vi": "loài lớn nhất có thể dài tới 1,2 milimét.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "appearance-i19",
+    "meaningVi": "vẻ ngoài, diện mạo",
+    "translation": "Về phần đầu của gấu nước, cách mô tả tốt nhất của tôi là nó trông khá kỳ lạ – thậm chí hơi bị bẹp – mặc dù nhiều trang web tôi xem mô tả vẻ ngoài của nó là dễ thương, điều này không hẳn mang tính khoa học cho lắm.",
+    "breakdown": [
+      {
+        "text": "As far as the tardigrade's head is concerned, the best way I can describe this is",
+        "vi": "Về phần đầu của gấu nước, cách mô tả tốt nhất của tôi là",
+        "role": "topic"
+      },
+      {
+        "text": "that it looks rather strange - a bit squashed even - though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.",
+        "vi": "nó trông khá kỳ lạ – thậm chí hơi bẹp – mặc dù nhiều trang web tôi xem mô tả vẻ ngoài của nó là dễ thương, điều này không hẳn mang tính khoa học cho lắm.",
+        "role": "concession"
+      }
+    ]
+  },
+  {
+    "id": "conservation-i19",
+    "meaningVi": "bảo tồn, việc bảo tồn",
+    "translation": "Cuối cùng, tôi muốn đề cập đến tình trạng bảo tồn của gấu nước.",
+    "breakdown": [
+      {
+        "text": "Finally, I'd like to mention the conservation status of tardigrades.",
+        "vi": "Cuối cùng, tôi muốn đề cập đến tình trạng bảo tồn của gấu nước.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "metabolism-i19",
+    "meaningVi": "trao đổi chất, quá trình trao đổi chất",
+    "translation": "Chúng cuộn tròn thành một quả bóng gọi là tun – tức T-U-N – bằng cách rút đầu và chân lại, và quá trình trao đổi chất của chúng giảm xuống dưới một phần trăm mức bình thường.",
+    "breakdown": [
+      {
+        "text": "They curl into a ball, called a tun - that's T-U-N - by retracting their",
+        "vi": "Chúng cuộn tròn thành một quả bóng gọi là tun – tức T-U-N – bằng cách rút",
+        "role": "process"
+      },
+      {
+        "text": "head and legs, and their metabolism drops to less than one percent of normal levels.",
+        "vi": "đầu và chân lại, và quá trình trao đổi chất của chúng giảm xuống dưới một phần trăm mức bình thường.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "liquid-i19",
+    "meaningVi": "chất lỏng",
+    "translation": "Tôi cho rằng điều này không đáng ngạc nhiên, vì gấu nước chủ yếu cấu tạo từ chất lỏng và được bao phủ bởi một loại gel.",
+    "breakdown": [
+      {
+        "text": "I suppose this isn't surprising, given that tardigrades are mainly",
+        "vi": "Tôi cho rằng điều này không đáng ngạc nhiên, vì gấu nước chủ yếu",
+        "role": "opinion"
+      },
+      {
+        "text": "comprised of liquid and are coated with a type of gel.",
+        "vi": "cấu tạo từ chất lỏng và được bao phủ bởi một loại gel.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "bear-i19",
+    "meaningVi": "gấu (trong cụm 'water bear' – tên gọi khác của gấu nước)",
+    "translation": "Đôi khi chúng còn được gọi là 'gấu nước': 'nước' vì đó là nơi chúng phát triển tốt nhất, và 'gấu' vì cách chúng di chuyển.",
+    "breakdown": [
+      {
+        "text": "They are also sometimes called 'water bears':",
+        "vi": "Đôi khi chúng còn được gọi là 'gấu nước':",
+        "role": "main idea"
+      },
+      {
+        "text": "'water' because that's where they thrive best, and 'bear' because of the way they move.",
+        "vi": "'nước' vì đó là nơi chúng phát triển tốt nhất, và 'gấu' vì cách chúng di chuyển.",
+        "role": "explanation"
+      }
+    ]
+  },
+  {
+    "id": "consume-i19",
+    "meaningVi": "tiêu thụ, hấp thụ",
+    "translation": "Về chế độ ăn, gấu nước tiêu thụ chất lỏng để tồn tại.",
+    "breakdown": [
+      {
+        "text": "In terms of their diet, tardigrades consume liquids in order to survive.",
+        "vi": "Về chế độ ăn, gấu nước tiêu thụ chất lỏng để tồn tại.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "industrialisation-i19",
+    "meaningVi": "công nghiệp hóa",
+    "translation": "Mặc dù nhiều người ở Anh đã bắt đầu chuyển từ vùng nông thôn ra thành phố trước Cách mạng Công nghiệp, quá trình này tăng tốc mạnh mẽ cùng với công nghiệp hóa, khi sự phát triển của các nhà máy lớn đã biến những thị trấn nhỏ thành các thành phố lớn chỉ trong vài thập kỷ.",
+    "breakdown": [
+      {
+        "text": "Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated",
+        "vi": "Mặc dù nhiều người ở Anh đã bắt đầu chuyển từ vùng nông thôn ra thành phố trước Cách mạng Công nghiệp, quá trình này đã tăng tốc",
+        "role": "concession"
+      },
+      {
+        "text": "dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just a few decades.",
+        "vi": "mạnh mẽ cùng với công nghiệp hóa, khi sự phát triển của các nhà máy lớn đã biến những thị trấn nhỏ thành các thành phố lớn chỉ trong vài thập kỷ.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "textile-i19",
+    "meaningVi": "ngành dệt, hàng dệt",
+    "translation": "Những hàng hóa từng được chế tác thủ công bắt đầu được sản xuất số lượng lớn bằng máy móc trong các nhà máy, nhờ phát minh động cơ hơi nước và việc đưa vào các loại máy mới cùng kỹ thuật sản xuất trong ngành dệt, luyện sắt và các ngành khác.",
+    "breakdown": [
+      {
+        "text": "Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks",
+        "vi": "Những hàng hóa từng được chế tác thủ công bắt đầu được sản xuất số lượng lớn bằng máy móc trong các nhà máy, nhờ",
+        "role": "main idea"
+      },
+      {
+        "text": "to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.",
+        "vi": "phát minh động cơ hơi nước và việc đưa vào các loại máy mới cùng kỹ thuật sản xuất trong ngành dệt, luyện sắt và các ngành khác.",
+        "role": "cause"
+      }
+    ]
+  },
+  {
+    "id": "produce-i19",
+    "meaningVi": "sản xuất, làm ra",
+    "translation": "Những hàng hóa từng được chế tác thủ công bắt đầu được sản xuất số lượng lớn bằng máy móc trong các nhà máy, nhờ phát minh động cơ hơi nước và việc đưa vào các loại máy mới cùng kỹ thuật sản xuất trong ngành dệt, luyện sắt và các ngành khác.",
+    "breakdown": [
+      {
+        "text": "Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks",
+        "vi": "Những hàng hóa từng được chế tác thủ công bắt đầu được sản xuất số lượng lớn bằng máy móc trong các nhà máy, nhờ",
+        "role": "main idea"
+      },
+      {
+        "text": "to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.",
+        "vi": "phát minh động cơ hơi nước và việc đưa vào các loại máy mới cùng kỹ thuật sản xuất trong ngành dệt, luyện sắt và các ngành khác.",
+        "role": "cause"
+      }
+    ]
+  },
+  {
+    "id": "cloth-i19",
+    "meaningVi": "vải",
+    "translation": "Với những cỗ máy này, cần tương đối ít lao động để sản xuất vải, và các nhà máy dệt mới được cơ giới hóa, mở ra khắp đất nước, đã nhanh chóng có thể đáp ứng nhu cầu của khách hàng về vải cả trong nước và ngoài nước.",
+    "breakdown": [
+      {
+        "text": "With these machines, relatively little labour was required to produce cloth, and the new, mechanised textile factories",
+        "vi": "Với những cỗ máy này, cần tương đối ít lao động để sản xuất vải, và các nhà máy dệt mới được cơ giới hóa",
+        "role": "main idea"
+      },
+      {
+        "text": "that opened around the country were quickly able to meet customer demand for cloth both at home and abroad.",
+        "vi": "mở ra khắp đất nước, đã nhanh chóng có thể đáp ứng nhu cầu của khách hàng về vải cả trong nước và ngoài nước.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "iron-i19",
+    "meaningVi": "sắt",
+    "translation": "Đứng đầu trong các kỹ thuật mới là việc nấu chảy quặng sắt bằng than cốc (một vật liệu làm từ việc nung than đá) thay vì than củi truyền thống.",
+    "breakdown": [
+      {
+        "text": "Chief among the new techniques was the smelting of iron ore with",
+        "vi": "Đứng đầu trong các kỹ thuật mới là việc nấu chảy quặng sắt bằng",
+        "role": "main idea"
+      },
+      {
+        "text": "coke (a material made by heating coal) instead of the traditional charcoal.",
+        "vi": "than cốc (một vật liệu làm từ việc nung than đá) thay vì than củi truyền thống.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "weaver-i19",
+    "meaningVi": "thợ dệt",
+    "translation": "Nước Anh đã sản xuất các loại vải như len, vải lanh và bông trong hàng trăm năm, nhưng trước Cách mạng Công nghiệp, ngành dệt của Anh thực sự là một 'ngành công nghiệp gia đình', với công việc được thực hiện trong các xưởng nhỏ hoặc thậm chí tại nhà bởi từng thợ kéo sợi, thợ dệt và thợ nhuộm riêng lẻ.",
+    "breakdown": [
+      {
+        "text": "Britain had produced textiles like wool, linen and cotton, for hundreds of years",
+        "vi": "Nước Anh đã sản xuất các loại vải như len, vải lanh và bông trong hàng trăm năm",
+        "role": "background"
+      },
+      {
+        "text": "but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', with the work performed in small workshops or even homes by individual spinners, weavers and dyers.",
+        "vi": "nhưng trước Cách mạng Công nghiệp, ngành dệt của Anh thực sự là một 'ngành công nghiệp gia đình', với công việc được thực hiện trong các xưởng nhỏ hoặc thậm chí tại nhà bởi từng thợ kéo sợi, thợ dệt và thợ nhuộm riêng lẻ.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "communication-i19",
+    "meaningVi": "giao tiếp, liên lạc",
+    "translation": "Phần sau của Cách mạng Công nghiệp cũng chứng kiến những tiến bộ quan trọng trong các phương thức liên lạc, khi người ta ngày càng thấy cần phải liên lạc hiệu quả qua những khoảng cách xa.",
+    "breakdown": [
+      {
+        "text": "The latter part of the Industrial Revolution also saw key advances in communication",
+        "vi": "Phần sau của Cách mạng Công nghiệp cũng chứng kiến những tiến bộ quan trọng trong",
+        "role": "main idea"
+      },
+      {
+        "text": "methods, as people increasingly saw the need to communicate efficiently over long distances.",
+        "vi": "các phương thức liên lạc, khi người ta ngày càng thấy cần phải liên lạc hiệu quả qua những khoảng cách xa.",
+        "role": "reason"
+      }
+    ]
+  },
+  {
+    "id": "industrial-i19",
+    "meaningVi": "thuộc về công nghiệp",
+    "translation": "Đầu những năm 1800, kỹ sư người Anh Richard Trevithick đã chế tạo một đầu máy xe lửa chạy bằng hơi nước, và đến năm 1830, hàng hóa và hành khách đã được vận chuyển giữa các trung tâm công nghiệp Manchester và Liverpool.",
+    "breakdown": [
+      {
+        "text": "In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by",
+        "vi": "Đầu những năm 1800, kỹ sư người Anh Richard Trevithick đã chế tạo một đầu máy xe lửa chạy bằng hơi nước, và đến",
+        "role": "background"
+      },
+      {
+        "text": "1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool.",
+        "vi": "năm 1830, hàng hóa và hành khách đã được vận chuyển giữa các trung tâm công nghiệp Manchester và Liverpool.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "psychological-i19",
+    "meaningVi": "thuộc về tâm lý",
+    "translation": "Nhưng trong trạng thái đe dọa, cortisol ức chế tác dụng tích cực của adrenaline, dẫn đến mạch máu co lại, huyết áp cao hơn, phản ứng tâm lý chậm hơn và nhịp tim nhanh hơn.",
+    "breakdown": [
+      {
+        "text": "But during a threat state, cortisol inhibits the positive effect of adrenaline, resulting in",
+        "vi": "Nhưng trong trạng thái đe dọa, cortisol ức chế tác dụng tích cực của adrenaline, dẫn đến",
+        "role": "contrast"
+      },
+      {
+        "text": "tighter blood vessels, higher blood pressure, slower psychological responses, and a faster heart rate.",
+        "vi": "mạch máu co lại, huyết áp cao hơn, phản ứng tâm lý chậm hơn và nhịp tim nhanh hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "tournament-i19",
+    "meaningVi": "giải đấu",
+    "translation": "Dù nữ vận động viên trẻ đã thi đấu tốt ở giải đấu, cô bắt đầu gặp khó khăn trong việc điều hòa nhịp thở và nhịp tim trong một trận đấu, điều mà sau này cô cho là do 'sự tích tụ của niềm phấn khích và cảm giác sôi động'.",
+    "breakdown": [
+      {
+        "text": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match",
+        "vi": "Dù nữ vận động viên trẻ đã thi đấu tốt ở giải đấu, cô bắt đầu gặp khó khăn trong việc điều hòa nhịp thở và nhịp tim trong một trận đấu",
+        "role": "concession"
+      },
+      {
+        "text": "which she later attributed to 'the accumulation of the excitement and the buzz'.",
+        "vi": "điều mà sau này cô cho là do 'sự tích tụ của niềm phấn khích và cảm giác sôi động'.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "stress-i19",
+    "meaningVi": "căng thẳng, sự căng thẳng",
+    "translation": "Các phản ứng căng thẳng tiêu cực có thể gây hại cho cả sức khỏe thể chất lẫn tinh thần – và những đợt lo âu lặp lại đi kèm với các phản ứng tiêu cực có thể làm tăng nguy cơ mắc bệnh tim và trầm cảm.",
+    "breakdown": [
+      {
+        "text": "Negative stress responses can be damaging to both physical and mental health - and repeated",
+        "vi": "Các phản ứng căng thẳng tiêu cực có thể gây hại cho cả sức khỏe thể chất lẫn tinh thần – và",
+        "role": "main idea"
+      },
+      {
+        "text": "episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.",
+        "vi": "những đợt lo âu lặp lại đi kèm với các phản ứng tiêu cực có thể làm tăng nguy cơ mắc bệnh tim và trầm cảm.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "athlete-i19",
+    "meaningVi": "vận động viên",
+    "translation": "Những đòi hỏi này bao gồm mức độ nỗ lực thể chất và tinh thần cao cần thiết để thành công, và cả những lo lắng của vận động viên về độ khó của nội dung thi đấu, cơ hội thành công của họ, và bất kỳ nguy hiểm tiềm tàng nào như chấn thương.",
+    "breakdown": [
+      {
+        "text": "These demands include the high level of physical and mental effort required to succeed, and also the athlete's",
+        "vi": "Những đòi hỏi này bao gồm mức độ nỗ lực thể chất và tinh thần cao cần thiết để thành công, và cả",
+        "role": "main idea"
+      },
+      {
+        "text": "concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury.",
+        "vi": "những lo lắng của vận động viên về độ khó của nội dung thi đấu, cơ hội thành công của họ, và bất kỳ nguy hiểm tiềm tàng nào như chấn thương.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "anxiety-i19",
+    "meaningVi": "lo âu, sự lo âu",
+    "translation": "Lo âu có thể làm tăng nhịp tim và tiết mồ hôi, gây hồi hộp tim, run cơ và khó thở, cũng như đau đầu, buồn nôn, đau bụng, yếu ớt và mong muốn trốn thoát trong những trường hợp cực đoan hơn.",
+    "breakdown": [
+      {
+        "text": "Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath",
+        "vi": "Lo âu có thể làm tăng nhịp tim và tiết mồ hôi, gây hồi hộp tim, run cơ và khó thở",
+        "role": "main idea"
+      },
+      {
+        "text": "as well as headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases.",
+        "vi": "cũng như đau đầu, buồn nôn, đau bụng, yếu ớt và mong muốn trốn thoát trong những trường hợp cực đoan hơn.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "factor-i19",
+    "meaningVi": "yếu tố",
+    "translation": "Những yếu tố này bao gồm mức độ tự tin của thí sinh, việc họ tin rằng mình có thể kiểm soát kết quả của tình huống đến mức nào, và liệu họ có mong chờ sự kiện hay không.",
+    "breakdown": [
+      {
+        "text": "These include factors such as the competitor's degree of confidence, how much they believe they",
+        "vi": "Những yếu tố này bao gồm mức độ tự tin của thí sinh, việc họ tin rằng mình",
+        "role": "detail"
+      },
+      {
+        "text": "can control the situation's outcome, and whether they're looking forward to the event or not.",
+        "vi": "có thể kiểm soát kết quả của tình huống, và liệu họ có mong chờ sự kiện hay không.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "attribute-i19",
+    "meaningVi": "quy cho, cho là do",
+    "translation": "Dù nữ vận động viên trẻ đã thi đấu tốt ở giải đấu, cô bắt đầu gặp khó khăn trong việc điều hòa nhịp thở và nhịp tim trong một trận đấu, điều mà sau này cô cho là do 'sự tích tụ của niềm phấn khích và cảm giác sôi động'.",
+    "breakdown": [
+      {
+        "text": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match",
+        "vi": "Dù nữ vận động viên trẻ đã thi đấu tốt ở giải đấu, cô bắt đầu gặp khó khăn trong việc điều hòa nhịp thở và nhịp tim trong một trận đấu",
+        "role": "concession"
+      },
+      {
+        "text": "which she later attributed to 'the accumulation of the excitement and the buzz'.",
+        "vi": "điều mà sau này cô cho là do 'sự tích tụ của niềm phấn khích và cảm giác sôi động'.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "withdrawal-i19",
+    "meaningVi": "việc rút lui, việc rút khỏi",
+    "translation": "Đây là điều mà tay vợt người Anh Emma Raducanu đã viết trên mạng xã hội sau khi cô rút khỏi giải Wimbledon 2021.",
+    "breakdown": [
+      {
+        "text": "This is something that British tennis player Emma Raducanu wrote about",
+        "vi": "Đây là điều mà tay vợt người Anh Emma Raducanu đã viết",
+        "role": "main idea"
+      },
+      {
+        "text": "on social media following her withdrawal from the 2021 Wimbledon tournament.",
+        "vi": "trên mạng xã hội sau khi cô rút khỏi giải Wimbledon 2021.",
+        "role": "time"
+      }
+    ]
+  },
+  {
+    "id": "mathematics-i19",
+    "meaningVi": "toán học",
+    "translation": "Nhưng phần lớn thời gian, với tôi, làm toán giống như đang đi bộ đường dài mà không có lối mòn và không thấy điểm kết thúc.'",
+    "breakdown": [
+      {
+        "text": "But most of the time, doing mathematics for me is like being",
+        "vi": "Nhưng phần lớn thời gian, với tôi, làm toán giống như đang",
+        "role": "contrast"
+      },
+      {
+        "text": "on a long hike with no trail and no end in sight.'",
+        "vi": "đi bộ đường dài mà không có lối mòn và không thấy điểm kết thúc.'",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "develop-i19",
+    "meaningVi": "phát triển, rèn luyện",
+    "translation": "Tuy nhiên, các em phải được dạy những thái độ và cách tiếp cận đúng đắn đối với việc học và phát triển những phẩm chất của người có thành tích cao – chẳng hạn như tò mò, kiên trì và chăm chỉ – một cách tiếp cận mà Eyre gọi là 'học tập hiệu suất cao'.",
+    "breakdown": [
+      {
+        "text": "However, they must be taught the right attitudes and approaches to their learning and develop the attributes of",
+        "vi": "Tuy nhiên, các em phải được dạy những thái độ và cách tiếp cận đúng đắn đối với việc học và phát triển những phẩm chất của",
+        "role": "contrast"
+      },
+      {
+        "text": "high performers - curiosity, persistence and hard work, for example - an approach Eyre calls 'high performance learning'.",
+        "vi": "người có thành tích cao – chẳng hạn như tò mò, kiên trì và chăm chỉ – một cách tiếp cận mà Eyre gọi là 'học tập hiệu suất cao'.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "gift-i19",
+    "meaningVi": "năng khiếu, tài năng thiên phú",
+    "translation": "Theo đồng nghiệp của tôi, Giáo sư Deborah Eyre, người mà tôi đã hợp tác viết cuốn sách Great Minds and How to Grow Them, nghiên cứu thần kinh học và tâm lý học mới nhất cho thấy hầu hết mọi người có thể đạt được những mức thành tích mà ở trường thường gắn với học sinh năng khiếu và tài năng.",
+    "breakdown": [
+      {
+        "text": "According to my colleague Prof Deborah Eyre, with whom I've collaborated on the book Great Minds and How to Grow Them",
+        "vi": "Theo đồng nghiệp của tôi, Giáo sư Deborah Eyre, người mà tôi đã hợp tác viết cuốn sách Great Minds and How to Grow Them",
+        "role": "source"
+      },
+      {
+        "text": "the latest neuroscience and psychological research suggests most individuals can reach levels of performance associated in school with the gifted and talented.",
+        "vi": "nghiên cứu thần kinh học và tâm lý học mới nhất cho thấy hầu hết mọi người có thể đạt được những mức thành tích mà ở trường thường gắn với học sinh năng khiếu và tài năng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "parent-i19",
+    "meaningVi": "cha mẹ, bố mẹ",
+    "translation": "Những con người xuất sắc trong nghiên cứu của Bloom đã làm việc rất chăm chỉ và đều đặn với một điều gì đó mà họ đã say mê từ khi còn nhỏ, và cha mẹ của họ đều được thấy là những người có đạo đức lao động mạnh mẽ.",
+    "breakdown": [
+      {
+        "text": "Bloom's outstanding people had worked very hard and consistently at something they had become hooked on",
+        "vi": "Những con người xuất sắc trong nghiên cứu của Bloom đã làm việc rất chăm chỉ và đều đặn với một điều gì đó mà họ đã say mê",
+        "role": "main idea"
+      },
+      {
+        "text": "when at a young age, and their parents all emerged as having strong work ethics themselves.",
+        "vi": "khi còn nhỏ, và cha mẹ của họ đều được thấy là những người có đạo đức lao động mạnh mẽ.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "achievement-i19",
+    "meaningVi": "thành tựu, thành tích",
+    "translation": "Sau khi nghiên cứu từ năm 1980 về những thành tựu đa dạng, từ âm nhạc đến trí nhớ đến thể thao, ông không cho rằng những tài năng độc nhất và bẩm sinh là cốt lõi của thành tích.",
+    "breakdown": [
+      {
+        "text": "After research going back to 1980 into diverse achievements, from music to memory to",
+        "vi": "Sau khi nghiên cứu từ năm 1980 về những thành tựu đa dạng, từ âm nhạc đến trí nhớ đến",
+        "role": "background"
+      },
+      {
+        "text": "sport, he doesn't think unique and innate talents are at the heart of performance.",
+        "vi": "thể thao, ông không cho rằng những tài năng độc nhất và bẩm sinh là cốt lõi của thành tích.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "determination-i19",
+    "meaningVi": "sự quyết tâm",
+    "translation": "Rõ ràng ông ấy có sự tò mò, bản lĩnh và quyết tâm.",
+    "breakdown": [
+      {
+        "text": "He clearly had curiosity, character and determination.",
+        "vi": "Rõ ràng ông ấy có sự tò mò, bản lĩnh và quyết tâm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "discipline-i19",
+    "meaningVi": "lĩnh vực, ngành",
+    "translation": "Nhóm của Bloom đã xem xét một nhóm người đạt thành tích cao phi thường trong những lĩnh vực đa dạng như ballet, bơi lội, piano, quần vợt, toán học, điêu khắc và thần kinh học.",
+    "breakdown": [
+      {
+        "text": "Bloom's team looked at a group of extraordinarily high achieving people in",
+        "vi": "Nhóm của Bloom đã xem xét một nhóm người đạt thành tích cao phi thường trong",
+        "role": "main idea"
+      },
+      {
+        "text": "disciplines as varied as ballet, swimming, piano, tennis, maths, sculpture and neurology.",
+        "vi": "những lĩnh vực đa dạng như ballet, bơi lội, piano, quần vợt, toán học, điêu khắc và thần kinh học.",
+        "role": "detail"
+      }
+    ]
+  }
+]

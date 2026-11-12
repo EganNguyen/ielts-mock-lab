@@ -1,0 +1,855 @@
+[
+  {
+    "id": "supermarket-i19",
+    "meaningVi": "siêu thị",
+    "translation": "Ừ - bạn sẽ có thể mua được mọi thứ mình cần, nhưng có một xe buýt nhỏ chạy đến siêu thị nếu bạn cần.",
+    "breakdown": [
+      {
+        "text": "Yeah - you should be able to get everything you need, but",
+        "vi": "Ừ - bạn sẽ có thể mua được mọi thứ mình cần, nhưng",
+        "role": "opening concession"
+      },
+      {
+        "text": "there's a minibus that goes to the supermarket if you need it.",
+        "vi": "có một xe buýt nhỏ chạy đến siêu thị nếu bạn cần.",
+        "role": "main clause + condition"
+      }
+    ]
+  },
+  {
+    "id": "shopping-i19",
+    "meaningVi": "việc mua sắm, đi mua hàng",
+    "translation": "Trông như bạn đang đi mua sắm.",
+    "breakdown": [
+      {
+        "text": "You look like you're going shopping.",
+        "vi": "Trông như bạn đang đi mua sắm.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "organic-i19",
+    "meaningVi": "hữu cơ (trồng không dùng hóa chất)",
+    "translation": "_ ll xem cửa hàng hữu cơ có những loại đậu gì và tôi nghĩ tôi sẽ mua gì đó để tráng miệng ở đó.",
+    "breakdown": [
+      {
+        "text": "_ ll see what beans they have in the organic",
+        "vi": "_ ll xem cửa hàng hữu cơ có những loại đậu gì",
+        "role": "main clause"
+      },
+      {
+        "text": "shop and I think I'll get something for dessert there.",
+        "vi": "và tôi nghĩ tôi sẽ mua gì đó để tráng miệng ở đó.",
+        "role": "coordination + intention"
+      }
+    ]
+  },
+  {
+    "id": "bean-i19",
+    "meaningVi": "hạt đậu",
+    "translation": "_ ll xem cửa hàng hữu cơ có những loại đậu gì và tôi nghĩ tôi sẽ mua gì đó để tráng miệng ở đó.",
+    "breakdown": [
+      {
+        "text": "_ ll see what beans they have in the organic",
+        "vi": "_ ll xem cửa hàng hữu cơ có những loại đậu gì",
+        "role": "main clause"
+      },
+      {
+        "text": "shop and I think I'll get something for dessert there.",
+        "vi": "và tôi nghĩ tôi sẽ mua gì đó để tráng miệng ở đó.",
+        "role": "coordination + intention"
+      }
+    ]
+  },
+  {
+    "id": "dessert-i19",
+    "meaningVi": "món tráng miệng",
+    "translation": "_ ll xem cửa hàng hữu cơ có những loại đậu gì và tôi nghĩ tôi sẽ mua gì đó để tráng miệng ở đó.",
+    "breakdown": [
+      {
+        "text": "_ ll see what beans they have in the organic",
+        "vi": "_ ll xem cửa hàng hữu cơ có những loại đậu gì",
+        "role": "main clause"
+      },
+      {
+        "text": "shop and I think I'll get something for dessert there.",
+        "vi": "và tôi nghĩ tôi sẽ mua gì đó để tráng miệng ở đó.",
+        "role": "coordination + intention"
+      }
+    ]
+  },
+  {
+    "id": "grey-i19",
+    "meaningVi": "màu xám",
+    "translation": "À, khi bạn đến chợ, bạn sẽ thấy một tòa nhà lớn màu xám ở bên trái - tôi nghĩ trước đây nó từng là một nhà kho.",
+    "breakdown": [
+      {
+        "text": "Well, as you reach the market, you'll see a big grey building",
+        "vi": "À, khi bạn đến chợ, bạn sẽ thấy một tòa nhà lớn màu xám",
+        "role": "main clause"
+      },
+      {
+        "text": "on your left - I think it used to be a warehouse.",
+        "vi": "ở bên trái - tôi nghĩ trước đây nó từng là một nhà kho.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "handful-i19",
+    "meaningVi": "một nắm (lượng nhỏ)",
+    "translation": "Tôi chỉ xin một nắm và bạn chiên nó với bơ.",
+    "breakdown": [
+      {
+        "text": "I just ask for a handful and you fry it in butter.",
+        "vi": "Tôi chỉ xin một nắm và bạn chiên nó với bơ.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "minibus-i19",
+    "meaningVi": "xe buýt nhỏ",
+    "translation": "Ừ - bạn sẽ có thể mua được mọi thứ mình cần, nhưng có một xe buýt nhỏ chạy đến siêu thị nếu bạn cần.",
+    "breakdown": [
+      {
+        "text": "Yeah - you should be able to get everything you need, but",
+        "vi": "Ừ - bạn sẽ có thể mua được mọi thứ mình cần, nhưng",
+        "role": "opening concession"
+      },
+      {
+        "text": "there's a minibus that goes to the supermarket if you need it.",
+        "vi": "có một xe buýt nhỏ chạy đến siêu thị nếu bạn cần.",
+        "role": "main clause + condition"
+      }
+    ]
+  },
+  {
+    "id": "vocabulary-i19",
+    "meaningVi": "vốn từ",
+    "translation": "Cuối mỗi bài nhật ký có những từ tiếng Anh mới mà cậu bé học mỗi ngày, điều này có thể giúp phát triển vốn từ của một số trẻ.",
+    "breakdown": [
+      {
+        "text": "At the end of each diary entry, there are new English words",
+        "vi": "Cuối mỗi bài nhật ký có những từ tiếng Anh mới",
+        "role": "main clause"
+      },
+      {
+        "text": "the boy learns each day, which may help develop some children's vocabulary.",
+        "vi": "mà cậu bé học mỗi ngày, điều này có thể giúp phát triển vốn từ của một số trẻ.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "independently-i19",
+    "meaningVi": "một cách độc lập, tự lực",
+    "translation": "Nhiều bậc cha mẹ ngừng đọc to cho con nghe ngay khi con biết tự đọc, nhưng đây là một sai lầm.",
+    "breakdown": [
+      {
+        "text": "A lot of parents give up reading aloud to their children as",
+        "vi": "Nhiều bậc cha mẹ ngừng đọc to cho con nghe ngay",
+        "role": "main clause"
+      },
+      {
+        "text": "soon as they learn to read independently, but this is a mistake.",
+        "vi": "khi con biết tự đọc, nhưng đây là một sai lầm.",
+        "role": "contrast + comment"
+      }
+    ]
+  },
+  {
+    "id": "recommend-i19",
+    "meaningVi": "giới thiệu, đề xuất",
+    "translation": "Tôi chỉ đang tự hỏi liệu bạn có cuốn sách yêu thích nào có thể giới thiệu cho độc giả của chúng tôi không?",
+    "breakdown": [
+      {
+        "text": "I'm just wondering if you have a favourite book you could recommend for our readers?",
+        "vi": "Tôi chỉ đang tự hỏi liệu bạn có cuốn sách yêu thích nào có thể giới thiệu cho độc giả của chúng tôi không?",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "aloud-i19",
+    "meaningVi": "thành tiếng, đọc to",
+    "translation": "Nhiều bậc cha mẹ ngừng đọc to cho con nghe ngay khi con biết tự đọc, nhưng đây là một sai lầm.",
+    "breakdown": [
+      {
+        "text": "A lot of parents give up reading aloud to their children as",
+        "vi": "Nhiều bậc cha mẹ ngừng đọc to cho con nghe ngay",
+        "role": "main clause"
+      },
+      {
+        "text": "soon as they learn to read independently, but this is a mistake.",
+        "vi": "khi con biết tự đọc, nhưng đây là một sai lầm.",
+        "role": "contrast + comment"
+      }
+    ]
+  },
+  {
+    "id": "audio-i19",
+    "meaningVi": "âm thanh; (sách) nói",
+    "translation": "Nếu bạn không có thời gian cho việc này, hãy để chúng nghe sách nói.",
+    "breakdown": [
+      {
+        "text": "If you don't have time for this, then let them listen to audio books.",
+        "vi": "Nếu bạn không có thời gian cho việc này, hãy để chúng nghe sách nói.",
+        "role": "condition + result"
+      }
+    ]
+  },
+  {
+    "id": "stick-i19",
+    "meaningVi": "que, gậy; (hình) người que",
+    "translation": "Trên mỗi trang, có /18 những bức vẽ người que đen trắng đơn giản nhưng rất buồn cười về cậu bé cùng bạn bè và thầy cô.",
+    "breakdown": [
+      {
+        "text": "On each page, there /18 are simple but hilarious black and",
+        "vi": "Trên mỗi trang, có /18 những bức vẽ đơn giản nhưng rất buồn cười, đen và",
+        "role": "main clause"
+      },
+      {
+        "text": "white stick drawings of the boy with his friends and teachers.",
+        "vi": "trắng kiểu người que về cậu bé cùng bạn bè và thầy cô.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "author-i19",
+    "meaningVi": "tác giả",
+    "translation": "Đây là cơ hội để trẻ khiếm thính chia sẻ trải nghiệm đọc sách với tác giả Madeleine Gordon, người cũng bị khiếm thính.",
+    "breakdown": [
+      {
+        "text": "This is a chance for deaf children to share their",
+        "vi": "Đây là cơ hội để trẻ khiếm thính chia sẻ",
+        "role": "main clause"
+      },
+      {
+        "text": "reading experiences with author Madeleine Gordon, who is herself hearing impaired.",
+        "vi": "trải nghiệm đọc sách với tác giả Madeleine Gordon, người cũng bị khiếm thính.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "listen-i19",
+    "meaningVi": "nghe",
+    "translation": "Thường thì các em sẽ muốn tự đọc những cuốn sách mà mình đã nghe /20.",
+    "breakdown": [
+      {
+        "text": "Often, they'll want to read books they've listened /20 to for themselves.",
+        "vi": "Thường thì các em sẽ muốn tự đọc những cuốn sách mà mình đã nghe /20.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "supplement-i19",
+    "meaningVi": "thực phẩm bổ sung",
+    "translation": "Vậy có lẽ chúng ta có thể xem xét các thực phẩm bổ sung... những thứ như sắt và protein bổ sung, và tác động của chúng đến sức khỏe.",
+    "breakdown": [
+      {
+        "text": "So maybe we could look at food supplements... things like",
+        "vi": "Vậy có lẽ chúng ta có thể xem xét thực phẩm bổ sung... những thứ như",
+        "role": "suggestion"
+      },
+      {
+        "text": "extra iron and extra protein, and their impact on health.",
+        "vi": "sắt và protein bổ sung, và tác động của chúng đến sức khỏe.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "mouse-i19",
+    "meaningVi": "chuột (thí nghiệm)",
+    "translation": "Kiểu như, bạn có thể cho một số con chuột cơ hội vận động nhiều hơn, chạy trên bánh xe hoặc gì đó, còn những con khác chỉ ngồi quanh và không làm gì nhiều.",
+    "breakdown": [
+      {
+        "text": "Like, you could give some of the mice the chance to be more active, running",
+        "vi": "Kiểu như, bạn có thể cho một số con chuột cơ hội vận động nhiều hơn, chạy",
+        "role": "main clause"
+      },
+      {
+        "text": "on a wheel or something, and the others just sit around and don't do much.",
+        "vi": "trên bánh xe hoặc gì đó, còn những con khác chỉ ngồi quanh và không làm gì nhiều.",
+        "role": "contrast + detail"
+      }
+    ]
+  },
+  {
+    "id": "complicated-i19",
+    "meaningVi": "phức tạp",
+    "translation": "Nghe có vẻ phức tạp, nhưng thực ra bạn chỉ cần dùng một hộp nhựa có lỗ ở nắp.",
+    "breakdown": [
+      {
+        "text": "It sounds complicated, but actually you can just use a plastic box with holes in the top.",
+        "vi": "Nghe có vẻ phức tạp, nhưng thực ra bạn chỉ cần dùng một hộp nhựa có lỗ ở nắp.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "conclusion-i19",
+    "meaningVi": "kết luận",
+    "translation": "Nếu có được dữ liệu phù hợp, các kết luận có thể sẽ có ý nghĩa, nhưng tôi e rằng điều đó sẽ không dễ.",
+    "breakdown": [
+      {
+        "text": "If you could get the right data, the conclusions might",
+        "vi": "Nếu có được dữ liệu phù hợp, các kết luận có thể",
+        "role": "condition"
+      },
+      {
+        "text": "be significant, but I suspect it's not going to be easy.",
+        "vi": "sẽ có ý nghĩa, nhưng tôi e rằng điều đó sẽ không dễ.",
+        "role": "contrast"
+      }
+    ]
+  },
+  {
+    "id": "electronic-i19",
+    "meaningVi": "điện tử",
+    "translation": "Và bạn sẽ cần một chiếc cân điện tử.",
+    "breakdown": [
+      {
+        "text": "And you'd need an electronic balance.",
+        "vi": "Và bạn sẽ cần một chiếc cân điện tử.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "permission-i19",
+    "meaningVi": "sự cho phép",
+    "translation": "Tôi có phải xin phép để sử dụng động vật không?",
+    "breakdown": [
+      {
+        "text": "Would I have to get permission to use animals?",
+        "vi": "Tôi có phải xin phép để sử dụng động vật không?",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "affect-i19",
+    "meaningVi": "ảnh hưởng, tác động đến",
+    "translation": "Nhưng nếu chúng ta phát hiện ra rằng, ví dụ, một chế độ ăn cụ thể ảnh hưởng đến sức khỏe của động vật, thì điều tương tự không nhất thiết đúng với con người, phải không?",
+    "breakdown": [
+      {
+        "text": "But if we found out that, say, a particular diet affects the health",
+        "vi": "Nhưng nếu chúng ta phát hiện ra rằng, ví dụ, một chế độ ăn cụ thể ảnh hưởng đến sức khỏe",
+        "role": "condition"
+      },
+      {
+        "text": "of animals, the same thing wouldn't necessarily be true for people, would it?",
+        "vi": "của động vật, thì điều tương tự không nhất thiết đúng với con người, phải không?",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "weigh-i19",
+    "meaningVi": "cân, đo trọng lượng",
+    "translation": "Vậy bạn cần một thứ gọi là buồng cân để ngăn chuột chạy thoát.",
+    "breakdown": [
+      {
+        "text": "So you need something called a weighing chamber to stop the mice from running away.",
+        "vi": "Vậy bạn cần một thứ gọi là buồng cân để ngăn chuột chạy thoát.",
+        "role": "main idea + purpose"
+      }
+    ]
+  },
+  {
+    "id": "earthworm-i19",
+    "meaningVi": "giun đất",
+    "translation": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+    "breakdown": [
+      {
+        "text": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+        "vi": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận",
+        "role": "main clause"
+      },
+      {
+        "text": "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+        "vi": "rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "digestive-i19",
+    "meaningVi": "thuộc tiêu hóa",
+    "translation": "Có bằng chứng cho thấy vi nhựa gây hại cho các sinh vật nhỏ theo nhiều cách, chẳng hạn như làm tổn thương miệng của chúng, hoặc làm suy giảm khả năng kiếm ăn, ví dụ khi vi nhựa bị mắc kẹt trong hệ tiêu hóa của chúng.",
+    "breakdown": [
+      {
+        "text": "There is evidence",
+        "vi": "Có bằng chứng",
+        "role": "main idea"
+      },
+      {
+        "text": "that microplastics harm small creatures in a variety of ways, such as by damaging their mouths, or by impairing their ability to feed, for example when microplastics get lodged in their digestive system.",
+        "vi": "cho thấy vi nhựa gây hại cho các sinh vật nhỏ theo nhiều cách, chẳng hạn như làm tổn thương miệng của chúng, hoặc làm suy giảm khả năng kiếm ăn, ví dụ khi vi nhựa bị mắc kẹt trong hệ tiêu hóa của chúng.",
+        "role": "detail + example"
+      }
+    ]
+  },
+  {
+    "id": "soil-i19",
+    "meaningVi": "đất, đất trồng",
+    "translation": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+    "breakdown": [
+      {
+        "text": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+        "vi": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận",
+        "role": "main clause"
+      },
+      {
+        "text": "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+        "vi": "rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "agricultural-i19",
+    "meaningVi": "thuộc nông nghiệp",
+    "translation": "Những con giun này, sống trong lớp đất mặt, là một thành phần thiết yếu của hệ thống nông nghiệp của chúng ta.",
+    "breakdown": [
+      {
+        "text": "These worms, which live in topsoil, are an essential component of our agricultural system.",
+        "vi": "Những con giun này, sống trong lớp đất mặt, là một thành phần thiết yếu của hệ thống nông nghiệp của chúng ta.",
+        "role": "main idea + relative clause"
+      }
+    ]
+  },
+  {
+    "id": "conclude-i19",
+    "meaningVi": "kết luận, đưa ra kết luận",
+    "translation": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+    "breakdown": [
+      {
+        "text": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+        "vi": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận",
+        "role": "main clause"
+      },
+      {
+        "text": "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+        "vi": "rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "germinate-i19",
+    "meaningVi": "nảy mầm",
+    "translation": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+    "breakdown": [
+      {
+        "text": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded",
+        "vi": "Hơn nữa, tỷ lệ hạt cỏ ryegrass nảy mầm thấp hơn bình thường, và các nhà nghiên cứu kết luận",
+        "role": "main clause"
+      },
+      {
+        "text": "that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.",
+        "vi": "rằng đây là kết quả trực tiếp của việc giun đất không thể thực hiện vai trò bình thường của chúng trong việc làm đất màu mỡ hơn.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "colleague-i19",
+    "meaningVi": "đồng nghiệp",
+    "translation": "Đầu tháng 4 năm 2019, Tiến sĩ Ceri Shipton và các đồng nghiệp của ông từ Đại học Quốc gia Úc trở thành những nhà khảo cổ đầu tiên khám phá Obi, một trong nhiều hòn đảo nhiệt đới ở tỉnh Maluku Utara của Indonesia.",
+    "breakdown": [
+      {
+        "text": "In early April 2019, Dr Ceri Shipton and his colleagues from Australian National University became",
+        "vi": "Đầu tháng 4 năm 2019, Tiến sĩ Ceri Shipton và các đồng nghiệp của ông từ Đại học Quốc gia Úc trở thành",
+        "role": "main clause"
+      },
+      {
+        "text": "the first archaeologists to explore Obi, one of many tropical islands in Indonesia's Maluku Utara province.",
+        "vi": "những nhà khảo cổ đầu tiên khám phá Obi, một trong nhiều hòn đảo nhiệt đới ở tỉnh Maluku Utara của Indonesia.",
+        "role": "complement + detail"
+      }
+    ]
+  },
+  {
+    "id": "shelter-i19",
+    "meaningVi": "nơi trú ẩn, chỗ ẩn náu",
+    "translation": "Cuộc khai quật của nhóm Shipton tại các nơi trú ẩn ở di chỉ Kelo đã khai lộ một chất thủy tinh núi lửa gọi là obsidian, thứ hẳn đã được mang từ hòn đảo khác đến, vì không có nguồn nào được biết đến ở Obi.",
+    "breakdown": [
+      {
+        "text": "Shipton's team's excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian",
+        "vi": "Cuộc khai quật của nhóm Shipton tại các nơi trú ẩn ở di chỉ Kelo đã khai lộ một chất thủy tinh núi lửa gọi là obsidian",
+        "role": "main clause"
+      },
+      {
+        "text": "which must have been brought over from another island, as there is no known source on Obi.",
+        "vi": "thứ hẳn đã được mang từ đảo khác đến, vì không có nguồn nào được biết đến ở Obi.",
+        "role": "relative clause + reason"
+      }
+    ]
+  },
+  {
+    "id": "shell-i19",
+    "meaningVi": "vỏ (nghêu, sò…)",
+    "translation": "Những chiếc rìu làm từ vỏ nghêu cùng thời gian đó trước đây cũng đã được tìm thấy ở nơi khác trong vùng, bao gồm trên đảo Gebe gần đó ở phía đông bắc.",
+    "breakdown": [
+      {
+        "text": "Axes made from clam shells from roughly the same time had also previously been",
+        "vi": "Những chiếc rìu làm từ vỏ nghêu cùng thời gian đó trước đây cũng đã",
+        "role": "subject"
+      },
+      {
+        "text": "found elsewhere in this region, including on the nearby island of Gebe to the northeast.",
+        "vi": "được tìm thấy ở nơi khác trong vùng, bao gồm trên đảo Gebe gần đó ở phía đông bắc.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "connection-i19",
+    "meaningVi": "mối liên hệ",
+    "translation": "Giống như ở Gebe, rất có khả năng những chiếc rìu của Obi được dùng để đóng thuyền độc mộc, nhờ đó những người dân sơ khai này có thể duy trì mối liên hệ giữa các cộng đồng trên những hòn đảo lân cận.",
+    "breakdown": [
+      {
+        "text": "As on Gebe, it is highly likely",
+        "vi": "Giống như ở Gebe, rất có khả năng",
+        "role": "comparison + hedging"
+      },
+      {
+        "text": "that Obi's axes were used in the construction of canoes, thus allowing these early peoples to maintain connections between communities on neighbouring islands.",
+        "vi": "những chiếc rìu của Obi được dùng để đóng thuyền độc mộc, nhờ đó những người dân sơ khai này có thể duy trì mối liên hệ giữa các cộng đồng trên những hòn đảo lân cận.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "islander-i19",
+    "meaningVi": "cư dân đảo",
+    "translation": "Những phát hiện này một lần nữa ủng hộ ý kiến rằng cư dân đảo Obi thường xuyên đi đến các đảo khác.",
+    "breakdown": [
+      {
+        "text": "These finds again support the idea that Obi islanders routinely travelled to other islands.",
+        "vi": "Những phát hiện này một lần nữa ủng hộ ý kiến rằng cư dân đảo Obi thường xuyên đi đến các đảo khác.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "clam-i19",
+    "meaningVi": "nghêu, sò",
+    "translation": "Những chiếc rìu làm từ vỏ nghêu cùng thời gian đó trước đây cũng đã được tìm thấy ở nơi khác trong vùng, bao gồm trên đảo Gebe gần đó ở phía đông bắc.",
+    "breakdown": [
+      {
+        "text": "Axes made from clam shells from roughly the same time had also previously been",
+        "vi": "Những chiếc rìu làm từ vỏ nghêu cùng thời gian đó trước đây cũng đã",
+        "role": "subject"
+      },
+      {
+        "text": "found elsewhere in this region, including on the nearby island of Gebe to the northeast.",
+        "vi": "được tìm thấy ở nơi khác trong vùng, bao gồm trên đảo Gebe gần đó ở phía đông bắc.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "climate-i19",
+    "meaningVi": "khí hậu",
+    "translation": "Vào thời điểm này khí hậu khô và lạnh hơn ngày nay, và những khu rừng nhiệt đới rậm rạp của hòn đảo có lẽ đã bớt khó xuyên qua hơn nhiều so với bây giờ.",
+    "breakdown": [
+      {
+        "text": "At this time the climate was drier and colder than today, and the",
+        "vi": "Vào thời điểm này khí hậu khô và lạnh hơn ngày nay, và",
+        "role": "background"
+      },
+      {
+        "text": "island's dense rainforests would likely have been much less impenetrable than they are now.",
+        "vi": "những khu rừng nhiệt đới rậm rạp của hòn đảo có lẽ đã bớt khó xuyên qua hơn nhiều so với bây giờ.",
+        "role": "comparison"
+      }
+    ]
+  },
+  {
+    "id": "evidence-i19",
+    "meaningVi": "bằng chứng",
+    "translation": "Nhưng để ủng hộ ý tưởng này, họ cần bằng chứng khảo cổ về con người sống ở vùng xa xôi này trong thời cổ đại.",
+    "breakdown": [
+      {
+        "text": "But to support this idea, they needed archaeological evidence for",
+        "vi": "Nhưng để ủng hộ ý tưởng này, họ cần bằng chứng khảo cổ về",
+        "role": "purpose"
+      },
+      {
+        "text": "humans living in this remote area in the ancient past.",
+        "vi": "con người sống ở vùng xa xôi này trong thời cổ đại.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "peatlands-i19",
+    "meaningVi": "đất than bùn (vùng ngập nước)",
+    "translation": "Khi đất than bùn bị thoát nước để canh tác, chúng trở thành nguồn phát thải carbon ròng thay vì là nơi lưu trữ carbon tích cực, và theo Marcel Silvius, trưởng bộ phận Sử dụng đất thông minh với khí hậu tại WI, hoạt động này gây ra sáu phần trăm tổng lượng phát thải carbon toàn cầu.",
+    "breakdown": [
+      {
+        "text": "When peatlands are drained for cultivation, they become net carbonemitters instead of active carbon stores, and, according to Marcel",
+        "vi": "Khi đất than bùn bị thoát nước để canh tác, chúng trở thành nguồn phát thải carbon ròng thay vì là nơi lưu trữ carbon tích cực, và, theo Marcel",
+        "role": "condition + contrast"
+      },
+      {
+        "text": "Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions.",
+        "vi": "Silvius, trưởng bộ phận Sử dụng đất thông minh với khí hậu tại WI, hoạt động này gây ra sáu phần trăm tổng lượng phát thải carbon toàn cầu.",
+        "role": "source + main claim"
+      }
+    ]
+  },
+  {
+    "id": "clearance-i19",
+    "meaningVi": "việc chặt phá, dọn sạch",
+    "translation": "Việc chặt phá đất than bùn để trồng trọt cũng làm tăng nguy cơ cháy rừng, vốn thải ra lượng lớn CO. 'Chúng ta đang chứng kiến những khu rừng than bùn rộng lớn với giá trị đa dạng sinh học cực cao bị mất đi để đổi lấy vài thập kỷ doanh thu từ cọ dầu,' Silvius nói.",
+    "breakdown": [
+      {
+        "text": "The clearance of peatlands for planting also increases the risk of forest fires",
+        "vi": "Việc chặt phá đất than bùn để trồng trọt cũng làm tăng nguy cơ cháy rừng",
+        "role": "main idea"
+      },
+      {
+        "text": "which release huge amounts of CO. 'We're seeing huge peatland forests with extremely high biodiversity value being lost for a few decades of oil palm revenues,' says Silvius.",
+        "vi": "vốn thải ra lượng lớn CO. 'Chúng ta đang chứng kiến những khu rừng than bùn rộng lớn với giá trị đa dạng sinh học cực cao bị mất đi để đổi lấy vài thập kỷ doanh thu từ cọ dầu,' Silvius nói.",
+        "role": "relative clause + quote"
+      }
+    ]
+  },
+  {
+    "id": "peat-i19",
+    "meaningVi": "than bùn",
+    "translation": "Nhưng theo Quỹ Quốc tế Bảo vệ Thiên nhiên (WWEN), một nửa số vùng đất ngập nước trên thế giới đã biến mất kể từ năm 1990 - bị chuyển đổi hoặc phá hủy để phát triển thương mại, làm hệ thống thoát nước và khai thác khoáng sản và than bùn\".",
+    "breakdown": [
+      {
+        "text": "But according to the World Wide Fund for Nature (WWEN), half of the world's wetlands have disappeared",
+        "vi": "Nhưng theo Quỹ Quốc tế Bảo vệ Thiên nhiên (WWEN), một nửa số vùng đất ngập nước trên thế giới đã biến mất",
+        "role": "source + claim"
+      },
+      {
+        "text": "since 1990 - converted or destroyed for commercial development, drainage schemes and the extraction of minerals and peat\".",
+        "vi": "kể từ năm 1990 - bị chuyển đổi hoặc phá hủy để phát triển thương mại, làm hệ thống thoát nước và khai thác khoáng sản và than bùn\".",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "drain-i19",
+    "meaningVi": "thoát nước, tiêu nước",
+    "translation": "Khi đất than bùn bị thoát nước để canh tác, chúng trở thành nguồn phát thải carbon ròng thay vì là nơi lưu trữ carbon tích cực, và theo Marcel Silvius, trưởng bộ phận Sử dụng đất thông minh với khí hậu tại WI, hoạt động này gây ra sáu phần trăm tổng lượng phát thải carbon toàn cầu.",
+    "breakdown": [
+      {
+        "text": "When peatlands are drained for cultivation, they become net carbonemitters instead of active carbon stores, and, according to Marcel",
+        "vi": "Khi đất than bùn bị thoát nước để canh tác, chúng trở thành nguồn phát thải carbon ròng thay vì là nơi lưu trữ carbon tích cực, và, theo Marcel",
+        "role": "condition + contrast"
+      },
+      {
+        "text": "Silvius, head of Climate- smart Land-use at WI, this practice causes six per cent of all global carbon emissions.",
+        "vi": "Silvius, trưởng bộ phận Sử dụng đất thông minh với khí hậu tại WI, hoạt động này gây ra sáu phần trăm tổng lượng phát thải carbon toàn cầu.",
+        "role": "source + main claim"
+      }
+    ]
+  },
+  {
+    "id": "palm-i19",
+    "meaningVi": "cây cọ (cọ dầu)",
+    "translation": "Sau đó, chúng được dùng để rút nước khỏi đất than bùn nhằm cho phép trồng ngô, cọ dầu hoặc cây gỗ bột giấy.",
+    "breakdown": [
+      {
+        "text": "These are then used to drain water out of the peatlands",
+        "vi": "Sau đó, chúng được dùng để rút nước khỏi đất than bùn",
+        "role": "main clause"
+      },
+      {
+        "text": "to allow for the planting of corn, oil palms or pulpwood trees.",
+        "vi": "nhằm cho phép trồng ngô, cọ dầu hoặc cây gỗ bột giấy.",
+        "role": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "environmental-i19",
+    "meaningVi": "thuộc môi trường",
+    "translation": "Chúng cũng phục vụ một mục đích môi trường quan trọng.",
+    "breakdown": [
+      {
+        "text": "They also serve a crucial environmental purpose.",
+        "vi": "Chúng cũng phục vụ một mục đích môi trường quan trọng.",
+        "role": "main idea"
+      }
+    ]
+  },
+  {
+    "id": "flooding-i19",
+    "meaningVi": "lũ lụt, ngập lụt",
+    "translation": "'Vùng đất ngập nước là một trong những công cụ then chốt để giảm thiểu biến đổi khí hậu trên toàn hành tinh,' Pieter van Eijk, trưởng bộ phận Thích ứng Khí hậu tại Wetlands International (WJ), nói, chỉ ra việc chúng được dùng làm vùng đệm bảo vệ các khu vực ven biển khỏi mực nước biển dâng và các hiện tượng thời tiết cực đoan như bão và lũ lụt.",
+    "breakdown": [
+      {
+        "text": "'Wetlands are one of the key tools in mitigating climate change across the planet,' says Pieter van Eijk, head of Climate Adaptation at Wetlands International (WJ), pointing to their use as buffers",
+        "vi": "'Vùng đất ngập nước là một trong những công cụ then chốt để giảm thiểu biến đổi khí hậu trên toàn hành tinh,' Pieter van Eijk, trưởng bộ phận Thích ứng Khí hậu tại Wetlands International (WJ), nói, chỉ ra việc chúng được dùng làm vùng đệm",
+        "role": "quote + attribution"
+      },
+      {
+        "text": "that protect coastal areas from sea-level rise and extreme weather events such as hurricanes and flooding.",
+        "vi": "bảo vệ các khu vực ven biển khỏi mực nước biển dâng và các hiện tượng thời tiết cực đoan như bão và lũ lụt.",
+        "role": "relative clause + example"
+      }
+    ]
+  },
+  {
+    "id": "wetlands-i19",
+    "meaningVi": "vùng đất ngập nước",
+    "translation": "Đất than bùn - vùng đất ngập nước có lớp đất hữu cơ bão hòa nước - đặc biệt bị nhắm đến.",
+    "breakdown": [
+      {
+        "text": "Peatlands - wetlands with a waterlogged organic soil layer - are particularly targeted.",
+        "vi": "Đất than bùn - vùng đất ngập nước có lớp đất hữu cơ bão hòa nước - đặc biệt bị nhắm đến.",
+        "role": "main idea + definition"
+      }
+    ]
+  },
+  {
+    "id": "translation-i19",
+    "meaningVi": "việc dịch; bản dịch",
+    "translation": "Để khắc phục điều này, Waverly hiện đang chuẩn bị một mẫu máy mới cho các ứng dụng chuyên nghiệp, điều này kéo theo những cải thiện về hiệu suất trong nhận dạng giọng nói, độ chính xác của bản dịch và thời gian để truyền đạt lời nói đã dịch.",
+    "breakdown": [
+      {
+        "text": "To redress this, Waverly is now preparing a new model for professional applications",
+        "vi": "Để khắc phục điều này, Waverly hiện đang chuẩn bị một mẫu máy mới cho các ứng dụng chuyên nghiệp",
+        "role": "purpose + main clause"
+      },
+      {
+        "text": "which entails performance improvements in speech recognition, translation accuracy and the time it takes to deliver the translated speech.",
+        "vi": "điều này kéo theo những cải thiện về hiệu suất trong nhận dạng giọng nói, độ chính xác của bản dịch và thời gian để truyền đạt lời nói đã dịch.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "translator-i19",
+    "meaningVi": "người dịch, máy dịch",
+    "translation": "Tại Viện Công nghệ Karlsruhe, nơi ông là giáo sư khoa học máy tính, Waibel và các đồng nghiệp đã giảng bài bằng tiếng Đức mà sinh viên có thể theo dõi bằng tiếng Anh qua một thiết bị dịch điện tử.",
+    "breakdown": [
+      {
+        "text": "At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German",
+        "vi": "Tại Viện Công nghệ Karlsruhe, nơi ông là giáo sư khoa học máy tính, Waibel và các đồng nghiệp đã giảng bài bằng tiếng Đức",
+        "role": "background + main clause"
+      },
+      {
+        "text": "that their students can follow in English via an electronic translator.",
+        "vi": "mà sinh viên có thể theo dõi bằng tiếng Anh qua một thiết bị dịch điện tử.",
+        "role": "relative clause"
+      }
+    ]
+  },
+  {
+    "id": "earpiece-i19",
+    "meaningVi": "tai nghe nhỏ",
+    "translation": "Liệu điều đó có xảy ra, và nhanh đến mức nào, có lẽ sẽ không phụ thuộc nhiều vào bản thân tai nghe, mà vào mức độ phổ biến của các thiết bị điều khiển bằng giọng nói và dịch thuật nhân tạo nói chung.",
+    "breakdown": [
+      {
+        "text": "Whether that happens, and how quickly, will probably depend not so much on the",
+        "vi": "Liệu điều đó có xảy ra, và nhanh đến mức nào, có lẽ sẽ không phụ thuộc nhiều vào",
+        "role": "condition"
+      },
+      {
+        "text": "earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general.",
+        "vi": "bản thân tai nghe, mà vào mức độ phổ biến của các thiết bị điều khiển bằng giọng nói và dịch thuật nhân tạo nói chung.",
+        "role": "contrast + main point"
+      }
+    ]
+  },
+  {
+    "id": "conversation-i19",
+    "meaningVi": "cuộc trò chuyện",
+    "translation": "Tuy nhiên, 'Những người chuyên nghiệp ít có xu hướng kiên nhẫn trong một cuộc trò chuyện,' Andrew Ochoa, nhà sáng lập kiêm CEO của Waverly Labs, nhận xét.",
+    "breakdown": [
+      {
+        "text": "However, 'Professionals are less inclined to be patient in a",
+        "vi": "Tuy nhiên, 'Những người chuyên nghiệp ít có xu hướng kiên nhẫn trong một",
+        "role": "contrast + quote"
+      },
+      {
+        "text": "conversation,' founder and CEO at Waverly Labs, Andrew Ochoa, observes.",
+        "vi": "cuộc trò chuyện,' Andrew Ochoa, nhà sáng lập kiêm CEO của Waverly Labs, nhận xét.",
+        "role": "attribution"
+      }
+    ]
+  },
+  {
+    "id": "speaker-i19",
+    "meaningVi": "người nói; loa",
+    "translation": "Ngay cả khi công nghệ biến đổi giọng nói mô phỏng giọng của người nói, chuyển động môi của họ sẽ không khớp, và họ sẽ trông như đang ở trong một bộ phim lồng tiếng.",
+    "breakdown": [
+      {
+        "text": "Even if voice- morphing technology simulates the speaker's voice, their lip movements",
+        "vi": "Ngay cả khi công nghệ biến đổi giọng nói mô phỏng giọng của người nói, chuyển động môi",
+        "role": "concession"
+      },
+      {
+        "text": "won't match, and they will look like they are in a dubbed movie.",
+        "vi": "của họ sẽ không khớp, và họ sẽ trông như đang ở trong một bộ phim lồng tiếng.",
+        "role": "result"
+      }
+    ]
+  },
+  {
+    "id": "academic-i19",
+    "meaningVi": "thuộc học thuật",
+    "translation": "Chẳng hạn, một số truyền thống văn hóa đòi hỏi sự tôn trọng trang nghiêm đối với địa vị học thuật, và việc tôn trọng điều này chỉ là phép lịch sự.",
+    "breakdown": [
+      {
+        "text": "Some cultural traditions demand solemn respect for academic status",
+        "vi": "Chẳng hạn, một số truyền thống văn hóa đòi hỏi sự tôn trọng trang nghiêm đối với địa vị học thuật",
+        "role": "main idea + example"
+      },
+      {
+        "text": "for example, and it is only polite to respect this.",
+        "vi": "và việc tôn trọng điều này chỉ là phép lịch sự.",
+        "role": "comment"
+      }
+    ]
+  },
+  {
+    "id": "lecturer-i19",
+    "meaningVi": "giảng viên",
+    "translation": "Thật hữu ích khi các giảng viên nói rõ ràng, không phải cạnh tranh với tiếng ồn xung quanh, và nói gần như cùng một nội dung mỗi năm.",
+    "breakdown": [
+      {
+        "text": "It helps that lecturers speak clearly, don't have to compete",
+        "vi": "Thật hữu ích khi các giảng viên nói rõ ràng, không phải cạnh tranh",
+        "role": "main clause"
+      },
+      {
+        "text": "with background chatter, and say much the same thing each year.",
+        "vi": "với tiếng ồn xung quanh, và nói gần như cùng một nội dung mỗi năm.",
+        "role": "detail"
+      }
+    ]
+  },
+  {
+    "id": "scientist-i19",
+    "meaningVi": "nhà khoa học",
+    "translation": "Việc chia sẻ một ngôn ngữ có thể thúc đẩy cảm giác thân thuộc và cộng đồng, như với các nhà khoa học quốc tế sử dụng tiếng Anh như một ngôn ngữ chung, trong khi những người tiền nhiệm của họ dùng tiếng Latinh.",
+    "breakdown": [
+      {
+        "text": "Sharing a language can promote a sense of belonging and community, as with the",
+        "vi": "Việc chia sẻ một ngôn ngữ có thể thúc đẩy cảm giác thân thuộc và cộng đồng, như với",
+        "role": "main idea"
+      },
+      {
+        "text": "international scientists who use English as a lingua franca, where their predecessors used Latin.",
+        "vi": "các nhà khoa học quốc tế sử dụng tiếng Anh như một ngôn ngữ chung, trong khi những người tiền nhiệm của họ dùng tiếng Latinh.",
+        "role": "example + contrast"
+      }
+    ]
+  }
+]

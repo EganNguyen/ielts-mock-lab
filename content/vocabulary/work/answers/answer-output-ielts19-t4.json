@@ -1,0 +1,205 @@
+{
+ "tag": "ielts19-t4",
+ "links": {
+  "coat-i19|l1|q2": {
+   "support": "Put your coat and rucksack in one of the lockers there.",
+   "connection": "The note asks where to leave a coat and bag in the staffroom; the supervisor says 'Put your coat and rucksack in one of the lockers there.'",
+   "paraphrasing": "'Where to leave coat and bag: use ______ in staffroom' -> 'Put your coat and rucksack in one of the lockers there'"
+  },
+  "marathon-i19|l2|q19": {
+   "support": "I managed to complete it in four hours, but I felt like giving up halfway through - it was only the support of the spectators that kept me going.",
+   "connection": "The question asks what Liz says about running her first marathon; she says she 'felt like giving up halfway through', matching 'She nearly gave up before the end.'",
+   "paraphrasing": "'She nearly gave up before the end.' -> 'I felt like giving up halfway through'"
+  },
+  "programme-i19|l2|q11": {
+   "support": "However, they don't work for everyone - especially if /12 you suffer from something like a heart condition or asthma, because they're aimed at people with average fitness and running ability.",
+   "connection": "The question asks for a problem with 'some training programmes'; Liz says they 'don't work for everyone - especially if ... you suffer from something like a heart condition or asthma', matching 'They are unsuitable for people with health issues.'",
+   "paraphrasing": "'They are unsuitable for people with health issues.' -> 'they don't work for everyone ... heart condition or asthma'"
+  },
+  "programme-i19|l2|q12": {
+   "support": "Another thing is that everyone is different - and if you /12 have any specific questions related to your needs, there's no one to provide any answers.",
+   "connection": "The question asks for a second problem with 'some training programmes'; Liz says that with 'specific questions related to your needs, there's no one to provide any answers', matching 'There is a lack of individual support.'",
+   "paraphrasing": "'There is a lack of individual support.' -> 'there's no one to provide any answers'"
+  },
+  "runner-i19|l2|q13": {
+   "support": "I don't think the time of day is especially important - some people are better in the evening, while others are morning people - but you need to be consistent, so aim to train regularly - twice a week is enough to /14 begin with.",
+   "connection": "The question asks for a first tip for 'new runners'; Liz says to 'aim to train regularly - twice a week is enough', matching 'doing two runs a week'.",
+   "paraphrasing": "'doing two runs a week' -> 'twice a week is enough to ... begin with'"
+  },
+  "runner-i19|l2|q14": {
+   "support": "Listening to music can be very helpful - it takes your mind off things and helps your body get /14 into a rhythm.",
+   "connection": "The question asks for a second tip for 'new runners'; Liz says 'Listening to music can be very helpful', matching 'listening to music during runs'.",
+   "paraphrasing": "'listening to music during runs' -> 'Listening to music can be very helpful'"
+  },
+  "runner-i19|l2|q20": {
+   "support": "But after you've been training for a few weeks, it's worth putting your name down for a 5K - some people find they only need a few practice runs before taking part in a race, but I'd give yourself a couple of months at least.",
+   "connection": "The question asks when 'new runners should sign up for a race'; Liz says that 'after you've been training for a few weeks, it's worth putting your name down for a 5K', matching 'within a few weeks of taking up running.'",
+   "paraphrasing": "'within a few weeks of taking up running.' -> 'after you've been training for a few weeks ... putting your name down for a 5K'"
+  },
+  "training-i19|l2|q11": {
+   "support": "However, they don't work for everyone - especially if /12 you suffer from something like a heart condition or asthma, because they're aimed at people with average fitness and running ability.",
+   "connection": "The question is about the problems of 'training programmes'; the problem given is that they 'don't work for everyone - especially if ... you suffer from something like a heart condition or asthma', matching 'They are unsuitable for people with health issues.'",
+   "paraphrasing": "'They are unsuitable for people with health issues.' -> 'they don't work for everyone ... heart condition or asthma'"
+  },
+  "training-i19|l2|q12": {
+   "support": "Another thing is that everyone is different - and if you /12 have any specific questions related to your needs, there's no one to provide any answers.",
+   "connection": "For the second problem with 'training programmes', the answer 'There is a lack of individual support' matches 'there's no one to provide any answers'.",
+   "paraphrasing": "'There is a lack of individual support.' -> 'there's no one to provide any answers'"
+  },
+  "grandfather-i19|l3|q21": {
+   "support": "Yeah - that's obvious.",
+   "connection": "The question asks what Kieran thinks of 'the packing advice given by Jane's grandfather'; his response to the advice is 'that's obvious', matching 'common sense.'",
+   "paraphrasing": "'common sense.' -> 'that's obvious'"
+  },
+  "grandfather-i19|l3|q22": {
+   "support": "They'll always remind me of him.",
+   "connection": "The question asks how Jane feels about 'the books her grandfather has given her'; she says 'They'll always remind me of him', matching 'They have sentimental value for her.'",
+   "paraphrasing": "'They have sentimental value for her.' -> 'They'll always remind me of him.'"
+  },
+  "shelf-i19|l3|q24": {
+   "support": "He watched me pull a heavy book off the shelf when I was small, and it fell on the floor and broke apart.",
+   "connection": "The question asks what Jane does 'while talking about taking a book from a shelf'; she recalls that he watched her 'pull a heavy book off the shelf when I was small', matching 'reflects on a significant childhood experience.'",
+   "paraphrasing": "'reflects on a significant childhood experience.' -> 'pull a heavy book off the shelf when I was small'"
+  },
+  "unwanted-i19|l3|q28": {
+   "support": "He hardly ever throws anything away - he just leaves unwanted books by the front door for customers to take.",
+   "connection": "The question asks where 'unwanted books' are kept; Jane says he 'leaves unwanted books by the front door for customers to take', matching 'near the entrance'.",
+   "paraphrasing": "'unwanted books ... near the entrance' -> 'leaves unwanted books by the front door'"
+  },
+  "forest-i19|l4|q39": {
+   "support": "Destruction of the mangrove forests had a terrible impact on plant and animal life, and also badly affected the fishing industry, which was a major source of employment for local people living in coastal areas.",
+   "connection": "The note asks what 'Destruction of mangrove forests in Madagascar' made it difficult for local people to make a living from; the passage says it 'badly affected the fishing industry, which was a major source of employment'.",
+   "paraphrasing": "'made it difficult for people to make a living from ______' -> 'badly affected the fishing industry, which was a major source of employment'"
+  },
+  "seed-i19|l4|q33": {
+   "support": "Using seeds with low genetic diversity generally lowers the resilience of restored forests which can make them vulnerable to disease and unable to adapt to climate change.",
+   "connection": "The note asks what 'tree seeds with a high genetic diversity' increase resistance to, besides climate change; the passage says low diversity makes trees 'vulnerable to disease and unable to adapt to climate change'.",
+   "paraphrasing": "'increase resistance to ______ and climate change' -> 'vulnerable to disease and unable to adapt to climate change'"
+  },
+  "genetic-i19|l4|q33": {
+   "support": "Using seeds with low genetic diversity generally lowers the resilience of restored forests which can make them vulnerable to disease and unable to adapt to climate change.",
+   "connection": "The blank follows 'high genetic diversity'; the passage contrasts it with seeds of 'low genetic diversity' that leave trees 'vulnerable to disease'.",
+   "paraphrasing": "'high genetic diversity ... resistance to ______' -> 'low genetic diversity ... vulnerable to disease'"
+  },
+  "destruction-i19|l4|q39": {
+   "support": "Destruction of the mangrove forests had a terrible impact on plant and animal life, and also badly affected the fishing industry, which was a major source of employment for local people living in coastal areas.",
+   "connection": "The note's 'Destruction of mangrove forests in Madagascar' is this sentence; the destruction 'badly affected the fishing industry, which was a major source of employment'.",
+   "paraphrasing": "'Destruction of mangrove forests ... make a living from ______' -> 'badly affected the fishing industry, which was a major source of employment'"
+  },
+  "butterfly-i19|r1|q1": {
+   "support": "According to conservationists, populations of around two thirds of butterfly species have declined in Britain over the past 40 years.",
+   "connection": "The statement says there were fewer butterflies forty years ago; the passage says populations 'have declined in Britain over the past 40 years', so numbers were higher then, making the statement FALSE.",
+   "paraphrasing": "'Forty years ago, there were fewer butterflies in Britain than at present.' -> 'populations ... have declined in Britain over the past 40 years'"
+  },
+  "butterfly-i19|r1|q5": {
+   "support": "The answer is still unknown, but a new study is seeking to answer these questions.",
+   "connection": "The statement claims 'There is a clear reason' for the adaptations; the passage says 'The answer is still unknown', contradicting it (FALSE).",
+   "paraphrasing": "'There is a clear reason' -> 'The answer is still unknown'"
+  },
+  "butterfly-i19|r1|q6": {
+   "support": "First, the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts - people who spend their free time observing the activities of different species.",
+   "connection": "The statement says the data came from 'amateur butterfly watchers'; the passage says the records 'had been submitted by butterfly enthusiasts - people who spend their free time observing', matching TRUE.",
+   "paraphrasing": "'amateur butterfly watchers' -> 'butterfly enthusiasts - people who spend their free time observing'"
+  },
+  "phenology-i19|r1|q3": {
+   "support": "Scientists refer to the timing of such lifecycle events as 'phenology', so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be 'advancing its phenology'.",
+   "connection": "The statement defines 'phenology' as altering 'the location of a lifecycle event'; the passage defines it as 'the timing of such lifecycle events', contradicting the statement (FALSE).",
+   "paraphrasing": "'a creature's ability to alter the location of a lifecycle event' -> 'the timing of such lifecycle events'"
+  },
+  "caterpillar-i19|r1|q2": {
+   "support": "Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals.",
+   "connection": "The statement says 'Caterpillars are eaten by a number of different predators'; the passage says they 'act as prey for birds as well as bats and other small mammals', matching TRUE.",
+   "paraphrasing": "'eaten by a number of different predators' -> 'act as prey for birds as well as bats and other small mammals'"
+  },
+  "caterpillar-i19|r1|q10": {
+   "support": "It is found only in coppiced woodland and limestone pavement habitats.",
+   "connection": "The note asks what 'its caterpillars' 'occupy a limited range of'; the passage says 'It is found only in coppiced woodland and limestone pavement habitats', i.e. a limited range of habitat.",
+   "paraphrasing": "'occupy a limited range of ______' -> 'found only in coppiced woodland and limestone pavement habitats'"
+  },
+  "caterpillar-i19|r1|q13": {
+   "support": "This may be because the caterpillar exists solely on a diet of a plant called honeysuckle.",
+   "connection": "The note asks for a second possible reason for the decline, besides climate change; the passage says 'This may be because the caterpillar exists solely on a diet of a plant called honeysuckle'.",
+   "paraphrasing": "'the ______ of the caterpillar are possible reasons for decline' -> 'the caterpillar exists solely on a diet of a plant called honeysuckle'"
+  },
+  "lifecycle-i19|r1|q3": {
+   "support": "Scientists refer to the timing of such lifecycle events as 'phenology', so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be 'advancing its phenology'.",
+   "connection": "The statement places a 'lifecycle event' inside the wrong definition; the passage says phenology is 'the timing of such lifecycle events', not their location (FALSE).",
+   "paraphrasing": "'alter the location of a lifecycle event' -> 'the timing of such lifecycle events'"
+  },
+  "decline-i19|r1|q13": {
+   "support": "This may be because the caterpillar exists solely on a diet of a plant called honeysuckle.",
+   "connection": "The note lists possible reasons for the decline; the passage gives the caterpillar's 'diet of a plant called honeysuckle' as one explanation.",
+   "paraphrasing": "'the ______ of the caterpillar are possible reasons for decline' -> 'the caterpillar exists solely on a diet of a plant called honeysuckle'"
+  },
+  "reproduce-i19|r1|q11": {
+   "support": "Many of Britain's single-generation species show the capacity, in continental Europe, to add a second generation in years that are sufficiently warm.",
+   "connection": "The note says 'is already able to reproduce twice a year in warm areas of ______'; the passage says such species can 'add a second generation in years that are sufficiently warm' in 'continental Europe'.",
+   "paraphrasing": "'reproduce twice a year in warm areas of ______' -> 'add a second generation ... in continental Europe ... sufficiently warm'"
+  },
+  "exploration-i19|r2|q17": {
+   "support": "But environmental and legal groups have urged caution, arguing there are potentially massive and unknown ramifications for the environment and for nearby communities, and that the global regulatory framework is not yet drafted.",
+   "connection": "The question asks for the passage's statement on 'rules for the exploration of the seabed'; the text says 'the global regulatory framework is not yet drafted'.",
+   "paraphrasing": "'rules for the exploration of the seabed' -> 'the global regulatory framework is not yet drafted'"
+  },
+  "exploration-i19|r2|q18": {
+   "support": "The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company: 'It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society's rising needs.'",
+   "connection": "The statement says 'A move away from the exploration of heavily mined reserves on land is a good idea'; Johnston says it 'makes sense to explore this untapped potential ... instead of continually looking at the fast depleting land resources of the planet'.",
+   "paraphrasing": "'A move away from the exploration of heavily mined reserves on land is a good idea.' -> 'makes sense to explore this untapped potential ... instead of ... the fast depleting land resources'"
+  },
+  "exploration-i19|r2|q19": {
+   "support": "'Despite arising in the last half century, the \"new global gold rush\" of deep-sea mining shares many features with past resource scrambles - including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights,' a paper, written by Julie Hunter and Julian Aguon, from Blue Ocean Law, and Pradeep Singh, from the Center for Marine Environmental Sciences, Bremen, argues.",
+   "connection": "The statement says 'The negative effects of undersea exploration on local areas and their inhabitants are being ignored'; the paper cites 'a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights'.",
+   "paraphrasing": "'negative effects ... on local areas and their inhabitants are being ignored' -> 'general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights'"
+  },
+  "exploration-i19|r2|q21": {
+   "support": "'Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,' according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada.",
+   "connection": "The statement says 'No other form of human exploration will have such a destructive impact on marine life'; Tunnicliffe calls mining 'the greatest assault on deep-sea ecosystems ever inflicted by humans'.",
+   "paraphrasing": "'No other form of human exploration will have such a destructive impact on marine life' -> 'the greatest assault on deep-sea ecosystems ever inflicted by humans'"
+  },
+  "mining-i19|r2|q21": {
+   "support": "'Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,' according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada.",
+   "connection": "The statement compares 'deep-sea mining' with all other human activity; Tunnicliffe calls it 'the greatest assault on deep-sea ecosystems ever inflicted by humans', identifying her as the answer.",
+   "paraphrasing": "'deep-sea mining ... such a destructive impact on marine life' -> 'Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans'"
+  },
+  "mining-i19|r2|q23": {
+   "support": "'On deep sea vents, scientists are clear,' says Dr Jon Copley of the National Oceanography Centre, Southampton: 'we don't want mining on them.'",
+   "connection": "The statement says experts agree mining should not take place in one marine habitat; Copley says of deep sea vents: 'scientists are clear ... we don't want mining on them.'",
+   "paraphrasing": "'one marine life habitat where experts agree mining should not take place' -> 'On deep sea vents, scientists are clear ... we don't want mining on them'"
+  },
+  "mining-i19|r2|q24": {
+   "support": "They say that deep-sea mining could yield far superior ore to land mining with little, if any, waste.",
+   "connection": "The summary says the resources 'can be removed without producing much ______'; the passage says deep-sea mining could yield superior ore 'with little, if any, waste', giving 'waste'.",
+   "paraphrasing": "'without producing much ______' -> 'with little, if any, waste'"
+  },
+  "mining-i19|r2|q25": {
+   "support": "Different methods of extraction exist, but most involve employing some form of converted machinery previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,000 metres, then drawing a seawater slurry, containing rock and other solid particles, from the sea floor to ships on the surface.",
+   "connection": "The summary says 'The extraction is often done by adapting the ______ that has already been used to work on land'; the passage says extraction involves 'converted machinery previously used in terrestrial mining', giving 'machinery'.",
+   "paraphrasing": "'adapting the ______ that has already been used to work on land' -> 'converted machinery previously used in terrestrial mining'"
+  },
+  "seabed-i19|r2|q17": {
+   "support": "But environmental and legal groups have urged caution, arguing there are potentially massive and unknown ramifications for the environment and for nearby communities, and that the global regulatory framework is not yet drafted.",
+   "connection": "The question asks for the passage's statement that 'the countries of the world have yet to agree on rules for the exploration of the seabed'; the text says 'the global regulatory framework is not yet drafted'.",
+   "paraphrasing": "'countries of the world have yet to agree on rules' -> 'the global regulatory framework is not yet drafted'"
+  },
+  "estimate-i19|r2|q15": {
+   "support": "The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company: 'It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society's rising needs.'",
+   "connection": "The question asks for 'a rough estimate of the area of the Earth covered by the oceans'; the passage says 'The oceans occupy around 70% of the planet'.",
+   "paraphrasing": "'a rough estimate of the area of the Earth covered by the oceans' -> 'The oceans occupy around 70% of the planet'"
+  },
+  "expert-i19|r2|q23": {
+   "support": "'On deep sea vents, scientists are clear,' says Dr Jon Copley of the National Oceanography Centre, Southampton: 'we don't want mining on them.'",
+   "connection": "The statement says 'experts agree' mining should not happen in one habitat; the passage reports 'scientists are clear' that 'we don't want mining on them' at deep sea vents, identifying Dr Jon Copley.",
+   "paraphrasing": "'experts agree mining should not take place' -> 'scientists are clear ... we don't want mining on them'"
+  },
+  "trait-i19|r3|q37": {
+   "support": "In view of the above, there seems little reason to assume that traitssuch as racism, warfare and male domination should have been selected by evolution - as they would have been of little benefit in the prehistoric era.",
+   "connection": "The statement says humans who developed 'warlike traits in prehistory' 'would have had an advantage over those who did not'; the passage says such traits 'would have been of little benefit in the prehistoric era', so the answer is NO.",
+   "paraphrasing": "'would have had an advantage' -> 'would have been of little benefit'"
+  },
+  "behave-i19|r3|q38": {
+   "support": "It makes more sense, then, to see traits such as cooperation, egalitarianism, altruism and peacefulness as innate characteristics of human beings.",
+   "connection": "The statement says 'Being peaceful and cooperative is a natural way for people to behave'; the passage says it 'makes more sense ... to see traits such as cooperation ... and peacefulness as innate characteristics of human beings', so YES.",
+   "paraphrasing": "'Being peaceful and cooperative is a natural way for people to behave.' -> 'cooperation ... and peacefulness as innate characteristics of human beings'"
+  }
+ }
+}

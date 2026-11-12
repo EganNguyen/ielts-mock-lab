@@ -1,0 +1,305 @@
+{
+ "tag": "ielts19-t2",
+ "links": {
+  "guitar-i19|l1|q1": {
+   "support": "He's called a 'coordinator' - his name's Gary Mathieson.",
+   "connection": "The form asks for the coordinator's name after \"Gary\"; the sentence says \"his name's Gary Mathieson\".",
+   "paraphrasing": "\"Coordinator: Gary ______\" -> \"his name's Gary Mathieson\""
+  },
+  "guitar-i19|l1|q2": {
+   "support": "When I first spoke to Gary on the phone, he said it was a Class for beginners, but I was still worried that everyone would be better than me, but we were all equally hopeless!",
+   "connection": "The form asks for the \"Level\"; the sentence says Gary described the class as \"a Class for beginners\".",
+   "paraphrasing": "\"Level: ______\" -> \"a Class for beginners\""
+  },
+  "guitar-i19|l1|q7": {
+   "support": "Some people have an app they use, but others do it by ear.",
+   "connection": "The table says guitars are tuned \"using an app or by ______\"; the sentence contrasts people who \"have an app they use\" with those who \"do it by ear\".",
+   "paraphrasing": "\"using an app or by ______\" -> \"have an app they use\" / \"do it by ear\""
+  },
+  "tune-i19|l1|q10": {
+   "support": "The only trouble is that he sometimes gets us to play one at a time - you know, alone.",
+   "connection": "The table says the group plays \"together, then ______\"; the sentence says Gary gets them \"to play one at a time - you know, alone\".",
+   "paraphrasing": "\"playing together, then ______\" -> \"play one at a time - you know, alone\""
+  },
+  "surname-i19|l1|q1": {
+   "support": "He's called a 'coordinator' - his name's Gary Mathieson.",
+   "connection": "The form asks for the name following \"Gary\"; the sentence gives \"his name's Gary Mathieson\".",
+   "paraphrasing": "\"Coordinator: Gary ______\" -> \"his name's Gary Mathieson\""
+  },
+  "lifeboat-i19|l2|q12": {
+   "support": "It was built 15 years ago with funds provided by a generous member of the public who'd lived here all her life.",
+   "connection": "The question asks who provided the money to build the Northsea Lifeboat Institution; the sentence says it was built \"with funds provided by a generous member of the public who'd lived here all her life\", i.e. \"a local resident\".",
+   "paraphrasing": "\"money provided by\" / \"a local resident\" -> \"funds provided by\" / \"a generous member of the public who'd lived here all her life\""
+  },
+  "lifeboat-i19|l2|q14": {
+   "support": "Our target's to get there in five minutes, then we try to get the boat off the dock and out to sea in another six to eight minutes.",
+   "connection": "The question asks how soon they aim to launch the boat after arriving; the sentence says they try \"to get the boat off the dock and out to sea in another six to eight minutes\".",
+   "paraphrasing": "\"launch the boat within\" / \"six to eight minutes\" -> \"get the boat off the dock and out to sea in another six to eight minutes\""
+  },
+  "lifeboat-i19|l2|q15": {
+   "support": "And it's ultimately my decision whether it's safe to launch the boat.",
+   "connection": "The question asks what David decides as helmsman; the sentence says \"it's ultimately my decision whether it's safe to launch the boat\".",
+   "paraphrasing": "\"responsibility of deciding\" / \"if the lifeboat should be launched\" -> \"my decision whether it's safe to launch the boat\""
+  },
+  "lifeboat-i19|l2|q16": {
+   "support": "A lot of people underestimate how quickly conditions can change at sea, so I speak to youth groups and sailing clubs in the area about the sorts of problems that sailors and swimmers can have if the weather suddenly gets bad.",
+   "connection": "The question asks what David does as well as going out on the lifeboat; the sentence says \"I speak to youth groups and sailing clubs\" about \"the sorts of problems that sailors and swimmers can have\", i.e. \"gives talks on safety at sea\".",
+   "paraphrasing": "\"As well as going out on the lifeboat\" / \"gives talks on safety at sea\" -> \"speak to youth groups and sailing clubs\" / \"about the sorts of problems that sailors and swimmers can have\""
+  },
+  "boat-i19|l2|q14": {
+   "support": "Our target's to get there in five minutes, then we try to get the boat off the dock and out to sea in another six to eight minutes.",
+   "connection": "The question asks how soon they aim to launch \"the boat\" after arriving; the sentence says they try \"to get the boat off the dock and out to sea in another six to eight minutes\".",
+   "paraphrasing": "\"launch the boat within\" / \"six to eight minutes\" -> \"get the boat off the dock and out to sea in another six to eight minutes\""
+  },
+  "motivating-i19|l2|q19": {
+   "support": "They're a great group - we're like a family really, which helps when /20 you're dragging yourself out of bed on a cold stormy night.",
+   "connection": "The question asks for the first motivating thing about the work; the sentence describes the volunteers as \"a great group\" and \"like a family\", matching \"working as part of a team\".",
+   "paraphrasing": "\"working as part of a team\" -> \"a great group\" / \"like a family\""
+  },
+  "motivating-i19|l2|q20": {
+   "support": "Bul actually, il's the colder months that can be the most rewarding time.",
+   "connection": "The question asks for the second motivating thing about the work; the sentence says \"the colder months\" can be \"the most rewarding time\", matching \"experiences when working in winter\".",
+   "paraphrasing": "\"experiences when working in winter\" -> \"the colder months\" / \"the most rewarding time\""
+  },
+  "responsibility-i19|l2|q15": {
+   "support": "And it's ultimately my decision whether it's safe to launch the boat.",
+   "connection": "The question says David \"has the responsibility of deciding\" whether to launch; the sentence says \"it's ultimately my decision whether it's safe to launch the boat\".",
+   "paraphrasing": "\"responsibility of deciding\" / \"if the lifeboat should be launched\" -> \"my decision whether it's safe to launch the boat\""
+  },
+  "colour-i19|l2|q13": {
+   "support": "They gave me tests for colour blindness and they thought I might have a problem there, but it turned out I was OK.",
+   "connection": "The question asks what the doctor was concerned about; the sentence says \"they thought I might have a problem\" after \"tests for colour blindness\", matching \"might be colour blind\".",
+   "paraphrasing": "\"might be colour blind\" -> \"tests for colour blindness\" / \"might have a problem there\""
+  },
+  "footwear-i19|l3|q21": {
+   "support": "Well, before I started reading it, I thought recycling footwear, well, although it's quite interesting, perhaps there isn't enough to say about it, cos we put shoes in recycling bins, they go to charity shops and that's about it.",
+   "connection": "The question says Don thought the topic might be too \"limited in scope\"; the sentence says he thought \"there isn't enough to say about it\".",
+   "paraphrasing": "\"limited in scope\" -> \"there isn't enough to say about it\""
+  },
+  "footwear-i19|l3|q24": {
+   "support": "No, But then it said that the amount of recycled footwear has fallen: it's 6 percent now compared to a previous level of 11 percent.",
+   "connection": "The question asks what the article said that confused Don; the sentence says \"the amount of recycled footwear has fallen\" from 11 percent to \"6 percent now\", matching \"Less footwear is recycled now than in the past\".",
+   "paraphrasing": "\"Less footwear is recycled now than in the past\" -> \"the amount of recycled footwear has fallen\" / \"6 percent now compared to a previous level of 11 percent\""
+  },
+  "recycling-i19|l3|q21": {
+   "support": "Well, before I started reading it, I thought recycling footwear, well, although it's quite interesting, perhaps there isn't enough to say about it, cos we put shoes in recycling bins, they go to charity shops and that's about it.",
+   "connection": "The question asks about \"recycling footwear\" being \"too\" limited; the sentence says \"recycling footwear\" is interesting but \"there isn't enough to say about it\".",
+   "paraphrasing": "\"recycling footwear\" / \"limited in scope\" -> \"recycling footwear\" / \"there isn't enough to say about it\""
+  },
+  "shoe-i19|l3|q23": {
+   "support": "I must admit, I've recycled some perfectly good shoes, that haven't gone out of fashion and still fit, just because they don't look great on me any more.",
+   "connection": "The question asks why Bella sometimes recycles shoes; the sentence says she does it \"just because they don't look great on me any more\", matching \"she no longer likes them\".",
+   "paraphrasing": "\"she no longer likes them\" -> \"they don't look great on me any more\""
+  },
+  "shoe-i19|l3|q25": {
+   "support": "He said they were probably expensive - the material was suede and they were beige in colour - it looked like someone had only worn them once, but in a very wet field so the heels were too stained with mud and grass to re-sell them.",
+   "connection": "The question asks what was wrong with \"the high-heeled shoes\"; the sentence says \"the heels were too stained with mud and grass to re-sell them\", matching \"the shoes were too dirty\".",
+   "paraphrasing": "\"the shoes were too dirty\" -> \"too stained with mud and grass\""
+  },
+  "shoe-i19|l3|q27": {
+   "support": "You'd think it would have been easy to find the other, but it wasn't.",
+   "connection": "The question asks what was wrong with \"the baby shoes\"; the sentence says \"it would have been easy to find the other, but it wasn't\", matching \"one shoe was missing\".",
+   "paraphrasing": "\"one shoe was missing\" -> \"easy to find the other, but it wasn't\""
+  },
+  "shoe-i19|l3|q29": {
+   "support": "It was because the pairs of shoes weren't identical.",
+   "connection": "The question asks why the project to make \"new\" shoes out of old shoes failed; the sentence says \"It was because the pairs of shoes weren't identical\", matching \"The shoes in the 'new' pairs were not completely alike\".",
+   "paraphrasing": "\"not completely alike\" -> \"weren't identical\""
+  },
+  "pair-i19|l3|q29": {
+   "support": "It was because the pairs of shoes weren't identical.",
+   "connection": "The question asks why the project to make \"new\" shoes out of old shoes failed; the sentence says \"the pairs of shoes weren't identical\", matching \"The shoes in the 'new' pairs were not completely alike\".",
+   "paraphrasing": "\"pairs\" / \"not completely alike\" -> \"pairs of shoes weren't identical\""
+  },
+  "recycled-i19|l3|q24": {
+   "support": "No, But then it said that the amount of recycled footwear has fallen: it's 6 percent now compared to a previous level of 11 percent.",
+   "connection": "The question asks what the article said that confused Don; the sentence says \"the amount of recycled footwear has fallen\", matching \"Less footwear is recycled now than in the past\".",
+   "paraphrasing": "\"Less footwear is recycled now than in the past\" -> \"the amount of recycled footwear has fallen\""
+  },
+  "conservation-i19|l4|q40": {
+   "support": "So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.",
+   "connection": "The notes say they are \"not considered to be\" endangered; the sentence says they \"are not on any endangered list\" and have \"not been evaluated\" by the \"International Union for Conservation of Nature\".",
+   "paraphrasing": "\"not considered to be\" / \"endangered\" -> \"not on any endangered list\""
+  },
+  "liquid-i19|l4|q34": {
+   "support": "Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.",
+   "connection": "The notes say the body is filled with \"a liquid that carries both\" oxygen and blood; the sentence says \"oxygen and also blood are transported in a fluid that fills the cavity of the body\".",
+   "paraphrasing": "\"a liquid that carries both\" / \"blood\" -> \"oxygen and also blood are transported in a fluid\""
+  },
+  "liquid-i19|l4|q39": {
+   "support": "They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.",
+   "connection": "The notes say tardigrades \"consume liquids, e.g. those found in moss or\" seaweed; the sentence says they \"suck the juices from moss\" and \"extract fluid from seaweed\".",
+   "paraphrasing": "\"consume liquids\" / \"found in moss or\" / \"seaweed\" -> \"suck the juices from moss\" / \"extract fluid from seaweed\""
+  },
+  "bear-i19|l4|q31": {
+   "support": "They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.",
+   "connection": "The notes ask why they are called water \"bears\"; the sentence says \"'bear' because of the way they move\", matching \"due to how they ______\".",
+   "paraphrasing": "\"due to how they\" -> \"because of the way they move\""
+  },
+  "consume-i19|l4|q39": {
+   "support": "They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.",
+   "connection": "The notes say tardigrades \"consume liquids\"; the sentence says they \"suck the juices from moss\" and \"extract fluid from seaweed\".",
+   "paraphrasing": "\"consume liquids\" -> \"suck the juices\" / \"extract fluid\""
+  },
+  "industrialisation-i19|r1|q3": {
+   "support": "Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', with the work performed in small workshops or even homes by individual spinners, weavers and dyers.",
+   "connection": "The notes say \"Before the Industrial Revolution\" spinners and weavers \"worked at home and in\" workshops; the sentence says \"prior to the Industrial Revolution\" the work was performed \"in small workshops or even homes\".",
+   "paraphrasing": "\"Before the Industrial Revolution\" / \"worked at home and in\" -> \"prior to the Industrial Revolution\" / \"in small workshops or even homes\""
+  },
+  "industrialisation-i19|r1|q11": {
+   "support": "Although industrialisation increased the country's economic output overall and improved the standard of living for the middle and upper classes, many poor people continued to struggle.",
+   "connection": "The statement says the \"economic benefits\" of industrialisation were \"limited to certain sectors of society\"; the sentence says industrialisation \"improved the standard of living for the middle and upper classes\" while \"many poor people continued to struggle\", so the statement is TRUE.",
+   "paraphrasing": "\"economic benefits\" / \"limited to certain sectors of society\" -> \"improved the standard of living for the middle and upper classes\" / \"many poor people continued to struggle\""
+  },
+  "textile-i19|r1|q12": {
+   "support": "Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood.",
+   "connection": "The statement says skilled weavers feared the \"introduction of the new textile machines\" would \"lead to job losses\"; the sentence says \"Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood\", so the statement is TRUE.",
+   "paraphrasing": "\"introduction of the new textile machines\" / \"lead to job losses\" -> \"unskilled machine operators\" / \"robbing them of their livelihood\""
+  },
+  "produce-i19|r1|q4": {
+   "support": "With these machines, relatively little labour was required to produce cloth, and the new, mechanised textile factories that opened around the country were quickly able to meet customer demand for cloth both at home and abroad.",
+   "connection": "The notes say \"Not as much ______ was needed to produce cloth\"; the sentence says \"relatively little labour was required to produce cloth\".",
+   "paraphrasing": "\"Not as much ______ was needed to produce cloth\" -> \"relatively little labour was required to produce cloth\""
+  },
+  "cloth-i19|r1|q4": {
+   "support": "With these machines, relatively little labour was required to produce cloth, and the new, mechanised textile factories that opened around the country were quickly able to meet customer demand for cloth both at home and abroad.",
+   "connection": "The notes say \"Not as much ______ was needed to produce cloth\"; the sentence says \"relatively little labour was required to produce cloth\".",
+   "paraphrasing": "\"Not as much ______ was needed to produce cloth\" -> \"relatively little labour was required to produce cloth\""
+  },
+  "iron-i19|r1|q5": {
+   "support": "This method was cheaper and produced metals that were of a higher quality, enabling Britain's iron and steel production to expand in response to demand created by the Napoleonic Wars (1803-15) and the expansion of the railways from the 1830s.",
+   "connection": "The notes say smelting with coke resulted in \"material that was better\"; the sentence says the method \"produced metals that were of a higher quality\".",
+   "paraphrasing": "\"material that was better\" -> \"metals that were of a higher quality\""
+  },
+  "iron-i19|r1|q6": {
+   "support": "This method was cheaper and produced metals that were of a higher quality, enabling Britain's iron and steel production to expand in response to demand created by the Napoleonic Wars (1803-15) and the expansion of the railways from the 1830s.",
+   "connection": "The notes say \"Demand for iron increased\" with \"the growth of the\" railways; the sentence says iron production expanded \"in response to demand created by\" the \"expansion of the railways\".",
+   "paraphrasing": "\"Demand for iron increased\" / \"growth of the\" -> \"demand created by\" / \"expansion of the railways\""
+  },
+  "iron-i19|r1|q9": {
+   "support": "This method was cheaper and produced metals that were of a higher quality, enabling Britain's iron and steel production to expand in response to demand created by the Napoleonic Wars (1803-15) and the expansion of the railways from the 1830s.",
+   "connection": "The statement says \"Costs in the iron industry rose\" when smelting with coke was introduced; the sentence says \"This method was cheaper\", so the statement is FALSE.",
+   "paraphrasing": "\"Costs in the iron industry rose\" -> \"This method was cheaper\""
+  },
+  "weaver-i19|r1|q3": {
+   "support": "Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', with the work performed in small workshops or even homes by individual spinners, weavers and dyers.",
+   "connection": "The notes say \"Before the Industrial Revolution\" spinners and weavers \"worked at home and in\" workshops; the sentence says \"prior to the Industrial Revolution\" the work was performed \"in small workshops or even homes\".",
+   "paraphrasing": "\"Before the Industrial Revolution\" / \"worked at home and in\" -> \"prior to the Industrial Revolution\" / \"in small workshops or even homes\""
+  },
+  "weaver-i19|r1|q12": {
+   "support": "Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood.",
+   "connection": "The statement says skilled weavers feared the \"introduction of the new textile machines\" would \"lead to job losses\"; the sentence says \"Many had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood\", so the statement is TRUE.",
+   "paraphrasing": "\"introduction of the new textile machines\" / \"lead to job losses\" -> \"unskilled machine operators\" / \"robbing them of their livelihood\""
+  },
+  "industrial-i19|r1|q3": {
+   "support": "Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true 'cottage industry', with the work performed in small workshops or even homes by individual spinners, weavers and dyers.",
+   "connection": "The notes say \"Before the Industrial Revolution\" spinners and weavers \"worked at home and in\" workshops; the sentence says \"prior to the Industrial Revolution\" the work was performed \"in small workshops or even homes\".",
+   "paraphrasing": "\"Before the Industrial Revolution\" / \"worked at home and in\" -> \"prior to the Industrial Revolution\" / \"in small workshops or even homes\""
+  },
+  "psychological-i19|r2|q22": {
+   "support": "Developing psychological skills, such as visualisation, can also help decrease physiological responses to threat.",
+   "connection": "The notes ask for a \"psychological technique\" that can \"reduce an athlete's stress responses\"; the sentence names \"psychological skills, such as visualisation\" that \"help decrease physiological responses to threat\".",
+   "paraphrasing": "\"psychological technique\" / \"reduce an athlete's stress responses\" -> \"psychological skills, such as visualisation\" / \"decrease physiological responses to threat\""
+  },
+  "tournament-i19|r2|q23": {
+   "support": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to 'the accumulation of the excitement and the buzz'.",
+   "connection": "The question asks for the first fact about Raducanu's withdrawal; the sentence says she \"began having difficulty regulating her breathing and heart rate during a match\", matching \"symptoms of her performance stress at the tournament\".",
+   "paraphrasing": "\"symptoms of her performance stress at the tournament\" -> \"difficulty regulating her breathing and heart rate\" / \"during a match\""
+  },
+  "tournament-i19|r2|q24": {
+   "support": "So, in Emma Raducanu's case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon - but she didn't have the resources to tackle them.",
+   "connection": "The question asks for the second fact about Raducanu's withdrawal; the sentence lists \"a much larger audience, higher expectations and facing a more skilful opponent\" at \"Wimbledon\", matching \"aspects of the Wimbledon tournament which increased her stress levels\".",
+   "paraphrasing": "\"aspects of the Wimbledon tournament which increased her stress levels\" -> \"a much larger audience, higher expectations and facing a more skilful opponent\" / \"at Wimbledon\" / \"greater demands\""
+  },
+  "stress-i19|r2|q16": {
+   "support": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to 'the accumulation of the excitement and the buzz'.",
+   "connection": "The question asks how a sportsperson \"accounted for their own experience of stress\"; the sentence says Raducanu \"later attributed\" her breathing and heart-rate difficulty to \"the accumulation of the excitement and the buzz\".",
+   "paraphrasing": "\"accounted for their own experience of stress\" -> \"attributed\" / \"the accumulation of the excitement and the buzz\""
+  },
+  "stress-i19|r2|q17": {
+   "support": "Research shows that the challenge states lead to good performance, while threat states lead to poorer performance.",
+   "connection": "The question asks for \"study results indicating links between stress responses and performance\"; the sentence says \"Research shows that the challenge states lead to good performance, while threat states lead to poorer performance\".",
+   "paraphrasing": "\"study results indicating links between stress responses and performance\" -> \"Research shows\" / \"challenge states lead to good performance\" / \"threat states lead to poorer performance\""
+  },
+  "stress-i19|r2|q18": {
+   "support": "Psychologists can also help athletes change how they see their physiological responses - such as helping them see a higher heart rate as excitement, rather than nerves.",
+   "connection": "The question asks for \"people who can influence how athletes perceive their stress responses\"; the sentence says \"Psychologists can also help athletes change how they see their physiological responses\".",
+   "paraphrasing": "\"people who can influence how athletes perceive their stress responses\" -> \"Psychologists\" / \"help athletes change how they see their physiological responses\""
+  },
+  "stress-i19|r2|q19": {
+   "support": "These demands include the high level of physical and mental effort required to succeed, and also the athlete's concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury.",
+   "connection": "The notes say performance stress involves demands such as \"coping with the possible risk of\" injury; the sentence says the demands include \"any potential dangers such as injury\".",
+   "paraphrasing": "\"coping with the possible risk of\" -> \"any potential dangers such as injury\""
+  },
+  "stress-i19|r2|q22": {
+   "support": "Developing psychological skills, such as visualisation, can also help decrease physiological responses to threat.",
+   "connection": "The notes ask for a \"psychological technique\" that can \"reduce an athlete's stress responses\"; the sentence names \"visualisation\" among \"psychological skills\" that \"help decrease physiological responses to threat\".",
+   "paraphrasing": "\"psychological technique\" / \"reduce an athlete's stress responses\" -> \"psychological skills, such as visualisation\" / \"decrease physiological responses to threat\""
+  },
+  "stress-i19|r2|q23": {
+   "support": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to 'the accumulation of the excitement and the buzz'.",
+   "connection": "The question asks for the first fact about Raducanu's withdrawal; the sentence says she \"began having difficulty regulating her breathing and heart rate during a match\", matching \"symptoms of her performance stress at the tournament\".",
+   "paraphrasing": "\"symptoms of her performance stress at the tournament\" -> \"difficulty regulating her breathing and heart rate\" / \"during a match\""
+  },
+  "stress-i19|r2|q24": {
+   "support": "So, in Emma Raducanu's case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon - but she didn't have the resources to tackle them.",
+   "connection": "The question asks for the second fact about Raducanu's withdrawal; the sentence lists \"a much larger audience, higher expectations and facing a more skilful opponent\" at \"Wimbledon\", matching \"aspects of the Wimbledon tournament which increased her stress levels\".",
+   "paraphrasing": "\"aspects of the Wimbledon tournament which increased her stress levels\" -> \"a much larger audience, higher expectations and facing a more skilful opponent\" / \"at Wimbledon\" / \"greater demands\""
+  },
+  "athlete-i19|r2|q18": {
+   "support": "Psychologists can also help athletes change how they see their physiological responses - such as helping them see a higher heart rate as excitement, rather than nerves.",
+   "connection": "The question asks for \"people who can influence how athletes perceive their stress responses\"; the sentence says \"Psychologists can also help athletes change how they see their physiological responses\".",
+   "paraphrasing": "\"people who can influence how athletes perceive their stress responses\" -> \"Psychologists\" / \"help athletes change how they see their physiological responses\""
+  },
+  "athlete-i19|r2|q19": {
+   "support": "These demands include the high level of physical and mental effort required to succeed, and also the athlete's concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury.",
+   "connection": "The notes say performance stress involves demands such as \"coping with the possible risk of\" injury; the sentence says the demands include \"any potential dangers such as injury\".",
+   "paraphrasing": "\"coping with the possible risk of\" -> \"any potential dangers such as injury\""
+  },
+  "athlete-i19|r2|q21": {
+   "support": "Psychologists can also help athletes change how they see their physiological responses - such as helping them see a higher heart rate as excitement, rather than nerves.",
+   "connection": "The notes ask what positive feeling athletes can be helped to \"view their physiological responses as\"; the sentence says \"helping them see a higher heart rate as excitement\".",
+   "paraphrasing": "\"view their physiological responses as\" / \"excitement\" -> \"see a higher heart rate as excitement\""
+  },
+  "athlete-i19|r2|q22": {
+   "support": "Developing psychological skills, such as visualisation, can also help decrease physiological responses to threat.",
+   "connection": "The notes ask for a \"psychological technique\" that can \"reduce an athlete's stress responses\"; the sentence names \"visualisation\" among \"psychological skills\" that \"help decrease physiological responses to threat\".",
+   "paraphrasing": "\"psychological technique\" / \"reduce an athlete's stress responses\" -> \"psychological skills, such as visualisation\" / \"decrease physiological responses to threat\""
+  },
+  "anxiety-i19|r2|q25": {
+   "support": "The intensity with which a person experiences anxiety depends on the demands and resources they have.",
+   "connection": "The question asks for the first fact about anxiety; the sentence says \"The intensity with which a person experiences anxiety depends on the demands and resources they have\", matching \"the factors which determine how severe it may be\".",
+   "paraphrasing": "\"factors which determine how severe it may be\" -> \"intensity\" / \"depends on the demands and resources\""
+  },
+  "anxiety-i19|r2|q26": {
+   "support": "Negative stress responses can be damaging to both physical and mental health - and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.",
+   "connection": "The question asks for the second fact about anxiety; the sentence says \"repeated episodes of anxiety\" can \"increase risk of heart disease and depression\", matching \"the harm that can result if athletes experience it too often\".",
+   "paraphrasing": "\"harm that can result if athletes experience it too often\" -> \"repeated episodes of anxiety\" / \"increase risk of heart disease and depression\""
+  },
+  "factor-i19|r2|q25": {
+   "support": "The intensity with which a person experiences anxiety depends on the demands and resources they have.",
+   "connection": "The question asks for the first fact about anxiety; the sentence says the \"intensity\" of anxiety \"depends on the demands and resources they have\", matching \"the factors which determine how severe it may be\".",
+   "paraphrasing": "\"factors which determine how severe it may be\" -> \"demands and resources\" / \"intensity\" / \"depends on\""
+  },
+  "withdrawal-i19|r2|q23": {
+   "support": "Though the young player had been doing well in the tournament, she began having difficulty regulating her breathing and heart rate during a match, which she later attributed to 'the accumulation of the excitement and the buzz'.",
+   "connection": "The question asks for the first fact about Raducanu's withdrawal; the sentence says she \"began having difficulty regulating her breathing and heart rate during a match\", matching \"symptoms of her performance stress at the tournament\".",
+   "paraphrasing": "\"symptoms of her performance stress at the tournament\" -> \"difficulty regulating her breathing and heart rate\" / \"during a match\""
+  },
+  "withdrawal-i19|r2|q24": {
+   "support": "So, in Emma Raducanu's case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there were greater demands being placed on her at Wimbledon - but she didn't have the resources to tackle them.",
+   "connection": "The question asks for the second fact about Raducanu's withdrawal; the sentence lists \"a much larger audience, higher expectations and facing a more skilful opponent\" at \"Wimbledon\", matching \"aspects of the Wimbledon tournament which increased her stress levels\".",
+   "paraphrasing": "\"aspects of the Wimbledon tournament which increased her stress levels\" -> \"a much larger audience, higher expectations and facing a more skilful opponent\" / \"at Wimbledon\" / \"greater demands\""
+  },
+  "mathematics-i19|r3|q27": {
+   "support": "She was the only woman to win the Fields Medal - the mathematical equivalent of a Nobel prize.",
+   "connection": "The summary places Mirzakhani \"in the field of mathematics\" and asks what she is \"regarded as\"; the sentence calls the Fields Medal \"the mathematical equivalent of a Nobel prize\" and says she was \"the only woman to win\" it, matching \"unique\".",
+   "paraphrasing": "\"in the field of mathematics\" / \"regarded as\" / \"unique\" -> \"the mathematical equivalent of a Nobel prize\" / \"the only woman to win the Fields Medal\""
+  },
+  "gift-i19|r3|q39": {
+   "support": "After research going back to 1980 into diverse achievements, from music to memory to sport, he doesn't think unique and innate talents are at the heart of performance.",
+   "connection": "The question asks for the result of Ericsson's research; the sentence says he \"doesn't think unique and innate talents are at the heart of performance\", matching \"Being born with a special gift is not the key factor in becoming expert\".",
+   "paraphrasing": "\"Being born with a special gift is not the key factor in becoming expert\" -> \"unique and innate talents\" / \"doesn't think unique and innate talents are at the heart of performance\""
+  }
+ }
+}

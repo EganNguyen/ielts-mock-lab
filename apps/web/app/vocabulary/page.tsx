@@ -87,7 +87,9 @@ const ANSWER_COUNTS = DATA.items.reduce<Record<AnswerImportance, number>>(
 )
 
 function testIndex(book: string, test: number) {
-  return book === 'IELTS 20' ? test : test + 4
+  if (book === 'IELTS 19') return test
+  if (book === 'IELTS 20') return test + 4
+  return test + 8
 }
 
 function testLabel(book: string, test: number) {
@@ -255,7 +257,7 @@ export default function VocabularyPage() {
 
         <section className="vocab-hero vocab-hero--learning">
           <div>
-            <span className="mono-label">IELTS 20 &amp; Cambridge IELTS 21 · 8 full tests</span>
+            <span className="mono-label">IELTS 19, 20 &amp; Cambridge IELTS 21 · {DATA.meta.totalTests} full tests</span>
             <h1>Understand the sentence. Then choose the answer.</h1>
             <p>
               {total} entries from all Listening transcripts and Reading passages. Every entry has a
@@ -293,7 +295,7 @@ export default function VocabularyPage() {
             </label>
             <select className="vocab-select" value={test} onChange={(event) => setTest(event.target.value === 'All' ? 'All' : Number(event.target.value))} aria-label="Test">
               <option value="All">All tests</option>
-              {[1, 2, 3, 4, 5, 6, 7, 8].map((n) => <option key={n} value={n}>Test {n}</option>)}
+              {Array.from({ length: DATA.meta.totalTests }, (_, index) => index + 1).map((n) => <option key={n} value={n}>Test {n}</option>)}
             </select>
             <select className="vocab-select" value={sentenceImportance} onChange={(event) => setSentenceImportance(event.target.value as 'All' | SentenceImportance)} aria-label="Sentence importance">
               <option value="All">All sentence levels</option>
@@ -331,7 +333,7 @@ export default function VocabularyPage() {
               return (
                 <section className="vocab-test" key={testKey}>
                   <button className="vocab-test-head" onClick={() => toggleTest(testKey)} aria-expanded={open}>
-                    <div><span className="mono-label">{group.book} · Academic</span><h2>Test {group.test} <small>· Test {testIndex(group.book, group.test)} of 8</small></h2></div>
+                    <div><span className="mono-label">{group.book} · Academic</span><h2>Test {group.test} <small>· Test {testIndex(group.book, group.test)} of {DATA.meta.totalTests}</small></h2></div>
                     <div className="vocab-test-meta"><span>{group.sections.length} sections</span><span>{groupCount} entries</span><ChevronDown size={18} className={open ? 'is-open' : ''} /></div>
                   </button>
                   {open && (
@@ -496,7 +498,7 @@ export default function VocabularyPage() {
         <a className="vocab-back" href={assetUrl('/')}><ArrowLeft size={15} /> Back to the mock tests</a>
       </main>
 
-      <footer className="site-footer"><div className="container footer-inner"><Logo /><p>Vocabulary and question references come from IELTS 20 Academic and Cambridge IELTS 21 Academic, © Cambridge University Press &amp; Assessment and Qunyan Press. Private study only; do not redistribute. Correct answers are stored only to support learning and remain locked until the learner confirms they have attempted that test.</p></div></footer>
+      <footer className="site-footer"><div className="container footer-inner"><Logo /><p>Vocabulary and question references come from IELTS 19 Academic, IELTS 20 Academic and Cambridge IELTS 21 Academic, © Cambridge University Press &amp; Assessment and Qunyan Press. Private study only; do not redistribute. Correct answers are stored only to support learning and remain locked until the learner confirms they have attempted that test.</p></div></footer>
     </div>
   )
 }
