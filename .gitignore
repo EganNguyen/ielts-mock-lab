@@ -19,3 +19,6 @@ apps/web/public/data/
 
 # TypeScript build cache
 *.tsbuildinfo
+
+# Python bytecode
+__pycache__/

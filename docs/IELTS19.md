@@ -13,10 +13,10 @@ seeded into PostgreSQL.
 
 | Test | Listening | Reading | Writing | Speaking | Listening audio |
 |---|---|---|---|---|---|
-| Test 1 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | generated |
-| Test 2 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | generated |
-| Test 3 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | generated |
-| Test 4 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | generated |
+| Test 1 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | 16:58 |
+| Test 2 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | 18:38 |
+| Test 3 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | 18:13 |
+| Test 4 | 4 parts / 40 Q | 3 passages / 40 Q | 2 tasks | 3 parts | 20:20 |
 
 320 objective questions with keys, accepted spelling variants and cleaned transcripts.
 
@@ -40,6 +40,13 @@ seeded into PostgreSQL.
 - Source page images and OCR: `content/ielts19/pages/`, `content/ielts19/ocr-tess3/`
 - Transcripts, keys and passages: `content/ielts19/meta/`
 - Build tools: `content/ielts19/tools/`
+
+## Screenshots
+
+- [Dashboard with all twelve tests](screenshots/ielts19/dashboard.png)
+- [Listening runner](screenshots/ielts19/listening.png)
+- [Test 1 listening map](screenshots/ielts19/map.png)
+- [Results and answer review](screenshots/ielts19/results.png)
 
 ## Source materials
 

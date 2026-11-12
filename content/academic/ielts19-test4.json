@@ -99,6 +99,9 @@
           "type": "short",
           "prompt": "Supervisor's mobile number",
           "answer": "0412 665 903",
+          "accepted": [
+            "0412665903"
+          ],
           "id": "l1-q6"
         },
         {

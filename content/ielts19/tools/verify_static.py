@@ -12,7 +12,6 @@ MEDIA = ROOT / "apps/web/public/media"
 
 def main() -> None:
     total = 0
-    ids: set[str] = set()
     for test in range(1, 5):
         exam = json.loads((ACADEMIC / f"ielts19-test{test}.json").read_text())
         assert exam["id"] == f"ielts19-test{test}"
@@ -22,9 +21,10 @@ def main() -> None:
         assert len(lq) == len(rq) == 40
         assert sorted(q["number"] for q in lq) == list(range(1, 41))
         assert sorted(q["number"] for q in rq) == list(range(1, 41))
+        exam_ids: set[str] = set()
         for q in lq + rq:
-            assert q["id"] not in ids, f"duplicate id {q['id']}"
-            ids.add(q["id"])
+            assert q["id"] not in exam_ids, f"duplicate id {q['id']}"
+            exam_ids.add(q["id"])
             assert q.get("answer"), q["id"]
         assert len(exam["writing"]) == 2 and len(exam["speaking"]) == 3
         for part in exam["listening"]:
